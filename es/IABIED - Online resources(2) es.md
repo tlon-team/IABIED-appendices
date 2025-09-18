@@ -1537,7 +1537,7 @@ Otros, entre los que se incluyen algunos de los principales investigadores y eje
 
 El *New York Times* informa sobre una [conversación](https://www.nytimes.com/2023/12/03/technology/ai-openai-musk-page-altman.html) entre Elon Musk y el cofundador de Google, Larry Page:
 
-Los seres humanos acabarían fusionándose con máquinas dotadas de inteligencia artificial, afirmó [Larry Page]. Algún día habría muchos tipos de inteligencia compitiendo por los recursos, y la mejor saldría ganando.
+> Los seres humanos acabarían fusionándose con máquinas dotadas de inteligencia artificial, afirmó [Larry Page]. Algún día habría muchos tipos de inteligencia compitiendo por los recursos, y la mejor saldría ganando.
 >
 > Si eso ocurre, dijo Musk, estaremos condenados. Las máquinas destruirán a la humanidad.
 >
@@ -2058,7 +2058,7 @@ Lo que nos lleva a preguntarnos si cooperar en este caso especial puede realment
 
 Varios filósofos de la teoría de la decisión han planteado diversas versiones de esta pregunta. La versión anterior se inspira más directamente en la idea de Douglas Hofstadter de 1985 sobre la «[superracionalidad](https://gwern.net/doc/existential-risk/1985-hofstadter#dilemmas-for-superrational-thinkers-leading-up-to-a-luring-lottery)»:
 
-Si la lógica ahora te obliga a jugar D, ya ha obligado a los demás a hacer lo mismo, y por las mismas razones; y, a la inversa, si la lógica te obliga a jugar C, también ha obligado a los demás a hacerlo. \[…\]
+> Si la lógica ahora te obliga a jugar D, ya ha obligado a los demás a hacer lo mismo, y por las mismas razones; y, a la inversa, si la lógica te obliga a jugar C, también ha obligado a los demás a hacerlo. \[…\]
 >
 > En la medida en que todos ustedes sean realmente pensadores racionales, realmente pensarán de la misma manera. \[…\]
 >
