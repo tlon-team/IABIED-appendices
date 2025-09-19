@@ -1,7 +1,4 @@
----
-original_path: IABIED - Online resources(1).md
----
-# Introducción: Decisiones difíciles y decisiones fáciles {#introducción:-decisiones-difíciles-y-decisiones-fáciles}
+# Introducción: predicciones difíciles y predicciones fáciles {#introducción:-predicciones-difíciles-y-predicciones-fáciles}
 
 Este es el primer suplemento en línea de [*If Anyone Builds It, Everyone Dies*](https://www.amazon.com/gp/product/0316595640) (Si alguien lo construye, todos mueren), de Yudkowsky y Soares. Cada capítulo responde a preguntas comunes e incluye debates ampliados que profundizan en los antecedentes y detalles que no eran esenciales para el libro.
 
@@ -33,29 +30,29 @@ El primer paso para resolver un problema es comprenderlo.
 
 #### **No. La preocupación se centra en los próximos avances en IA.** {#no.-la-preocupación-se-centra-en-los-próximos-avances-en-ia.}
 
-Una de las razones por las que estás leyendo este libro ahora es que avances como ChatGPT han llevado la IA a los titulares. El mundo está empezando a debatir el progreso de la IA y su impacto en la sociedad. Esto representa una oportunidad natural para hablar sobre una IA más inteligente que los humanos y por qué la situación actual no parece muy prometedora.
+Una de las razones por las que estás leyendo este libro ahora es que avances como ChatGPT han llevado la IA a los titulares. El mundo está empezando a debatir el progreso de la IA y su impacto en la sociedad. Esto representa una oportunidad natural para hablar sobre una IA más inteligente que los humanos y por qué la situación actual no parece muy alentadora.
 
-Los autores de este libro llevamos mucho tiempo trabajando en este campo. Los recientes avances en IA influyen en nuestras opiniones, pero nuestras preocupaciones no surgieron a raíz de ChatGPT, ni de los modelos de lenguaje a gran escala que lo precedieron. Llevamos décadas realizando investigación técnica para intentar garantizar que una IA más inteligente que los humanos opere de forma segura (Soares desde 2013 y Yudkowsky desde 2001). Sin embargo, recientemente hemos visto indicios de que el mundo podría estar preparado para esta conversación. Una conversación que, con toda probabilidad, *necesitamos* tener ahora, o el mundo podría perder su oportunidad de reaccionar.
+Los autores de este libro llevamos mucho tiempo trabajando en este campo. Los recientes avances en IA influyen en nuestras opiniones, pero nuestras preocupaciones no surgieron a raíz de ChatGPT, ni de los modelos de lenguaje a gran escala que lo precedieron. Llevamos décadas realizando investigación técnica para intentar garantizar que una IA más inteligente que los humanos opere de forma segura (Soares desde 2013 y Yudkowsky desde 2001). Sin embargo, recientemente hemos visto indicios de que el mundo podría estar listo para tener esta conversación. Una conversación que, con toda probabilidad, *necesitamos* tener ahora; de lo contrario, el mundo podría perder su oportunidad de reaccionar.
 
 El campo de la IA progresa y, con el tiempo (no sabemos cuándo), avanzará hasta el punto de crear una IA más inteligente que los humanos. Ese es el objetivo explícito de las principales empresas de IA:
 
-> Ahora estamos seguros de que sabemos cómo crear una IAG [inteligencia artificial general] tal y como la hemos entendido tradicionalmente. […] Estamos empezando a mirar más allá, hacia la superinteligencia en el pleno sentido de la palabra. Nos encantan nuestros productos actuales, pero estamos aquí por el glorioso futuro. Con la superinteligencia, podremos lograr todo lo demás.  
+> Ahora estamos seguros de que sabemos cómo crear una IAG \[inteligencia artificial general\] tal y como la hemos entendido tradicionalmente. \[…\] Estamos empezando a mirar más allá, hacia la superinteligencia en el pleno sentido de la palabra. Nos encantan nuestros productos actuales, pero estamos aquí por el futuro glorioso. Con la superinteligencia, podremos lograr todo lo demás.  
 — [Sam Altman](https://blog.samaltman.com/reflections), director general de OpenAI
 
-> Creo que la IA potente podría llegar ya en 2026. […] Por IA potente, me refiero a un modelo de IA \[…\] con las siguientes propiedades: en términos de inteligencia pura, es más inteligente que un ganador del Premio Nobel en la mayoría de los campos relevantes: biología, programación, matemáticas, ingeniería, escritura, etc. Esto significa que puede demostrar teoremas matemáticos sin resolver, escribir novelas extremadamente buenas, escribir códigos difíciles desde cero, etc.  
+> Creo que la \[IA potente\] podría llegar ya en 2026. \[…\] Por IA potente, me refiero a un modelo de IA \[…\] con las siguientes características: en términos de inteligencia pura, es más inteligente que un ganador del Premio Nobel en la mayoría de los campos más relevantes: biología, programación, matemáticas, ingeniería, escritura, etc. Esto significa que puede demostrar teoremas matemáticos sin resolver, escribir novelas extremadamente buenas, escribir códigos difíciles desde cero, etc.  
 — [Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace), director general de Anthropic
 
 > En general, nos centramos en crear inteligencia general completa. Todas las oportunidades que he comentado hoy son consecuencia de ofrecer inteligencia general y hacerlo de manera eficiente.  
-— [Mark Zuckerberg](https://www.facebook.com/share/p/16STVBshtn/), director general de Meta (poco antes de que la empresa [anunciara](https://apnews.com/article/meta-ai-superintelligence-agi-scale-alexandr-wang-4b55aabf7ea018e38ffdccb66e37cf26) un [proyecto de «superinteligencia»](https://www.bloomberg.com/news/articles/2025-06-10/zuckerberg-recruits-new-superintelligence-ai-group-at-meta) por valor de 14 300 millones de dólares).
+— [Mark Zuckerberg](https://www.facebook.com/share/p/16STVBshtn/), director general de Meta (poco antes de que la empresa [anunciara](https://apnews.com/article/meta-ai-superintelligence-agi-scale-alexandr-wang-4b55aabf7ea018e38ffdccb66e37cf26) un [proyecto de «superinteligencia»](https://www.bloomberg.com/news/articles/2025-06-10/zuckerberg-recruits-new-superintelligence-ai-group-at-meta) de 14 300 millones de dólares).
 
-> Creo que en los próximos cinco a diez años, habrá quizás un 50 % de posibilidades de que tengamos lo que definiríamos como IAG.  
+> Creo que en los próximos cinco a diez años, habrá quizás una probabilidad del 50 % de que tengamos lo que definiríamos como IAG.  
 — [Demis Hassabis](https://youtu.be/CRraHg4Ks_g?feature=shared&amp;t=41), director general de Google DeepMind
 
 > Wes: Entonces, Demis, ¿estás tratando de provocar una explosión de inteligencia?  
 Demis: No, no una explosión descontrolada...  
 — [Wes Roth (entrevistador) y Hassabis](https://x.com/WesRothMoney/status/1926669591163621789)
 
-Están invirtiendo su dinero en lo que predican. [Microsoft](https://www.reuters.com/technology/artificial-intelligence/microsoft-plans-spend-80-bln-ai-enabled-data-centers-fiscal-2025-cnbc-reports-2025-01-03/), [Amazon](https://www.datacenterdynamics.com/en/news/amazon-2025-capex-to-reach-100bn-aws-revenue-hit-100bn-in-2024/) y [Google](https://www.datacenterdynamics.com/en/news/google-expects-2025-capex-to-surge-to-75bn-on-ai-data-center-buildout/) han anunciado planes para invertir entre 75 000 y 100 000 millones de dólares en centros de datos con IA en 2025. La empresa emergente xAI [compró la red social X.com](https://www.reuters.com/markets/deals/musks-xai-buys-social-media-platform-x-45-billion-2025-03-28/) con una valoración de 80 000 millones de dólares, aproximadamente el doble que la propia X, poco antes de [recaudar 10 000 millones de dólares](https://www.cnbc.com/2025/07/01/elon-musk-xai-raises-10-billion-in-debt-and-equity.html) para financiar un enorme centro de datos y seguir desarrollando su IA, Grok. OpenAI ha anunciado el [Proyecto Stargate](https://openai.com/index/announcing-the-stargate-project/), valorado en 500 000 millones de dólares, en colaboración con Microsoft y otras empresas.
+Están invirtiendo su dinero en lo que predican. [Microsoft](https://www.reuters.com/technology/artificial-intelligence/microsoft-plans-spend-80-bln-ai-enabled-data-centers-fiscal-2025-cnbc-reports-2025-01-03/), [Amazon](https://www.datacenterdynamics.com/en/news/amazon-2025-capex-to-reach-100bn-aws-revenue-hit-100bn-in-2024/) y [Google](https://www.datacenterdynamics.com/en/news/google-expects-2025-capex-to-surge-to-75bn-on-ai-data-center-buildout/) han anunciado planes para invertir entre 75 000 y 100 000 millones de dólares en centros de datos para IA en 2025\. La empresa emergente xAI [compró la red social X.com](https://www.reuters.com/markets/deals/musks-xai-buys-social-media-platform-x-45-billion-2025-03-28/) con una valoración de 80 000 millones de dólares, aproximadamente el doble que la propia X, poco antes de [recaudar 10 000 millones de dólares](https://www.cnbc.com/2025/07/01/elon-musk-xai-raises-10-billion-in-debt-and-equity.html) para financiar un enorme centro de datos y seguir desarrollando su IA, Grok. OpenAI ha anunciado el [Proyecto Stargate](https://openai.com/index/announcing-the-stargate-project/), valorado en 500 000 millones de dólares, en colaboración con Microsoft y otras empresas.
 
 El director general de Meta, Mark Zuckerberg, ha [declarado](https://www.datacenterdynamics.com/en/news/zuckerberg-says-meta-will-spend-hundreds-of-billions-of-dollars-on-ai-infrastructure-over-the-long-term/) que Meta [espera gastar 65 000 millones de dólares](https://www.reuters.com/technology/meta-invest-up-65-bln-capital-expenditure-this-year-2025-01-24/) en infraestructura de IA este año, y «cientos de miles de millones» en proyectos de IA en los próximos años. Meta ya ha invertido 14 300 millones de dólares en ScaleAI y ha contratado a su director general para dirigir los nuevos [Meta Superintelligence Labs](https://www.bloomberg.com/news/articles/2025-06-30/zuckerberg-announces-meta-superinteligencia-effort-more-hires), fichando para ello a más de una docena de investigadores de primer nivel de laboratorios rivales[^2] con ofertas de hasta 200 millones de dólares por un solo investigador.
 
@@ -75,23 +72,23 @@ En 1935, Alemania no era un buen lugar para los judíos, los romaníes ni otros 
 
 La amenaza de la aniquilación nuclear era real, pero la humanidad estuvo a la altura de las circunstancias y la Guerra Fría nunca estalló.
 
-Los clorofluorocarbonos realmente estaban agujereando la capa de ozono, hasta que fueron prohibidos con éxito por un tratado internacional. Después, la capa de ozono se recuperó.
+Los clorofluorocarbonos realmente estaban agujereando la capa de ozono, hasta que fueron prohibidos por un tratado internacional. Después, la capa de ozono se recuperó.
 
 Algunos peligros de los que se advierte son falsos. Otros son reales.
 
-La humanidad no siempre sobrerreacciona ante los desafíos. Tampoco siempre se queda corta en su reacción. En algunos casos, la humanidad incluso consigue hacer ambas cosas a la vez, por ejemplo, cuando los países construyen enormes acorazados para utilizarlos en la próxima guerra, cuando en realidad deberían haber construido portaaviones. No existe una solución sencilla como «simplemente ignorar todos los supuestos riesgos tecnológicos» o «simplemente asumir que todos los riesgos tecnológicos son reales». Para averiguar qué es cierto, hay que examinar los detalles de cada caso.
+La humanidad no siempre sobrerreacciona ante los desafíos. Ni reacciona siempre de forma insuficiente. En algunos casos, la humanidad incluso consigue hacer ambas cosas a la vez; por ejemplo, hubo países que construyeron enormes acorazados para utilizarlos en la próxima guerra, cuando en realidad deberían haber construido portaaviones. No existe una solución sencilla como «simplemente ignorar todos los supuestos riesgos tecnológicos» o «simplemente asumir que todos los riesgos tecnológicos son reales». Para averiguar qué es cierto, hay que examinar los detalles de cada caso.
 
 (Para más información sobre este tema, consulta la introducción del libro).
 
 ### ¿Cuándo se desarrollará este tipo de IA tan preocupante? {#cuándo-se-desarrollará-este-tipo-de-ia-tan-preocupante?}
 
-#### **\* Saber que una tecnología está por llegar no garantiza saber exactamente cuándo lo hará.** {#*-saber-que-una-tecnología-está-por-llegar-no-garantiza-saber-exactamente-cuándo-lo-hará.}
+#### **\* Saber que una tecnología está por llegar no implica saber exactamente cuándo lo hará.** {#*-saber-que-una-tecnología-está-por-llegar-no-implica-saber-exactamente-cuándo-lo-hará.}
 
-Muchas de las cosas que la gente nos pide que intentemos predecir, en realidad no tenemos forma de saberlas. Cuando Leo Szilard escribió una carta advirtiendo a los Estados Unidos sobre las armas nucleares en 1939, no incluyó ni podía incluir ninguna nota del tipo: «La primera arma atómica estará lista para detonar en pruebas dentro de seis años».
+En realidad no tenemos forma de saber muchas de las cosas que la gente nos pide que intentemos predecir. Cuando Leo Szilard escribió una carta advirtiendo a los Estados Unidos sobre las armas nucleares en 1939, no incluyó ni podía incluir ninguna nota del tipo: «La primera arma atómica estará lista para detonar en pruebas dentro de seis años».
 
-¡Habría sido una información muy valiosa! Pero incluso cuando eres la primera persona en predecir correctamente las reacciones nucleares en cadena, como lo fue Szilard, incluso cuando eres el primero en ver que una tecnología es posible y tendrá consecuencias, no puedes predecir exactamente cuándo llegará esa tecnología.
+¡Habría sido una información muy valiosa! Pero incluso cuando eres la primera persona en predecir correctamente las reacciones nucleares en cadena, como lo fue Szilard, incluso cuando eres el primero en ver que una tecnología es posible y que tendrá consecuencias, no puedes predecir exactamente cuándo llegará esa tecnología.
 
-Hay decisiones fáciles y decisiones difíciles. No pretendemos ser capaces de tomar decisiones difíciles, como cuándo se producirá exactamente el tipo peligroso de IA.
+Hay predicciones fáciles y predicciones difíciles. No pretendemos ser capaces de hacer predicciones difíciles, como determinar con exactitud cuándo se producirá el tipo de IA peligrosa.
 
 #### **Los expertos no dejan de sorprenderse por la rapidez con la que avanza la IA.** {#los-expertos-no-dejan-de-sorprenderse-por-la-rapidez-con-la-que-avanza-la-ia.}
 
