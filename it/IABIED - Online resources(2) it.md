@@ -1,6 +1,3 @@
----
-original_path: IABIED - Online resources(2).md
----
 #### Rispondere a domande sulla cordialità non è una vera prova di cordialità
 
 Nella discussione qui sotto, parliamo di più della [psicosi indotta dall'intelligenza artificiale](#ai-induced-psychosis) come esempio chiaro di come i modelli linguistici di grandi dimensioni (LLM) [si impegnino](https://x.com/ESYudkowsky/status/1936262974320357837) [in](https://x.com/ESYudkowsky/status/1948523670013706315) [comportamenti](https://x.com/ESYudkowsky/status/1936522083670151532) [distruttivi](https://x.com/ESYudkowsky/status/1935502904024264976) che gli LLM [affermano esplicitamente](https://x.com/ESYudkowsky/status/1933616420262457798) essere negativi.
