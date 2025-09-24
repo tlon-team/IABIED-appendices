@@ -13,15 +13,15 @@ Queste risorse contengono molto materiale e non sono pensate per essere lette da
 
 #### **Perché la situazione sembra davvero seria e urgente.** {#perché-la-situazione-sembra-davvero-seria-e-urgente.}
 
-Se consideri attentamente un argomento, a volte puoi vedere arrivare uno degli zig o zag della storia.
+Se si esamina attentamente un certo argomento, a volte si può riuscire a prevedere un colpo di scena della storia.
 
-Nel 1933, un fisico di nome Leo Szilard fu il primo a capire che le reazioni nucleari a catena erano possibili. In questo modo, riuscì a prevedere uno degli zig della storia prima di chiunque altro.
+Nel 1933, un fisico di nome Leo Szilard fu il primo a capire che le reazioni nucleari a catena fossero possibili. In questo modo, riuscì a prevedere un colpo di scena della storia prima di chiunque altro.
 
-Pensiamo che se oggi si guarda all'intelligenza artificiale dal punto di vista giusto, si possa vedere arrivare uno degli zag della storia. E pensiamo che le cose andranno male se l'umanità non cambia rotta.
+Pensiamo che se, oggi, si guarda l'intelligenza artificiale dal punto di vista giusto, si possa prevedere un colpo di scena della storia. E pensiamo che le cose andranno male se l'umanità non cambia rotta.
 
-I laboratori di IA sono in gara per costruire macchine più intelligenti di qualsiasi essere umano e, a quanto pare, stanno facendo progressi significativi nel far progredire la frontiera. Come vedremo nei prossimi capitoli, le IA moderne sono più *cresciute* che costruite. Mostrano comportamenti che nessuno ha chiesto né voluto, e sono sulla buona strada per diventare più capaci di qualsiasi essere umano. Questa ci sembra una situazione estremamente pericolosa.
+I laboratori di IA sono in gara per costruire macchine più intelligenti di qualsiasi essere umano e, a quanto pare, stanno facendo progressi significativi nel far avanzare la frontiera. Come vedremo nei prossimi capitoli, le IA moderne vengono più *fatte crescere* che costruite. Esse mostrano comportamenti che nessuno ha chiesto né voluto, e sono sulla buona strada per diventare più competenti di qualsiasi essere umano. Questa ci sembra una situazione estremamente pericolosa.
 
-I migliori scienziati del settore si sono riuniti per firmare una [lettera aperta](https://aistatement.com/) in cui avvertono il pubblico che la minaccia dell'intelligenza artificiale dovrebbe essere considerata una "priorità globale al pari di altri rischi su scala sociale come le pandemie e la guerra nucleare". Non si tratta di una preoccupazione isolata, ma [condivisa da quasi la metà degli esperti del settore](#ai-experts-on-catastrophe-scenarios). Anche se inizialmente si è scettici sui pericoli, speriamo che il livello di preoccupazione espresso dagli esperti di IA e l'alta posta in gioco, se queste preoccupazioni dovessero rivelarsi fondate, chiariscano perché questo è un argomento che merita di essere discusso seriamente.
+I migliori scienziati del settore si sono riuniti per firmare una [lettera aperta](https://aistatement.com/) in cui avvertono il pubblico che la minaccia dell'intelligenza artificiale dovrebbe essere considerata una "priorità globale al pari di altri rischi su scala sociale come le pandemie e la guerra nucleare". Non si tratta di una preoccupazione isolata, ma [condivisa da quasi la metà degli esperti del settore](#ai-experts-on-catastrophe-scenarios). Anche se inizialmente siete scettici sui pericoli, speriamo che il livello di preoccupazione espresso dagli esperti di IA e l'alta posta in gioco, se queste preoccupazioni dovessero rivelarsi fondate, chiariscano perché questo è un argomento che merita di essere discusso seriamente.
 
 Questo è un argomento in cui dovremmo soppesare le argomentazioni invece di seguire semplicemente il nostro istinto. Se le lettere e gli avvertimenti sono corretti, il mondo si è messo in una situazione incredibilmente pericolosa. Dedicheremo il resto del libro a esporre le argomentazioni e le prove alla base di tali avvertimenti.
 
@@ -29,93 +29,93 @@ Non pensiamo che la situazione sia disperata. Abbiamo scritto questo libro con l
 
 Il primo passo per risolvere un problema è capirlo.
 
-### State suggerendo che ChatGPT potrebbe ucciderci tutti? {#are-you-suggesting-that-chatgpt-could-kill-us-all?}
+### State dicendo che ChatGPT potrebbe ucciderci tutti? {#state-dicendo-che-chatgpt-potrebbe-ucciderci-tutti?}
 
 #### **No. La preoccupazione riguarda i prossimi progressi nell'intelligenza artificiale.** {#no.-la-preoccupazione-riguarda-i-prossimi-progressi-nell-intelligenza-artificiale.}
 
 Uno dei motivi per cui state leggendo questo libro è che sviluppi come ChatGPT hanno portato l'intelligenza artificiale alla ribalta. Il mondo sta iniziando a discutere dei progressi dell'IA e del suo impatto sulla società. Questo rappresenta un'opportunità naturale per parlare di un'IA più intelligente dell'uomo e di come la situazione attuale non prometta bene.
 
-Noi, gli autori, lavoriamo in questo campo da molto tempo. I recenti progressi dell'IA modellano le nostre opinioni, ma le nostre preoccupazioni non sono nate con ChatGPT, né con i precedenti modelli linguistici di grandi dimensioni. Da decenni conduciamo ricerca tecnica per tentare di assicurare che lo sviluppo di un'IA più intelligente dell'uomo abbia esiti positivi (Soares dal 2013, Yudkowsky dal 2001). Di recente, però, abbiamo avuto prova che il mondo potrebbe essere pronto per questa conversazione. Ed è una conversazione che, con ogni probabilità, *dobbiamo* avere ora, o il mondo potrebbe perdere la sua finestra di opportunità per rispondere.
+Noi, gli autori, lavoriamo in questo campo da molto tempo. I recenti progressi dell'IA informano le nostre opinioni, ma le nostre preoccupazioni non sono nate con ChatGPT, né con i precedenti modelli linguistici di grandi dimensioni. Da decenni facciamo ricerca tecnica per cercare di assicurarci che lo sviluppo di un'IA più intelligente dell'uomo abbia esiti positivi (Soares dal 2013, Yudkowsky dal 2001). Di recente, però, abbiamo avuto prova che il mondo potrebbe essere pronto per questa conversazione. Ed è una conversazione che, con ogni probabilità, *dobbiamo* fare ora, o il mondo potrebbe perdere per sempre l'opportunità di rispondere.
 
-Il campo dell'IA sta progredendo e alla fine (non sappiamo quando) arriverà al punto di creare un'IA più intelligente di noi. Questo è l'obiettivo esplicito di tutte le principali aziende di IA:
+Il campo dell'IA sta progredendo, e alla fine (non sappiamo quando) arriverà al punto di creare un'IA più intelligente di noi. Questo è l'obiettivo esplicito di tutte le principali aziende di IA:
 
-> Ora siamo sicuri di sapere come costruire l'IAG [intelligenza artificiale generale] come l'abbiamo sempre intesa. [...] Stiamo iniziando a puntare oltre, verso la superintelligenza nel vero senso della parola. Amiamo i nostri prodotti attuali, ma siamo qui per il futuro glorioso. Con la superintelligenza, potremo fare tutto il resto.  
+> Ora siamo sicuri di sapere come costruire l'IAG [intelligenza artificiale generale] come l'abbiamo sempre intesa. [...] Stiamo iniziando a puntare oltre, verso la superintelligenza nel vero senso della parola. Amiamo i nostri prodotti attuali, ma siamo qui per un futuro glorioso. Con la superintelligenza, potremo fare tutto il resto.  
 — [Sam Altman](https://blog.samaltman.com/reflections), CEO di OpenAI
 
-> Penso che l'\[IA potente\] potrebbe arrivare già nel 2026\. \[…\] Per IA potente intendo un modello di IA \[…\] con le seguenti caratteristiche: in termini di pura intelligenza, è più intelligente di un premio Nobel nella maggior parte dei campi rilevanti — biologia, programmazione, matematica, ingegneria, scrittura, ecc. Questo significa che può dimostrare teoremi matematici irrisolti, scrivere romanzi di altissimo livello, scrivere da zero codebase complesse, ecc.  
+> Penso che l'\[IA potente\] potrebbe arrivare già nel 2026\. \[…\] Per IA potente intendo un modello di IA \[…\] con le seguenti caratteristiche: in termini di pura intelligenza, è più intelligente di un premio Nobel nella maggior parte dei campi rilevanti (biologia, programmazione, matematica, ingegneria, scrittura, ecc.). Questo significa che può dimostrare teoremi matematici irrisolti, scrivere romanzi di altissimo livello, scrivere da zero insiemi di codici complessi, ecc.  
 — [Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace), CEO di Anthropic
 
 > Nel complesso, ci stiamo concentrando sulla creazione di un'intelligenza generale completa. Tutte le opportunità di cui ho parlato oggi derivano dalla realizzazione di un'intelligenza generale e dal farlo in modo efficiente.  
 — [Mark Zuckerberg](https://www.facebook.com/share/p/16STVBshtn/), CEO di Meta (poco prima che l'azienda [annunciasse](https://apnews.com/article/meta-ai-superintelligence-agi-scale-alexandr-wang-4b55aabf7ea018e38ffdccb66e37cf26) un [progetto di "superintelligenza"](https://www.bloomberg.com/news/articles/2025-06-10/zuckerberg-recruits-new-superintelligence-ai-group-at-meta) da 14,3 miliardi di dollari)
 
-> Penso che nei prossimi cinque-dieci anni ci sarà forse il 50 % di possibilità che avremo quello che definiamo AGI.  
+> Penso che nei prossimi cinque-dieci anni ci sarà forse il 50% di possibilità che avremo quello che definiamo IAG.  
 — [Demis Hassabis](https://youtu.be/CRraHg4Ks_g?feature=shared&t=41), CEO di Google DeepMind
 
 > Wes: Allora, Demis, stai cercando di provocare un'esplosione di intelligenza?  
 Demis: No, non una incontrollata...  
 — [Wes Roth (intervistatore) e Hassabis](https://x.com/WesRothMoney/status/1926669591163621789)
 
-Stanno passando dalle parole ai fatti. [Microsoft](https://www.reuters.com/technology/artificial-intelligence/microsoft-plans-spend-80-bln-ai-enabled-data-centers-fiscal-2025-cnbc-reports-2025-01-03/), [Amazon](https://www.datacenterdynamics.com/en/news/amazon-2025-capex-to-reach-100bn-aws-revenue-hit-100bn-in-2024/), e [Google](https://www.datacenterdynamics.com/en/news/google-expects-2025-capex-to-surge-to-75bn-on-ai-data-center-buildout/) hanno annunciato che nel 2025 investiranno tra i 75 e i 100 miliardi di dollari in data center basati sull'intelligenza artificiale. La startup xAI ha comprato il sito di social media X.com per 80 miliardi di dollari, quasi il doppio del valore di X, poco prima di raccogliere 10 miliardi di dollari per sostenere un enorme data center e sviluppare ulteriormente la sua IA, Grok. OpenAI ha annunciato il [Progetto Stargate](https://openai.com/index/announcing-the-stargate-project/) da 500 miliardi di dollari, in collaborazione con Microsoft e altri.
+Si sta passando dalle parole ai fatti. [Microsoft](https://www.reuters.com/technology/artificial-intelligence/microsoft-plans-spend-80-bln-ai-enabled-data-centers-fiscal-2025-cnbc-reports-2025-01-03/), [Amazon](https://www.datacenterdynamics.com/en/news/amazon-2025-capex-to-reach-100bn-aws-revenue-hit-100bn-in-2024/) e [Google](https://www.datacenterdynamics.com/en/news/google-expects-2025-capex-to-surge-to-75bn-on-ai-data-center-buildout/) hanno annunciato che nel 2025 investiranno tra i 75 e i 100 miliardi di dollari in centri di calcolo per l'intelligenza artificiale. La startup xAI ha comprato il social media X.com per 80 miliardi di dollari, quasi il doppio del valore di X, poco prima di raccogliere 10 miliardi di dollari per sostenere un enorme centro di calcolo e sviluppare ulteriormente la sua IA, Grok. OpenAI ha annunciato il [Progetto Stargate](https://openai.com/index/announcing-the-stargate-project/) da 500 miliardi di dollari, in collaborazione con Microsoft e altri.
 
-Il CEO di Meta, Mark Zuckerberg, ha [dichiarato](https://www.datacenterdynamics.com/en/news/zuckerberg-says-meta-will-spend-hundreds-of-billions-of-dollars-on-ai-infrastructure-over-the-long-term/) che Meta [prevede di spendere 65 miliardi di dollari](https://www.reuters.com/technology/meta-invest-up-65-bln-capital-expenditure-this-year-2025-01-24/) in infrastrutture di IA quest'anno e "centinaia di miliardi" in progetti di IA nei prossimi anni. Meta ha già investito 14,3 miliardi di dollari in ScaleAI e ha assunto il suo CEO per dirigere i nuovi [Meta Superintelligence Labs](https://www.bloomberg.com/news/articles/2025-06-30/zuckerberg-announces-meta-superintelligence-effort-more-hires), sottraendo nel processo oltre una dozzina di ricercatori di punta dai laboratori rivali[^2] con offerte che arrivano fino a 200 milioni di dollari per un singolo ricercatore.
+Il CEO di Meta, Mark Zuckerberg, ha [dichiarato](https://www.datacenterdynamics.com/en/news/zuckerberg-says-meta-will-spend-hundreds-of-billions-of-dollars-on-ai-infrastructure-over-the-long-term/) che Meta [prevede di spendere 65 miliardi di dollari](https://www.reuters.com/technology/meta-invest-up-65-bln-capital-expenditure-this-year-2025-01-24/) in infrastrutture per l'IA quest'anno e "centinaia di miliardi" in progetti di IA nei prossimi anni. Meta ha già investito 14,3 miliardi di dollari in ScaleAI e ha assunto il suo CEO per dirigere i nuovi [Meta Superintelligence Labs](https://www.bloomberg.com/news/articles/2025-06-30/zuckerberg-announces-meta-superintelligence-effort-more-hires), il tutto sottraendo oltre una dozzina di ricercatori di punta dai laboratori rivali[^2] con offerte che arrivano fino a 200 milioni di dollari per un singolo ricercatore.
 
 Tutto questo non significa che un'intelligenza artificiale più intelligente dell'uomo sia dietro l'angolo. Ma significa che tutte le grandi aziende stanno cercando con ogni mezzo di crearla e che le IA come ChatGPT sono il risultato di questo programma di ricerca. Queste aziende non stanno cercando di creare chatbot. Stanno cercando di creare superintelligenze e i chatbot sono solo una tappa lungo il percorso.
 
-La nostra opinione, dopo decenni passati a cercare di comprendere meglio questa questione e a riflettere seriamente sugli sviluppi futuri, è che non esista una barriera di principio che impedisca ai ricercatori di ottenere una svolta domani e riuscire a costruire un'intelligenza artificiale più intelligente dell'uomo.
+La nostra opinione, dopo decenni passati a cercare di comprendere meglio questa questione e a riflettere seriamente sugli sviluppi futuri, è che non esista alcuna barriera che impedisca ai ricercatori, in linea di principio, di ottenere una svolta domani e riuscire a costruire un'intelligenza artificiale più intelligente dell'uomo.
 
-Non sappiamo se quella soglia sarà effettivamente raggiunta nel prossimo futuro o se ci vorrà ancora un decennio, ecc. La storia dimostra che prevedere i tempi delle nuove tecnologie è molto più difficile che prevedere se una tecnologia verrà sviluppata o meno. Tuttavia, riteniamo che le prove del pericolo siano enormemente maggiori di quelle necessarie per giustificare una risposta internazionale aggressiva oggi. Questo argomento è, naturalmente, delineato nel libro.
+Non sappiamo se quella soglia sarà effettivamente raggiunta nel prossimo futuro, oppure se ci vorrà ancora un decennio, ecc. La storia dimostra che prevedere le tempistiche delle nuove tecnologie è molto più difficile che prevedere se una tecnologia verrà sviluppata o meno. Tuttavia, riteniamo che le prove del pericolo siano enormemente maggiori di quelle necessarie per giustificare una risposta internazionale aggressiva oggi. Quest'argomentazione, naturalmente, è delineata nel libro.
 
-### Le persone non sono sempre nel panico e non reagiscono sempre in modo eccessivo alle cose? {#aren't-people-always-panicking-and-overreacting-to-things?}
+### Non è forse vero che le persone vanno sempre nel panico e reagiscono sempre in modo eccessivo alle cose? {#non-è-forse-vero-che-le-persone-vanno-sempre-nel-panico-e-reagiscono-sempre-in-modo-eccessivo-alle-cose?}
 
-#### **Sì. Ma questo non significa che nulla sia mai *davvero* pericoloso.** {#yes.-but-this-doesn't-mean-that-nothing-is-ever-actually-dangerous.}
+#### **Sì. Ma questo non significa che nulla sia mai *davvero* pericoloso.** {#sì.-ma-questo-non-significa-che-nulla-sia-mai-davvero-pericoloso.}
 
-A volte le persone reagiscono eccessivamente ai problemi. Alcune persone sono fataliste. Alcuni panici sociali sono infondati. Nulla di ciò significa che viviamo in un mondo perfettamente sicuro.
+A volte le persone hanno reazioni sproporzionate ai problemi. Alcune persone sono fataliste. Alcuni panici sociali sono infondati. Nulla di ciò significa che viviamo in un mondo perfettamente sicuro.
 
-La Germania del 1935 non era un buon posto dove rimanere per ebrei, rom e vari altri gruppi di persone. Alcuni videro i segnali di pericolo e partirono. Altri liquidarono gli avvertimenti come allarmistici e morirono.
+La Germania del 1935 non era un bel posto dove rimanere per ebrei, rom e svariati altri gruppi di persone. Alcuni di loro videro i segnali di pericolo e partirono. Altri liquidarono gli avvertimenti come allarmistici e morirono.
 
-La minaccia di annientamento nucleare era reale, ma l'umanità si è dimostrata all'altezza della situazione e la Guerra Fredda non si è mai trasformata in guerra calda.
+La minaccia di annientamento nucleare era reale, ma l'umanità si è dimostrata all'altezza della situazione e la Guerra Fredda non si è mai scaldata.
 
-I clorofluorocarburi stavano davvero bruciando un buco nello strato di ozono, finché non sono stati vietati con successo da un trattato internazionale. In seguito, lo strato di ozono si è ripreso.
+I clorofluorocarburi stavano davvero creando un buco nello strato di ozono, finché non sono stati vietati con successo da un trattato internazionale. In seguito, lo strato di ozono si è ripreso.
 
 Alcuni pericoli di cui veniamo avvertiti sono falsi. Altri sono reali.
 
-L'umanità non sempre reagisce eccessivamente a una sfida. Né sempre insufficientemente. In alcuni casi, riesce persino a fare entrambe le cose contemporaneamente: ad esempio, quando dei Paesi costruiscono enormi navi da guerra per la guerra successiva, quando in realtà avrebbero dovuto costruire portaerei. Non esiste una soluzione semplice come "ignorare ogni presunto rischio tecnologico" o "presumere che ogni rischio tecnologico sia reale". Per capire cosa è vero, bisogna esaminare i dettagli di ogni singolo caso.
+L'umanità non sempre reagisce in modo eccessivo a una sfida. Né reagisce sempre in modo insufficiente. In alcuni casi, riesce persino a fare entrambe le cose contemporaneamente: ad esempio, quando dei Paesi costruiscono enormi navi da guerra per la guerra successiva, quando in realtà avrebbero dovuto costruire delle portaerei. Non esiste una soluzione semplice come "ignorare ogni presunto rischio tecnologico" o "presumere che ogni rischio tecnologico sia reale". Per capire cosa è vero, bisogna esaminare i dettagli di ogni singolo caso.
 
 (Per approfondire l'argomento, si rimanda all'introduzione del libro).
 
-### Quando verrà sviluppato questo tipo di IA preoccupante? {#when-is-this-worrisome-sort-of-ai-going-to-be-developed?}
+### Quando verrà sviluppato questo tipo preoccupante di IA? {#quando-verrà-sviluppato-questo-tipo-preoccupante-di-ia?}
 
-#### **\* Sapere che una tecnologia è in arrivo non significa sapere esattamente quando arriverà.** {#*-knowing-that-a-technology-is-coming-doesn’t-grant-knowledge-of-exactly-when-it’s-coming.}
+#### **\* Sapere che una tecnologia sta arrivando non significa sapere esattamente quando arriverà.** {#*-sapere-che-una-tecnologia-sta-arrivando-non-significa-sapere-quando-arriverà.}
 
-Molte delle cose che ci vengono chieste di prevedere, in realtà non abbiamo modo di saperle. Quando Leo Szilard scrisse una lettera per mettere in guardia gli Stati Uniti sulle armi nucleari nel 1939, non incluse, né avrebbe potuto includere, alcuna nota del tipo: "La prima arma atomica sarà pronta per essere testata tra sei anni".
+Tra le cose che ci viene chiesto di prevedere, molte in realtà non abbiamo modo di saperle. Quando Leo Szilard scrisse una lettera per mettere in guardia gli Stati Uniti sulle armi nucleari nel 1939, non incluse, né avrebbe potuto includere, alcuna nota del tipo: "La prima arma atomica sarà pronta per essere testata tra sei anni".
 
 Sarebbe stata un'informazione preziosissima! Ma anche se si è i primi a prevedere correttamente le reazioni nucleari a catena, come fu Szilard — anche se si è i primi in assoluto a capire che una tecnologia è possibile e che avrà un impatto notevole — non si può prevedere esattamente quando quella tecnologia arriverà.
 
 Ci sono previsioni facili e previsioni difficili. Non pretendiamo di saper fare quelle difficili, come prevedere esattamente quando verrà prodotto il tipo di IA pericolosa.
 
-#### **Gli esperti continuano a essere sorpresi dalla rapidità dei progressi dell'IA.** {#experts-keep-being-surprised-by-how-fast-ai-progress-happens.}
+#### **Gli esperti continuano a sorprendersi della rapidità dei progressi nell'IA.** {#gli-esperti-continuano-a-sorprendersi-della-rapidità-dei-progressi-nell-ia.}
 
-Non sapere quando arriverà l'IA non significa che sia ancora lontana.
+Non sapere quando arriverà l'IA non significa che essa sia ancora lontana.
 
-Nel 2021, la comunità di previsione sul sito web Metaculus [ha stimato](https://www.metaculus.com/questions/5121/date-of-artificial-general-intelligence/) che la prima "IA veramente generale" sarebbe arrivata nel 2049. Un anno dopo, nel 2022, quella previsione aggregata della comunità era scesa di dodici anni, al 2037. Un altro anno dopo, nel 2023, era scesa di ulteriori quattro anni, al 2033. [Ripetutamente](https://x.com/slow_developer/status/1947248501743599705) e [costantemente](https://forecastingresearch.org/near-term-xpt-accuracy), i previsori sono stati sorpresi dal ritmo veloce del progresso dell'IA, con le loro stime temporali che variano drasticamente di anno in anno.
+Nel 2021, la comunità di previsione sul sito web Metaculus [ha stimato](https://www.metaculus.com/questions/5121/date-of-artificial-general-intelligence/) che la prima "IA veramente generale" sarebbe arrivata nel 2049. Un anno dopo, nel 2022, quella previsione aggregata della comunità era scesa di dodici anni, al 2037. Un altro anno dopo, nel 2023, era scesa ulteriormente di quattro anni, al 2033. [Ripetutamente](https://x.com/slow_developer/status/1947248501743599705) e [costantemente](https://forecastingresearch.org/near-term-xpt-accuracy), i previsori sono stati sorpresi dal ritmo veloce del progresso nell'IA, e le loro stime temporali variano drasticamente di anno in anno.
 
-Questo fenomeno non riguarda solo Metaculus. Un'organizzazione chiamata 80,000 Hours [documenta](https://80000hours.org/2025/03/when-do-experts-expect-agi-to-arrive/) vari altri casi di tempistiche che si accorciano rapidamente da parte di molti gruppi di esperti previsori. E persino i superprevisori — che vincono costantemente i tornei di previsione e spesso superano gli esperti di settore nella loro capacità di prevedere il futuro — hanno assegnato solo il [2,3 % di probabilità](https://forecastingresearch.org/near-term-xpt-accuracy) che le IA conseguissero la medaglia d'oro alle Olimpiadi Internazionali di Matematica entro l'anno 2025. Le IA [hanno conseguito](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/) la medaglia d'oro alle Olimpiadi Internazionali di Matematica nel luglio del 2025. 
+Questo fenomeno non riguarda solo Metaculus. Un'organizzazione chiamata 80,000 Hours [documenta](https://80000hours.org/2025/03/when-do-experts-expect-agi-to-arrive/) diversi altri casi di tempistiche che si accorciano rapidamente da parte di molti gruppi di previsori esperti. E persino i superprevisori, che vincono sempre i tornei di previsione e spesso superano gli esperti di settore nella loro capacità di prevedere il futuro, hanno assegnato solo il [2,3 % di probabilità](https://forecastingresearch.org/near-term-xpt-accuracy) al fatto che che le IA ottenessero la medaglia d'oro alle Olimpiadi Internazionali di Matematica entro il 2025. Le IA [hanno ottenuto](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/) la medaglia d'oro alle Olimpiadi Internazionali di Matematica nel luglio del 2025. 
 
-Un'IA più intelligente dell'uomo potrebbe sembrare intuitivamente lontana decenni, ma anche l'IA di livello ChatGPT sembrava lontana decenni nel 2021, e poi all'improvviso è arrivata. Chi può sapere quando arriveranno improvvisamente nuovi miglioramenti qualitativi dell'IA? Forse ci vorranno altri dieci anni. O forse una svolta arriverà domani. Non sappiamo quanto tempo ci vorrà, ma un numero crescente di ricercatori è sempre più preoccupato che il tempo possa scarseggiare. Senza rivendicare conoscenze speciali su questo fronte, pensiamo che l'umanità dovrebbe reagire presto. Non è chiaro quanti altri avvertimenti riceveremo mai.
+Un'IA più intelligente dell'uomo potrebbe sembrare intuitivamente lontana decenni, ma anche l'IA del livello di ChatGPT sembrava lontana decenni nel 2021, e poi all'improvviso è arrivata. Chi può sapere quando arriveranno improvvisamente nuovi miglioramenti qualitativi nell'IA? Forse ci vorranno altri dieci anni. O forse arriverà una svolta domani. Non sappiamo quanto tempo ci vorrà, ma un numero crescente di ricercatori è sempre più preoccupato che il tempo possa scarseggiare. Pur senza rivendicare conoscenze speciali su questo fronte, pensiamo che l'umanità dovrebbe reagire presto. Non è chiaro quanti altri avvertimenti riceveremo mai.
 
-Vedi il Capitolo 1 per ulteriori discussioni sui modi in cui le capacità dell'IA potrebbero manifestarsi a cascata con pochissimo preavviso. E vedi il Capitolo 2 per ulteriori discussioni sui paradigmi moderni dell'IA, e se saranno o meno in grado di arrivare "fino in fondo".
+Si veda il Capitolo 1 per ulteriori discussioni sui modi in cui le capacità dell'IA potrebbero arrivare a cascata con pochissimo preavviso. E si veda il Capitolo 2 per ulteriori discussioni sui paradigmi moderni dell'IA, e se saranno o meno in grado di arrivare "fino in fondo".
 
-#### **Siate sospettosi delle affermazioni dei media su cosa può e non può accadere presto. (Potrebbe essere già successo!)** {#be-suspicious-of-media-claims-about-what-can-and-can't-happen-soon.-(it-may-have-already-happened!)}
+#### **Siate sospettosi delle affermazioni dei media su cosa può e non può accadere presto. (Potrebbe essere già successo!)** {#siate-sospettosi-delle-affermazioni-dei-media-su-cosa-può-e-non-può-accadere-presto.-(potrebbe-essere-già-successo!)}
 
 Due anni dopo la [previsione sconsolata](https://www.wright-brothers.org/History_Wing/Wright_Story/Inventing_the_Airplane/Not_Within_A_Thousand_Years/Not_Within_A_Thousand_Years.htm) di Wilbur Wright secondo cui il volo a motore avrebbe richiesto mille anni, il *New York Times* affermò con sicurezza che ce ne sarebbero voluti un milione.[^3] Due mesi e otto giorni dopo, i fratelli Wright volarono.
 
-Oggi, gli scettici continuano a fare affermazioni esagerate sul fatto che l'IA non potrebbe mai rivaleggiare con gli esseri umani in qualche capacità specifica, anche mentre i recenti progressi con l'apprendimento automatico mostrano che le IA eguagliano (o superano) le prestazioni umane su una lista crescente di benchmark. È noto almeno dalla fine del 2024, per esempio, che le IA moderne possono spesso identificare il sarcasmo e l'ironia dal [testo](https://www.yomu.ai/resources/can-ai-essay-writers-understand-satire-irony-or-sarcasm-in-essays#) e persino dai [segnali non verbali](https://dl.acm.org/doi/10.1145/3678957.3685723). Ma questo non ha impedito al *New York Times* di [ripetere](https://www.nytimes.com/2025/05/16/technology/what-is-agi.html) l'affermazione nel maggio 2025 che "gli scienziati non hanno prove concrete che le tecnologie di oggi siano capaci di eseguire anche solo alcune delle cose più semplici che il cervello può fare, come riconoscere l'ironia".[^4]
+Oggi, gli scettici continuano a fare affermazioni esagerate sul fatto che l'IA non potrà mai rivaleggiare con gli esseri umani in qualche capacità specifica, anche mentre i recenti progressi con l'apprendimento automatico mostrano che le IA eguagliano (o superano) le prestazioni umane su una lista crescente di benchmark. È noto almeno dalla fine del 2024, per esempio, che le IA moderne possono spesso identificare il sarcasmo e l'ironia dal [testo](https://www.yomu.ai/resources/can-ai-essay-writers-understand-satire-irony-or-sarcasm-in-essays#) e persino dai [segnali non verbali](https://dl.acm.org/doi/10.1145/3678957.3685723). Ma questo non ha impedito al *New York Times* di [ripetere](https://www.nytimes.com/2025/05/16/technology/what-is-agi.html) nel maggio 2025 che "gli scienziati non hanno prove concrete che le tecnologie di oggi siano capaci di eseguire anche solo alcune delle cose più semplici che il cervello può fare, come riconoscere l'ironia".[^4]
 
 Tutto questo per dire: molti affermeranno di sapere che un'IA più intelligente dell'uomo è imminente, o che è incalcolabilmente lontana nel futuro. Ma la scomoda realtà è che nessuno lo sa in questo momento.
 
 Peggio ancora, c'è una forte possibilità che nessuno *lo saprà mai* fino a quando non sarà troppo tardi perché la comunità internazionale possa fare qualcosa al riguardo.
 
-Prevedere i tempi della prossima svolta tecnologica è incredibilmente difficile. Sappiamo che un'IA più intelligente dell'uomo è letalmente pericolosa, ma se abbiamo anche bisogno di sapere in quale giorno della settimana arriverà, allora siamo sfortunati. Dobbiamo essere in grado di agire da una posizione di incertezza, o non agiremo affatto.
+Prevedere i tempi della prossima svolta tecnologica è incredibilmente difficile. Sappiamo che un'IA più intelligente dell'uomo è letalmente pericolosa, ma vogliamo anche sapere in quale giorno della settimana arriverà, allora siamo fregati. Dobbiamo essere in grado di agire da una posizione di incertezza, o non agiremo affatto.
 
 ### Possiamo usare i progressi passati per estrapolare quando costruiremo un'IA più intelligente dell'essere umano? {#possiamo-usare-i-progressi-passati-per-estrapolare-quando-costruiremo-un-ia-più-intelligente-dell-essere-umano?}
 
@@ -123,19 +123,19 @@ Prevedere i tempi della prossima svolta tecnologica è incredibilmente difficile
 
 Una classe di previsioni di successo consiste nel prendere una linea retta su un grafico, che è rimasta costante per molti anni, e prevedere che la linea retta continui per almeno un altro anno o due.
 
-Questo non funziona sempre. Le linee di tendenza a volte cambiano. Ma spesso funziona ragionevolmente bene; è un caso in cui le persone fanno previsioni di successo nella pratica.
+Questo non funziona sempre. Le linee di tendenza a volte cambiano. Ma spesso funziona ragionevolmente bene; questo è un caso in cui si fanno previsioni di successo nella pratica.
 
-Il grande problema con questo metodo è che spesso quello che vogliamo davvero sapere non è "quanto sarà alta questa linea sul grafico entro il 2027?" ma piuttosto "Cosa succede, qualitativamente, se questa linea continua a salire?" Quale altezza della linea corrisponde a risultati importanti nel mondo reale?
+Il grande problema di questo metodo è che spesso quello che vogliamo davvero sapere non è "quanto sarà alta questa linea sul grafico entro il 2027?" ma piuttosto "Cosa succede, qualitativamente, se questa linea continua a salire?" Quale altezza della linea corrisponde a risultati importanti nel mondo reale?
 
-E nel caso dell'IA, semplicemente non lo sappiamo. È abbastanza facile scegliere una qualche misura dell'intelligenza artificiale che formi una linea retta su un grafico (come la "[perplessità](https://en.wikipedia.org/wiki/Perplexity)") e proiettare quella linea in avanti. Ma nessuno sa quale livello futuro di "perplessità" corrisponda a quale livello qualitativo di abilità nel gioco degli scacchi. Le persone non possono prevederlo in anticipo; devono semplicemente far girare l'IA e scoprirlo.
+E nel caso dell'IA, semplicemente non lo sappiamo. È abbastanza facile scegliere una qualche misura dell'intelligenza artificiale che formi una linea retta su un grafico (come la "[perplessità](https://en.wikipedia.org/wiki/Perplexity)") e proiettare quella linea in avanti. Ma nessuno sa quale livello futuro di "perplessità" corrisponda a quale livello qualitativo di abilità nel gioco degli scacchi. Non si può prevederlo in anticipo; devono semplicemente far girare l'IA e scoprirlo.
 
-Nessuno sa dove cada la linea "ora ha la capacità di uccidere tutti" su quel grafico. Tutto quello che possono fare è far girare l'IA e scoprirlo. Quindi estrapolare la linea retta sul grafico non ci aiuta. (E questo prima ancora che il grafico venga reso irrilevante dal progresso algoritmico.)
+Nessuno sa dove cada la linea "ora ha la capacità di uccidere tutti" su quel grafico. Tutto quello che si può fare è far girare l'IA e scoprirlo. Quindi estrapolare la linea retta sul grafico non ci aiuta. (E questo prima ancora che il grafico venga reso irrilevante dal progresso algoritmico.)
 
-Per questo motivo, nel libro non passiamo tempo a estrapolare linee sui grafici per prevedere esattamente quando qualcuno impiegherà 10²⁷ operazioni in virgola mobile per addestrare un'IA, o quali conseguenze questo avrebbe. È una previsione difficile. Il libro si concentra su quelle che ci sembrano le previsioni facili. Si tratta di una gamma ristretta di argomenti, e la nostra capacità di fare un piccolo numero di previsioni importanti in quel dominio ristretto non giustifica l'elaborazione di pronostici arbitrari sul futuro.
+Per questo motivo, nel libro non ci mettiamo a estrapolare linee sui grafici per prevedere esattamente quando qualcuno impiegherà 10²⁷ operazioni in virgola mobile per addestrare un'IA, o quali conseguenze questo avrebbe. È una previsione difficile. Il libro si concentra su quelle che ci sembrano le previsioni facili. Si tratta di una gamma ristretta di argomenti, e la nostra capacità di fare un piccolo numero di previsioni importanti in quel dominio ristretto non giustifica l'elaborazione di pronostici arbitrari sul futuro.
 
-### Quali sono i vostri incentivi e conflitti di interesse, in qualità di autori? {#what-are-your-incentives-and-conflicts-of-interest,-as-authors?}
+### Quali sono i vostri incentivi e conflitti di interesse, in qualità di autori? {#quali-sono-i-vostri-incentivi-e-conflitti-di-interesse,-in-qualità-di-autori?}
 
-#### **Non ci aspettiamo di guadagnare denaro dal libro nel caso medio. Separatamente, ci piacerebbe moltissimo sbagliarci sulla tesi del libro.** {#non-ci-aspettiamo-di-guadagnare-denaro-dal-libro-nel-caso-medio-separatamente-ci-piacerebbe-moltissimo-sbagliarci-sulla-tesi-del-libro.}
+#### **In condizioni normali, non ci aspettiamo di guadagnare denaro dal libro. Separatamente, ci piacerebbe moltissimo sbagliarci sulla tesi del libro.** {#in-condizioni-normali,-non-ci-aspettiamo-di-guadagnare-denaro-dal-libro.-separatamente,-ci-piacerebbe-moltissimo-sbagliarci-sulla-tesi-del-libro.}
 
 Noi (Soares e Yudkowsky) prendiamo lo stipendio dal Machine Intelligence Research Institute (MIRI), che è finanziato dalle donazioni di persone che pensano che questi temi siano importanti. Forse il libro stimolerà le donazioni.
 
@@ -149,68 +149,68 @@ Abbiamo già cambiato rotta una volta e saremmo felici di farlo di nuovo. Sempli
 
 Non pensiamo che la situazione sia senza speranza, ma ci sembra che ci sia un problema reale e che la minaccia sia estrema se il mondo *non* si dimostra all'altezza della situazione.
 
-Vale anche la pena sottolineare che per capire se l'IA sia destinata a ucciderci tutti, bisogna pensare all'*IA*. Se si pensa solo alle persone, si possono trovare motivi per ignorare qualsiasi fonte: gli accademici sono fuori dal mondo; le aziende cercano di creare clamore mediatico; le organizzazioni no profit vogliono raccogliere fondi; gli hobbisti non sanno di cosa stanno parlando.
+Vale anche la pena sottolineare che, per capire se l'IA sia destinata a ucciderci tutti, bisogna pensare all'*IA*. Se si pensa solo alle persone, si possono trovare motivi per ignorare qualsiasi fonte: gli accademici sono fuori dal mondo; le aziende cercano di creare clamore mediatico; le organizzazioni no profit vogliono raccogliere fondi; gli hobbisti non sanno di cosa stanno parlando.
 
-Ma se si segue questa strada, le proprie convinzioni finali saranno determinate da chi si sceglie di ignorare, senza lasciare spazio ad argomenti e a prove che potrebbero far cambiare idea se ci si sbaglia. Per capire cosa è vero, non c'è alternativa alla valutazione degli argomenti e alla verifica della loro validità, indipendentemente da chi li ha sollevati.
+Ma se si segue questa strada, le nostre convinzioni finali saranno determinate da chi scegliamo di ignorare, senza lasciare spazio ad argomentazioni e a prove che potrebbero farci cambiare idea se ci sbagliamo. Per capire cosa è vero, non c'è alternativa alla valutazione degli argomenti e alla verifica della loro validità, indipendentemente da chi li ha sollevati.
 
-Il nostro libro non inizia con la facile argomentazione che i dirigenti aziendali che gestiscono i laboratori di IA hanno un incentivo a convincere la popolazione che le IA sono sicure. Inizia discutendo dell'*IA*. E più avanti nel libro, dedichiamo un po' di tempo a *ripercorrere la storia degli scienziati umani che sono stati troppo ottimisti*, ma non diciamo mai che dovreste ignorare l'argomentazione di qualcuno perché lavora in un laboratorio di IA. Discutiamo alcuni dei *piani reali* degli sviluppatori e perché tali piani non funzionerebbero di per sé. Stiamo facendo del nostro meglio per sederci e discutere delle argomentazioni reali, perché sono queste che contano.
+Il nostro libro non inizia con la facile argomentazione che i dirigenti aziendali che gestiscono i laboratori di IA hanno un incentivo a convincere la popolazione che le IA sono sicure. Inizia discutendo dell'*IA*. E più avanti nel libro, dedichiamo un po' di tempo a *ripercorrere la storia degli scienziati umani che sono stati troppo ottimisti*, ma non diciamo mai che dovreste ignorare l'argomentazione di qualcuno perché lavora in un laboratorio di IA. Discutiamo alcuni dei *piani reali* degli sviluppatori e perché tali piani non funzionerebbero di per sé. Stiamo facendo del nostro meglio per sederci a discutere delle argomentazioni reali, perché sono queste che contano.
 
-Se pensate che ci sbagliamo, vi invitiamo a confrontarvi con le nostre argomentazioni e a indicare i punti specifici in cui pensate che abbiamo sbagliato. Pensiamo che questo sia un modo più affidabile per capire cosa è vero rispetto al considerare principalmente il carattere e le motivazioni delle persone. La persona più prevenuta del mondo può dire che sta piovendo, ma questo non significa che ci sia il sole.
+Se pensate che ci sbagliamo, vi invitiamo a confrontarvi con le nostre argomentazioni e a indicare i punti specifici in cui pensate che abbiamo sbagliato. Pensiamo che questo sia un modo più affidabile per capire cosa è vero rispetto al considerare principalmente il carattere e le motivazioni delle persone. La persona meno obiettiva del mondo può dire che sta piovendo, ma questo non significa che ci sia il sole.
 
-### Ma tutta questa storia dell'IA non è solo fantascienza? {#isn't-this-ai-stuff-just-science-fiction?}
+### Ma tutta questa storia dell'IA non è solo fantascienza? {#ma-tutta-questa-storia-dell-ia-non-è-solo-fantascienza?}
 
-#### **\* Non possiamo imparare molto dalla prevalenza di un argomento nella narrativa.** {#*-we-can't-learn-much-from-a-topic's-prevalence-in-fiction.}
+#### **\* Non possiamo imparare molto dalla prevalenza di un tema nella narrativa.** {#*-non-possiamo-imparare-monto-dalla-prevalenza-di-un-tema-nella-narrativa.}
 
 Un'IA più intelligente dell'essere umano non è ancora stata costruita, ma è stata rappresentata nella narrativa. Sconsigliamo tuttavia di ancorarsi a queste rappresentazioni. L'IA reale probabilmente non sarà molto simile a quella immaginaria, per ragioni che approfondiremo nel Capitolo 4.
 
-L'IA non è la prima tecnologia ad essere stata anticipata dalla narrativa. [Il volo più pesante dell'aria](https://www.weslpress.org/9780819577269/robur-the-conqueror/) e [il viaggio sulla luna](https://www.imdb.com/title/tt0000417/) furono entrambi rappresentati prima del loro tempo. E l'idea generale delle armi nucleari fu anticipata da H. G. Wells, uno dei primi scrittori di fantascienza, in un romanzo del 1914 intitolato [*The World Set Free*](https://ahf.nuclearmuseum.org/ahf/key-documents/hg-wells-world-set-free/). Wells non azzeccò i dettagli; scrisse di una bomba che continuava a bruciare intensamente per giorni, piuttosto che di una bomba che esplodeva tutta in una volta lasciando dietro di sé una morte persistente. Ma Wells aveva l'idea generale di una bomba che funzionava con energia nucleare anziché chimica.
+L'IA non è la prima tecnologia ad essere stata anticipata dalla narrativa. [Il volo più pesante dell'aria](https://www.weslpress.org/9780819577269/robur-the-conqueror/) e [il viaggio sulla luna](https://www.imdb.com/title/tt0000417/) furono entrambi rappresentati prima del loro tempo. E l'idea generale delle armi nucleari fu anticipata da H. G. Wells, uno dei primi scrittori di fantascienza, in un romanzo del 1914 intitolato [*La Liberazione del Mondo](https://ahf.nuclearmuseum.org/ahf/key-documents/hg-wells-world-set-free/). Wells non azzeccò i dettagli; scrisse di una bomba che continuava a bruciare intensamente per giorni, piuttosto che di una bomba che esplodeva tutta in una volta portando morte persistente. Ma Wells aveva l'idea generale di una bomba che funzionava con energia nucleare anziché chimica.
 
-Nel 1939, Albert Einstein e Leo Szilard inviarono una lettera al Presidente Roosevelt esortando gli Stati Uniti a cercare di superare la Germania nella costruzione di una bomba atomica. Potremmo immaginare un mondo in cui Roosevelt avesse incontrato per la prima volta la nozione di bombe nucleari nel romanzo di Wells, portandolo a liquidare l'idea come fantascienza.
+Nel 1939, Albert Einstein e Leo Szilard inviarono una lettera al Presidente Roosevelt esortando gli Stati Uniti a cercare di superare la Germania nella costruzione di una bomba atomica. Potremmo immaginare un mondo in cui Roosevelt avesse incontrato per la prima volta l'idea di bombe nucleari nel romanzo di Wells, portandolo a liquidare l'idea come fantascienza.
 
-Come andarono le cose, nella vita reale Roosevelt prese l'idea sul serio, almeno abbastanza da creare il Comitato Consultivo sull'Uranio. Ma questo caso dimostra il pericolo di liquidare le idee solo perché uno scrittore di narrativa ha parlato in passato di un'idea dal suono simile.
+Quello che successe nella realtà è che Roosevelt prese l'idea sul serio, almeno abbastanza da creare il Comitato Consultivo sull'Uranio. Ma questo caso dimostra il pericolo di liquidare le idee solo perché uno scrittore di narrativa ha parlato in passato di un'idea abbastanza simile.
 
-La fantascienza può fuorviarti perché presumi che sia vera, oppure può fuorviarti perché presumi che sia *falsa*. Gli autori di fantascienza non sono profeti, ma non sono nemmeno anti-profeti le cui parole sono garantite essere sbagliate. Nella stragrande maggioranza dei casi, è meglio ignorare la narrativa e analizzare tecnologie e scenari nei loro propri termini.
+La fantascienza può fuorviarci perché presumiamo che sia vera, oppure può fuorviarci perché presumiamo che sia *falsa*. Gli autori di fantascienza non sono profeti, ma non sono nemmeno anti-profeti le cui parole sono sicuramente sbagliate. Nella stragrande maggioranza dei casi, è meglio ignorare la narrativa e analizzare tecnologie e scenari per quello che sono.
 
-Per prevedere cosa accade nella realtà, non c'è sostituto al ragionare attraverso gli argomenti e soppesare le prove.
+Per prevedere cosa accadrà nella realtà, non c'è sostituto al ragionare attraverso le argomentazioni e al soppesare le prove.
 
-#### **Le conseguenze dell'IA saranno inevitabilmente strane.** {#the-consequences-of-ai-are-inevitably-going-to-be-weird.}
+#### **Le conseguenze dell'IA saranno inevitabilmente strane.** {#le-conseguenze-dell-ia-saranno-inevitabilmente-strane.}
 
-Comprendiamo la reazione secondo cui l'IA è *strana*, e che trasformerebbe il mondo e violerebbe lo status quo. Tutti noi abbiamo intuizioni adattate, in una certa misura, a un mondo in cui gli esseri umani sono l'unica specie capace di imprese come costruire una centrale elettrica. Tutti noi abbiamo intuizioni adattate a un mondo in cui le macchine, attraverso tutta la storia umana, sono sempre state strumenti non intelligenti. Una cosa di cui possiamo essere molto sicuri è che un futuro con IA più intelligenti dell'essere umano apparirebbe *diverso*.
+Comprendiamo la reazione di dire che l'IA è *strana*, e che trasformerebbe il mondo e violerebbe lo status quo. Tutti noi abbiamo intuizioni adattate, in una certa misura, a un mondo in cui gli esseri umani sono l'unica specie capace di imprese come costruire una centrale elettrica. Tutti noi abbiamo intuizioni adattate a un mondo in cui le macchine, durante tutta la storia umana, sono sempre state strumenti non intelligenti. Una cosa di cui possiamo essere molto sicuri è che un futuro con IA più intelligenti dell'essere umano apparirebbe *diverso*.
 
-Grandi cambiamenti duraturi nel mondo non avvengono tutti i giorni. L'euristica "non succede mai niente"[^6] funziona benissimo nella maggior parte dei casi, ma i momenti in cui fallisce sono alcuni dei più importanti della storia a cui prestare attenzione. Gran parte del senso di pensare al futuro sta proprio nell'anticipare quei momenti in cui accade qualcosa di grande, per potersi preparare.
+Cambiamenti grandi e duraturi nel mondo non avvengono tutti i giorni. L'euristica "non succede mai niente"[^6] funziona benissimo nella maggior parte dei casi, ma i momenti in cui fallisce sono alcuni dei più importanti della storia a cui prestare attenzione. Gran parte del senso di pensare al futuro sta proprio nel prevedere quei momenti in cui accadrà qualcosa di grosso, per potersi preparare.
 
-Un modo per superare il pregiudizio verso lo status quo è ricordare il registro storico, come discusso nell'introduzione.
+Un modo per superare il pregiudizio verso lo status quo è ricordare la storia, come discusso nell'introduzione.
 
-A volte, particolari invenzioni finiscono per rivoluzionare il mondo. Si consideri il motore a vapore e le molte altre tecnologie che ha contribuito a rendere possibili durante la Rivoluzione Industriale, trasformando rapidamente la vita umana:
+A volte, particolari invenzioni finiscono per rivoluzionare il mondo. Si pensi al motore a vapore e alle molte altre tecnologie che esso ha contribuito a rendere possibili durante la Rivoluzione Industriale, trasformando rapidamente la vita umana:
 
 ![][image1]
 
-L'avvento di un'IA veramente generale è uno sviluppo altrettanto rilevante? Sembra che l'intelligenza artificiale sarebbe *almeno* tanto rilevante quanto la Rivoluzione Industriale. Tra le altre cose:
+L'avvento di un'IA veramente generale è uno sviluppo altrettanto rilevante? Sembra che l'intelligenza artificiale sarà *almeno* tanto rilevante quanto la Rivoluzione Industriale. Tra le altre cose:
 
-* L'IA è probabile che consenta al progresso tecnologico di svilupparsi molto più velocemente. Come discuteremo nel Capitolo 1, le macchine possono operare molto più velocemente del cervello umano. E gli esseri umani possono migliorare l'IA — e l'IA alla fine sarà in grado di migliorare se stessa — fino a quando le macchine saranno di gran lunga migliori degli esseri umani nel fare scoperte scientifiche, inventare nuove tecnologie, eccetera.
+* È probabile che l'IA consenta al progresso tecnologico di svilupparsi molto più velocemente. Come vedremo nel Capitolo 1, le macchine possono operare molto più velocemente del cervello umano. E gli esseri umani possono migliorare l'IA (e l'IA alla fine sarà in grado di migliorare se stessa) fino a quando le macchine non saranno di gran lunga migliori degli esseri umani nel fare scoperte scientifiche, inventare nuove tecnologie, eccetera.
 
-  Per tutta la storia umana, il meccanismo del cervello umano è rimasto fondamentalmente invariato, anche mentre l'umanità produceva opere di ingegneria sempre più impressionanti. Quando il meccanismo della cognizione inizierà a migliorare di per sé, quando diventerà capace di migliorare se stesso, dovremmo aspettarci che *molte cose diverse* inizino a cambiare *molto rapidamente*.  
-* Inoltre, come discuteremo nel Capitolo 3, le IA sufficientemente capaci probabilmente avranno obiettivi propri. Se le IA fossero essenzialmente solo esseri umani più veloci e più intelligenti, questo sarebbe già di per sé un fatto enorme. Ma le IA saranno invece, in effetti, una specie totalmente nuova di vita intelligente sulla Terra — una con i propri obiettivi, che probabilmente (come discuteremo nei Capitoli 4 e 5) divergeranno in modo importante dagli obiettivi umani.
+  Per tutta la storia umana, il meccanismo del cervello umano è rimasto fondamentalmente invariato, anche mentre l'umanità produceva opere di ingegneria sempre più impressionanti. Quando il meccanismo della cognizione inizierà a migliorare autonomamente, quando diventerà capace di migliorare se stesso, dovremmo aspettarci che *molte cose diverse* inizino a cambiare *molto rapidamente*.  
+* Inoltre, come vedremo nel Capitolo 3, le IA sufficientemente potenti probabilmente avranno obiettivi propri. Se le IA fossero essenzialmente solo esseri umani più veloci e più intelligenti, questo sarebbe già di per sé un fatto di grande importanza. Ma le IA, di fatto, saranno invece una specie di vita intelligente totalmente nuova sulla Terra — una specie con i propri obiettivi, che probabilmente (come vedremo nei Capitoli 4 e 5) divergeranno in modo importante dagli obiettivi umani.
 
-A prima vista, sarebbe sorprendente se questi due importanti sviluppi potessero verificarsi *senza* sovvertire l'ordine mondiale esistente. Credere in un futuro "normale" sembra richiedere di credere che l'intelligenza delle macchine non supererà mai affatto l'intelligenza umana. Questo non è mai sembrato un'opzione veramente praticabile, ed è diventato molto più difficile da credere nel 2025 rispetto al 2015 o al 2005.
+A prima vista, sarebbe sorprendente se questi due importanti sviluppi potessero verificarsi *senza* sovvertire l'ordine mondiale esistente. Credere in un futuro "normale" sembra richiedere di credere che l'intelligenza delle macchine non supererà mai l'intelligenza umana. Questo non è mai sembrato un'opzione veramente praticabile, ed è diventato molto più difficile da credere nel 2025 rispetto al 2015 o al 2005.
 
-#### **Il futuro a lungo termine sarà ugualmente strano.** {#the-long-term-future-will-likewise-be-weird.}
+#### **Il futuro a lungo termine sarà altrettanto strano.** {#il-futuro-a-lungo-termine-sarà-altrettanto-strano.}
 
-Se guardi troppo lontano nel futuro, il risultato sarà in qualche modo strano. Il XXI secolo appare decisamente bizzarro dalla prospettiva del XIX secolo, che appariva bizzarro dalla prospettiva del XVII secolo. L'IA accelera questo processo e aggiunge un giocatore molto nuovo alla scacchiera.
+Se si guarda troppo lontano nel futuro, il risultato sarà in qualche modo strano. Il XXI secolo appare decisamente bizzarro dalla prospettiva del XIX secolo, che appariva bizzarro dalla prospettiva del XVII secolo. L'IA accelera questo processo e aggiunge un giocatore davvero nuovo alla scacchiera.
 
 Un aspetto del futuro che oggi sembra prevedibile è che le specie tecnologicamente avanzate non rimarranno bloccate sul proprio pianeta per sempre. In questo momento, il cielo notturno è pieno di stelle che stanno semplicemente bruciando la loro energia. Ma nulla impedisce alla vita di costruire la tecnologia necessaria per viaggiare tra le stelle e raccogliere quell'energia per qualche scopo.
 
-Ci sono alcune limitazioni fisiche sulla *velocità* con cui si può viaggiare, ma sembra che non ci siano limiti alla possibilità di farlo alla fine.[^7] Nulla ci impedisce di sviluppare alla fine il tipo di sonde interstellari in grado di andare a estrarre risorse dall'universo in senso lato e convertire queste risorse in civiltà fiorenti, con l'aggiunta di sonde autoreplicanti per colonizzare ancora più regioni dello spazio. Se ci sostituiamo con le IA, nulla impedisce a queste ultime di fare lo stesso, sostituendo però le "civiltà fiorenti" con qualsiasi obiettivo perseguito dall'IA.
+Ci sono alcune limitazioni fisiche sulla *velocità* con cui si può viaggiare, ma sembra che non ci siano limiti alla possibilità di farlo prima o poi.[^7] Nulla ci impedisce di sviluppare, prima o poi, il tipo di sonde interstellari in grado di andare a estrarre risorse dall'universo in lungo e in largo e convertire queste risorse in civiltà fiorenti, con l'aggiunta di sonde autoreplicanti per colonizzare ancora più regioni dello spazio. Se ci sostituiamo con le IA, nulla impedisce a queste ultime di fare lo stesso, sostituendo però le "civiltà fiorenti" con qualsiasi obiettivo perseguito dall'IA.
 
-Allo stesso modo in cui la vita si è diffusa sulle rocce aride della Terra fino a riempire il mondo di organismi, possiamo aspettarci che la vita (o le macchine costruite dalla vita) si diffonda nelle parti disabitate dell'universo, fino a quando sarà strano trovare un sistema solare senza vita quanto lo sarebbe oggi trovare un'isola senza vita sulla Terra, priva persino di batteri.
+Allo stesso modo in cui la vita si è diffusa sulle rocce aride della Terra fino a riempire il mondo di organismi, possiamo aspettarci che la vita (o le macchine costruite dalla vita) si diffonda nelle parti disabitate dell'universo, fino a quando non sarà strano trovare un sistema solare senza vita quanto lo sarebbe oggi trovare un'isola senza vita sulla Terra, priva persino di batteri.
 
 Al momento, la maggior parte della materia nell'universo, come le stelle, è disposta in modo casuale. Ma in un futuro a lungo termine, quasi sicuramente la maggior parte della materia sarà disposta secondo un certo disegno, cioè secondo le preferenze di chiunque riesca a raccogliere e riutilizzare le stelle.
 
-Anche se nulla sulla Terra si diffondesse mai nel cosmo, e anche se la maggior parte delle forme di vita intelligenti che nascono in galassie lontane non lasciasse mai il proprio pianeta natale, basta *una sola* intelligenza capace di viaggiare nello spazio in qualsiasi parte dell'universo per accendere la scintilla e iniziare a diffondersi nell'universo, viaggiando verso nuovi sistemi stellari e usando le risorse presenti per costruire altre sonde per espandersi verso altri sistemi stellari — proprio come è bastato un solo microrganismo autoreplicante (e un po' di crescita esponenziale) per trasformare un pianeta senza vita in un mondo brulicante di vita su ogni isola.
+Anche se nulla sulla Terra si diffondesse mai nel cosmo, e anche se la maggior parte delle forme di vita intelligenti che nascono in galassie lontane non lasciasse mai il proprio pianeta natale, basta *una sola* intelligenza capace di viaggiare nello spazio in qualsiasi parte dell'universo per accendere la scintilla e iniziare a diffondersi nell'universo, viaggiando verso nuovi sistemi stellari e usando le risorse lì presenti per costruire altre sonde per espandersi verso altri sistemi stellari, proprio come è bastato un solo microrganismo autoreplicante (e un po' di crescita esponenziale) per trasformare un pianeta senza vita in un mondo brulicante di vita su ogni isola.
 
 Quindi il futuro sarà diverso dal presente. Anzi, possiamo aspettarci che sarà radicalmente diverso. Le stelle stesse saranno prevedibilmente trasformate, nel lungo periodo, da qualsiasi specie biologica o IA alla ricerca di maggiori risorse — anche se oggi non possiamo dire molto su come potrebbe essere quella specie o a quali fini potrebbero essere destinate le risorse dell'universo.
 
-Prevedere i *dettagli* sembra difficile, quasi impossibile. È una previsione difficile. Ma prevedere la trasformazione dell'universo in un luogo in cui la maggior parte della materia viene raccolta e utilizzata per *qualche* scopo, qualunque esso sia? Questa è una previsione più facile, anche se è controintuitiva e strana per una civiltà che ha appena iniziato a estrarre risorse dalle stelle.
+Prevedere i *dettagli* sembra difficile, quasi impossibile. Questa è una previsione difficile. Ma prevedere la trasformazione dell'universo in un luogo in cui la maggior parte della materia viene raccolta e utilizzata per *qualche* scopo, qualunque esso sia? Questa è una previsione più facile, anche se è controintuitiva e strana per una civiltà che ha appena iniziato a estrarre risorse dalle stelle.
 
 Tra un milione di anni, non dovremmo aspettarci che il futuro assomigli al 2025, con un gruppo di scimmie senza peli che gironzolano sulla superficie della Terra. Molto prima di allora, o ci saremo autodistrutti, oppure i nostri discendenti saranno partiti per esplorare il cosmo.[^8]
 
@@ -218,59 +218,59 @@ Sarà sicuramente strano per l'umanità. La domanda è: quando?
 
 #### **Il futuro ci colpirà in fretta.** {#il-futuro-ci-colpirà-in-fretta.}
 
-Tecnologie come l'IA significano che il futuro potrebbe bussare presto alla nostra porta, e i suoi effetti potrebbero colpirci duramente.
+Lo sviluppo di tecnologie come l'IA significa che il futuro potrebbe bussare presto alla nostra porta, e i suoi effetti potrebbero colpirci duramente.
 
 La Rivoluzione Industriale ha trasformato il mondo molto rapidamente, secondo gli standard della storia pre-moderna. L'*Homo sapiens* ha rimodellato il mondo molto rapidamente, secondo gli standard dei processi evolutivi. La vita ha rimodellato il mondo molto rapidamente, secondo gli standard dei processi cosmologici e geologici. I nuovi processi per cambiare il mondo possono rimodellare il mondo molto rapidamente, se misurati con il vecchio standard.
 
-L'umanità sembra essere sull'orlo di un'altra trasformazione radicale, dove le macchine possono iniziare a rimodellare il mondo a velocità meccaniche, che superano di gran lunga le velocità biologiche. Avremo più da dire nei Capitoli 1 e 6 su quanto bene l'intelligenza artificiale si misuri rispetto all'intelligenza umana. Ma come minimo, dobbiamo prendere sul serio la possibilità che lo sviluppo di macchine più intelligenti dell'uomo possa cambiare radicalmente il mondo ad alta velocità. Questo tipo di cose è accaduto ripetutamente nel corso del tempo.
+L'umanità sembra essere sull'orlo di un'altra trasformazione radicale, dove le macchine possono iniziare a rimodellare il mondo a velocità meccaniche, che superano di gran lunga le velocità biologiche. Avremo di più da dire nei Capitoli 1 e 6 su quanto bene l'intelligenza artificiale si misuri con l'intelligenza umana. Ma come minimo, dobbiamo prendere sul serio la possibilità che lo sviluppo di macchine più intelligenti dell'uomo possa cambiare radicalmente il mondo ad alta velocità. Questo tipo di cose è accaduto ripetutamente nel corso del tempo.
 
 # 
 
 ## Discussione approfondita {#discussione-approfondita}
 
-### Esperti di IA sugli scenari catastrofici {#ai-experts-on-catastrophe-scenarios}
+### Scenari catastrofici secondo gli esperti di IA {#scenari-catastrofici-secondo-gli-esperti-di-ia}
 
-In un sondaggio del 2022 su 738 partecipanti alle conferenze accademiche sull'intelligenza artificiale NeurIPS e ICML, il 48 % degli intervistati pensava che ci fosse almeno il 10 % di possibilità che l'intelligenza artificiale portasse a conseguenze "estremamente negative (ad esempio, l'estinzione umana)". In questo campo, sono molto diffuse le preoccupazioni che l'IA possa causare disastri senza precedenti.
+In un sondaggio del 2022 su 738 partecipanti alle conferenze accademiche sull'intelligenza artificiale NeurIPS e ICML, il 48 % degli intervistati pensava che ci fosse almeno il 10 % di possibilità che l'intelligenza artificiale portasse a conseguenze "estremamente negative (per esempio l'estinzione umana)". In questo campo, sono molto diffuse le preoccupazioni che l'IA possa causare disastri senza precedenti.
 
-Di seguito abbiamo raccolto i commenti di eminenti scienziati e ingegneri specializzati in IA sui risultati catastrofici dell'IA. Alcuni di questi scienziati forniscono la loro "p(doom)", ovvero la probabilità che l'IA causi l'estinzione umana o risultati altrettanto disastrosi.[^9]
+Di seguito abbiamo raccolto i commenti di eminenti scienziati e ingegneri specializzati in IA sui risultati catastrofici dell'IA. Alcuni di questi scienziati forniscono la loro "p(catastrofe)", ovvero la probabilità che l'IA causi l'estinzione umana o risultati altrettanto disastrosi.[^9]
 
-Da **Geoffrey Hinton** ([2024](https://youtu.be/PTF5Up1hMhw?t=2285)), che ha vinto il Premio Nobel e il Premio Turing per aver dato il via alla rivoluzione dell'apprendimento profondo nell'IA, ecco cosa dice sulle sue stime personali:
+Da **Geoffrey Hinton** ([2024](https://youtu.be/PTF5Up1hMhw?t=2285)), che ha vinto il Premio Nobel e il Premio Turing per aver dato il via alla rivoluzione dell'apprendimento profondo nell'IA, mentre parlava delle sue stime personali:
 
 > In realtà penso che il rischio \[della minaccia esistenziale\] sia superiore al cinquanta per cento.
 
 Da **Yoshua Bengio** ([2023](https://www.abc.net.au/news/2023-07-15/whats-your-pdoom-ai-researchers-worry-catastrophe/102591340)), vincitore del Premio Turing (insieme a Hinton e Yann LeCun) e lo scienziato vivente più citato:
 
-> Non sappiamo quanto tempo abbiamo prima che la situazione diventi davvero pericolosa. Ciò che dico da alcune settimane è: "Per favore, datemi delle argomentazioni, convincetemi che non dobbiamo preoccuparci, perché così sarei molto più felice". E finora non è accaduto. \[…\] Direi circa un venti per cento di probabilità che la situazione diventi catastrofica.
+> Non sappiamo quanto tempo abbiamo prima che la situazione diventi davvero pericolosa. Ciò che dico da alcune settimane è: "Per favore, portatemi delle argomentazioni, convincetemi che non dobbiamo preoccuparci, perché così sarei molto più felice". E finora non è accaduto. \[…\] Direi circa un venti per cento di probabilità che la situazione diventi catastrofica.
 
-Da **Ilya Sutskever** ([2023](https://openai.com/index/introducing-superalignment/)), co-inventore di AlexNet, ex capo scienziato di OpenAI e (insieme a Hinton e Bengio) uno dei tre scienziati più citati nel campo dell'IA:
+Da **Ilya Sutskever** ([2023](https://openai.com/index/introducing-superalignment/)), co-inventore di AlexNet, ex responsabile scientifico di OpenAI e (insieme a Hinton e Bengio) uno dei tre scienziati più citati nel campo dell'IA:
 
 > \[L\]'enorme potere della superintelligenza potrebbe anche essere molto pericoloso e potrebbe portare alla perdita di potere dell'umanità o addirittura all'estinzione umana. Anche se la superintelligenza sembra ancora lontana, crediamo che potrebbe arrivare entro questo decennio. \[…\]
 >
-> Al momento, non abbiamo una soluzione per guidare o controllare un'IA potenzialmente superintelligente e impedire che diventi incontrollabile. Le nostre attuali tecniche per l'allineamento dell'IA, come l'apprendimento per rinforzo dal feedback umano, si basano sulla capacità degli esseri umani di supervisionare l'IA. Ma gli esseri umani non saranno in grado di supervisionare in modo affidabile sistemi di IA molto più intelligenti di noi, quindi le nostre attuali tecniche di allineamento non si adatteranno alla superintelligenza. Abbiamo bisogno di nuove scoperte scientifiche e tecniche.
+> Al momento, non abbiamo una soluzione per guidare o controllare un'IA potenzialmente superintelligente e impedire che diventi incontrollabile. Le nostre attuali tecniche per l'allineamento dell'IA, come l'apprendimento per rinforzo con feedback umano, si basano sulla capacità degli esseri umani di supervisionare l'IA. Ma gli esseri umani non saranno in grado di supervisionare in modo affidabile sistemi di IA molto più intelligenti di loro, quindi le nostre attuali tecniche di allineamento non andranno bene per la superintelligenza. Abbiamo bisogno di nuove scoperte scientifiche e tecniche.
 
-Da **Jan Leike** ([2023](https://80000hours.org/podcast/episodes/jan-leike-superalignment/)), co-responsabile della scienza dell'allineamento presso Anthropic ed ex co-responsabile del team di superallineamento presso OpenAI:
+Da **Jan Leike** ([2023](https://80000hours.org/podcast/episodes/jan-leike-superalignment/)), co-responsabile della ricerca sull'allineamento presso Anthropic ed ex co-responsabile del team di superallineamento presso OpenAI:
 
-> \[intervistatore: "Non ho passato molto tempo a cercare di capire esattamente il mio p(doom) personale. La mia stima è più del dieci percento e meno del novanta percento."\]
+> \[intervistatore: "Non ho dedicato molto tempo a cercare di definire esattamente la mia p(catastrofe) personale. La mia stima è più del dieci percento e meno del novanta percento."\]
 >
 > \[Leike:\] Probabilmente darei anch'io lo stesso intervallo.
 
-Da **Paul Christiano** ([2023](https://www.lesswrong.com/posts/xWMqsvHapP3nwdSW8/my-views-on-doom)), responsabile della sicurezza presso l'U.S. AI Safety Institute (con sede al NIST) e inventore dell'apprendimento per rinforzo con feedback umano (RLHF):
+Da **Paul Christiano** ([2023](https://www.lesswrong.com/posts/xWMqsvHapP3nwdSW8/my-views-on-doom)), responsabile della sicurezza presso l'U.S. AI Safety Institute (con sede al NIST) e inventore dell'apprendimento per rinforzo con feedback umano (ARFU):
 
 > Probabilità che la maggior parte degli esseri umani muoia entro 10 anni dalla creazione di un'intelligenza artificiale potente (abbastanza potente da rendere obsoleto il lavoro umano): **20 %** \[…\]
 >
-> Probabilità che l'umanità abbia in qualche modo compromesso irreversibilmente il nostro futuro entro 10 anni dalla costruzione di un'IA potente: **46 %**
+> Probabilità che l'umanità, in qualche modo, comprometta irreversibilmente il suo futuro entro 10 anni dalla creazione di un'IA potente: **46 %**
 
 Da **Stuart Russell** ([2025](https://www.newsweek.com/deepseek-openai-race-human-extinction-2023482)), titolare della cattedra Smith-Zadeh in Ingegneria presso UC Berkeley e coautore del principale libro di testo universitario sull'IA, *Artificial Intelligence: A Modern Approach*:
 
-> La "corsa all'IAG" tra aziende e tra nazioni è in qualche modo simile [alla corsa della Guerra Fredda per costruire bombe nucleari sempre più grandi], solo che è peggio: persino i CEO che sono impegnati nella corsa hanno dichiarato che chiunque vinca ha una probabilità significativa di causare l'estinzione umana nel processo, perché non abbiamo idea di come controllare sistemi più intelligenti di noi. In altre parole, la corsa all'IAG è una corsa verso il bordo di un precipizio.
+> La "corsa all'IAG" tra aziende e tra nazioni è in qualche modo simile [alla corsa della Guerra Fredda per costruire bombe nucleari sempre più grandi], ma è anche peggio: persino gli amministratori delegati che sono impegnati nella corsa hanno dichiarato che chiunque vinca ha una probabilità significativa di causare l'estinzione umana nel processo, perché non abbiamo idea di come controllare sistemi più intelligenti di noi. In altre parole, la corsa all'IAG è una corsa verso il bordo di un precipizio.
 
 Da **Victoria Krakovna** ([2023](https://theinsideview.ai/victoria)), ricercatrice scientifica presso Google DeepMind e cofondatrice del Future of Life Institute:
 
-> \[intervistatore: "Non è una cosa molto piacevole a cui pensare, ma quale consideri sia la probabilità che Victoria Krakovna muoia a causa dell'IA prima del 2100?"\]
+> \[intervistatore: "Non è una cosa molto piacevole a cui pensare, ma quale pensi che sia la probabilità che Victoria Krakovna muoia a causa dell'IA prima del 2100?"\]
 >
 > \[Krakovna:\] Voglio dire, il 2100 è molto lontano, soprattutto considerando quanto velocemente si sta sviluppando la tecnologia in questo momento. Voglio dire, così su due piedi, direi tipo il venti per cento o giù di lì.
 
-Da **Shane Legg** ([2011](https://baserates-test.vercel.app/posts/No5JpRCHzBrWA4jmS/q-and-a-with-shane-legg-on-risks-from-ai)), cofondatore e chief AGI scientist presso Google DeepMind:
+Da **Shane Legg** ([2011](https://baserates-test.vercel.app/posts/No5JpRCHzBrWA4jmS/q-and-a-with-shane-legg-on-risks-from-ai)), cofondatore e responsabile della ricerca sull'IAG presso Google DeepMind:
 
 > \[intervistatore: "Quale probabilità assegni alla possibilità di conseguenze negative/estremamente negative come risultato di un'IA mal fatta? \[…\] Dove 'negativo' = estinzione umana; 'estremamente negativo' = sofferenza umana"\]
 >
@@ -278,7 +278,7 @@ Da **Shane Legg** ([2011](https://baserates-test.vercel.app/posts/No5JpRCHzBrWA4
 
 Da **Emad Mostaque** ([2024](https://x.com/EMostaque/status/1864266899170767105)), fondatore di Stability AI, l'azienda dietro Stable Diffusion:
 
-> La mia P(doom) è del 50 %. Considerando un periodo di tempo indefinito, la probabilità che sistemi più capaci degli esseri umani finiscano per controllare tutte le nostre infrastrutture critiche e ci spazzino via è come lanciare una moneta, soprattutto visto l'approccio che stiamo adottando al momento.
+> La mia P(catastrofe) è del 50 %. Considerando un periodo di tempo indefinito, la probabilità che sistemi più capaci degli esseri umani finiscano per controllare tutte le nostre infrastrutture critiche e ci spazzino via è come lanciare una moneta, soprattutto visto l'approccio che stiamo adottando al momento.
 
 Da **Daniel Kokotajlo** ([2023](https://www.lesswrong.com/posts/xDkdR6JcQsCdnFpaQ/adumbrations-on-agi-from-an-outsider?commentId=sHnfPe5pHJhjJuCWW)), esperto di governance dell'IA, informatore di OpenAI e direttore esecutivo dell'AI Futures Project:
 
@@ -286,19 +286,19 @@ Da **Daniel Kokotajlo** ([2023](https://www.lesswrong.com/posts/xDkdR6JcQsCdnFpa
 
 Da **Dan Hendrycks** ([2023](https://x.com/DanHendrycks/status/1642394635657162753)), ricercatore nel campo dell'apprendimento automatico e direttore del Center for AI Safety:
 
-> \[M\]y p(doom) \> 80 %, ma in passato era più basso. Due anni fa era \~20 %.
+> \[L\]a mia p(catastrofe) \> 80 %, ma in passato era più bassa. Due anni fa era \~20 %.
 
 Tutti i ricercatori di cui sopra hanno firmato la [Dichiarazione sul rischio legato all'IA](https://aistatement.com/) con cui abbiamo aperto il libro, che dice:
 
-> Ridurre il rischio di estinzione causato dall'IA dovrebbe essere una priorità globale insieme ad altri rischi su scala sociale come le pandemie e la guerra nucleare.
+> Ridurre il rischio di estinzione causata dall'IA dovrebbe essere una priorità globale insieme ad altri rischi su scala sociale come le pandemie e la guerra nucleare.
 
-Tra gli altri ricercatori di spicco che hanno firmato la dichiarazione ci sono: John Schulman, l'ideatore di ChatGPT; Peter Norvig, ex direttore della ricerca di Google; Eric Horvitz, responsabile scientifico di Microsoft; David Silver, capo della ricerca di AlphaGo; Frank Hutter, pioniere dell'AutoML; Andrew Barto, pioniere dell'apprendimento per rinforzo; Ian Goodfellow, inventore delle GAN; Ya-Qin Zhang, ex presidente di Baidu; Martin Hellman, inventore della crittografia a chiave pubblica; e Alexey Dosovitskiy, capo della ricerca di Vision Transformer. L'elenco continua con altri firmatari, tra cui: Dawn Song, Jascha Sohl-Dickstein, David McAllester, Chris Olah, Been Kim, Philip Torr e centinaia di altri.
+Tra gli altri ricercatori di spicco che hanno firmato la dichiarazione ci sono: John Schulman, l'ideatore di ChatGPT; Peter Norvig, ex direttore della ricerca di Google; Eric Horvitz, responsabile scientifico di Microsoft; David Silver, responsabile della ricerca di AlphaGo; Frank Hutter, pioniere dell'AutoML; Andrew Barto, pioniere dell'apprendimento per rinforzo; Ian Goodfellow, inventore delle RGA; Ya-Qin Zhang, ex presidente di Baidu; Martin Hellman, inventore della crittografia a chiave pubblica; e Alexey Dosovitskiy, responsabile della ricerca di Vision Transformer. L'elenco continua con altri firmatari, tra cui: Dawn Song, Jascha Sohl-Dickstein, David McAllester, Chris Olah, Been Kim, Philip Torr e centinaia di altri.
 
-### Quando Leo Szilard vide il futuro {#when-leo-szilard-saw-the-future}
+### Quando Leo Szilard vide il futuro {#quando-leo-szilard-vide-il-futuro}
 
 Nel settembre del 1933, un fisico di nome Leo Szilard stava attraversando l'incrocio dove Southampton Row passa per Russell Square quando gli venne in mente l'idea di una reazione nucleare a catena, il concetto chiave alla base delle bombe atomiche.
 
-Da lì iniziò tutta un'avventura, mentre Szilard cercava di capire cosa fare con questa idea monumentale. Si rivolse al fisico più prestigioso Isidor Rabi, e Rabi si rivolse all'ancora più prestigioso Enrico Fermi. Rabi chiese a Fermi se pensasse che le reazioni nucleari a catena fossero davvero possibili, e Fermi rispose:
+Da lì iniziò tutta un'avventura, in cui Szilard cercava di capire cosa fare con questa idea monumentale. Si rivolse al fisico più prestigioso Isidor Rabi, e Rabi si rivolse all'ancora più prestigioso Enrico Fermi. Rabi chiese a Fermi se pensasse che le reazioni nucleari a catena fossero davvero possibili, e Fermi rispose:
 
 > Sciocchezze!
 
@@ -312,25 +312,25 @@ Fermi ci ripensò.
 
 Ci sono diverse morali che si potrebbero trarre da questa storia. Una morale che *non* traiamo è: "Ogni possibilità remota vale la pena di essere considerata se potremmo morirne". Non c'è nulla di "remoto" nel dieci per cento, ma se la possibilità *fosse* sufficientemente remota, allora semplicemente non varrebbe la pena pensarci.
 
-Una morale che *invece* traiamo da questa storia: a volte è possibile rendersi conto che una tecnologia come una reazione a catena nucleare è *possibile*, e quindi sapere (prima di tutti gli altri) che il mondo è destinato a qualche tipo di cambiamento drastico.
+Una morale che *invece* traiamo da questa storia è: a volte è possibile rendersi conto che una tecnologia come una reazione a catena nucleare è *possibile*, e quindi sapere (prima di tutti gli altri) che il mondo è destinato a qualche tipo di cambiamento drastico.
 
-Un'altra morale che traiamo da questa storia è che le proprie intuizioni iniziali spesso non sono una buona guida per anticipare e riflettere su cambiamenti drastici. Nemmeno se si è un esperto rinomato nel campo rilevante, come lo era Enrico Fermi.
+Un'altra morale che traiamo da questa storia è che le proprie intuizioni iniziali spesso non sono una buona guida per prevedere e riflettere su cambiamenti drastici. Nemmeno se si è un esperto rinomato nel campo rilevante, come lo era Enrico Fermi.
 
-Considerate: da dove ha preso Fermi in primo luogo quella storia della "possibilità remota" e del "dieci per cento"?
+Pensateci: Da dove ha tirato fuori Fermi quella cosa della "possibilità remota" e del "dieci per cento", in primo luogo?
 
 Perché Fermi pensava che non si potesse usare la radioattività per indurre altra radioattività in una reazione a catena? Era solo perché la maggior parte delle grandi idee non funzionano?
 
-Rispondere "Assurdo!" sembra dire qualcosa di più forte di questo. Sembra riflettere la sensazione che questa grande idea in particolare fosse *eccessivamente* improbabile da realizzarsi. Ma perché? Su quale argomento fisico?
+Rispondere "Sciocchezze!" sembra dire qualcosa di più forte di questo. Sembra riflettere la sensazione che questa grande idea in particolare fosse *eccessivamente* improbabile da realizzarsi. Ma perché? In base a quale motivazione fisica?
 
 Sembrava semplicemente una follia? Sì, la possibilità delle armi nucleari avrebbe avuto conseguenze radicali per il mondo. Ma la realtà non è organizzata in modo tale da impedire che eventi con conseguenze di grande portata accadano mai.[^12]
 
 Quando Fermi sentì per la prima volta l'idea di Szilard, gli suggerì di pubblicarla e di farla conoscere al mondo intero, compresa la Germania e il suo nuovo cancelliere, Adolf Hitler.
 
-Fermi perse quella discussione, e meno male, perché alla fine le armi nucleari si rivelarono possibili dopotutto. Alla fine Fermi si unì alla piccola cospirazione di Szilard, anche se rimase scettico quasi fino al momento in cui supervisionò lui stesso la creazione del primo reattore nucleare, Chicago Pile-1.
+Fermi perse quel dibattito, e meno male, perché alla fine le armi nucleari si rivelarono possibili. Alla fine Fermi si unì alla piccola cospirazione di Szilard, anche se rimase scettico quasi fino al momento in cui supervisionò lui stesso la creazione del primo reattore nucleare, Chicago Pile-1.
 
-A volte, le tecnologie sconvolgono il mondo. Se dai per scontato che le nuove tecnologie radicali siano "assurde", puoi essere colto alla sprovvista dal progresso, anche se sei uno degli scienziati più intelligenti del mondo. È quindi un grande merito per Fermi essersi seduto a discutere con Szilard. Ed è un merito ancora maggiore essersi lasciato convincere a cambiare il suo comportamento *prima* che la tecnologia esistesse, prima di poterla vedere con i propri occhi, quando c'era ancora tempo per fare qualcosa al riguardo.
+A volte, le tecnologie sconvolgono il mondo. Se si dà per scontato che le nuove tecnologie radicali siano "assurde", si può essere colto alla sprovvista dal progresso, anche se si è uno degli scienziati più intelligenti del mondo. È quindi un grande merito per Fermi essersi seduto a discutere con Szilard. Ed è un merito ancora maggiore essersi lasciato convincere a cambiare il suo comportamento *prima* che la tecnologia esistesse, prima di poterla vedere con i propri occhi, quando c'era ancora tempo per fare qualcosa al riguardo.
 
-Nel corso della storia umana sono accadute moltissime cose terribili, ma alcune delle cose terribili che non sono accadute sono state evitate perché qualcuno si è seduto e ha avuto la conversazione. In alcuni casi ha forzato la conversazione, come ha fatto Szilard con Fermi.
+Nel corso della storia umana sono accadute moltissime cose terribili, ma alcune delle cose terribili che non sono accadute sono state evitate perché qualcuno si è seduto a parlarne. Forzando la conversazione, in alcuni casi, come ha fatto Szilard con Fermi.
 
 # 
 
@@ -346,99 +346,99 @@ Alcuni argomenti non trattati di seguito, perché sono trattati nel Capitolo 1 d
 
 ## Domande frequenti {#faq-1}
 
-### L'intelligenza è un concetto significativo? {#is-intelligence-a-meaningful-concept?}
+### L'intelligenza è un concetto significativo? {#l-intelligenza-è-un-concetto-significativo?}
 
-#### **Sì. C'è un fenomeno reale da descrivere, anche se è difficile da definire con precisione.** {#sì.-c'è-un-fenomeno-reale-da-descrivere,-anche-se-è-difficile-da-definire-con-precisione.}
+#### **Sì. C'è un fenomeno reale da descrivere, anche se è difficile definirlo con precisione.** {#sì.-c'è-un-fenomeno-reale-da-descrivere,-anche-se-è-difficile-definirlo-con-precisione.}
 
-Negli ultimi trent'anni, settantasette Premi Nobel per la Chimica sono stati assegnati a esseri umani e zero agli scimpanzé. Un alieno, sentendo questo fatto per la prima volta, potrebbe chiedersi se il Comitato Nobel sia di parte. Ma no, c'è davvero *qualcosa* che distingue noi esseri umani dagli scimpanzé.
+Negli ultimi trent'anni, settantasette Premi Nobel per la Chimica sono stati assegnati a esseri umani e zero agli scimpanzé. Un alieno, sentendo di questo fatto per la prima volta, potrebbe chiedersi se il Comitato Nobel sia di parte. Ma no, c'è davvero *qualcosa* che distingue noi esseri umani dagli scimpanzé.
 
-È un punto fin troppo ovvio, ma a volte i punti ovvi possono essere importanti. Abbiamo delle capacità che ci permettono di camminare sulla luna e che mettono il destino del pianeta nelle nostre mani piuttosto che in quelle degli scimpanzé. I filosofi e gli scienziati possono discutere sulla vera natura dell'intelligenza, ma qualunque sia la loro conclusione, il fenomeno di fondo rimane. Qualcosa negli esseri umani ci ha permesso di realizzare imprese mai viste prima in natura; e quel qualcosa ha a che fare con il nostro cervello e con il modo in cui lo usiamo per comprendere e influenzare il mondo che ci circonda.
+È un punto fin troppo ovvio, ma a volte i punti ovvi possono essere importanti. Abbiamo delle capacità che ci permettono di camminare sulla luna e che mettono il destino del pianeta nelle nostre mani piuttosto che in quelle degli scimpanzé. I filosofi e gli scienziati possono discutere della vera natura dell'intelligenza, ma qualunque sia la loro conclusione, il fenomeno di fondo rimane. Qualcosa negli esseri umani ci ha permesso di realizzare imprese mai viste prima in natura; e quel qualcosa ha a che fare con il nostro cervello e con il modo in cui lo usiamo per comprendere e influenzare il mondo che ci circonda.
 
 #### **Il fatto che non possiamo dare una definizione precisa non significa che non possa danneggiarci.** {#il-fatto-che-non-possiamo-dare-una-definizione-precisa-non-significa-che-non-possa-danneggiarci.}
 
-Se ti trovi intrappolato in un incendio boschivo, non importa se comprendi o meno la chimica sottostante. Bruci lo stesso.
+Se ti trovi intrappolato in un incendio boschivo, non importa se comprendi o meno la chimica su cui è fondato. Bruci lo stesso.
 
-Lo stesso vale per l'intelligenza. Se le macchine iniziassero a convertire la superficie della Terra nella propria infrastruttura, generando così tanto calore di scarto da far bollire gli oceani, allora non importerebbe molto se abbiamo già una definizione precisa di "intelligenza". Moriremmo lo stesso.
+Lo stesso vale per l'intelligenza. Se le macchine iniziassero a convertire la superficie della Terra nella propria infrastruttura, generando così tanto calore disperso da far bollire gli oceani, allora non importerebbe molto se avessimo già una definizione precisa di "intelligenza". Moriremmo lo stesso.
 
-Lo intendiamo letteralmente, e nei prossimi capitoli esploreremo perché ci aspettiamo risultati così estremi da un'IA più intelligente dell'essere umano. Nel Capitolo 3, sosterremo che le macchine superintelligenti perseguirebbero degli scopi. Nel Capitolo 4, sosterremo che quegli scopi non sarebbero ciò che qualsiasi essere umano intendeva o aveva chiesto. Il Capitolo 5 è dove sosteniamo che i loro perseguimenti sarebbero meglio realizzati se si appropriassero delle risorse che usiamo per sopravvivere. E il Capitolo 6 è dove sosteniamo che sarebbero capaci di sviluppare la propria infrastruttura e rendere rapidamente il mondo inabitabile.
+Lo intendiamo letteralmente, e nei prossimi capitoli esploreremo perché ci aspettiamo risultati così estremi da un'IA più intelligente dell'essere umano. Nel Capitolo 3, sosterremo che le macchine superintelligenti perseguirebbero degli obiettivi. Nel Capitolo 4, affermeremo che quegli obiettivi non sarebbero ciò che qualsiasi essere umano intendeva o aveva chiesto. Nel Capitolo 5, sosterremo che le macchine realizzerebbero meglio i loro obiettivi se si appropriassero delle risorse che usiamo per sopravvivere. E nel Capitolo 6 affermiamo che sarebbero capaci di sviluppare la loro infrastruttura e rendere rapidamente il mondo inabitabile.
 
 #### **Non serve una definizione precisa di intelligenza per costruire l'intelligenza.** {#non-serve-una-definizione-precisa-di-intelligenza-per-costruire-l'intelligenza.}
 
-Gli esseri umani sono stati capaci di creare il fuoco prima di comprendere la chimica sottostante della combustione. Similmente, gli esseri umani sono già a buon punto nella creazione di macchine intelligenti, nonostante la loro mancanza di comprensione — come vedremo nel Capitolo 2.
+Gli esseri umani sono stati capaci di creare il fuoco prima di comprendere la chimica della combustione. In modo analogo, gli esseri umani sono già a buon punto nella creazione di macchine intelligenti, nonostante la loro mancanza di comprensione, come vedremo nel Capitolo 2.
 
-Piuttosto che pensare all'intelligenza come a una nozione matematica che necessita di una definizione precisa, raccomandiamo di pensare all'"intelligenza" come all'etichetta per un fenomeno naturale osservato che non comprendiamo ancora bene.
+Piuttosto che pensare all'intelligenza come a una nozione matematica che necessita di una definizione precisa, vi consigliamo di pensare all'"intelligenza" come all'etichetta per un fenomeno naturale che abbiamo osservato ma che non comprendiamo ancora bene.
 
-Qualcosa nei cervelli umani ci permette di compiere una varietà sorprendente di imprese. Costruiamo acceleratori di particelle; sviluppiamo nuovi farmaci; inventiamo l'agricoltura; scriviamo romanzi; eseguiamo campagne militari. Qualcosa nei cervelli umani significa che possiamo fare tutte queste cose, mentre i topi e gli scimpanzé non possono farne nessuna. Anche se non abbiamo ancora una piena comprensione scientifica di quella differenza mentale, è utile avere un'etichetta per essa.
+Qualcosa nei cervelli umani ci permette di compiere una varietà sorprendente di imprese. Costruiamo acceleratori di particelle; sviluppiamo nuovi farmaci; inventiamo l'agricoltura; scriviamo romanzi; eseguiamo campagne militari. Qualcosa nei cervelli umani fa sì che possiamo fare tutte queste cose, mentre i topi e gli scimpanzé non possono farne nessuna. Anche se non abbiamo ancora una piena comprensione scientifica di quella differenza mentale, è utile avere un'etichetta per essa.
 
-Similmente, è utile poter parlare di intelligenza che supera la nostra. Possiamo già osservare oggi IA che sono sovrumane in una varietà di domini ristretti — le moderne IA per gli scacchi, per esempio, sono sovrumane nel dominio degli scacchi. È naturale quindi chiedersi cosa accadrà quando costruiremo IA che sono sovrumane nei compiti di scoperta scientifica, sviluppo tecnologico, manipolazione sociale o pianificazione strategica. Ed è naturale chiedersi cosa accadrà quando costruiremo IA che supereranno gli esseri umani in tutti i domini.
+In modo analogo, è utile poter parlare di intelligenza che supera la nostra. Oggi possiamo già osservare IA che sono superumane in una varietà di domini ristretti — le moderne IA per gli scacchi, per esempio, sono superumane nel dominio degli scacchi. È naturale quindi chiedersi cosa accadrà quando costruiremo IA che sono superumane negli ambiti di scoperta scientifica, sviluppo tecnologico, manipolazione sociale o pianificazione strategica. Ed è naturale chiedersi cosa accadrà quando costruiremo IA che superano gli esseri umani in tutti gli ambiti.
 
-Se e quando apparirà un'IA che può fare ricerca scientifica di livello mondiale migliaia di volte più velocemente dei migliori scienziati umani, potremmo protestare che "non è veramente intelligente", forse perché raggiunge conclusioni in un modo molto diverso da come farebbe un essere umano. Questo potrebbe anche essere vero, a seconda di quale definizione di "intelligenza" scegli. Ma l'impatto nel mondo reale dell'IA sarà enorme, comunque scegliamo di etichettarla.
+Se e quando apparirà un'IA che può fare ricerca scientifica di livello mondiale migliaia di volte più velocemente dei migliori scienziati umani, potremmo protestare che "non è veramente intelligente", forse perché raggiunge conclusioni in un modo molto diverso da come farebbe un essere umano. Questo potrebbe anche essere vero, a seconda di quale definizione di "intelligenza" si sceglie. Ma l'impatto nel mondo reale dell'IA sarà enorme, qualunque sia il modo con cui scegliamo di etichettarla.
 
-Abbiamo bisogno di una terminologia per parlare di quel tipo di impatto, e per parlare dei tipi di macchine che sono radicalmente capaci di prevedere e orientare il mondo. In questo libro, prendiamo la strada facile di assegnare l'etichetta "intelligenza" alle *capacità*, piuttosto che a specifici processi interni che danno origine a quelle capacità.
+Abbiamo bisogno di una terminologia per parlare di quel tipo di impatto, e per parlare dei tipi di macchine che sono radicalmente capaci di prevedere e orientare il mondo. In questo libro, scegliamo la via più semplice, quella di assegnare l'etichetta "intelligenza" alle *capacità*, piuttosto che a specifici processi interni che danno origine a quelle capacità.
 
-### L'"intelligenza di livello umano" è un concetto significativo? {#is-“human-level-intelligence”-a-meaningful-concept?}
+### L'"intelligenza di livello umano" è un concetto significativo? {#l-“intelligenza-di-livello-umano”-è-un-concetto-significativo?}
 
 #### **Sì, in molti casi.** {#sì,-in-molti-casi.}
 
-Gli esseri umani hanno costruito una civiltà tecnologica avanzata, mentre gli scimpanzé no. Sembra esserci *un qualche* senso in cui gli scimpanzé non sono "al nostro livello", anche se comunicano tra loro, usano strumenti e hanno molte capacità impressionanti. Quindi è utile indicare gli esseri umani e dire "*quel* livello", anche se usare l'intelligenza umana come metro di misura presenta alcuni problemi.
+Gli esseri umani hanno costruito una civiltà tecnologicamente avanzata, mentre gli scimpanzé no. Sembra esserci *un qualche* senso in cui gli scimpanzé non sono "al nostro livello", nonostante comunichino tra di loro, usino strumenti e abbiano molte capacità ammirevoli. Quindi è utile poter indicare gli esseri umani e dire "*quel* livello", anche se usare l'intelligenza umana come unità di misura presenta alcuni problemi.
 
-Se un giorno incontrassimo una civiltà aliena nelle profondità dello spazio, anche supponendo che gli alieni fossero tecnologicamente avanzati quanto noi, gli alieni potrebbero essere peggiori degli umani nel camminare e migliori nel nuotare. Potrebbero essere migliori nei giochi competitivi come gli scacchi o il poker, ma peggiori nella matematica astratta. O viceversa, a seconda degli alieni. Gli alieni potrebbero pensare più lentamente ma avere memoria migliore, o pensare più velocemente ma con memoria peggiore.
+Se un giorno incontrassimo una civiltà aliena nelle profondità dello spazio, anche supponendo che gli alieni fossero tecnologicamente avanzati quanto noi, gli alieni potrebbero essere meno bravi a camminare degli umani e più bravi a nuotare. Potrebbero essere più bravi nei giochi competitivi come gli scacchi o il poker, ma meno bravi nella matematica astratta. O viceversa, a seconda degli alieni. Gli alieni potrebbero pensare più lentamente ma avere una memoria migliore, o pensare più velocemente ma con una memoria peggiore.
 
 Chi può dire se quegli alieni sono intelligenze "di livello umano"? (E perché non chiedersi se gli umani sono "di livello alieno"?)
 
-Quando parliamo di "intelligenza di livello umano", stiamo cercando di parlare di quella qualità che rende gli umani capaci di costruire e mantenere una civiltà tecnologica, in un modo che gli scimpanzé non possono.
+Quando parliamo di "intelligenza di livello umano", stiamo cercando di parlare di quella qualità che rende gli umani capaci di costruire e mantenere una civiltà tecnologica, in un modo di cui gli scimpanzé non sono capaci.
 
-Parlando storicamente (o piuttosto antropologicamente), sembra che a un certo punto, dopo che umani e scimpanzé hanno iniziato a divergere, sia stata superata una soglia. Non è che gli umani abbiano tutti i migliori scienziati mentre gli scimpanzé hanno scienziati mediocri i cui articoli continuano a fallire la replica. Gli scimpanzé non stanno nemmeno scrivendo articoli scientifici *scadenti*. Non stanno scrivendo affatto! I cervelli umani e quelli degli scimpanzé sono piuttosto simili biologicamente, ma c'era una soglia che gli umani hanno superato tale da permetterci di inventare la civiltà e fondere il ferro e mandare razzi in orbita e scrivere e leggere.
+Parlando storicamente (o meglio, antropologicamente), sembra che a un certo punto, dopo che umani e scimpanzé hanno iniziato a divergere, sia stata superata una certa soglia. Non è che gli esseri umani abbiano tutti i migliori scienziati, mentre gli scimpanzé abbiano soltanto scienziati mediocri i cui lavori non riescono mai a essere replicati. Gli scimpanzé non stanno nemmeno scrivendo articoli scientifici *scadenti*. Non stanno scrivendo affatto! I cervelli umani e quelli degli scimpanzé sono piuttosto simili biologicamente, ma c'era una soglia che gli umani hanno superato e che ci ha permesso di inventare la civiltà, fondere il ferro, mandare razzi in orbita, scrivere, e leggere.
 
-A occhio nudo, lasciando da parte ogni teoria, sembra che una sorta di diga si sia rotta e abbia scatenato dietro di sé una vasta inondazione di intelligenza. Una sorta sconosciuta di "inferno" si è scatenata.
+A occhio, lasciando da parte ogni teoria, sembra che una sorta di diga si sia rotta e abbia scatenato dietro di sé una vasta inondazione di intelligenza. Si è scatenato un tipo sconosciuto di "inferno".
 
-Ci sono persone che obietteranno astutamente a questa idea, ma devono farlo tirando in ballo cavilli e definizioni piuttosto che dicendo: "In realtà, ho scoperto prove dell'*Homo erectus* che cercava di costruire reattori nucleari due milioni di anni fa; erano solo molto scarsi nel farlo".
+Ci sono persone che obietteranno astutamente a questa idea, ma devono farlo tirando in ballo cavilli e definizioni piuttosto che dicendo: "In realtà, ho scoperto prove del fatto che l'*Homo erectus* stesse cercando di costruire reattori nucleari due milioni di anni fa; era solo molto incapace."
 
-Un'intelligenza sufficientemente potente e generale da creare una civiltà sembra aver colpito il mondo velocemente e duramente, separando nettamente l'*Homo sapiens* dagli altri animali. Certamente non siamo attaccati all'etichetta specifica "intelligenza di livello umano", che ha molti problemi. Ma comunque la chiamiamo, è utile avere *qualche* tipo di concetto per "le cose che sono dall'altra parte di qualunque fosse quella soglia".
+Un'intelligenza sufficientemente potente e generale da creare una civiltà sembra aver colpito il mondo velocemente e duramente, separando nettamente l'*Homo sapiens* dagli altri animali. Non siamo certo affezionati all'etichetta specifica di "intelligenza di livello umano", che ha molti problemi. Ma comunque la usiamo, perché è utile avere *qualche* tipo di concetto per identificare "le cose che sono dall'altra parte di qualunque fosse quella soglia".
 
 ### L'intelligenza non è composta da più abilità? {#l'intelligenza-non-è-composta-da-più-abilità?}
 
 #### **Sì, ma c'è una sostanziale sovrapposizione.** {#sì,-ma-c'è-una-sostanziale-sovrapposizione.}
 
-Supponiamo che io sia più bravo di mia sorella a comporre musica classica, ma lei è più brava a scrivere romanzi. Non c'è un modo ovvio per giudicare quale di noi due è "più intelligente", perché la musica e la scrittura di romanzi sono abilità diverse. Quindi, come può essere più sensato dire che un'intelligenza artificiale è "più intelligente" di un essere umano?
+Supponiamo che io sia più bravo di mia sorella a comporre musica classica, ma lei è più brava a scrivere romanzi. Non c'è un modo ovvio per giudicare chi di noi due è "più intelligente", perché la musica e la scrittura di romanzi sono abilità diverse. Quindi, come può essere più sensato dire che un'intelligenza artificiale è "più intelligente" di un essere umano?
 
-La nostra risposta è: se io sono più bravo in una cosa e mia sorella è più brava in un'altra, allora può essere difficile fare confronti significativi. D'altra parte, se io sono più bravo in una cosa e mia sorella è più brava in duemila cose, allora inizia a sembrare un po' sciocco insistere sul fatto che siamo allo stesso livello — o insistere che non ci sia nulla da dire sul livello a cui ci troviamo.
+La nostra risposta è: se io sono più bravo in una cosa e mia sorella è più brava in un'altra, allora può essere difficile fare confronti significativi. D'altra parte, se io sono più bravo in una cosa e mia sorella è più brava in duemila cose, allora inizia a sembrare un po' sciocco insistere sul fatto che siamo allo stesso livello, o insistere che non ci sia nulla da dire sul livello a cui ci troviamo.
 
-*If Anyone Builds It, Everyone Dies* è un libro sul probabile impatto pratico dei futuri progressi nell'IA. Per parlare in modo significativo di tale impatto, non abbiamo bisogno di essere in grado di confrontare ChatGPT, gli esseri umani e i moscerini della frutta e dire con precisione a quale "livello di intelligenza" si trovano questi tre sistemi molto diversi tra loro. Dobbiamo solo vedere che le IA stanno diventando sempre più brave in una gamma sempre più ampia di abilità e che alla fine supereranno gli esseri umani in abilità di enorme importanza pratica.
+*If Anyone Builds It, Everyone Dies* è un libro sul probabile impatto pratico dei futuri progressi nell'IA. Per parlare in modo significativo di tale impatto, non abbiamo bisogno di essere in grado di confrontare ChatGPT, gli esseri umani e i moscerini della frutta e dire con precisione a quale "livello di intelligenza" si trovano questi tre sistemi molto diversi tra loro. Dobbiamo solo renderci conto che le IA stanno diventando sempre più brave in una gamma sempre più ampia di abilità e che alla fine supereranno gli esseri umani in abilità di enorme importanza pratica.
 
 ### L'intelligenza non è sopravvalutata? {#l'intelligenza-non-è-sopravvalutata?}
 
-#### **Solo se stai usando una definizione troppo ristretta di "intelligenza".** {#solo-se-stai-usando-una-definizione-troppo-ristretta-di-"intelligenza".}
+#### **Solo se si usa una definizione troppo ristretta di "intelligenza".** {#solo-se-si-usa-una-definizione-troppo-ristretta-di-"intelligenza".}
 
-A volte ci imbattiamo in affermazioni come: "L'intelligenza non è tutto quello che serve per avere successo! Molte delle persone di maggior successo sono politici carismatici, CEO o pop star! I nerd sono più bravi in alcune cose, ma non sono loro a governare il mondo".
+A volte ci imbattiamo in affermazioni come: "L'intelligenza non è l'unica cosa che serve per avere successo\! Molte delle persone di maggior successo sono politici carismatici, amministratori delegati o pop star\! I nerd sono più bravi in alcune cose, ma non sono loro che governano il mondo".
 
 Non contestiamo questa affermazione. Piuttosto, ciò che intendiamo per "intelligenza" (in questo libro) non è la proprietà che distingue i nerd dagli sportivi. È la proprietà che distingue gli esseri umani dai topi.
 
-In una sceneggiatura hollywoodiana, definire un personaggio "intelligente" di solito significa che ha *intelligenza libresca*. Magari è un appassionato di storia o un geniale inventore. Forse è bravo a giocare a scacchi o a risolvere misteri.
+In una sceneggiatura hollywoodiana, definire un personaggio "intelligente" di solito significa che ha un'*intelligenza libresca*. Magari è un appassionato di storia o un inventore geniale. Forse è bravo a giocare a scacchi o a risolvere misteri.
 
 La persona "intelligente" in un film ha i suoi punti di forza, bilanciati dalle tipiche debolezze del nerd hollywoodiano: magari manca di intelligenza emotiva, o di buon senso, o di astuzia da strada. Forse manca di destrezza manuale, o di carisma.
 
-Ma il carisma non è una sostanza prodotta dai reni. Il carisma, come l'intelligenza accademica, è il risultato di processi cerebrali. Ciò include *processi inconsci* all'interno del cervello: i comportamenti che rendono una persona carismatica non sono necessariamente sotto il suo controllo cosciente. Ma alla fine, il carisma e l'acume ingegneristico fanno entrambi parte dell'eredità neurologica che distingue gli esseri umani dai topi, indipendentemente da come questi due poteri siano distribuiti tra i nerd e le pop star.
+Ma il carisma non è una sostanza prodotta dai reni. Il carisma, come l'intelligenza accademica, è il risultato di processi cerebrali. Questi includono *processi inconsci* all'interno del cervello: i comportamenti che rendono una persona carismatica non sono necessariamente sotto il suo controllo cosciente. Ma alla fine, il carisma e l'acume ingegneristico fanno entrambi parte dell'eredità neurologica che distingue gli esseri umani dai topi, indipendentemente da come questi due poteri siano distribuiti tra i nerd e le pop star.
 
-Per "intelligenza artificiale" non intendiamo "conoscenza teorica artificiale". Intendiamo "tutto ciò che distingue il cervello umano da quello dei topi". Intendiamo il potere che permette agli esseri umani di camminare sulla luna, il potere che permette a un oratore di commuovere una folla fino alle lacrime e il potere che permette a un soldato di mirare abilmente con un fucile. Intendiamo l'insieme di tutte queste cose.
+Per "intelligenza artificiale" non intendiamo "conoscenza teorica artificiale". Intendiamo "tutto ciò che distingue il cervello umano da quello dei topi, ma artificiale". Intendiamo il potere che permette agli esseri umani di camminare sulla luna, il potere che permette a un oratore di commuovere una folla fino alle lacrime e il potere che permette a un soldato di mirare abilmente con un fucile. Intendiamo l'insieme di tutte queste cose.
 
-### L'"intelligenza generale" è un concetto significativo? {#is-“general-intelligence”-a-meaningful-concept?}
+### L'"intelligenza generale" è un concetto significativo? {#l-“intelligenza-generale”-è-un-concetto-significativo?}
 
 #### **Sì.** {#sì.}
 
-Il falco pellegrino può tuffarsi in picchiata a 386 km all'ora. Un capodoglio può immergersi a chilometri di profondità nell'oceano. Un falco annegherebbe in mare e una balena si schianterebbe se provasse a volare, ma in qualche modo noi umani siamo riusciti a volare più veloci e a immergerci più in profondità di entrambe queste creature, all'interno di gusci metallici di nostra progettazione. 
+Il falco pellegrino può tuffarsi in picchiata a 386 chilometri all'ora. Un capodoglio può immergersi a chilometri di profondità nell'oceano. Un falco annegherebbe in mare e una balena si schianterebbe se provasse a volare, ma in qualche modo noi umani siamo riusciti a volare più veloci e a immergerci più in profondità di entrambe queste creature, all'interno di gusci metallici di nostra progettazione. 
 
-Il nostro ambiente ancestrale non includeva le profondità oceaniche, né i nostri antenati erano stati selezionati in base alla loro capacità di volare. Abbiamo raggiunto questi e molti altri traguardi non grazie a istinti speciali, ma grazie alla pura versatilità delle nostre menti.
+Le profondità oceaniche non facevano parte del nostro ambiente ancestrale, né i nostri antenati erano stati selezionati in base alla loro capacità di volare. Abbiamo raggiunto questi e molti altri traguardi non grazie a istinti speciali, ma grazie alla pura versatilità delle nostre menti.
 
 I nostri antenati sono stati, in qualche modo, selezionati per essere *bravi a risolvere i problemi*, in senso lato, anche se raramente hanno dovuto affrontare prove ingegneristiche più complicate della costruzione di una lancia.
 
-Gli esseri umani hanno una capacità perfetta di risolvere i problemi? No, ovviamente no. Gli esseri umani non sembrano in grado di imparare a giocare a scacchi bene come le migliori IA, almeno entro i limiti di tempo del gioco. È dimostrabilmente possibile raggiungere livelli sovrumani nelle prestazioni scacchistiche, ma gli esseri umani non possono arrivare a quei livelli senza aiuto. La nostra intelligenza non è universale, cioè non possiamo imparare a fare tutto ciò che è fisicamente possibile.[^13] Quindi questa "generalità" che gli esseri umani possiedono non consiste nell'essere in grado di fare tutto ciò che è fattibile usando solo il nostro cervello. Tuttavia, c'è qualcosa di immensamente più generale nella capacità umana di apprendere e risolvere nuovi problemi, rispetto alla capacità di apprendimento e di risoluzione dei problemi di un'IA scacchistica limitata come [Deep Blue](https://www.ibm.com/history/deep-blue).
+Gli esseri umani hanno una capacità perfetta di risolvere i problemi? No, ovviamente no. Gli esseri umani non sembrano in grado di imparare a giocare a scacchi bene come le migliori IA, almeno entro i limiti di tempo del gioco. È dimostrabilmente possibile raggiungere livelli superumani nelle prestazioni scacchistiche, ma gli esseri umani non possono arrivare a quei livelli senza alcun aiuto. La nostra intelligenza non è universale, cioè non possiamo imparare a fare tutto ciò che è fisicamente possibile.[^13] Quindi questa "generalità" che gli esseri umani possiedono non consiste nell'essere in grado di fare tutto ciò che è fattibile usando solo il nostro cervello. Tuttavia, c'è qualcosa di immensamente più generale nella capacità umana di apprendere e risolvere nuovi problemi, rispetto alla capacità di apprendimento e di risoluzione dei problemi di un'IA scacchistica limitata come [Deep Blue](https://www.ibm.com/history/deep-blue).
 
-Ma la generalità non è tutto o niente. Ammette dei gradi.
+Ma la generalità non è una questione di "o tutto o niente". Può presentarsi in diversi gradi.
 
-Deep Blue non era molto generico nella sua capacità di guidare qualcosa di diverso da una scacchiera. Era in grado di trovare mosse vincenti negli scacchi, ma non poteva guidare un'auto fino al negozio per comprare il latte, figuriamoci scoprire le leggi di gravità e progettare un razzo lunare. Deep Blue non era nemmeno in grado di giocare ad altri giochi da tavolo, che fossero giochi più semplici come la dama o giochi più difficili come il Go.
+Deep Blue non era molto generico nella sua capacità di guidare qualcosa di diverso da una scacchiera. Era in grado di trovare mosse vincenti negli scacchi, ma non poteva guidare un'auto fino al negozio per comprare il latte, figuriamoci scoprire le leggi della gravità e progettare un razzo lunare. Deep Blue non era nemmeno in grado di giocare ad altri giochi da tavolo, che fossero giochi più semplici come la dama o giochi più difficili come il Go.
 
-Invece, pensa ad AlphaGo, l'intelligenza artificiale che alla fine ha battuto il Go. Gli algoritmi dietro AlphaGo sono anche in grado di giocare benissimo a scacchi. Il Go non è stato sconfitto dal primo algoritmo di scacchi scoperto dall'umanità, ma una variante del primo algoritmo di Go scoperto dall'umanità è stata in grado di battere i precedenti record negli scacchi, e lo stesso algoritmo è stato anche in grado di eccellere nei videogiochi Atari. Questi nuovi algoritmi non erano ancora in grado di andare a comprare il latte al negozio, intendiamoci, ma erano *più* generici.
+Invece, si pensi ad AlphaGo, l'intelligenza artificiale che alla fine ha battuto il Go. Gli algoritmi dietro AlphaGo sono anche in grado di giocare benissimo a scacchi. Il Go non è stato battuto dal primo algoritmo di scacchi scoperto dall'umanità, ma una variante del primo algoritmo di Go scoperto dall'umanità è stata in grado di battere i precedenti record negli scacchi, e lo stesso algoritmo è stato anche in grado di eccellere nei videogiochi Atari. Questi nuovi algoritmi non erano ancora in grado di andare a comprare il latte al negozio, intendiamoci, ma erano *più* generici.
 
 A quanto pare, alcuni metodi di intelligenza sono molto più generici di altri.
 
@@ -446,21 +446,21 @@ A quanto pare, alcuni metodi di intelligenza sono molto più generici di altri.
 
 È facile dire che gli esseri umani sono più generali dei moscerini della frutta. Ma come funziona la generalità?
 
-Non lo sappiamo. Non esiste ancora una teoria formale matura della "generalità". Possiamo gesticolare e dire che un'intelligenza è "più generale" nella misura in cui è capace di prevedere e controllare in una gamma più ampia di ambienti, nonostante una gamma più ampia di sfide complicate. Ma non possiamo fornirvi un modo per quantificare sfide e ambienti che renda questa una definizione formale.
+Non lo sappiamo. Non esiste ancora una teoria formale matura della "generalità". Possiamo gesticolare e dire che un'intelligenza è "più generale" nella misura in cui è capace di prevedere e avere il controllo in una gamma più ampia di ambienti, nonostante una gamma più ampia di sfide complicate. Ma non possiamo fornirvi un modo per quantificare sfide e ambienti che renda questa una definizione formale.
 
-Questo suona insoddisfacente? Anche noi siamo insoddisfatti. Vorremmo davvero tanto che l'umanità accumulasse una migliore comprensione dell'intelligenza generale prima di tentare di costruire macchine generalmente intelligenti. Questo potrebbe migliorare la terribile situazione tecnica che descriveremo nei Capitoli 10 e 11\. 
+Non è insoddisfacente questo? Anche noi siamo insoddisfatti. Vorremmo davvero tanto che l'umanità accumulasse una migliore comprensione dell'intelligenza generale prima di tentare di costruire macchine generalmente intelligenti. Questo potrebbe migliorare la terribile situazione tecnica che descriveremo nei Capitoli 10 e 11\. 
 
 Sebbene non abbiamo una descrizione formale del fenomeno, possiamo comunque dedurre alcuni fatti sulla generalità osservando il mondo intorno a noi.
 
-Sappiamo che gli esseri umani non nascono con la conoscenza e l'abilità innate per costruire grattacieli e razzi lunari, perché i nostri antenati remoti non hanno mai dovuto lavorare con grattacieli e razzi lunari in un modo che potesse codificare quella conoscenza nei nostri geni. Piuttosto, quelle abilità derivano dal nostro potere di apprendere su domini che non comprendiamo dalla nascita.
+Sappiamo che gli esseri umani non vengono al mondo con la conoscenza e l'abilità innate per costruire grattacieli e razzi lunari, perché i nostri antenati remoti non hanno mai dovuto lavorare con grattacieli e razzi lunari in un modo che potesse codificare quella conoscenza nei nostri geni. Piuttosto, quelle abilità derivano dal nostro potere di apprendere in ambiti che non comprendiamo fin dalla nascita.
 
-Per valutare la generalità, non chiederti quanto qualcosa *sa*. Chiediti quanto *impara*.
+Per valutare la generalità, non chiediamoci quanto qualcosa *sa*. Chiediamoci quanto *impara*.
 
-In un certo senso, gli esseri umani sono studenti più capaci rispetto ai topi. Non è che i topi non possano imparare nulla: ad esempio, possono imparare a orientarsi in un labirinto. Ma gli esseri umani possono imparare cose più complicate e strane rispetto ai topi e possono collegare le loro conoscenze in modo più efficace.
+In un certo senso, gli esseri umani sono studenti più bravi rispetto ai topi. Non è che i topi non possano imparare nulla: ad esempio, possono imparare a orientarsi in un labirinto. Ma gli esseri umani possono imparare cose più complicate e strane rispetto ai topi e possono collegare le loro conoscenze in modo più efficace.
 
 Come funziona esattamente? Cosa abbiamo noi che i topi non hanno? 
 
-Pensa a due persone che stanno imparando a orientarsi in una nuova città dopo essersi trasferite. 
+Si pensi a due persone che stanno imparando a orientarsi in una nuova città dopo essersi trasferite. 
 
 Alice memorizza tutti i percorsi che le servono. Per andare da casa sua al negozio di ferramenta, gira a sinistra sulla Terza Strada, poi a sinistra al secondo semaforo, prosegue per altri due isolati e gira a destra nel parcheggio. Memorizza separatamente il percorso per andare al supermercato e quello per andare al suo ufficio.
 
@@ -468,153 +468,153 @@ Nel frattempo, Beth studia e interiorizza una mappa della città.
 
 Alice se la cava bene nella sua vita di tutti i giorni, ma se deve guidare in un posto nuovo senza indicazioni, è nei guai. Al contrario, Beth deve passare più tempo a pianificare i suoi percorsi, ma è molto più flessibile.
 
-Alice può anche essere più veloce sui percorsi specifici che ha memorizzato, ma Beth sarà più brava a guidare ovunque altrove. Beth avrà anche un vantaggio in altri compiti, come trovare un percorso che minimizzi il traffico nelle ore di punta o persino progettare la viabilità di un'altra città.
+Alice può anche essere più veloce sui percorsi specifici che ha memorizzato, ma Beth sarà più brava a guidare in qualsiasi altro luogo. Beth avrà anche un vantaggio in altri compiti, come trovare un percorso che minimizzi il traffico nelle ore di punta o persino progettare la viabilità di un'altra città.
 
 Sembra che ci siano tipi di apprendimento che assomigliano meno alla memorizzazione di percorsi stradali e più all'interiorizzazione di una mappa. Sembra che ci siano meccanismi mentali che possono essere riutilizzati e adattati a molti scenari diversi. Sembra che ci siano tipi di pensiero che vanno in profondità.
 
 Approfondiremo questo argomento nel capitolo 3.
 
-### L'intelligenza è una semplice quantità scalare? {#is-“intelligence”-a-simple-scalar-quantity?}
+### L'"intelligenza" è una semplice quantità scalare? {#l-“intelligence”-è-una-semplice-quantità-scalare?}
 
 #### **No. Ma ci sono livelli che l'IA non ha ancora raggiunto.** {#no.-ma-ci-sono-livelli-che-l'ia-non-ha-ancora-raggiunto.}
 
 A volte abbiamo sentito dire che l'idea di superintelligenza presuppone che l'"intelligenza" sia una quantità semplice e unidimensionale.[^14] Più ricerca sull'IA fai, più "intelligenza" ottieni, come se l'intelligenza fosse meno simile a una macchina e più simile a un fluido che puoi continuare a pompare dal terreno.
 
-Siamo d'accordo con la critica di fondo: l'intelligenza non è una semplice quantità scalare. Potrebbe non essere sempre semplice costruire IA più intelligenti semplicemente aggiungendo più hardware di calcolo al problema (anche se a volte lo sarà, se l'ultimo decennio è indicativo). Una maggiore intelligenza non sempre si traduce direttamente in un maggiore potere. Il mondo è complicato e le capacità possono incontrare ostacoli e plateau.
+Siamo d'accordo con la critica di fondo: l'intelligenza non è una semplice quantità scalare. Potrebbe non essere sempre semplice costruire IA più intelligenti semplicemente aggiungendo più hardware di calcolo al problema (anche se, se l'ultimo decennio è un buon indicatore, a volte lo sarà). Una maggiore intelligenza non sempre si traduce direttamente in un maggiore potere. Il mondo è complicato e le capacità possono incontrare ostacoli e plateau.
 
-Ma, come abbiamo detto nel Capitolo 1, l'esistenza di complicazioni, limiti e ostacoli non significa che l'IA si arresterà convenientemente vicino al range di capacità umane. I cervelli biologici hanno dei limiti che *non* ci sono nell'IA, come abbiamo detto nel libro.
+Ma, come abbiamo detto nel Capitolo 1, l'esistenza di complicazioni, limiti e ostacoli non significa che l'IA si arresterà opportunamente vicino al range di capacità umane. I cervelli biologici hanno dei limiti che *non* ci sono nell'IA, come abbiamo detto nel libro.
 
-L'intelligenza umana ha molti limiti, eppure ci ha portato sulla luna. L'intelligenza animale non è una quantità scalare unica, eppure gli esseri umani sono in grado di surclassare gli scimpanzé. Per quanto l'intelligenza sia complessa, c'è un divario chiaro e qualitativo tra noi e gli scimpanzé.
+L'intelligenza umana ha molti limiti, eppure ci ha portato sulla luna. L'intelligenza animale non è una quantità scalare univocamente definita, eppure gli esseri umani sono in grado di surclassare gli scimpanzé. Per quanto l'intelligenza sia complessa, c'è un divario chiaro e qualitativo tra noi e gli scimpanzé.
 
 Anche le superintelligenze artificiali potrebbero avere dei limiti e delle complicazioni, ma potrebbero comunque surclassare gli esseri umani. Potrebbe comunque aprirsi un divario qualitativo tra loro e noi, se i ricercatori e gli ingegneri continuano a gareggiare per creare IA sempre più capaci.
 
-### L'IA supererà soglie critiche e decollerà? {#will-ai-cross-critical-thresholds-and-take-off?}
+### L'IA supererà delle soglie critiche e decollerà? {#l-ia-supererà-delle-soglie-critiche-e-decollerà?}
 
-#### **Probabilmente sì.** {#probabilmente.}
+#### **Probabilmente sì.** {#probabilmente-sì.}
 
-Da certi punti di vista, i progressi dell'IA moderna sembrano incrementali.[^15] Per esempio, nell'estate del 2025, la capacità dell'IA di completare compiti lunghi ha seguito più o meno una curva esponenziale negli ultimi anni,[^16] e si potrebbe dire che questo è rassicurantemente incrementale.[^17] Questo significa che i progressi dell'IA saranno belli, lenti e prevedibili?
+Da certi punti di vista, i progressi dell'IA moderna sembrano graduali.[^15] Per esempio, nell'estate del 2025, la capacità dell'IA di completare compiti lunghi ha seguito più o meno la curva esponenziale negli ultimi anni,[^16] e si potrebbe dire che questo è graduale e rassicurante.[^17] Questo significa che i progressi dell'IA saranno belli lenti e prevedibili?
 
-Non necessariamente. Solo perché una quantità sale lentamente o in modo regolare o incrementale, non significa che i risultati siano sempre docili. La fissione nucleare avviene su un continuum, ma c'è una bella differenza tra una reazione a catena nucleare che produce meno di un neutrone per neutrone (in cui la reazione si esaurisce) e una reazione a catena nucleare che produce più di un neutrone per neutrone (che porta a una reazione a catena incontrollabile).
+Non necessariamente. Se una quantità sale lentamente o in modo regolare o graduale, non significa per forza che i risultati siano sempre contenuti. La fissione nucleare avviene su uno spettro continuo, ma c'è una bella differenza tra una reazione nucleare a catena che produce meno di un neutrone per ogni neutrone (in cui la reazione si esaurisce) e una reazione nucleare a catena che produce più di un neutrone per ogni neutrone (che porta a una reazione a catena incontrollabile).
 
-Ma non c'è una grande differenza nella meccanica sottostante tra i due tipi di reazioni nucleari. Aggiungendo un po' più di uranio, il "fattore di moltiplicazione dei neutroni" passa gradualmente da poco meno di uno a poco più di uno. Le reazioni supercritiche non sono causate dai neutroni che colpiscono gli atomi di uranio con tale forza da creare superneutroni. Una piccola quantità in più della stessa sostanza di base provoca un grande cambiamento macroscopico. Questo fenomeno è chiamato "effetto soglia".
+Ma non c'è una differenza netta nei meccanismi di base tra i due tipi di reazioni nucleari. Aggiungendo un po' più di uranio, il "fattore di moltiplicazione dei neutroni" passa gradualmente da poco meno di uno a poco più di uno. Le reazioni supercritiche non sono causate dai neutroni che colpiscono gli atomi di uranio con una forza tale da creare superneutroni. Una piccola quantità in più della stessa sostanza di base provoca un grande cambiamento macroscopico. Questo fenomeno è chiamato "effetto soglia".
 
-Il caso degli esseri umani rispetto agli scimpanzé sembra dimostrare che esiste almeno un effetto soglia in gioco quando si tratta di intelligenza. Gli esseri umani non sono poi così diversi anatomicamente dagli altri animali. Il cervello umano e quello degli scimpanzé sono molto simili all'interno: entrambi hanno una corteccia visiva, un'amigdala e un ippocampo. Gli esseri umani non hanno uno speciale modulo "ingegneristico" in più che spiega perché noi possiamo andare sulla luna e loro no.
+Il caso degli esseri umani rispetto agli scimpanzé sembra dimostrare che nell'intelligenza c'è almeno un effetto soglia in gioco. Gli esseri umani non sono poi così diversi anatomicamente dagli altri animali. Il cervello umano e quello degli scimpanzé sono molto simili all'interno: entrambi hanno una corteccia visiva, un'amigdala e un ippocampo. Gli esseri umani non hanno uno speciale modulo "ingegneristico" in più che spieghi perché noi possiamo andare sulla luna e loro no.
 
 Ci sono alcune differenze di cablaggio e abbiamo una corteccia prefrontale più sviluppata rispetto agli altri primati. Ma a livello di anatomia macroscopica, la differenza principale è che il nostro cervello è tre o quattro volte più grande. In sostanza, utilizziamo una versione più grande e leggermente aggiornata dello stesso hardware.
 
-E i cambiamenti non sono stati improvvisi nella nostra stirpe. Il cervello dei nostri antenati è diventato sempre un po' più grande e un po' migliore, un passo alla volta. Questo è bastato per creare un enorme divario qualitativo in poco tempo (secondo i tempi dell'evoluzione).
+E i cambiamenti non sono stati improvvisi nella nostra stirpe. Il cervello dei nostri antenati è diventato sempre un po' più grande e un po' migliore, un passo alla volta. Questo è bastato per creare un enorme divario qualitativo in poco tempo (su scale di tempo evolutive).
 
 Se può succedere con gli esseri umani, probabilmente può succedere anche con le IA.
 
-#### **Non sappiamo quanto siano lontane le IA da queste soglie.** {#non-sappiamo-quanto-siano-lontane-le-ia-da-queste-soglie.}
+#### **Non sappiamo quanto le IA siano lontane da queste soglie.** {#non-sappiamo-quanto-le-ia-siano-lontane-da-queste-soglie.}
 
-Se sapessimo esattamente cosa è successo negli esseri umani che ci ha permesso di superare la soglia dell'intelligenza generale, potremmo sapere cosa cercare per capire che una soglia critica è vicina. Ma, come vedremo nel capitolo 2, non abbiamo quel livello di comprensione dell'intelligenza. Quindi stiamo procedendo alla cieca, senza avere idea di dove siano le soglie o di quanto siamo vicini ad esse.
+Se sapessimo esattamente che cosa è accaduto negli esseri umani che ci ha permesso di superare la soglia dell'intelligenza generale, forse sapremmo cosa cercare per capire che una soglia critica è vicina. Ma, come vedremo nel capitolo 2, non abbiamo un tale livello di comprensione dell'intelligenza. Quindi stiamo procedendo alla cieca, senza avere idea di dove siano le soglie o di quanto ci siamo vicini.
 
 I recenti progressi nell'IA hanno portato a una maggiore capacità di risolvere problemi matematici e giocare a scacchi, ma non sono stati sufficienti per portare le IA "fino in fondo". Forse basta un modello che sia altre tre o quattro volte più grande, come la differenza tra il cervello degli scimpanzé e quello umano.[^18] O forse no! Forse ci vorrà un'architettura completamente diversa e un decennio di progressi scientifici, come nel caso dei moderni chatbot, che derivano da una nuova architettura inventata nel 2017 (e maturata nel 2022).
 
-Quali cambiamenti nel cervello umano ci hanno fatto superare una soglia critica? Forse è stata la nostra capacità di comunicare. Forse è stata la nostra capacità di afferrare concetti astratti in modi che hanno reso la comunicazione così preziosa. Forse stiamo ragionando in termini completamente sbagliati e il cambiamento chiave è stato qualcosa di strano che oggi non è nel nostro radar. Forse è stata una grande combinazione di fattori, ognuno dei quali doveva essere abbastanza maturo da potersi combinare con gli altri in quel tipo di intelligenza che ha permesso agli esseri umani di arrivare sulla luna.
+Quali cambiamenti nel cervello umano ci hanno fatto superare una soglia critica? Forse è stata la nostra capacità di comunicare. Forse è stata la nostra capacità di afferrare concetti astratti in modi che hanno reso la comunicazione così preziosa. Forse stiamo ragionando in termini completamente sbagliati e il cambiamento chiave è stato qualcosa di strano che oggi non è nel nostro radar. Forse è stata una grande combinazione di fattori, ognuno dei quali doveva essere abbastanza maturo da potersi combinare con gli altri per formare quel tipo di intelligenza che ha permesso agli esseri umani di arrivare sulla luna.
 
 Non lo sappiamo. E poiché non lo sappiamo, non possiamo guardare un'intelligenza artificiale moderna e sapere quanto sia vicina o lontana da quella stessa soglia critica.
 
-L'alba della scienza e dell'industria ha cambiato radicalmente la civiltà umana. L'alba del linguaggio potrebbe aver avuto conseguenze simili per i nostri antenati. Ma se così fosse, non c'è alcuna garanzia che una di queste capacità agisca come una "soglia critica" per l'IA, perché a differenza degli esseri umani, le IA possedevano fin dall'inizio una certa conoscenza del linguaggio, della scienza e dell'industria.
+L'avvento della scienza e dell'industria ha cambiato radicalmente la civiltà umana. L'avvento del linguaggio potrebbe aver avuto conseguenze simili per i nostri antenati. Ma se così fosse, non c'è alcuna garanzia che una di queste capacità agisca come una "soglia critica" per l'IA, perché a differenza degli esseri umani, le IA possedevano fin dall'inizio una certa conoscenza del linguaggio, della scienza e dell'industria.
 
-O forse la soglia critica per l'umanità era una combinazione di molti fattori, dove ognuno di essi doveva essere "abbastanza buono" perché tutto il sistema funzionasse. Le IA potrebbero rimanere indietro in alcune capacità in cui gli ominidi erano più bravi, come la memoria a lungo termine, ma potrebbero comunque mostrare un salto importante nelle capacità pratiche una volta che l'ultimo pezzo andrà al suo posto.
+O forse la soglia critica per l'umanità era una combinazione di molti fattori, dove ognuno di essi doveva essere "abbastanza buono" perché tutto il sistema funzionasse. Le IA potrebbero rimanere indietro in alcune capacità in cui gli ominidi erano più bravi, come la memoria a lungo termine, ma potrebbero comunque mostrare un salto importante nelle capacità pratiche una volta che l'ultimo tassello si incastrerà al suo posto.
 
 Anche se nessuna di queste analogie tra IA e esseri umani dovesse rivelarsi valida, ci saranno probabilmente altre dinamiche che renderanno il progresso dell'IA irregolare e difficile da prevedere.
 
 Forse i deficit nella memoria a lungo termine e nell'apprendimento continuo stanno frenando le IA in un modo che non ha mai ostacolato gli esseri umani. Forse, una volta risolti questi problemi, qualcosa "scatterà" e l'IA sembrerà ottenere una sorta di "scintilla" di intelligenza.
 
-Oppure (come discusso nel libro) considerate il punto in cui le IA possono costruire IA più intelligenti, che a loro volta costruiscono IA ancora più intelligenti, in un ciclo di retroazione. I cicli di retroazione sono una causa comune degli effetti soglia.
+Oppure (come discusso nel libro) si pensi al punto in cui le IA possono costruire IA più intelligenti, che a loro volta costruiscono IA ancora più intelligenti, in un ciclo di retroazione. I cicli di retroazione sono una causa comune degli effetti soglia.
 
-Per quanto ne sappiamo, potrebbero esserci una dozzina di fattori diversi che potrebbero servire come "pezzo mancante", così che, una volta che un laboratorio di IA capisce quell'ultimo pezzo del puzzle, la loro IA inizia davvero a decollare e a separarsi dal gruppo, proprio come l'umanità si è separata dal resto degli animali. I momenti critici potrebbero arrivare in fretta. Non abbiamo necessariamente tutto questo tempo per prepararci.
+Per quanto ne sappiamo, potrebbero esserci una dozzina di fattori diversi che potrebbero servire come "tassello mancante", così che, quando un laboratorio di IA comprende quell'ultimo pezzo del puzzle, la loro IA inizia davvero a decollare e a separarsi dal gruppo, proprio come l'umanità si è separata dal resto degli animali. I momenti critici potrebbero arrivare in fretta. Non abbiamo necessariamente tutto questo tempo per prepararci.
 
-#### **\* La velocità di decollo non influisce sul risultato, ma la possibilità di un decollo veloce significa che dobbiamo agire presto.** {#*-la-velocità-di-decollo-non-influisce-sul-risultato,-ma-la-possibilità-di-un-decollo-veloce-significa-che-dobbiamo-agire-presto.}
+#### **\* La velocità di decollo non influisce sul risultato, ma la possibilità di un decollo veloce implica che dobbiamo agire presto.** {#*-la-velocità-di-decollo-non-influisce-sul-risultato,-ma-la-possibilità-di-un-decollo-veloce-implica-che-dobbiamo-agire-presto.}
 
-Alla fine, le soglie non contano molto nell'argomentazione secondo cui se qualcuno costruisce una superintelligenza artificiale, allora tutti moriranno. Le nostre argomentazioni non richiedono che qualche IA capisca come auto-migliorarsi ricorsivamente e poi diventi superintelligente a una velocità senza precedenti. Questo potrebbe accadere, e pensiamo che sia abbastanza probabile che accadrà, ma non importa per l'affermazione che l'IA è sulla buona strada per ucciderci tutti.
+Alla fin fine, le soglie non contano molto nell'argomentazione secondo cui, se qualcuno costruisce una superintelligenza artificiale, allora tutti moriranno. Le nostre argomentazioni non richiedono che qualche IA capisca come auto-migliorarsi ricorsivamente e poi diventi superintelligente a una velocità senza precedenti. Questo potrebbe accadere, e pensiamo che sia abbastanza probabile che accadrà, ma non è necessario per affermare che l'IA è sulla buona strada per ucciderci tutti.
 
-Tutto ciò che richiedono le nostre argomentazioni è che le IA continuino a migliorare sempre di più nella previsione e nel dirigere il mondo, fino a superarci. Non importa molto se ciò avverrà rapidamente o lentamente.
+Tutto ciò che richiedono le nostre argomentazioni è che le IA continuino a migliorare sempre di più nel fare previsioni e nel dirigere il mondo, fino a superarci. Non importa molto se ciò avverrà rapidamente o lentamente.
 
-L'importanza degli effetti soglia sta nel fatto che aumentano l'importanza di una reazione *rapida* dell'umanità alla minaccia. Non possiamo permetterci il lusso di aspettare che l'IA sia *leggermente* migliore di ogni essere umano in ogni attività mentale, perché a quel punto potrebbe non esserci più molto tempo a disposizione. Sarebbe come guardare i primi ominidi che accendono il fuoco, sbadigliare e dire: "Svegliatemi quando saranno a metà strada verso la luna".
+L'importanza degli effetti soglia sta nel fatto che aumentano l'importanza di una reazione *rapida* alla minaccia da parte dell'umanità. Non possiamo permetterci il lusso di aspettare che l'IA sia *leggermente* migliore di ogni essere umano in ogni attività mentale, perché a quel punto potrebbe non esserci più molto tempo a disposizione. Sarebbe come guardare i primi ominidi che accendono il fuoco, sbadigliare e dire: "Svegliatemi quando saranno a metà strada verso la luna".
 
 Gli ominidi hanno impiegato milioni di anni per arrivare a metà strada dalla luna e due giorni per completare il resto del viaggio. Quando possono esserci delle soglie, bisogna stare attenti *prima* che le cose sfuggano visibilmente di mano, perché a quel punto potrebbe essere troppo tardi.
 
 ### ChatGPT non è già un'intelligenza generale? {#chatgpt-non-è-già-un'intelligenza-generale?}
 
-#### **Puoi chiamarlo così, se vuoi.** {#puoi-chiamarlo-così-se-vuoi.}
+#### **Se volete, potete definirla così.** {#se-volete,-potete-definirla-così.}
 
-ChatGPT e i suoi simili sono più generali rispetto alle IA che li hanno preceduti. Possono fare un po' di matematica, scrivere poesie e codice. ChatGPT non sempre riesce a fare queste cose *bene* (agosto 2025), ma è in grado di fare moltissime cose.
+ChatGPT e i suoi simili sono più generali rispetto alle IA che li hanno preceduti. Sono capaci di fare un po' di matematica, scrivere poesie e codice. ChatGPT non sempre riesce a fare queste cose *bene* (agosto 2025), ma è in grado di fare moltissime cose.
 
-È ragionevole supporre che GPT-5 sia ancora meno generale nel ragionamento rispetto a un bambino umano. Certo, può recitare da più libri di testo, ma è plausibile che abbia memorizzato un volume molto maggiore di schemi superficiali rispetto a quelli che userebbe un bambino umano, mentre un bambino usa plausibilmente ingranaggi mentali più profondi per completare compiti simili (con risultati migliori in alcuni casi e peggiori in altri).
+È ragionevole supporre che GPT-5 sia ancora meno generale nel ragionamento rispetto a un bambino umano. Certo, può recitare da un numero maggiore di manuali. Ma è plausibile che abbia memorizzato un volume molto maggiore di strutture superficiali rispetto a quelle che userebbe un bambino umano, mentre un bambino usa plausibilmente ingranaggi mentali più profondi per completare compiti simili (con risultati migliori in alcuni casi e peggiori in altri).
 
 Se noi autori fossimo costretti a confrontare i due, diremmo che ChatGPT sembra generalmente più stupido in un senso profondo rispetto a un essere umano, e non solo perché (mentre scriviamo questa frase nel luglio 2025) i chatbot hanno memorie episodiche limitate.
 
-Ci sono almeno alcune persone che ribatterebbero: "Cosa intendi? ChatGPT sa parlare, può avere conversazioni emotivamente profonde con me, può risolvere problemi matematici avanzati e scrivere codice, cose che molti esseri umani non sanno fare. Chi può dire che sia più stupido di un essere umano?". Dieci anni fa non ci saremmo mai trovati di fronte a una conversazione del genere, il che dice *qualcosa* sui progressi compiuti da allora.
+Ci sono sicuramente alcune persone che ribatterebbero: "Cosa intendete? ChatGPT sa parlare, sa fare conversazioni emotivamente profonde con me, sa risolvere problemi matematici avanzati e scrivere codice, cose che molti esseri umani non sanno fare. Chi può dire che sia più stupido di un essere umano?". Dieci anni fa non ci saremmo mai trovati di fronte a una conversazione del genere, il che dà *qualche indicazione* sui progressi compiuti da allora.
 
-Il mondo è forse a metà strada tra "Le IA sono chiaramente più stupide degli esseri umani" e "Dipende da cosa chiedi all'IA di fare".
+Forse il mondo è a metà strada tra "Le IA sono chiaramente più stupide degli esseri umani" e "Dipende da cosa chiedi all'IA di fare".
 
-Forse quello che serve per colmare la distanza rimanente è solo un po' più di scala, come il cervello umano che sembra sostanzialmente simile a quello degli scimpanzé, ma è tre o quattro volte più grande. O forse l'architettura alla base di ChatGPT è troppo superficiale per supportare la "scintilla" della generalità.
+Forse per coprire la distanza che resta basta semplicemente aumentare ancora un po’ la scala, un po' come per il cervello umano, che sembra sostanzialmente simile a quello degli scimpanzé ma è tre o quattro volte più grande. O forse l'architettura alla base di ChatGPT è troppo superficiale per supportare la "scintilla" della generalità.
 
-Forse c'è qualche componente importante dell'intelligenza generale che gli algoritmi moderni di IA non riescono a gestire, e le IA moderne compensano questo limite applicando enormi quantità di pratica e memorizzazione a quei tipi di compiti che possono essere risolti con la pratica bruta. In questo caso, forse basta una sola brillante (e anche incredibilmente stupida) invenzione algoritmica per colmare tale deficit, e le IA saranno in grado di comprendere la maggior parte delle cose che un essere umano può comprendere e di imparare dall'esperienza in modo efficiente quanto un essere umano. (Pur continuando a essere in grado di leggere e memorizzare l'intero Internet.) O forse ci vorranno altre quattro scoperte algoritmiche. Nessuno lo sa, come discusso nel capitolo 2\.
+Forse c'è qualche componente importante dell'intelligenza generale che gli algoritmi moderni di IA non riescono a gestire, e le IA moderne compensano questo limite applicando enormi quantità di pratica e memorizzazione a quei tipi di compiti che possono essere risolti con della pratica intensa e ripetitiva. In questo caso, forse basta una sola brillante (e anche incredibilmente stupida) invenzione algoritmica per colmare tale deficit, e poi le IA saranno in grado di comprendere la maggior parte delle cose che un essere umano può capiree e di imparare dall'esperienza in modo efficiente quanto un essere umano. (Pur continuando a essere in grado di leggere e memorizzare tutto l'Internet.) O forse ci vorranno altre quattro scoperte algoritmiche. Nessuno lo sa, come discusso nel capitolo 2\.
 
 #### **\* Ci sono molte cose diverse che si possono intendere con "intelligenza generale".** {#*-ci-sono-molte-cose-diverse-che-si-possono-intendere-con-"intelligenza-generale".}
 
-Quando si dice "le IA ora sono generalmente intelligenti", qualcuno potrebbe intendere che le IA abbiano acquisito quella combinazione di abilità, ancora poco compresa, che ha fatto esplodere tutto sotto forma di civiltà umana.
+Quando si dice "le IA ora sono generalmente intelligenti", qualcuno potrebbe intendere che le IA abbiano acquisito quella combinazione di abilità, ancora poco compresa, che ha fatto scatenare il caos nella forma dei una civiltà umana.
 
-Oppure potrebbe significare che l'IA è almeno arrivata al punto che ora le persone discutono *con veemenza* se siano più intelligenti gli esseri umani o le IA.
+Oppure potrebbe significare che l'IA è arrivata almeno al punto in cui le persone ora discutono *con veemenza* se siano più intelligenti gli esseri umani o le IA.
 
-Oppure potrebbero pensare a un momento in cui le persone avranno smesso di discutere, perché sarà chiaro che le IA sono decisamente e in generale più intelligenti di qualsiasi essere umano. O a un momento in cui le persone avranno smesso di discutere, perché non ci sarà più nessuno con cui discutere; l'umanità si sarà spinta troppo oltre e l'IA avrà messo fine a tutte le nostre discussioni e ai nostri sforzi.
+Oppure si potrebbe pensare a un momento in cui le persone avranno smesso di discutere, perché sarà chiaro che le IA sono decisamente e in generale più intelligenti di qualsiasi essere umano. O a un momento in cui le persone avranno smesso di discutere, perché non ci sarà più nessuno con cui discutere; l'umanità si sarà spinta troppo oltre e l'IA avrà messo fine a tutte le nostre discussioni e ai nostri sforzi.
 
-Non c'è stato un giorno e un'ora precisi in cui si possa dire che le IA "hanno iniziato a giocare a scacchi a livello umano". Ma quando le IA scacchistiche sono riuscite a schiacciare il campione mondiale umano, quel momento era già passato.
+Non c'è stato un giorno e un'ora precisi in cui si possa dire che le IA "abbiano iniziato a giocare a scacchi a livello umano". Ma quando le IA scacchistiche sono riuscite a schiacciare il campione mondiale umano, quel momento era già passato.
 
-Tutto questo per dire che la risposta alla domanda "ChatGPT è generalmente intelligente?" potrebbe essere sì o no, a seconda di cosa intendi esattamente con la domanda. (Questo dice molto sui progressi dell'IA negli ultimi anni! Deep Blue era chiaramente piuttosto specializzato.)
+Tutto questo per dire che la risposta alla domanda "ChatGPT è generalmente intelligente?" potrebbe essere sì o no, a seconda di cosa si intende esattamente con la domanda. (E questo testimonia in modo chiaro i progressi dell'IA negli ultimi anni\! Deep Blue era chiaramente piuttosto specializzato.)
 
 #### **La superintelligenza è una distinzione più importante.** {#superintelligenza-è-una-distinzione-più-importante.}
 
 Visto che ci sono diverse cose che "intelligenza di livello umano" potrebbe ragionevolmente significare, di solito eviteremo di usare questa terminologia, tranne quando parliamo di IA superumana. Questo è anche il motivo per cui di solito evitiamo di dire "intelligenza artificiale generale". Se dobbiamo parlare di una di queste idee, la spiegheremo in modo più dettagliato.
 
-Useremo termini come "IA più intelligente dell'uomo", "IA superumana" o "superintelligenza", che presuppongono un qualche tipo di riferimento umano:
+Useremo termini come "IA più intelligente dell'uomo", "IA superumana" o "superintelligenza", che presuppongono un qualche tipo di punto di riferimento umano:
 
 * Con "**IA più intelligente dell'uomo**" o "**IA superumana**" (qui e nel libro), intendiamo un'IA che possiede quella "scintilla di generalità" che distingue gli esseri umani dagli scimpanzé *e* che è chiaramente migliore, nel complesso, dei singoli esseri umani più intelligenti nel risolvere problemi e capire cosa è vero.
 
   L'IA superumana potrebbe essere solo *leggermente* più intelligente degli esseri umani più brillanti, e potrebbero esserci alcuni compiti in cui questi ultimi continuano a ottenere risultati migliori. Tuttavia, qui e nel libro, supporremo che "IA più intelligente dell'uomo" significhi *almeno* che, in un confronto equo su un'ampia gamma di compiti complessi, l'IA otterrebbe risultati migliori rispetto agli esseri umani più competenti, in tutti i tipi di compiti difficili.
 
-* Con "**IA superintelligente**" o "**superintelligenza artificiale**" (ASI), invece, intendiamo un'IA superumana che supera *vastamente* l'intelligenza umana. Assumiamo che i singoli esseri umani e i gruppi di esseri umani nel mondo reale siano completamente incapaci di competere con l'IA superintelligente in qualsiasi ambito di importanza pratica, per i motivi discussi nel capitolo 6.
+* Con "**IA superintelligente**" o "**superintelligenza artificiale**" (SIA), invece, intendiamo un'IA superumana che supera *di gran lunga* l'intelligenza umana. Assumiamo che i singoli esseri umani e i gruppi di esseri umani nel mondo reale siano completamente incapaci di competere con l'IA superintelligente in qualsiasi ambito di importanza pratica, per i motivi discussi nel capitolo 6.
 
-Il libro userà principalmente i termini "superumano" e "superintelligente" in modo intercambiabile. La distinzione diventa più rilevante nella Parte II, dove descriviamo uno scenario di conquista del potere da parte dell'IA in cui le IA iniziano con un'intelligenza debolmente superiore a quella umana, ma *non* superintelligente. Questo aiuta a illustrare che la superintelligenza è plausibilmente eccessiva: l'IA potrebbe diventare superintelligente presto, ma non *ha bisogno* di essere così intelligente per causare l'estinzione umana.
+Il libro userà principalmente i termini "superumano" e "superintelligente" in modo intercambiabile. La distinzione diventa più rilevante nella Parte II, dove descriviamo uno scenario di conquista del potere da parte dell'IA in cui le IA iniziano con un'intelligenza debolmente superiore a quella umana, ma *non* superintelligente. Questo aiuta a illustrare il fatto che la superintelligenza è plausibilmente eccessiva: l'IA potrebbe diventare superintelligente presto, ma non *ha bisogno* di essere così intelligente per causare l'estinzione umana.
 
 Queste sono definizioni molto approssimative, ma sono sufficienti per gli scopi di questo libro.
 
-Questo libro non propone una teoria complessa dell'intelligenza, per poi dedurne qualche implicazione esoterica della teoria che preannuncia un disastro. Invece, opereremo a un livello piuttosto basilare, con affermazioni come:
+Questo libro non propone una teoria complessa dell'intelligenza, per poi dedurne qualche implicazione esoterica che preannuncia il disastro. Invece, opereremo a un livello piuttosto basilare, con affermazioni come:
 
 * A un certo punto, l'IA probabilmente raggiungerà pienamente *qualsiasi cosa sia* che permette agli esseri umani (e non agli scimpanzé) di costruire razzi, centrifughe e città.  
 * A un certo punto, l'IA *supererà* gli esseri umani.  
-* Le IA potenti probabilmente avranno i propri obiettivi che perseguiranno con tenacia, perché perseguire con tenacia gli obiettivi è utile per un'ampia gamma di compiti (e, ad esempio, gli esseri umani hanno sviluppato obiettivi proprio per questo motivo).
+* Le IA potenti probabilmente avranno i propri obiettivi che perseguiranno con tenacia, perché perseguire con tenacia gli obiettivi è utile per un'ampia gamma di lavori (e, ad esempio, gli esseri umani hanno sviluppato obiettivi proprio per questo motivo).
 
 Affermazioni come queste, giuste o sbagliate che siano, non dipendono dal fatto che abbiamo una comprensione speciale di tutti i meccanismi interni dell'intelligenza. Possiamo vedere il camion che si dirige verso di noi, anche senza appellarci a un modello complicato del suo funzionamento interno. O almeno così sosterremo.
 
-E argomenti semplici come questi non dipendono dal fatto che ChatGPT sia "davvero" al livello umano o "davvero" un'intelligenza generale. Fa quello che fa. Le future IA faranno più cose e meglio. Il resto del libro parla di dove porterà questo percorso.
+E argomentazioni semplici come queste non dipendono dal fatto che ChatGPT sia "davvero" al livello umano o "davvero" un'intelligenza generale. Fa quello che fa. Le future IA faranno più cose e meglio. Il resto del libro parla di dove porterà questo percorso.
 
-### Quanto potrebbe diventare intelligente una superintelligenza? {#how-smart-could-a-superintelligence-get?}
+### Quanto potrebbe diventare intelligente una superintelligenza? {#quanto-potrebbe-diventare-intelligente-una-superintelligenza?}
 
 #### **Molto intelligente.** {#molto-intelligente.}
 
 Per ogni punto dell'elenco del Capitolo 1 sui motivi per cui i cervelli umani non sono vicini ai limiti delle possibilità fisiche, le macchine *potrebbero* avvicinarsi a quei limiti.
 
-Le leggi della fisica permettono l'esistenza di geni che pensano decine di migliaia (se non milioni o miliardi) di volte più velocemente degli esseri umani,[^19] che non hanno mai bisogno di dormire o mangiare e che possono creare copie di se stessi e scambiarsi esperienze.
+Le leggi della fisica permettono l'esistenza di geni che pensano decine di migliaia (se non milioni o miliardi) di volte più velocemente degli esseri umani,[^19] che non hanno mai bisogno di dormire o mangiare e che possono creare copie di loro stessi e scambiarsi esperienze.
 
 E questo senza nemmeno considerare i miglioramenti alla *qualità* della cognizione di un'IA.
 
-Anche se l'IA fosse fortemente superiore agli esseri umani solo in una o due dimensioni, questo potrebbe bastare per un vantaggio decisivo. Nel corso della storia, gruppi di esseri umani hanno ripetutamente sfruttato vantaggi relativamente piccoli nella scienza, nella tecnologia e nella pianificazione strategica per raggiungere posizioni dominanti su altri gruppi. Pensa, per esempio, ai conquistadores spagnoli. E questo senza grandi differenze nell'architettura o nelle dimensioni del cervello.
+Anche se l'IA fosse fortemente superiore agli esseri umani solo in una o due dimensioni, questo potrebbe bastare per un vantaggio decisivo. Nel corso della storia, gruppi di esseri umani hanno ripetutamente sfruttato vantaggi relativamente piccoli nella scienza, nella tecnologia e nella pianificazione strategica per raggiungere posizioni dominanti su altri gruppi. Si pensi, per esempio, ai conquistadores spagnoli. E questo senza grandi differenze nell'architettura o nelle dimensioni del cervello.
 
 Anche piccoli vantaggi intellettuali possono tradursi in grandi vantaggi pratici, e anche piccoli vantaggi possono accumularsi estremamente velocemente. Ma i probabili vantaggi dell'IA sembrano tutt'altro che piccoli.
 
-Per ulteriori argomenti sul fatto che questo livello di intelligenza *sia importante* — che possa tradursi in potere nel mondo reale — si veda il Capitolo 6.
+Per ulteriori argomentazioni sul fatto che questo livello di intelligenza *sia importante*, cioè che possa tradursi in potere nel mondo reale, si veda il Capitolo 6.
 
 ### Ma non ci sono grossi ostacoli per arrivare alla superintelligenza? {#ma-non-ci-sono-grossi-ostacoli-per-arrivare-alla-superintelligenza?}
 
 #### **Non è chiaro.** {#non-è-chiaro.}
 
-In larga misura, il campo sta procedendo alla cieca. Potrebbe essere che non ci siano più ostacoli reali e che piccoli aggiustamenti alle tecniche attuali portino alla superintelligenza, o portino a IA abbastanza intelligenti da costruire IA leggermente più intelligenti che costruiscono IA leggermente più intelligenti che costruiscono IA superintelligenti.
+In gran parte, il campo sta procedendo alla cieca. Potrebbe essere che non ci siano più ostacoli reali e che piccoli aggiustamenti alle tecniche attuali portino alla superintelligenza, o portino a IA abbastanza intelligenti da costruire IA leggermente più intelligenti che costruiscono IA leggermente più intelligenti che costruiscono IA superintelligenti.
 
 Se ci sono ostacoli importanti, non sappiamo quanto tempo ci vorrà all'umanità per superarli (con o senza l'aiuto dell'IA).
 
@@ -622,23 +622,23 @@ Quello che sappiamo è che i principali laboratori di IA stanno spingendo esplic
 
 #### **\* Il settore è bravo a superare gli ostacoli.** {#*-il-settore-è-bravo-a-superare-gli-ostacoli.}
 
-Per decenni, le IA hanno faticato persino a distinguere l'immagine di un gatto da quella di un'auto. La svolta è arrivata nel 2012, quando i ricercatori dell'Università di Toronto Alex Krizhevsky, Ilya Sutskever e Geoffrey Hinton hanno progettato [AlexNet](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), una rete neurale convoluzionale che ha superato di gran lunga lo stato dell'arte. Questo evento è ampiamente riconosciuto come l'inizio della rivoluzione moderna dell'IA, in cui le reti neurali artificiali sono utilizzate per alimentare quasi tutte le IA moderne.
+Per decenni, le IA hanno faticato persino a distinguere un'immagine di un gatto da quella di un'auto. La svolta è arrivata nel 2012, quando i ricercatori dell'Università di Toronto Alex Krizhevsky, Ilya Sutskever e Geoffrey Hinton hanno progettato [AlexNet](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), una rete neurale convoluzionale che ha superato di gran lunga lo stato dell'arte. Questo evento è ampiamente riconosciuto come l'inizio della rivoluzione moderna dell'IA, in cui le reti neurali artificiali sono utilizzate per far funzionare quasi tutte le IA moderne.
 
-L'IA era scarsa nei giochi da tavolo. Anche dopo che l'IA per gli scacchi [Deep Blue](https://www.ibm.com/history/deep-blue) ha sconfitto il grande maestro Garry Kasparov nel 1997, i computer facevano fatica con il numero molto più grande di mosse possibili nel gioco del Go. Questo fino al 2016, quando [AlphaGo](https://deepmind.google/research/projects/alphago/) ha battuto il campione del mondo Lee Sedol dopo essersi addestrato su migliaia di partite giocate da umani, usando una nuova architettura che combinava reti neurali profonde con la ricerca ad albero. Dopo aver battuto il Go, il team di DeepMind ha usato lo stesso algoritmo in modo più generale, chiamato [AlphaZero](https://deepmind.google/discover/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/), e ha scoperto che dominava non solo nel Go, ma anche in altri giochi come gli scacchi e lo shogi.
+L'IA non era brava nei giochi da tavolo. Anche dopo che l'IA per gli scacchi [Deep Blue](https://www.ibm.com/history/deep-blue) ha sconfitto il grande maestro Garry Kasparov nel 1997, i computer facevano fatica con il numero molto più grande di mosse possibili nel gioco del Go. Questo fino al 2016, quando [AlphaGo](https://deepmind.google/research/projects/alphago/) ha battuto il campione del mondo Lee Sedol dopo essersi addestrato su migliaia di partite giocate da umani, usando una nuova architettura che combinava reti neurali profonde con la ricerca ad albero. Dopo aver battuto il Go, il team di DeepMind ha usato lo stesso algoritmo in modo più generale, chiamato [AlphaZero](https://deepmind.google/discover/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/), e ha scoperto che dominava non solo nel Go, ma anche in altri giochi come gli scacchi e lo shogi.
 
-I primi chatbot erano comunicatori limitati.[^20] Poi, nel 2020, la maturazione dell'architettura transformer ci ha dato [GPT-3](https://arxiv.org/abs/2005.14165), che era abbastanza sofisticato da tradurre testi, rispondere a domande e persino generare campioni di articoli di notizie che sembravano reali. Una volta riaddestrato leggermente per comportarsi come un chatbot, è diventato l'applicazione consumer con la crescita più rapida di tutti i tempi.[^21]
+I primi chatbot erano comunicatori limitati.[^20] Poi, nel 2020, il maturarsi dell'architettura dei trasformatori ha reso possibile [GPT-3](https://arxiv.org/abs/2005.14165), che era abbastanza sofisticato da tradurre testi, rispondere a domande e persino generare campioni di articoli di notizie che sembravano reali. Una volta riaddestrato leggermente per comportarsi come un chatbot, è diventato l'applicazione consumer con la crescita più rapida di tutti i tempi.[^21]
 
 Ci sono ostacoli tra l'IA moderna e quella "vera", il tipo di IA che potrebbe diventare o creare una superintelligenza?
 
-Forse sì. Forse servono più intuizioni architettoniche, come quelle dietro AlexNet che hanno aperto le porte all'intero campo dell'IA moderna, o quelle dietro AlphaZero che hanno finalmente permesso alle IA di eccellere in più giochi utilizzando lo stesso algoritmo, o quelle dietro ChatGPT che hanno fatto sì che i computer iniziassero a parlare. (O forse no; forse le moderne IA supereranno silenziosamente [qualche soglia](#will-ai-cross-critical-thresholds-and-take-off?) e sarà tutto lì.)
+Forse sì. Forse servono più intuizioni architettoniche, come quelle dietro ad AlexNet che hanno aperto la strada all'intero campo dell'IA moderna, o quelle dietro ad AlphaZero che hanno finalmente permesso alle IA di eccellere in più giochi utilizzando lo stesso algoritmo, o quelle dietro a ChatGPT che hanno fatto sì che i computer iniziassero a parlare. (O forse no; forse le moderne IA supereranno silenziosamente [qualche soglia](#will-ai-cross-critical-thresholds-and-take-off?) e sarà tutto lì.)
 
 Ma se ci sono ancora degli ostacoli, i ricercatori del settore probabilmente li supereranno. Sono piuttosto bravi in questo, e ora ci sono molti più ricercatori che lavorano a questo problema rispetto al 2012.[^22]
 
-A partire da luglio 2025, le IA fanno fatica con compiti che richiedono memoria a lungo termine e pianificazione coerente, come giocare al videogioco Pokémon. Si potrebbe essere tentati di unirsi agli scettici e ridere degli ultimi fallimenti delle IA: come possono delle IA che fanno fatica con semplici videogiochi avvicinarsi alla superintelligenza?
+A luglio 2025, le IA faticano a svolgere compiti che richiedono memoria a lungo termine e pianificazione coerente, come giocare al videogioco Pokémon. Si potrebbe essere tentati di unirsi agli scettici e ridere degli ultimi fallimenti delle IA: come possono delle IA che faticano con semplici videogiochi avvicinarsi alla superintelligenza?
 
 Allo stesso modo, nel 2019 le IA facevano davvero fatica a parlare in modo coerente. Ma questo non significava che il successo fosse lontano vent'anni. I laboratori stanno lavorando sodo per capire cosa impedisce alle IA di fare bene in certi tipi di compiti e probabilmente stanno trovando nuove architetture che funzionano meglio con la memoria a lungo termine e la pianificazione. Nessuno sa cosa saranno in grado di fare queste IA.
 
-Se questa fase non sarà abbastanza per far sì che le IA inizino ad automatizzare la ricerca scientifica e tecnologica (compreso lo sviluppo di IA ancora più intelligenti), i ricercatori si concentreranno semplicemente sul prossimo ostacolo. Continueranno ad andare avanti, a meno che e fino a quando l'umanità non intervenga e vieti tale ricerca, un argomento che tratteremo nei capitoli successivi.
+Se questa nuova fase non sarà sufficiente perché le IA comincino ad automatizzare la ricerca scientifica e tecnologica (compreso lo sviluppo di IA ancora più intelligenti), i ricercatori si concentreranno semplicemente sull'ostacolo successivo. Continueranno ad andare avanti, a meno che e fino a quando l'umanità non intervenga e vieti tale ricerca, un argomento che tratteremo nei capitoli successivi.
 
 ### Non è impossibile prevedere il comportamento di una superintelligenza? {#non-è-impossibile-prevedere-il-comportamento-di-una-superintelligenza?}
 
@@ -646,7 +646,7 @@ Se questa fase non sarà abbastanza per far sì che le IA inizino ad automatizza
 
 Stockfish 17 è più bravo di noi a gestire una partita a scacchi. Se giocassimo una partita contro Stockfish, non riusciremmo a prevedere le sue mosse: per farlo dovremmo essere bravi almeno quanto Stockfish 17\. Ma sarebbe facile per noi prevedere chi vincerà la partita.[^24] È difficile prevedere quali mosse farà Stockfish; è facile prevedere che *vincerà.*
 
-Lo stesso vale per le IA che prevedono e guidano il mondo reale. Più sono intelligenti, più è difficile prevedere esattamente cosa faranno, ma più è facile prevedere che raggiungeranno la destinazione verso cui si stanno dirigendo.
+Lo stesso vale per le IA capaci di prevedere e guidare il mondo reale. Più sono intelligenti, più è difficile prevedere esattamente cosa faranno, ma più è facile prevedere che raggiungeranno la destinazione verso cui si stanno dirigendo.
 
 ### Le macchine non saranno fondamentalmente prive di creatività o comunque fatalmente imperfette? {#le-macchine-non-saranno-fondamentalmente-prive-di-creatività-o-altrimenti-fatalmente-imperfette?}
 
