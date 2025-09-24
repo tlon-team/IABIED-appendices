@@ -94,55 +94,55 @@ Hay predicciones fáciles y predicciones difíciles. No pretendemos ser capaces 
 
 No saber cuándo llegará la IA no es lo mismo que saber que aún queda mucho tiempo para ello.
 
-En 2021, la comunidad de pronosticadores del sitio web Metaculus [estimó](https://www.metaculus.com/questions/5121/date-of-artificial-general-intelligence/) que la primera «IA verdaderamente general» llegaría en 2049. Un año después, en 2022, esa predicción conjunta de la comunidad se había reducido en doce años, hasta 2037. Otro año más tarde, en 2023, se había reducido otros cuatro años, hasta 2033. [Una vez más](https://x.com/slow_developer/status/1947248501743599705) y [otra vez](https://forecastingresearch.org/near-term-xpt-accuracy), los pronosticadores se han visto sorprendidos por el rápido avance de la IA, y sus estimaciones temporales varían enormemente de un año a otro.
+En 2021, la comunidad de pronosticadores del sitio web Metaculus [estimó](https://www.metaculus.com/questions/5121/date-of-artificial-general-intelligence/) que la primera «IA verdaderamente general» llegaría en 2049\. Un año después, en 2022, esa predicción conjunta de la comunidad se había reducido en doce años, hasta 2037\. Otro año más tarde, en 2023, se había reducido otros cuatro años, hasta 2033\. [Una vez más](https://x.com/slow_developer/status/1947248501743599705) y [otra vez](https://forecastingresearch.org/near-term-xpt-accuracy), los pronosticadores se han visto sorprendidos por el rápido avance de la IA, y sus estimaciones temporales varían enormemente de un año a otro.
 
-Este fenómeno no es exclusivo de Metaculus. Una organización llamada 80.000 Horas [documenta](https://80000hours.org/2025/03/when-do-experts-expect-agi-to-arrive/) otros casos en los que muchos grupos de expertos en pronósticos han acortado rápidamente sus plazos. E incluso los superpronosticadores, que ganan constantemente torneos de pronósticos y a menudo superan a los expertos en la materia en su capacidad para pronosticar el futuro, solo asignaron un [2,3 % de probabilidad](https://forecastingresearch.org/near-term-xpt-accuracy) a que las IA consiguieran la medalla de oro de la Olimpiada Internacional de Matemática para el año 2025. Las IA [consiguieron](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/) la medalla de oro de la Olimpiada Internacional de Matemática en julio de 2024. 
+Este fenómeno no es exclusivo de Metaculus. Una organización llamada 80.000 Horas [documenta](https://80000hours.org/2025/03/when-do-experts-expect-agi-to-arrive/) otros casos en los que muchos grupos de expertos en pronósticos han acortado rápidamente sus plazos. E incluso los superpronosticadores, que ganan constantemente torneos de pronósticos y a menudo superan a los expertos en la materia en su capacidad para pronosticar el futuro, solo asignaron un [2,3 % de probabilidad](https://forecastingresearch.org/near-term-xpt-accuracy) a que las IA conseguirían la medalla de oro en la Olimpiada Internacional de Matemáticas para el año 2025\. Las IA [consiguieron](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/) la medalla de oro de la Olimpiada Internacional de Matemática en julio de 2025\. 
 
-Intuitivamente, podría parecer que aún faltan décadas para que exista una IA más inteligente que los humanos, pero en 2021 también parecía que faltaban décadas para que existiera una IA del nivel de ChatGPT, y de repente llegó. ¿Quién sabe cuándo llegarán de repente nuevas mejoras cualitativas en la IA? Quizás se necesiten otros diez años. O quizás el avance se produzca mañana. No sabemos cuánto tiempo llevará, pero varios investigadores están cada vez más preocupados por que el tiempo se esté agotando. Sin pretender tener un conocimiento especial en este ámbito, creemos que la humanidad debería reaccionar pronto. No está claro cuántas más advertencias vamos a recibir.
+Intuitivamente, podría parecer que aún faltan décadas para que exista una IA más inteligente que los humanos, pero en 2021 también parecía que faltaban décadas para que existiera una IA del nivel de ChatGPT, y de repente llegó. ¿Quién sabe cuándo llegarán de repente nuevas mejoras cualitativas en la IA? Quizás se necesiten otros diez años. O quizás el avance se produzca mañana mismo. No sabemos cuánto tiempo llevará, pero varios investigadores están cada vez más preocupados por que el tiempo se esté agotando. Sin pretender tener un conocimiento especial en este ámbito, creemos que la humanidad debería reaccionar pronto. No está claro cuántas advertencias adicionales vamos a recibir.
 
-Véase el capítulo 1 para más información sobre las formas en que las capacidades de la IA podrían propagarse con muy poca antelación. Y véase el capítulo 2 para más información sobre los paradigmas modernos de la IA y si serán o no capaces de llegar «hasta el final».
+Consulta el capítulo 1 para más información sobre las formas en que las capacidades de la IA podrían propagarse con muy poca antelación. Y consulta el capítulo 2 para más información sobre los paradigmas modernos de la IA y si serán o no capaces de llegar «hasta el final».
 
-#### **Desconfía de las afirmaciones de los medios de comunicación sobre lo que puede suceder o no en un futuro próximo. (¡Puede que ya haya sucedido!)** {#desconfía-de-las-afirmaciones-de-los-medios-de-comunicación-sobre-lo-que-puede-o-no-suceder-en-un-futuro-próximo-(¡puede-que-ya-haya-sucedido!)}
+#### **Desconfía de las afirmaciones de los medios de comunicación sobre lo que puede o no suceder :)en un futuro próximo. (¡Puede que ya haya sucedido!)** {#desconfía-de-las-afirmaciones-de-los-medios-de-comunicación-sobre-lo-que-puede-o-no-suceder-en-un-futuro-próximo-(¡puede-que-ya-haya-sucedido!)}
 
-Dos años después de la [desalentadora predicción](https://www.wright-brothers.org/History_Wing/Wright_Story/Inventing_the_Airplane/Not_Within_A_Thousand_Years/Not_Within_A_Thousand_Years.htm) de Wilbur Wright de que el vuelo a motor tardaría mil años en hacerse realidad, el *New York Times* afirmaba con seguridad que tardaría un millón.[^3] Dos meses y ocho días después, los hermanos Wright volaron.
+Dos años después de la [desalentadora predicción](https://www.wright-brothers.org/History_Wing/Wright_Story/Inventing_the_Airplane/Not_Within_A_Thousand_Years/Not_Within_A_Thousand_Years.htm) de Wilbur Wright de que el vuelo a motor tardaría mil años en hacerse realidad, el *New York Times* afirmaba con seguridad que tardaría un millón.[^3] Dos meses y ocho días después, los hermanos Wright alzaron el vuelo.
 
-Hoy en día, los escépticos siguen haciendo afirmaciones exageradas de que la IA nunca podría rivalizar con los humanos en alguna capacidad específica, incluso cuando los recientes avances en el aprendizaje automático demuestran que las IA igualan (o superan) el rendimiento humano en una lista cada vez mayor de *benchmark*. Por ejemplo, se sabe, al menos desde finales de 2024, que las IA modernas a menudo pueden identificar el sarcasmo y la ironía a partir de [texto](https://www.yomu.ai/resources/can-ai-essay-writers-understand-satire-irony-or-sarcasm-in-essays#) e incluso de [señales no verbales](https://dl.acm.org/doi/10.1145/3678957.3685723). Pero esto no impidió que el *New York Times* [repitiese](https://www.nytimes.com/2025/05/16/technology/what-is-iag.html) en mayo de 2025 la afirmación de que «los científicos no tienen evidencia concluyente de que las tecnologías actuales sean capaces de realizar siquiera algunas de las cosas más sencillas que puede hacer el cerebro, como reconocer la ironía».[^4]
+Hoy en día, los escépticos siguen haciendo afirmaciones exageradas de que la IA nunca podría rivalizar con los humanos en alguna capacidad específica, incluso cuando los recientes avances en el aprendizaje automático demuestran que las IA igualan (o superan) el desempeño humano en una creciente lista de *benchmarks*. Por ejemplo, se sabe, al menos desde finales de 2024, que las IA modernas a menudo pueden identificar el sarcasmo y la ironía en un [texto](https://www.yomu.ai/resources/can-ai-essay-writers-understand-satire-irony-or-sarcasm-in-essays#) e incluso [señales no verbales](https://dl.acm.org/doi/10.1145/3678957.3685723). Pero esto no impidió que el *New York Times* [repitiese](https://www.nytimes.com/2025/05/16/technology/what-is-iag.html) en mayo de 2025 la afirmación de que «los científicos no tienen evidencia concluyente de que las tecnologías actuales sean capaces de realizar siquiera algunas de las cosas más sencillas que puede hacer el cerebro, como reconocer la ironía».[^4]
 
 Todo esto quiere decir que muchos afirmarán que la IA más inteligente que los humanos es inminente, o que está incalculablemente lejos en el futuro. Pero la incómoda realidad es que nadie lo sabe en este momento.
 
-Peor aún, hay muchas posibilidades de que nadie lo sepa *nunca* hasta que sea demasiado tarde para que la comunidad internacional haga algo al respecto.
+Peor aún, hay muchas posibilidades de que nadie lo sepa *nunca*, sino hasta que sea demasiado tarde para que la comunidad internacional pueda hacer algo al respecto.
 
-Predecir cuándo se producirá el próximo avance tecnológico es increíblemente difícil. Sabemos que una IA más inteligente que los humanos es letalmente peligrosa, pero si además necesitamos saber en qué día de la semana llegará, entonces no hay nada que hacer. Tenemos que ser capaces de actuar en condiciones de incertidumbre, o no actuaremos en absoluto.
+Predecir cuándo se producirá el próximo avance tecnológico es increíblemente difícil. Sabemos que una IA más inteligente que los humanos es letalmente peligrosa, pero si además necesitamos saber qué día de la semana llegará, entonces la suerte no está de nuestro lado. Tenemos que ser capaces de actuar en condiciones de incertidumbre, o no actuaremos en absoluto.
 
-### ¿Podemos utilizar los avances del pasado para extrapolar cuándo construiremos una IA más inteligente que los humanos? {#¿podemos-utilizar-los-avances-del-pasado-para-extrapolar-cuando-construiremos-una-ia-mas-inteligente-que-los-humanos?}
+### ¿Podemos utilizar los avances del pasado para extrapolar cuándo crearemos una IA más inteligente que los humanos? {#¿podemos-utilizar-los-avances-del-pasado-para-extrapolar-cuando-crearemos-una-ia-mas-inteligente-que-los-humanos?}
 
-#### **No tenemos un conocimiento suficientemente bueno de la inteligencia para eso.** {#no-tenemos-un-conocimiento-suficientemente-bueno-de-la-inteligencia-para-eso.}
+#### **No. La comprensión que tenemos de la inteligencia no es suficiente.** {#no.-la-comprensión-que-tenemos-de-la-inteligencia-no-es-suficiente.}
 
 Un tipo de predicción acertada consiste en tomar una línea recta en un gráfico, que se ha mantenido estable durante muchos años, y predecir que esta continuará durante al menos uno o dos años más.
 
-Esto no siempre funciona. Las líneas de tendencia a veces cambian. Pero a menudo funciona razonablemente bien; es un caso en el que se hacen predicciones acertadas en la práctica.
+Pero esto no siempre funciona. Las líneas de tendencia a veces cambian. Aunque a menudo funciona razonablemente bien; es un caso en el que se hacen predicciones acertadas en la práctica.
 
-El gran problema de este método es que, a menudo, lo que realmente queremos saber no es «¿qué altura alcanzará esta línea en el gráfico en 2027?», sino más bien «¿qué sucederá, cualitativamente, si esta línea sigue subiendo?». ¿Qué altura de la línea se corresponde con resultados importantes en el mundo real?
+El gran problema de este método es que, a menudo, lo que realmente queremos saber no es «qué altura alcanzará esta línea en el gráfico para 2027», sino más bien «qué sucederá, cualitativamente, si esta línea sigue subiendo». Queremos saber qué altura de la línea se corresponde con resultados importantes en el mundo real.
 
 Y en el caso de la IA, simplemente no lo sabemos. Es bastante fácil elegir alguna medida de inteligencia artificial que forme una línea recta en un gráfico (como la «perplejidad» [https://en.wikipedia.org/wiki/Perplexity]) y proyectar esa línea hacia afuera. Pero nadie sabe qué nivel futuro de «perplejidad» corresponde a qué nivel de habilidad cualitativa para jugar al ajedrez. No se puede predecir de antemano; solo queda ejecutar la IA y averiguarlo.
 
-Nadie sabe dónde cae en ese gráfico la línea «ahora tiene la capacidad de matar a todo el mundo». Lo único que pueden hacer es ejecutar la IA y averiguarlo. Por lo tanto, extrapolar la línea recta del gráfico no nos ayuda. (Y eso incluso antes de que el gráfico se vuelva irrelevante por el progreso algorítmico).
+Nadie sabe dónde cae en ese gráfico la línea de «ahora tiene la capacidad de matar a todo el mundo». Lo único que pueden hacer es ejecutar la IA y averiguarlo. Por lo tanto, extrapolar la línea recta del gráfico no nos ayuda. (Y eso incluso antes de que el gráfico se vuelva irrelevante por el progreso algorítmico).
 
-Por esa razón, en el libro no dedicamos tiempo a extrapolar líneas en gráficos para predecir exactamente cuándo alguien dedicará 1027 operaciones de coma flotante al entrenamiento de una IA, o qué consecuencias tendría esto. Es una decisión difícil. El libro se centra en lo que nos parece fácil de predecir. Se trata de un abanico reducido de temas, y nuestra capacidad para hacer un pequeño número de predicciones importantes en ese ámbito limitado no justifica hacer pronósticos arbitrarios sobre el futuro.
+Es por esa razón que no dedicamos tiempo en el libro a extrapolar líneas en gráficos para predecir exactamente en qué momento alguien dedicará 1027 operaciones de coma flotante al entrenamiento de una IA, o qué consecuencias tendría eso. Es una predicción difícil. El libro se centra en lo que nos parece fácil de predecir. Se trata de un abanico reducido de temas, y nuestra capacidad para hacer un pequeño número de predicciones importantes en ese ámbito limitado no justifica hacer pronósticos arbitrarios sobre el futuro.
 
-### ¿Cuáles son tus incentivos y conflictos de intereses, como autores? {#¿cuáles-son-tus-incentivos-y-conflictos-de-intereses,-como-autores?}
+### ¿Cuáles son sus incentivos y conflictos de intereses, como autores? {#¿cuáles-son-sus-incentivos-y-conflictos-de-intereses,-como-autores?}
 
-#### En general, no esperamos ganar dinero con el libro. Por otra parte, nos encantaría estar equivocados sobre la tesis del libro.** {#no tenemos la expectativa de ganar dinero con el libro en el caso más habitual.-por otra parte, nos encantaría estar equivocados sobre la tesis del libro.}
+#### En general, no esperamos ganar dinero con el libro. Por otra parte, nos encantaría estar equivocados sobre la tesis del libro.** {#en-general,-no-esperamos-ganar-dinero-con-el-libro.-por-otra-parte,-nos-encantaría-estar-equivocados-sobre-la-tesis-del-libro.}
 
-Nosotros (Soares y Yudkowsky) cobramos nuestro salario del Machine Intelligence Research Institute (MIRI), que se financia con donaciones de personas que consideran que estas cuestiones son importantes. Quizás el libro impulse las donaciones.
+Nosotros (Soares y Yudkowsky) cobramos nuestro salario del Machine Intelligence Research Institute (MIRI), que se financia con donaciones de personas que consideran que estas cuestiones son importantes. Quizás el libro dé un empujón a las donaciones.
 
-Dicho esto, tenemos otras oportunidades de ganar dinero y no nos dedicamos a escribir libros por dinero. El anticipo que recibimos por este libro se destinó íntegramente a su publicidad, y los derechos de autor irán en su totalidad al MIRI para compensarle el tiempo y el esfuerzo que ha invertido su personal.[^5]
+Dicho esto, tenemos otras oportunidades de ganar dinero y no nos dedicamos a escribir libros por dinero. El anticipo que recibimos por este libro se destinó íntegramente a su publicidad, y las regalías irán en su totalidad al MIRI en compensación por el tiempo y el esfuerzo que ha invertido su personal.[^5]
 
 Y, por supuesto, ambos autores estarían encantados de llegar a la conclusión de que nuestra civilización no está en peligro. Nos encantaría simplemente jubilarnos o ganar más dinero en otro lugar.
 
-No creemos que nos costaría cambiar de opinión, si de hecho la evidencia justificara un cambio. Ya ha ocurrido antes. El MIRI se fundó (bajo el nombre de «Singularity Institute») como un proyecto para *construir* superinteligencia. Yudkowsky tardó un año en darse cuenta de que esto no saldría bien *automáticamente*, y un par de años más en darse cuenta de que conseguir que saliera bien sería bastante complicado.
+No creemos que nos costaría trabajo cambiar de opinión, si la evidencia justificara un cambio. Ya ha ocurrido antes. El MIRI se fundó (bajo el nombre de «Singularity Institute») como un proyecto para *construir* superinteligencia. Yudkowsky tardó un año en darse cuenta de que esto no saldría bien *automáticamente*, y un par de años más en darse cuenta de que conseguir que saliera bien sería bastante complicado.
 
-Ya hemos cambiado de rumbo una vez y nos encantaría volver a hacerlo. Simplemente no creemos que la evidencia lo justifique.
+Ya hemos cambiado de rumbo una vez y nos encantaría volver a hacerlo. Pero no creemos que la evidencia lo justifique.
 
 No creemos que la situación sea desesperada, pero sí nos parece que hay un problema real y que la amenaza es extrema si el mundo *no* está a la altura de las circunstancias.
 
@@ -152,74 +152,74 @@ Pero si tomas ese camino, tus creencias finales estarán determinadas por a qui�
 
 Nuestro libro no comienza con el fácil argumento de que los ejecutivos de las empresas que dirigen los laboratorios de IA tienen un incentivo para convencer a la población de que las IA son seguras. Comienza analizando la *IA*. Y más adelante en el libro, dedicamos un poco de tiempo a *repasar la historia de los científicos humanos que se han mostrado demasiado optimistas*, pero nunca decimos que debas ignorar el argumento de alguien porque trabaje en un laboratorio de IA. Analizamos algunos de los planes reales de los desarrolladores y por qué esos planes no funcionarían por sus propios méritos. Nos esforzamos por plantear un debate sobre los argumentos reales, porque son los argumentos reales los que importan.
 
-Si crees que estamos equivocados, te invitamos a analizar nuestros argumentos y a señalar los puntos específicos en los que crees que nos hemos equivocado. Creemos que esa es una forma más fiable de averiguar qué es cierto que fijarse principalmente en el carácter y los incentivos de las personas. La persona más parcial del mundo puede decir que está lloviendo, pero eso no significa que haga sol.
+Si crees que estamos equivocados, te invitamos a analizar nuestros argumentos y a señalar los puntos específicos en los que crees que nos hemos equivocado. Creemos que esa es una forma más fiable de averiguar qué es cierto que fijarse principalmente en el carácter y los incentivos de las personas. La persona más parcial del mundo puede decir que está lloviendo, pero eso no significa que esté soleado.
 
 ### ¿No es todo esto de la IA solo ciencia ficción? {#¿no-es-todo-esto-de-la-ia-solo-ciencia-ficción?}
 
-#### **\* No podemos aprender mucho de la prevalencia de un tema en la ficción.** {#*-no-podemos-aprender-mucho-de-la-prevalencia-de-un-tema-en-la-ficción.}
+#### **\* No podemos aprender mucho de la prevalencia de un tema a partir de la ficción.** {#*-no-podemos-aprender-mucho-de-la-prevalencia-de-un-tema-a partir de-la-ficción.}
 
-Aún no se ha creado una IA más inteligente que los humanos, pero sí se ha representado en la ficción. Sin embargo, recomendamos no anclarse en estas representaciones. Es probable que la IA real no se parezca mucho a la IA ficticia, por razones que analizaremos en profundidad en el capítulo 4\.
+Aún no se ha creado una IA más inteligente que los humanos, pero sí se ha representado en la ficción. Sin embargo, recomendamos no basarse en estas representaciones. Es probable que la IA real no se parezca mucho a la IA ficticia, por razones que analizaremos en profundidad en el capítulo 4\.
 
-La IA no es la primera tecnología que se anticipó en la ficción. [El vuelo más pesado que el aire](https://www.weslpress.org/9780819577269/robur-the-conqueror/) y [los viajes a la Luna](https://www.imdb.com/title/tt0000417/) se representaron antes de su tiempo. Y la idea general de las armas nucleares fue anticipada por H. G. Wells, uno de los primeros escritores de ciencia ficción, en una novela de 1914 titulada [*The World Set Free*](https://ahf.nuclearmuseum.org/ahf/key-documents/hg-wells-world-set-free/). Wells no acertó con los detalles; escribió sobre una bomba que ardía intensamente durante días, en lugar de una bomba que explotaba de golpe y dejaba tras de sí una muerte persistente. Pero Wells tenía la idea general de una bomba que funcionaba con energía nuclear en lugar de química.
+La IA no es la primera tecnología que se predijo en la ficción. [El vuelo de máquinas más pesadas que el aire](https://www.weslpress.org/9780819577269/robur-the-conqueror/) y [los viajes a la Luna](https://www.imdb.com/title/tt0000417/) se representaron antes de su tiempo. Y la idea general de las armas nucleares fue anticipada por H. G. Wells, uno de los primeros escritores de ciencia ficción, en una novela de 1914 titulada [*The World Set Free*](https://ahf.nuclearmuseum.org/ahf/key-documents/hg-wells-world-set-free/). Wells no acertó con los detalles; escribió sobre una bomba que ardía intensamente durante días, en lugar de una bomba que explotaba de golpe y dejaba tras de sí una muerte persistente. Pero Wells tenía la idea general de una bomba que funcionaba con energía nuclear en lugar de química.
 
 En 1939, Albert Einstein y Leo Szilard enviaron una carta al presidente Roosevelt en la que pedían a Estados Unidos que intentara adelantarse a Alemania en la construcción de una bomba atómica. Podríamos imaginar un mundo en el que Roosevelt hubiera conocido por primera vez la noción de las bombas nucleares en la novela de Wells, lo que le habría llevado a descartar la idea como ciencia ficción.
 
 De hecho, en la vida real, Roosevelt se tomó la idea en serio, al menos lo suficiente como para crear el Comité Asesor sobre el Uranio. Pero este caso demuestra el peligro de descartar ideas solo porque un escritor de ficción haya hablado de una idea parecida en el pasado.
 
-La ciencia ficción puede inducirte a error porque das por sentado que es cierta, o puede inducirte a error porque das por sentado que es *falsa*. Los autores de ciencia ficción no son profetas, pero tampoco son antiprofetas con la garantía de que sus palabras serán erróneas. En la gran mayoría de los casos, es mejor ignorar la ficción y analizar las tecnologías y los escenarios en sus propios términos.
+La ciencia ficción puede inducir a error si se asume que es cierta, o que es *falsa*. Los autores de ciencia ficción no son profetas, pero tampoco son antiprofetas en el sentido de que nada garantiza que estén equivocados. En la gran mayoría de los casos, es mejor ignorar la ficción y analizar las tecnologías y los escenarios en sus propios términos.
 
-Para predecir lo que sucederá en la realidad, no hay sustituto para la reflexión sobre los argumentos y la ponderación de la evidencia.
+Para predecir lo que sucederá en la realidad, no hay nada como analizar los argumentos y ponderar la evidencia.
 
 #### **Las consecuencias de la IA serán inevitablemente extrañas.** {#las-consecuencias-de-la-ia-seran-inevitablemente-extrañas.}
 
-Comprendemos la reacción de que la IA es *extraña* y que transformaría el mundo y violaría el *statu quo*. Todos tenemos intuiciones adaptadas, en cierta medida, a un mundo en el que los humanos son la única especie capaz de realizar hazañas como construir una central eléctrica. Todos tenemos intuiciones adaptadas a un mundo en el que las máquinas, a lo largo de toda la historia de la humanidad, siempre han sido herramientas carentes de inteligencia. Una cosa de la que podemos estar muy seguros es que un futuro con IA más inteligentes que los humanos sería *diferente*.
+Comprendemos la sensación de que la IA es *extraña* y que transformaría el mundo y violaría el *statu quo*. Todos tenemos intuiciones adaptadas, en cierta medida, a un mundo en el que los humanos son la única especie capaz de realizar hazañas como construir una central eléctrica. Todos tenemos intuiciones adaptadas a un mundo en el que las máquinas, a lo largo de toda la historia de la humanidad, siempre han sido herramientas carentes de inteligencia. Una cosa de la que podemos estar muy seguros es que un futuro con IA más inteligentes que los humanos sería *diferente*.
 
-Los cambios grandes y duraderos en el mundo no ocurren todos los días. El heurístico «nunca pasa nada»[^6] funciona muy bien la mayoría de las veces, pero las ocasiones en que falla son algunos de los momentos más importantes de la historia para prestar atención. Gran parte del sentido de pensar en el futuro es anticipar esos momentos en los que ocurre algo grande, para que sea posible prepararse.
+Los cambios importantes y duraderos en el mundo no ocurren todos los días. La heurística de «nunca pasa nada»[^6] funciona muy bien la mayoría de las veces, pero las ocasiones en que falla suelen ser momentos importantes de la historia a los cuales se debe prestar atención. Gran parte del sentido de pensar en el futuro es anticipar esos momentos en los que ocurre algo importante, para que sea posible prepararse.
 
-Una forma de superar el sesgo hacia el statu quo es recordar el registro histórico, como se comentó en la introducción.
+Una forma de superar el sesgo hacia el *statu quo* es recordar el registro histórico, como se comentó en la introducción.
 
-A veces, ciertos inventos acaban revolucionando el mundo. Piensa en la máquina de vapor y en las muchas otras tecnologías que ayudó a desarrollar durante la Revolución Industrial, transformando rápidamente la vida humana:
+Hay inventos que terminan revolucionando el mundo. Piensa en la máquina de vapor y en las muchas otras tecnologías que ayudó a desarrollar durante la Revolución Industrial, transformando rápidamente la vida humana:
 
 ![][image1]
 
-¿Es la llegada de la IA verdaderamente general un avance igualmente trascendental? Parece que la inteligencia artificial sería *al menos* tan trascendental como la Revolución Industrial. Entre otras cosas:
+¿Es la llegada de la IA general un avance igualmente trascendental? Parece que la inteligencia artificial sería *al menos* tan trascendental como la Revolución Industrial. Entre otras cosas:
 
-* Es probable que la IA permita que el progreso tecnológico se desarrolle mucho más rápido. Como veremos en el capítulo 1, las máquinas pueden operar mucho más rápido que el cerebro humano. Y los humanos pueden mejorar la IA —y la IA acabará siendo capaz de mejorarse a sí misma— hasta que las máquinas sean mucho mejores que los humanos haciendo descubrimientos científicos, inventando nuevas tecnologías, etcétera.
+* Es probable que la IA dé lugar a que el progreso tecnológico se desarrolle mucho más rápido. Como veremos en el capítulo 1, las máquinas pueden operar mucho más rápido que el cerebro humano. Y los humanos pueden mejorar la IA —y la IA acabará siendo capaz de mejorarse a sí misma— hasta que las máquinas sean mucho mejores que los humanos para hacer descubrimientos científicos, inventar nuevas tecnologías, etcétera.
 
-  A lo largo de toda la historia de la humanidad, la maquinaria del cerebro humano se mantuvo fundamentalmente sin cambios, incluso mientras la humanidad producía logros de ingeniería cada vez más impresionantes. Cuando la maquinaria de la cognición comience a mejorar por derecho propio, cuando se vuelva capaz de mejorarse a sí misma, debemos esperar que *muchas cosas diferentes* empiecen a cambiar *muy rápidamente*.  
-* Además, como veremos en el capítulo 3, las IA suficientemente capaces probablemente tendrán objetivos propios. Si las IA fueran esencialmente solo seres humanos más rápidos e inteligentes, eso ya sería algo enormemente importante por sí mismo. Pero las IA serán, en efecto, una especie totalmente nueva de vida inteligente en la Tierra —una con objetivos propios, que probablemente (como veremos en los capítulos 4 y 5) diverjan de manera importante de los objetivos humanos.
+  A lo largo de toda la historia de la humanidad, la maquinaria del cerebro humano se mantuvo fundamentalmente sin cambios, incluso mientras la humanidad producía logros de ingeniería cada vez más impresionantes. Cuando la maquinaria de la cognición comience a mejorar por derecho propio, cuando se vuelva capaz de mejorarse a sí misma, debemos esperar que *muchas cosas* empiecen a cambiar *muy rápidamente*.  
+* Además, como veremos en el capítulo 3, es probable que las IA suficientemente capaces tengan objetivos propios. Si las IA fueran esencialmente solo seres humanos más rápidos e inteligentes, eso ya sería algo muy importante por sí mismo. Pero las IA serán, en efecto, una especie totalmente nueva de vida inteligente en la Tierra —una con objetivos propios, que probablemente (como veremos en los capítulos 4 y 5) diverjan de manera importante de los objetivos humanos.
 
-A primera vista, sería sorprendente que estos dos grandes desarrollos pudieran ocurrir *sin* revolucionar el orden mundial existente. Creer en un futuro «normal» parece requerir creer que la inteligencia artificial nunca superará en absoluto a la inteligencia humana. Esto nunca pareció una opción verdaderamente viable, y se ha vuelto mucho más difícil de creer en 2025 que en 2015 o 2005.
+A primera vista, sería sorprendente que estos dos grandes desarrollos pudieran ocurrir *sin* revolucionar el orden mundial existente. Creer en un futuro «normal» parece requerir creer que la inteligencia artificial jamás superará a la inteligencia humana. Esto nunca pareció una opción verdaderamente viable, y se ha vuelto mucho más difícil de creer en 2025 que en 2015 o 2005\.
 
 #### **El futuro a largo plazo también será extraño.** {#el-futuro-a-largo-plazo-también-será-extraño.}
 
-Si miras demasiado lejos hacia el futuro, el resultado va a ser extraño de alguna manera. El siglo XXI se ve francamente extraño desde la perspectiva del siglo XIX, que se veía extraño desde la perspectiva del siglo XVII. La IA acelera este proceso y añade un jugador muy novedoso al tablero.
+Si miramos muy muy lejos hacia el futuro, el resultado va a ser extraño de alguna manera. El siglo XXI se ve francamente extraño desde la perspectiva del siglo XIX, que, a su vez, se veía extraño desde la perspectiva del siglo XVII. La IA acelera este proceso y añade un jugador muy novedoso al tablero.
 
-Un aspecto del futuro que hoy parece predecible es que las especies tecnológicamente avanzadas no permanecerán atrapadas en su propio planeta indefinidamente. En este momento, el cielo nocturno está lleno de estrellas que solo queman su energía. Pero nada impide que la vida construya la tecnología necesaria para viajar por las estrellas y aprovechar esa energía con algún fin.
+Un aspecto del futuro que hoy parece predecible es que las especies tecnológicamente avanzadas no permanecerán atrapadas en su propio planeta de manera indefinida. En este momento, el cielo nocturno está lleno de estrellas que solo queman su energía. Pero nada impide que la vida construya la tecnología necesaria para viajar por las estrellas y aprovechar esa energía con algún fin.
 
-Existen algunas limitaciones físicas en cuanto a la *rapidez* con la que se puede realizar ese viaje, pero parece que no hay limitaciones para hacerlo eventualmente.[^7] No hay nada que nos impida desarrollar eventualmente el tipo de sondas interestelares que puedan salir y extraer recursos del universo en general y convertir estos recursos en civilizaciones florecientes, con un complemento de sondas autorreplicantes para colonizar aún más regiones del espacio. Si nos sustituimos por IA, nada impedirá que esas IA hagan lo mismo, pero sustituyendo las «civilizaciones florecientes» por cualquier fin que persiga la IA.
+Existen algunas limitaciones físicas en cuanto a *qué tan pronto* podrán realizarse esos viajes, pero parece que no hay limitaciones para hacerlo en un futuro.[^7] No hay nada que nos impida desarrollar en algún momento el tipo de sondas interestelares que puedan salir y extraer recursos del universo y convertir esos recursos en civilizaciones prósperas, con un complemento de sondas autorreplicantes para colonizar aún más regiones del espacio. Si nos sustituimos por IA, nada impedirá que esas IA hagan lo mismo, pero sustituyendo las «civilizaciones prósperas» por cualquier fin que persiga la IA.
 
 Del mismo modo que la vida se extendió por las rocas áridas de la Tierra hasta que todo el mundo se llenó de organismos, podemos esperar que la vida (o las máquinas construidas por la vida) se extienda finalmente a partes deshabitadas del universo, hasta que sea tan extraño encontrar un sistema solar sin vida como lo sería encontrar hoy en día una isla sin vida en la Tierra, desprovista incluso de bacterias.
 
-En la actualidad, la mayor parte de la materia del universo, como las estrellas, está dispuesta por casualidad. Pero es casi seguro que, en un futuro a largo plazo, la mayor parte de la materia estará dispuesta según algún diseño, es decir, según las preferencias de las entidades que logren cosechar y reutilizar las estrellas.
+En la actualidad, la mayor parte de la materia del universo, como las estrellas, está dispuesta por casualidad. Pero es casi seguro que, en un futuro a largo plazo, la mayor parte de la materia estará dispuesta según algún diseño, es decir, según las preferencias de las entidades que logren aprovechar y reutilizar las estrellas.
 
 Incluso si nada de lo que hay en la Tierra se extiende por el cosmos, e incluso si la mayoría de las formas de vida inteligente que surgen en galaxias lejanas nunca abandonan su planeta natal, solo se necesita *una* inteligencia viajera espacial en cualquier parte del universo para encender la chispa y comenzar a propagarse por el universo, viajando a nuevos sistemas estelares y utilizando los recursos que allí se encuentran para construir más sondas con las que expandirse hacia aún más sistemas estelares, del mismo modo que solo se necesitó un microorganismo autorreplicante (y un poco de crecimiento exponencial) para convertir un planeta sin vida en un mundo repleto de vida en cada isla.
 
 Así pues, el futuro será diferente del presente. De hecho, podemos esperar que sea radicalmente diferente. Es previsible que las propias estrellas se transformen, a largo plazo, por cualquier especie biológica o IA que busque más recursos, aunque hoy en día no podamos decir mucho sobre cómo será esa especie o sobre el fin al que se destinarán los recursos del universo.
 
-Predecir los *detalles* parece difícil, casi imposible. Es difícil de determinar. Pero ¿predecir la transformación del universo en un lugar donde la mayor parte de la materia se recolecta y se destina a *algún* fin, sea cual sea? Eso es más fácil de predecir, aunque resulte contraintuitivo y extraño para una civilización que apenas ha comenzado a extraer recursos de las estrellas.
+Predecir los *detalles* parece difícil, casi imposible. Es difícil de determinar. Pero ¿predecir la transformación del universo en un lugar donde la mayor parte de la materia se aprovecha y se destina a *algún* fin, sea cual sea? Eso es más fácil de predecir, aunque resulte contraintuitivo y extraño para una civilización que apenas ha comenzado a extraer recursos de las estrellas.
 
-Dentro de un millón de años, no deberíamos esperar que el futuro se parezca al año 2025, con un montón de simios sin pelo deambulando por la superficie de la Tierra. Mucho antes de eso, o nos habremos extinguido, o nuestros descendientes habrán salido a explorar el cosmos por sí mismos.[^8]
+No deberíamos esperar que en un millón de años el futuro se parezca al año 2025, con un montón de simios sin pelo deambulando por la superficie de la Tierra. Mucho antes de eso, o nos habremos extinguido, o nuestros descendientes habrán salido a explorar el cosmos por sí mismos.[^8]
 
-Sin duda, la humanidad va a vivir una situación extraña. La pregunta es cuándo.
+No cabe duda de que las cosas se van a poner raras para la humanidad. La pregunta es cuándo.
 
-#### **El futuro nos llegará rápidamente.** {#el-futuro-nos-llegará-rápidamente.}
+#### **El futuro nos llegará de golpe.** {#el-futuro-nos-llegará-de-golpe.}
 
 Tecnologías como la IA significan que el futuro puede llamar pronto a nuestra puerta, y sus efectos pueden afectarnos con fuerza.
 
 La Revolución Industrial transformó el mundo muy rápidamente, según los estándares de la historia premoderna. El *Homo sapiens* remodeló el mundo muy rápidamente, según los estándares de los procesos evolutivos. La vida remodeló el mundo muy rápidamente, según los estándares de los procesos cosmológicos y geológicos. Los nuevos procesos para cambiar el mundo pueden remodelarlo muy rápidamente, según los antiguos estándares.
 
-La humanidad parece estar al borde de otra transformación radical, en la que las máquinas pueden empezar a remodelar el mundo a velocidades de máquina, que superan con creces las velocidades biológicas. En los capítulos 1 y 6 hablaremos más sobre cómo se compararía la inteligencia de las máquinas con la inteligencia humana. Pero, como mínimo, debemos tomarnos en serio la posibilidad de que el desarrollo de máquinas más inteligentes que los humanos cambie radicalmente el mundo a gran velocidad. Este tipo de cosas han ocurrido una y otra vez a lo largo de la historia.
+La humanidad parece estar al borde de otra transformación radical, en la que las máquinas pueden empezar a remodelar el mundo a velocidades mecánicas, que superan con creces las velocidades biológicas. En los capítulos 1 y 6 hablaremos más sobre cómo se compararía la inteligencia de las máquinas frente a la inteligencia humana. Pero, como mínimo, debemos tomarnos en serio la posibilidad de que el desarrollo de máquinas más inteligentes que los humanos cambie radicalmente el mundo a gran velocidad. Este tipo de cosas han ocurrido una y otra vez a lo largo de la historia.
 
 # 
 
@@ -227,115 +227,115 @@ La humanidad parece estar al borde de otra transformación radical, en la que la
 
 ### Expertos en IA sobre escenarios catastróficos {#expertos-en-ia-sobre-escenarios-catastroficos}
 
-En una [encuesta de 2022](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/) realizada a 738 asistentes a las conferencias académicas sobre IA NeurIPS e ICML, el 48 % de los encuestados pensaba que había al menos un 10 % de posibilidades de que el resultado de la IA fuera «extremadamente negativo (por ejemplo, la extinción humana)». La preocupación por que la IA provoque desastres sin precedentes está muy extendida en este campo.
+En una [encuesta de 2022](https://aiimpacts.org/2022-expert-survey-on-progress-in-ai/) realizada a 738 asistentes a las conferencias académicas sobre IA NeurIPS e ICML, el 48 % de los encuestados pensaba que había al menos una probabilidad del 10 % de que el resultado de las IA fuera «extremadamente negativo (por ejemplo, la extinción humana)». La preocupación por que la IA provoque desastres sin precedentes está muy extendida en este campo.
 
-A continuación, hemos recopilado comentarios de destacados científicos e ingenieros de IA sobre los resultados catastróficos de la IA. Algunos de estos científicos dan su «p(doom)», es decir, su probabilidad de que la IA provoque la extinción humana o resultados igualmente desastrosos.[^9]
+A continuación, hemos recopilado comentarios de destacados científicos e ingenieros de IA sobre los posibles resultados catastróficos de la IA. Algunos de estos científicos comparten su «p(doom)», es decir, su probabilidad de que la IA provoque la extinción humana o resultados igualmente desastrosos.[^9]
 
 De **Geoffrey Hinton** ([2024](https://youtu.be/PTF5Up1hMhw?t=2285)), ganador del Premio Nobel y del Premio Turing por impulsar la revolución del aprendizaje profundo en la IA, hablando sobre sus estimaciones personales: [^10]
 
-> De hecho, creo que el riesgo [de la amenaza existencial] es superior al cincuenta por ciento.
+> De hecho, creo que el riesgo \[de la amenaza existencial\] es superior al 50 %.
 
 De **Yoshua Bengio** ([2023](https://www.abc.net.au/news/2023-07-15/whats-your-pdoom-ai-researchers-worry-catastrophe/102591340)), ganador del Premio Turing (junto con Hinton y Yann LeCun) y el científico vivo más citado:
 
-> No sabemos cuánto tiempo tenemos antes de que se vuelva realmente peligroso. Lo que he estado diciendo durante las últimas semanas es: «Por favor, dadme argumentos, convencedme de que no debemos preocuparnos, porque así seré mucho más feliz». Y aún no ha sucedido. \[…\] Calculo que hay un veinte por ciento de probabilidades de que resulte catastrófico.
+> No sabemos cuánto tiempo tenemos antes de que se vuelva realmente peligroso. Lo que he estado diciendo durante las últimas semanas es: «Por favor, denme argumentos, convénzanme de que no debemos preocuparnos, porque así seré mucho más feliz». Y aún no ha sucedido. \[…\] Calculo que hay una probabilidad del 20 % de que resulte catastrófico.
 
-De **Ilya Sutskever** ([2023](https://openai.com/index/introducing-superalignment/)), coinventor de AlexNet, antiguo científico jefe de OpenAI y (junto con Hinton y Bengio) uno de los tres científicos más citados en IA:
+De **Ilya Sutskever** ([2023](https://openai.com/index/introducing-superalignment/)), coinventor de AlexNet, antiguo científico en jefe de OpenAI y (junto con Hinton y Bengio) uno de los tres científicos más citados en IA:
 
 > El enorme poder de la superinteligencia también podría ser muy peligroso y provocar la pérdida de poder de la humanidad o incluso la extinción humana. Aunque la superinteligencia parece algo lejano en este momento, creemos que podría llegar en esta década. \[…\]
 >
-> Actualmente, no tenemos una solución para dirigir o controlar una IA potencialmente superinteligente y evitar que se vuelva rebelde. Nuestras técnicas actuales para alinear la IA, como el aprendizaje por refuerzo a partir de realimentación humana⁠, se basan en la capacidad de los humanos para supervisar la IA. Pero los humanos no podréis supervisar de forma fiable sistemas de IA mucho más inteligentes que vosotros, por lo que nuestras técnicas de alineación actuales no escalarán a la superinteligencia. Necesitamos nuevos avances científicos y técnicos.
+> Actualmente, no tenemos una solución para dirigir o controlar una IA potencialmente superinteligente y evitar que se vuelva rebelde. Nuestras técnicas actuales para alinear la IA, como el aprendizaje por refuerzo a partir de realimentación humana, se basan en la capacidad de los humanos para supervisar la IA. Pero los humanos no podrán supervisar de forma fiable sistemas de IA mucho más inteligentes que nosotros, por lo que nuestras técnicas de alineación actuales no serán aplicables a la superinteligencia. Necesitamos nuevos avances científicos y técnicos.
 
 De **Jan Leike** ([2023](https://80000hours.org/podcast/episodes/jan-leike-superalignment/)), codirector de ciencia de alineación en Anthropic y antiguo codirector del equipo de superalineación en OpenAI:
 
-> \[entrevistador: «No dediqué mucho tiempo a intentar determinar con precisión mi p(doom) personal. Mi estimación es que es superior al diez por ciento e inferior al noventa por ciento».\]
+> \[entrevistador: «No dediqué mucho tiempo a intentar determinar con precisión mi p(doom) personal. Mi estimación es que es superior al 10 % e inferior al 90 %».\]
 >
 > \[Leike:\] Probablemente ese sea el rango que yo también daría.
 
-De **Paul Christiano** ([2023](https://www.lesswrong.com/posts/xWMqsvHapP3nwdSW8/my-views-on-doom)), jefe de Seguridad del Instituto de Seguridad de la IA de EE. UU. (con sede en el NIST) e inventor del aprendizaje por refuerzo a partir de realimentación humana (RLHF):
+De **Paul Christiano** ([2023](https://www.lesswrong.com/posts/xWMqsvHapP3nwdSW8/my-views-on-doom)), Jefe de Seguridad del Instituto de Seguridad de la IA de EE. UU. (con sede en el NIST) e inventor del aprendizaje por refuerzo a partir de realimentación humana (RLHF):
 
-> Probabilidad de que la mayoría de los seres humanos mueran en los 10 años siguientes a la creación de una IA potente (lo suficientemente potente como para hacer obsoleta la mano de obra humana): **20 %** \[…\]
+> Probabilidad de que la mayoría de los seres humanos mueran en los 10 años siguientes a la creación de una IA poderosa (lo suficientemente poderosa como para hacer obsoleta la mano de obra humana): **20 %** \[…\]
 >
-> Probabilidad de que la humanidad haya arruinado de alguna manera irreversiblemente nuestro futuro en los 10 años posteriores a la creación de una IA poderosa: **46 %**
+> Probabilidad de que la humanidad haya arruinado de alguna manera irreversible nuestro futuro en los 10 años siguientes a la creación de una IA poderosa: **46 %**
 
 De **Stuart Russell** ([2025](https://www.newsweek.com/deepseek-openai-race-human-extinction-2023482)), catedrático Smith-Zadeh de Ingeniería en UC Berkeley y coautor del principal libro de texto universitario de IA, *Artificial Intelligence: A Modern Approach*:
 
-> La «carrera por la IAG» entre empresas y entre naciones es en cierto modo similar \[a la carrera de la Guerra Fría por construir bombas nucleares más grandes\], excepto que es peor: incluso los CEO que participan en la carrera han declarado que quien gane tiene una probabilidad significativa de causar la extinción humana en el proceso, porque no tenemos ni idea de cómo controlar sistemas más inteligentes que nosotros mismos. En otras palabras, la carrera por la IAG es una carrera hacia el borde de un precipicio.
+> La «carrera por la IAG» entre empresas y entre naciones es en cierto modo similar \[a la carrera de la Guerra Fría por construir bombas nucleares más grandes\], excepto que es peor: los propios directores generales que participan en la carrera han declarado que quien gane tiene una probabilidad significativa de causar la extinción humana en el proceso, porque no tenemos ni idea de cómo controlar sistemas más inteligentes que nosotros mismos. En otras palabras, la carrera por la IAG es una carrera hacia el borde de un precipicio.
 
-De **Victoria Krakovna** ([2023](https://theinsideview.ai/victoria)), investigadora científica de Google DeepMind y cofundadora del Future of Life Institute:
+De **Victoria Krakovna** ([2023](https://theinsideview.ai/victoria)), científica investigadora de Google DeepMind y cofundadora del Future of Life Institute:
 
 > \[entrevistador: «No es algo muy agradable en lo que pensar, pero ¿cuál crees que es la probabilidad de que Victoria Krakovna muera a causa de la IA antes de 2100?»\]
 >
-> \[Krakovna:\] Bueno, 2100 está muy lejos, sobre todo teniendo en cuenta lo rápido que se está desarrollando la tecnología en la actualidad. De primeras, diría que un veinte por ciento o algo así.
+> \[Krakovna:\] Bueno, 2100 está muy lejos, sobre todo teniendo en cuenta lo rápido que se está desarrollando la tecnología en la actualidad. De primeras, diría que un 20 % o algo así.
 
 De **Shane Legg** ([2011](https://baserates-test.vercel.app/posts/No5JpRCHzBrWA4jmS/q-and-a-with-shane-legg-on-risks-from-ai)), cofundador y científico jefe de IAG en Google DeepMind:
 
-> \[entrevistador: «¿Qué probabilidad le asignas a la posibilidad de consecuencias negativas/extremadamente negativas como resultado de una IA mal hecha? \[...\] Donde 'negativas' = extinción humana; 'extremadamente negativas' = sufrimiento humano»\]
+> \[entrevistador: «¿Qué probabilidad le asignas a la posibilidad de consecuencias negativas/extremadamente negativas como resultado de una IA mal hecha? \[…\] Donde 'negativas' = extinción humana; 'extremadamente negativas' = sufrimiento humano»\]
 >
-> \[Legg:\] \[E\]n el plazo de un año desde la aparición de una IA de nivel humano\[…\] No lo sé. Quizás un cinco por ciento, quizás un cincuenta por ciento. No creo que nadie tenga una buena estimación al respecto. Si por sufrimiento te refieres a un sufrimiento prolongado, entonces creo que es bastante improbable. Si una máquina superinteligente (o cualquier tipo de agente superinteligente) decidiera deshacerse de nosotros, creo que lo haría de manera bastante eficiente.
+> \[Legg:\] \[E\]n el plazo de un año desde la aparición de una IA de nivel humano\[…\] No lo sé. Quizás un 5 %, quizás un 50 %. No creo que nadie tenga una buena estimación al respecto. Si por sufrimiento te refieres a un sufrimiento prolongado, entonces creo que es bastante improbable. Si una máquina superinteligente (o cualquier tipo de agente superinteligente) decidiera deshacerse de nosotros, creo que lo haría de una manera bastante eficiente.
 
 De **Emad Mostaque** ([2024](https://x.com/EMostaque/status/1864266899170767105)), fundador de Stability AI, la empresa detrás de Stable Diffusion:
 
-> Mi P(doom) es del 50 %. Dado un período de tiempo indefinido, la probabilidad de que sistemas más capaces que los humanos terminen controlando toda nuestra infraestructura crítica y nos eliminen por completo es como lanzar una moneda al aire, especialmente considerando el enfoque que estamos adoptando actualmente.
+> Mi P(doom) es del 50 %. Dado un período de tiempo indefinido, la probabilidad de que sistemas más capaces que los humanos terminen controlando toda nuestra infraestructura crítica y nos eliminen por completo es como lanzar una moneda al aire, especialmente si consideramos el enfoque que estamos adoptando actualmente.
 
 De **Daniel Kokotajlo** ([2023](https://www.lesswrong.com/posts/xDkdR6JcQsCdnFpaQ/adumbrations-on-agi-from-an-outsider?commentId=sHnfPe5pHJhjJuCWW)), especialista en gobernanza de la IA, denunciante de OpenAI y director ejecutivo del AI Futures Project:
 
-> Creo que la probabilidad de doom por IA es del 70 %, y pienso que las personas que creen que es inferior al 20 %, por ejemplo, están siendo muy poco razonables\[.\]
+> Creo que la probabilidad de que la IA cause la extinción humana es del 70 %, y que las personas que creen que es inferior al 20 % están siendo muy poco razonables\[.\]
 
-De **Dan Hendrycks** ([2023](https://x.com/DanHendrycks/status/1642394635657162753)), investigador en aprendizaje automático y director del Centro para la Seguridad de la IA:
+De **Dan Hendrycks** ([2023](https://x.com/DanHendrycks/status/1642394635657162753)), investigador en aprendizaje automático y director del Center for AI Safety:
 
-> \[M\]i p(doom) \> 80 %, pero en el pasado ha sido menor. Hace dos años era de ~20 %.
+> \[M\]i p(doom) es mayor al 80 %, pero en el pasado ha sido menor. Hace dos años era de aproximadamente el 20 %.
 
 Todos los investigadores mencionados anteriormente firmaron la [Declaración sobre el riesgo asociado a la IA](https://aistatement.com/) con la que comenzamos el libro, que dice:
 
-> Mitigar el riesgo de extinción causado por la IA debería ser una prioridad global junto con otros riesgos a escala societal, como las pandemias y la guerra nuclear.
+> Mitigar el riesgo de extinción causado por la IA debería ser una prioridad global junto con otros riesgos a escala social, como las pandemias y la guerra nuclear.
 
-Otros investigadores prominentes que firmaron la declaración incluyen: John Schulman, arquitecto de ChatGPT; Peter Norvig, exdirector de investigación de Google; Eric Horvitz, director científico de Microsoft; David Silver, líder de investigación de AlphaGo; Frank Hutter, pionero de AutoML; Andrew Barto, pionero del aprendizaje por refuerzo; Ian Goodfellow, inventor de las GAN; Ya-Qin Zhang, expresidente de Baidu; Martin Hellman, inventor de la criptografía de clave pública; y Alexey Dosovitskiy, líder de investigación de Vision Transformer. La lista continúa con otros firmantes que incluyen a Dawn Song, Jascha Sohl-Dickstein, David McAllester, Chris Olah, Been Kim, Philip Torr y cientos más.
+Otros investigadores prominentes que firmaron la declaración incluyen a John Schulman, arquitecto de ChatGPT; Peter Norvig, exdirector de investigación de Google; Eric Horvitz, director científico de Microsoft; David Silver, líder de investigación de AlphaGo; Frank Hutter, pionero de AutoML; Andrew Barto, pionero del aprendizaje por refuerzo; Ian Goodfellow, inventor de las redes generativas antagónicas; Ya-Qin Zhang, expresidente de Baidu; Martin Hellman, inventor de la criptografía de clave pública; y Alexey Dosovitskiy, líder de investigación de Vision Transformer. La lista continúa con otros firmantes que incluyen a Dawn Song, Jascha Sohl-Dickstein, David McAllester, Chris Olah, Been Kim, Philip Torr y cientos más.
 
 ### Cuando Leo Szilard vio el futuro {#cuando-leo-szilard-vio-el-futuro}
 
-En septiembre de 1933, un físico llamado Leo Szilard cruzaba el cruce[^11] donde Southampton Row pasa por Russell Square cuando se le ocurrió la idea de una reacción nuclear en cadena, la idea clave detrás de las bombas atómicas.
+En septiembre de 1933, un físico llamado Leo Szilard cruzaba la intersección[^11] de Southampton Row y Russell Square cuando se le ocurrió la idea de una reacción nuclear en cadena, la idea clave detrás de las bombas atómicas.
 
 A partir de ahí, comenzó toda una aventura en la que Szilard intentó averiguar qué hacer con esta idea trascendental. Acudió al prestigioso físico Isidor Rabi, y Rabi acudió al aún más prestigioso Enrico Fermi. Rabi le preguntó a Fermi si creía que las reacciones nucleares en cadena eran reales, y Fermi le respondió:
 
-> ¡Una locura!
+> ¡Qué locura!
 
-Rabi le preguntó a Fermi qué significaba «¡Una locura!», y Fermi respondió que era una posibilidad remota.
+Rabi le preguntó a Fermi qué significaba «¡Qué locura!», y Fermi respondió que era una posibilidad remota.
 
 Rabi preguntó qué quería decir Fermi con «posibilidad remota», y Fermi respondió: «Un diez por ciento».
 
-A lo que Rabi respondió: «Un diez por ciento no es una posibilidad remota si eso significa que podemos morir por ello».
+A lo que Rabi respondió: «Un diez por ciento no es una posibilidad remota si eso significa que puede causarnos la muerte».
 
 Fermi se lo pensó mejor.
 
-Hay varias moralejas que se pueden extraer de esta historia. Una moraleja que *no* extraemos es: «Vale la pena preocuparse por cualquier posibilidad remota si puede causarnos la muerte». No hay nada «remoto» en un diez por ciento, pero si la posibilidad *fuera* lo suficientemente remota, entonces simplemente no valdría la pena pensar en ella.
+Esta historia nos deja varias moralejas. Una con la que *no* nos quedamos es que «Vale la pena preocuparse por cualquier posibilidad remota si puede causarnos la muerte». No hay nada de «remoto» en un diez por ciento, pero si la posibilidad *fuera* lo suficientemente remota, entonces simplemente no valdría la pena pensar en ella.
 
-Una moraleja que *sí* extraemos de esta historia: a veces es posible darse cuenta de que una tecnología como una cascada de radiactividad es *posible* y, por lo tanto, saber (antes que nadie) que el mundo está destinado a algún tipo de cambio drástico.
+Una moraleja con la que *sí* nos quedamos es que a veces es posible darse cuenta de que una tecnología —como una cascada de radiactividad— es *posible* y, por lo tanto, saber (antes que nadie) que el mundo está destinado a algún tipo de cambio drástico.
 
-Otra moraleja que extraemos de esta historia es que las intuiciones iniciales de uno a menudo no son una buena guía para anticipar y pensar en cambios drásticos. Ni siquiera si uno es un experto de renombre en el campo relevante, como lo era Enrico Fermi.
+Otra moraleja que extraemos de esta historia es que las intuiciones iniciales a menudo no son una buena guía para anticipar y pensar en cambios drásticos. Ni siquiera si se es un experto de renombre en el campo relevante, como lo era Enrico Fermi.
 
-Piénsalo: ¿de dónde sacó Fermi esa «posibilidad remota» y ese «diez por ciento» en primer lugar?
+Piénsalo: ¿de dónde sacó Fermi esa «posibilidad remota» y ese «diez por ciento»?
 
-¿Por qué Fermi pensaba que *no* se podía conseguir que la radiactividad indujera más radiactividad en una reacción en cadena? ¿Era simplemente porque la mayoría de las grandes ideas no funcionan?
+¿Por qué pensaba Fermi que *no* se podía conseguir que la radiactividad indujera más radiactividad en una reacción en cadena? ¿Era simplemente porque la mayoría de las grandes ideas al final no funcionan?
 
-Responder «¡Qué locura!» parece decir algo más fuerte que eso. Parece reflejar la sensación de que era *excesivamente* improbable que esa gran idea en particular funcionara. Pero ¿por qué? ¿En base a qué argumento físico?
+Responder «¡Qué locura!» parece decir algo más fuerte que eso. Parece reflejar la sensación de que era *excesivamente* improbable que esa gran idea funcionara. Pero ¿por qué? ¿Con base en qué argumento físico?
 
-¿Simplemente se sentía como una locura? Sí, la posibilidad de las armas nucleares tendría consecuencias radicales para el mundo. Pero la realidad no está organizada de manera que impida que ocurran acontecimientos con grandes consecuencias.[^12]
+¿Simplemente *sonaba* como una locura? Sí, la posibilidad de las armas nucleares tendría consecuencias radicales para el mundo. Pero la realidad no está organizada de manera que impida que ocurran acontecimientos con grandes consecuencias.[^12]
 
 Cuando Fermi escuchó por primera vez la idea de Szilard, le sugirió que la publicara y la diera a conocer al mundo entero, incluyendo a Alemania y a su nuevo canciller, Adolf Hitler.
 
-Fermi perdió esa discusión, y menos mal que fue así, porque al final resultó que las armas nucleares eran posibles. Fermi acabó uniéndose a la pequeña conspiración de Szilard, aunque siguió siendo escéptico casi hasta el momento en que él mismo supervisó la creación de la primera pila nuclear, la Chicago Pile-1.
+Fermi perdió esa discusión, porque al final resultó que las armas nucleares sí eran posibles. Fermi acabó uniéndose a la pequeña conspiración de Szilard, aunque siguió siendo escéptico casi hasta el momento en que él mismo supervisó la creación de la primera pila nuclear, la Chicago Pile-1.
 
 A veces, las tecnologías cambian el mundo. Si das por sentado que las tecnologías radicalmente nuevas son «una locura», el progreso puede pillarte por sorpresa, incluso si eres uno de los científicos más inteligentes del mundo. Por lo tanto, es un gran mérito de Fermi que se sentara a discutir con Szilard. Y aún más mérito tiene que se dejara convencer para cambiar su comportamiento *antes* de que existiera la tecnología, antes de poder verla con sus propios ojos, cuando aún había tiempo para hacer algo al respecto.
 
-A lo largo de la historia de la humanidad han ocurrido muchas cosas terribles, pero algunas de las cosas terribles que no han ocurrido se evitaron porque alguien se sentó y mantuvo una conversación. En algunos casos, forzó la conversación, como hizo Szilard con Fermi.
+A lo largo de la historia de la humanidad han ocurrido muchas cosas terribles, pero algunas de las cosas terribles que no ocurrieron se evitaron gracias a que alguien se sentó y mantuvo una conversación. Y en algunos casos, gracias a que alguien forzó la conversación, como hizo Szilard con Fermi.
 
 # 
 
 # Capítulo 1: El poder especial de la humanidad {#capítulo-1:-el-poder-especial-de-la-humanidad}
 
-Este es el suplemento en línea del capítulo 1 de [*Si alguien lo construye, todos mueren*](https://www.amazon.com/gp/product/0316595640). A continuación, abordaremos preguntas frecuentes y ampliaremos los temas tratados en el libro.
+Este es el suplemento en línea del capítulo 1 de [*If Anyone Builds It, Everyone Dies**](https://www.amazon.com/gp/product/0316595640). A continuación, abordaremos preguntas frecuentes y ampliaremos los temas tratados en el libro.
 
-Algunos temas que no se cubren a continuación, porque se tratan en el Capítulo 1 del libro, incluyen:
+Algunos temas que no se cubren a continuación, porque se tratan en el capítulo 1 del libro, incluyen:
 
 * ¿Qué es eso de la «inteligencia»?  
 * ¿Es realmente posible que las máquinas lleguen a ser más inteligentes que los humanos?  
@@ -347,19 +347,19 @@ Algunos temas que no se cubren a continuación, porque se tratan en el Capítulo
 
 #### **Sí. Hay un fenómeno real que describir, aunque sea difícil de definir.** {#sí.-hay-un-fenómeno-real-que-describir,-aunque-sea-difícil-de-definir.}
 
-En los últimos treinta años, se han otorgado setenta y siete premios Nobel de Química a seres humanos y cero a chimpancés. Un extraterrestre, al enterarse de este hecho por primera vez, podría preguntarse si el Comité Nobel tiene sesgo. Pero no, realmente hay *algo que está pasando* con los seres humanos que nos distingue de los chimpancés.
+En los últimos treinta años, se han otorgado setenta y siete Premios Nobel de Química a seres humanos y cero a chimpancés. Un extraterrestre, al enterarse de este hecho por primera vez, podría preguntarse si el Comité del Nobel está sesgado. Pero no, realmente hay *algo* en los seres humanos que nos distingue de los chimpancés.
 
-Es un punto demasiado obvio, pero los puntos obvios a veces pueden importar. Tenemos habilidades que nos permiten caminar en la Luna y que ponen el destino del planeta en nuestras manos en lugar de en las de los chimpancés. Los filósofos y científicos pueden debatir la verdadera naturaleza de la inteligencia, pero sin importar lo que concluyan, el fenómeno subyacente permanece. Algo sobre los humanos nos ha permitido lograr hazañas nunca antes vistas en la naturaleza; y ese algo tiene que ver con nuestros cerebros, y cómo los usamos para comprender y afectar el mundo que nos rodea.
+Es un punto demasiado obvio, pero los puntos obvios a veces importan. Tenemos habilidades que nos permiten caminar en la Luna y que ponen el destino del planeta en nuestras manos en lugar de en las de los chimpancés. Los filósofos y científicos pueden debatir sobre la verdadera naturaleza de la inteligencia, pero sin importar lo que concluyan, el fenómeno subyacente permanece. Algo en los humanos nos ha permitido lograr hazañas nunca antes vistas en la naturaleza; y ese algo tiene que ver con nuestros cerebros, y cómo los usamos para comprender y afectar el mundo que nos rodea.
 
 #### **El hecho de que no podamos dar una definición precisa no significa que no pueda perjudicarnos.** {#el-hecho-de-que-no-podamos-dar-una-definición-precisa-no-significa-que-no-pueda-perjudicarnos.}
 
 Si te ves envuelto en un incendio forestal, no importa si entiendes o no la química subyacente. Te quemarás de todos modos.
 
-Lo mismo ocurre con la inteligencia. Si las máquinas empiezan a convertir la superficie de la Tierra en su propia infraestructura, generando tanto calor residual que hierven los océanos, entonces no importará mucho si tenemos o no una definición precisa de «inteligencia». Moriríamos de todos modos.
+Lo mismo ocurre con la inteligencia. Si las máquinas empiezan a convertir la superficie de la Tierra en su propia infraestructura, mientras generan tanto calor residual que hierven los océanos, entonces no importará mucho si tenemos o no una definición precisa de lo que es la «inteligencia». Moriríamos de todos modos.
 
-Lo decimos literalmente, y en los próximos capítulos exploraremos por qué esperamos resultados tan extremos de una IA más inteligente que los humanos. En el capítulo 3, argumentaremos que las máquinas superinteligentes perseguirían fines. En el capítulo 4, argumentaremos que esos fines no serían los que ningún humano habría pretendido o pedido. En el capítulo 5, argumentaremos que sus objetivos se alcanzarían mejor si tomaran los recursos que nosotros utilizamos para sobrevivir. Y en el capítulo 6 argumentaremos que serían capaces de desarrollar su propia infraestructura y convertir rápidamente el mundo en un lugar inhabitable.
+Lo decimos literalmente, y en los próximos capítulos exploraremos por qué esperamos resultados tan extremos de una IA más inteligente que los humanos. En el capítulo 3, argumentaremos que las máquinas superinteligentes perseguirían fines. En el capítulo 4, argumentaremos que esos fines no serían los que ningún humano habría pretendido o pedido. En el capítulo 5, argumentaremos que podrían alcanzar sus objetivos si tomaran los recursos que nosotros utilizamos para sobrevivir. Y en el capítulo 6 argumentaremos que serían capaces de desarrollar su propia infraestructura y convertir rápidamente el mundo en un lugar inhabitable.
 
-#### **No necesitas una definición precisa de inteligencia para crear inteligencia.** {#no-necesitas-una-definición-precisa-de-inteligencia-para-crear-inteligencia.}
+#### **No necesitas una definición precisa de lo que es la inteligencia para crearla.** {#no-necesitas-una-definición-precisa-de-lo-que-es-la-inteligencia-para-crearla.}
 
 Los seres humanos fueron capaces de crear el fuego antes de comprender la química subyacente a la combustión. Del mismo modo, los seres humanos están en camino de crear máquinas inteligentes, a pesar de su falta de comprensión, como veremos en el capítulo 2.
 
@@ -367,19 +367,19 @@ En lugar de pensar en la inteligencia como una noción matemática que necesita 
 
 Hay algo en el cerebro humano que nos permite realizar una asombrosa variedad de hazañas. Construimos aceleradores de partículas; desarrollamos nuevos fármacos; inventamos la agricultura; escribimos novelas; llevamos a cabo campañas militares. Hay algo en el cerebro humano que nos permite hacer todas esas cosas, mientras que los ratones y los chimpancés no pueden hacer ninguna de ellas. Aunque todavía no tengamos una comprensión científica completa de esa diferencia mental, es útil tener una etiqueta para ella.
 
-Del mismo modo, es útil poder hablar de una inteligencia que supera a la nuestra. Ya podemos observar hoy en día IA que son sobrehumanas en una variedad de dominios específicos; por ejemplo, las IA modernas de ajedrez son sobrehumanas en el dominio del ajedrez. Es natural preguntarse entonces qué sucederá cuando construyamos IA que sean sobrehumanas en las tareas de descubrimiento científico, desarrollo tecnológico, manipulación social o planificación estratégica. Y es natural preguntarse qué sucederá cuando construyamos IA que superen a los humanos en todos los dominios.
+Del mismo modo, es útil poder hablar de una inteligencia que supera a la nuestra. Ya podemos observar hoy en día IA que son superhumanas en una variedad de dominios específicos; por ejemplo, las IA modernas de ajedrez son superhumanas en el dominio del ajedrez. Es natural preguntarse entonces qué sucederá cuando construyamos IA que sean superhumanas en las tareas de descubrimiento científico, desarrollo tecnológico, manipulación social o planificación estratégica. Y es natural preguntarse qué sucederá cuando construyamos IA que superen a los humanos en todos los dominios.
 
-Si aparece una IA capaz de realizar investigaciones científicas de primer nivel miles de veces más rápido que los mejores científicos humanos, es posible que protestemos diciendo que «no es verdaderamente inteligente», tal vez porque llega a conclusiones de una manera muy diferente a como lo haría un humano. Eso podría incluso ser cierto, dependiendo de la definición de «inteligencia» que elijas. Pero el impacto real de la IA será enorme, independientemente de cómo decidamos etiquetarla.
+Si aparece una IA capaz de realizar investigaciones científicas de primer nivel miles de veces más rápido que los mejores científicos humanos, es posible que protestemos diciendo que «no es verdaderamente inteligente», tal vez porque llega a conclusiones de una manera muy distinta a como lo haría un humano. Eso podría incluso ser cierto, dependiendo de la definición de «inteligencia» que elijas. Pero el impacto real de la IA será enorme, independientemente de cómo decidamos etiquetarla.
 
 Necesitamos cierta terminología para hablar de ese tipo de impacto y de los tipos de máquinas que son radicalmente capaces de predecir y dirigir el mundo. En este libro, tomamos el camino fácil de asignar la etiqueta «inteligencia» a las *capacidades*, en lugar de a los procesos internos específicos que dan lugar a esas capacidades.
 
-### ¿Es «inteligencia de nivel humano» un concepto significativo? {#es-«inteligencia-de-nivel-humano»-un-concepto-significativo}
+### ¿Es significativo el concepto de «inteligencia de nivel humano»? {#¿es-significativo-el-concepto-de-«inteligencia-de-nivel-humano»?}
 
 #### **Sí, en muchos casos.** {#sí,-en-muchos-casos.}
 
 Los seres humanos han construido una civilización tecnológica avanzada, y los chimpancés no. Parece haber *cierto* sentido en el que los chimpancés no están «a nuestro nivel», a pesar de que se comunican entre ellos, utilizan herramientas y tienen muchas habilidades impresionantes. Por lo tanto, tiene sentido señalar a los seres humanos y decir «*ese* nivel», aunque haya algunos problemas con el uso de la inteligencia humana como criterio de referencia.
 
-Si algún día nos encontráramos con una civilización alienígena en las profundidades del espacio, incluso suponiendo que los alienígenas fueran tan avanzados tecnológicamente como nosotros, podrían ser peores que los humanos caminando y mejores nadando. Podrían ser mejores en juegos antagónicos como el ajedrez o el póquer, pero peores en matemáticas abstractas. O viceversa, dependiendo de los alienígenas. Los alienígenas podrían pensar más lentamente pero tener mejor memoria, o pensar más rápido pero con peor memoria.
+Si algún día nos encontráramos con una civilización alienígena en los confines del espacio, incluso suponiendo que los alienígenas fueran tan avanzados tecnológicamente como nosotros, podrían ser peores que los humanos caminando y mejores nadando. Podrían ser mejores en juegos antagónicos como el ajedrez o el póquer, pero peores en matemáticas abstractas. O viceversa, dependiendo de los alienígenas. Los alienígenas podrían pensar más lentamente pero tener mejor memoria, o pensar más rápido pero con peor memoria.
 
 ¿Quién puede decir si esos alienígenas tienen una inteligencia «a nivel humano»? (¿Y por qué no preguntarse si los humanos están «a nivel alienígena»?)
 
@@ -401,35 +401,35 @@ Supongamos que soy mejor que mi hermana componiendo música clásica, pero ella 
 
 Nuestra respuesta es: si yo soy mejor en una cosa y mi hermana es mejor en otra, puede resultar difícil hacer comparaciones significativas. Por otro lado, si yo soy mejor en una cosa y mi hermana es mejor en dos mil, entonces empieza a parecer un poco absurdo insistir en que estamos en igualdad de condiciones, o insistir en que no hay nada que podamos decir sobre la situación en la que nos encontramos.
 
-*If Anyone Builds It, Everyone Dies* es un libro sobre el probable impacto práctico de los avances futuros en IA. Para hablar de manera significativa sobre ese impacto, no necesitamos ser capaces de comparar ChatGPT, los seres humanos y las moscas de la fruta y decir con precisión en qué «nivel de inteligencia» se encuentran estos tres sistemas tan diferentes. Solo necesitamos ver que las IA son cada vez mejores en una gama cada vez más amplia de habilidades y que, con el tiempo, superarán a los humanos en habilidades de enorme importancia práctica.
+*If Anyone Builds It, Everyone Dies* es un libro sobre el probable impacto práctico de los avances futuros en IA. Para hablar de manera significativa sobre ese impacto, no necesitamos ser capaces de comparar a ChatGPT, los seres humanos y las moscas de la fruta y decir con precisión en qué «nivel de inteligencia» se encuentran estos tres sistemas tan diferentes. Solo necesitamos ver que las IA son cada vez mejores en una gama cada vez más amplia de habilidades y que, con el tiempo, superarán a los humanos en habilidades de enorme importancia práctica.
 
 ### ¿No está sobrevalorada la inteligencia? {#¿no-está-sobrevalorada-la-inteligencia?}
 
 #### **Solo si usas una definición excesivamente restrictiva de «inteligencia».** {#solo-si-usas-una-definición-excesivamente-restrictiva-de-«inteligencia».}
 
-A veces nos encontramos con afirmaciones como: «¡La inteligencia no lo es todo para alcanzar el éxito! Muchas de las personas más exitosas son políticos carismáticos, CEOs o estrellas del pop. Los nerds son mejores en algunas cosas, pero no dirigen el mundo».
+A veces nos encontramos con afirmaciones como: «¡La inteligencia no lo es todo para alcanzar el éxito! Muchas de las personas más exitosas son políticos carismáticos, directores de empresas o estrellas del pop. Los nerds son mejores en algunas cosas, pero no dirigen el mundo».
 
-No discutimos esta afirmación. Más bien, lo que entendemos por «inteligencia» (en este libro) no es la propiedad que separa a los nerds de los deportistas. Es la propiedad que separa a los seres humanos de los ratones.
+No discutimos esta afirmación. Más bien, lo que entendemos por «inteligencia» (en este libro) no es la propiedad que separa a los nerds de los deportistas, sino la que separa a los seres humanos de los ratones.
 
-En un guion de Hollywood, llamar «inteligente» a un personaje suele significar que tiene «conocimiento libresco». Quizás sea un aficionado a la historia o un inventor brillante. Quizás sea bueno jugando al ajedrez o resolviendo misterios.
+En un guion de Hollywood, llamar «inteligente» a un personaje suele significar que tiene conocimientos académicos, que es instruido. Quizás sea un experto en historia o un inventor brillante. Quizás sea bueno jugando al ajedrez o resolviendo misterios.
 
-El «inteligente» de una película tiene sus propias fortalezas, equilibradas por las debilidades estereotípicas de los nerds de Hollywood: tal vez carece de inteligencia emocional, de sentido común o de astucia callejera. Quizás le falte destreza manual o carisma.
+El «inteligente» de una película tiene sus propias fortalezas, equilibradas por las debilidades estereotípicas de los nerds de Hollywood: tal vez carece de inteligencia emocional o de sentido común. Quizás le falte calle, destreza manual o carisma.
 
-Pero el carisma no es una sustancia producida por los riñones. El carisma, al igual que la inteligencia académica, es el resultado de procesos cerebrales. Esto incluye *procesos inconscientes* dentro del cerebro: los comportamientos que hacen que alguien sea carismático no están necesariamente bajo su control consciente. Pero al final, el carisma y la perspicacia ingenieril forman parte de la herencia neurológica que separa a los humanos de los ratones, independientemente de cómo se repartan esos dos poderes entre los nerds y las estrellas del pop.
+Pero el carisma no es una sustancia producida por los riñones. El carisma, al igual que los conocimientos académicos, es el resultado de procesos cerebrales. Esto incluye *procesos inconscientes* dentro del cerebro: los comportamientos que hacen que alguien sea carismático no están necesariamente bajo su control consciente. Pero al final, el carisma y la perspicacia ingenieril forman parte de la herencia neurológica que separa a los humanos de los ratones, independientemente de cómo se repartan esos dos poderes entre los nerds y las estrellas del pop.
 
-Por «inteligencia artificial» no nos referimos a «conocimientos académicos artificiales». Nos referimos a «todo-lo-que-separa-el-cerebro-humano-del-cerebro-de-un-ratón». Nos referimos al poder que permite a los humanos caminar sobre la luna, al poder que permite a un orador conmover a una multitud hasta las lágrimas y al poder que permite a un soldado apuntar con destreza un rifle. Nos referimos al paquete completo.
+Por «inteligencia artificial» no nos referimos a «conocimientos académicos artificiales». Nos referimos a «todo-lo-artificial-que-separa-el-cerebro-humano-del-cerebro-de-un-ratón». Nos referimos al poder que permite a los humanos caminar sobre la luna, al poder que permite a un orador conmover a una multitud hasta las lágrimas y al poder que permite a un soldado apuntar con destreza un rifle. Nos referimos al paquete completo.
 
 ### ¿Es «inteligencia general» un concepto significativo? {¿es-«inteligencia-general»-un-concepto-significativo?}
 
 #### **Sí.** {#sí.}
 
-El halcón peregrino puede lanzarse en picado a 386 km/h. Un cachalote puede sumergirse a kilómetros de profundidad bajo la superficie del océano. Un halcón se ahogaría en el mar y una ballena se estrellaría si intentara volar, pero de alguna manera los humanos hemos logrado volar más rápido y sumergirnos más profundamente que cualquiera de estas criaturas dentro de cascarones metálicos de nuestro propio diseño. 
+El halcón peregrino puede lanzarse en picada a 386 km/h. Un cachalote puede sumergirse a kilómetros de profundidad bajo la superficie del océano. Un halcón se ahogaría en el mar y una ballena caería de golpe si intentara volar, pero de alguna manera los humanos hemos logrado volar más rápido y sumergirnos más profundo que cualquiera de estas criaturas dentro de cascarones metálicos de nuestro propio diseño. 
 
 Nuestro entorno ancestral no incluía las profundidades del océano, ni nuestros antepasados fueron seleccionados por su capacidad para volar. Logramos estas cosas y muchas otras, no mediante instintos especiales, sino gracias a la gran versatilidad de nuestras mentes.
 
 De alguna manera, nuestros antepasados fueron seleccionados por ser «buenos resolviendo problemas», en sentido amplio, a pesar de que nuestros antepasados remotos rara vez se enfrentaban a desafíos de ingeniería más complicados que la construcción de una lanza.
 
-¿Poseen los seres humanos una capacidad *perfecta* para resolver problemas? No, obviamente no. Los seres humanos no parecen poder aprender a jugar al ajedrez tan bien como las mejores IA ajedrecísticas, al menos dentro de los límites de tiempo del juego. Es demostrable que es posible alcanzar niveles sobrehumanos en el ajedrez, y los seres humanos no pueden alcanzar esos niveles sin ayuda. Nuestra inteligencia no es universal, es decir, no podemos aprender a hacer *todo* lo que es físicamente posible.[^13] Así que esta «generalidad» que tienen los humanos no se refiere a ser capaces de hacer todo lo que se puede hacer utilizando solo nuestro cerebro. Sin embargo, hay algo inmensamente más general en la capacidad de los humanos para aprender y resolver nuevos problemas, comparado con la capacidad de aprendizaje y resolución de problemas de una IA de ajedrez limitada como [Deep Blue](https://www.ibm.com/history/deep-blue).
+¿Poseen los seres humanos una capacidad *perfecta* para resolver problemas? No, obviamente no. Los seres humanos no parecen poder aprender a jugar al ajedrez tan bien como las mejores IA ajedrecísticas, al menos dentro de los límites de tiempo del juego. Es demostrable que es posible alcanzar niveles superhumanos en el ajedrez, y los seres humanos no pueden alcanzar esos niveles sin ayuda. Nuestra inteligencia no es universal, es decir, no podemos aprender a hacer *todo* lo que es físicamente posible.[^13] Así que esta «generalidad» que tienen los humanos no se refiere a ser capaces de hacer todo lo que se puede hacer utilizando solo nuestro cerebro. Sin embargo, hay algo inmensamente más general en la capacidad de los humanos para aprender y resolver nuevos problemas, comparado con la capacidad de aprendizaje y resolución de problemas de una IA de ajedrez limitada como [Deep Blue](https://www.ibm.com/history/deep-blue).
 
 Pero la generalidad no es todo o nada. Admite grados.
 
@@ -441,11 +441,11 @@ Resulta que algunos métodos de inteligencia son mucho más generales que otros.
 
 #### **Pero estamos aún más lejos de definir la «generalidad» que la «inteligencia».** {#pero-estamos-aún-más-lejos-de-definir-la-«generalidad»-que-la-«inteligencia».}
 
-Es fácil decir que los seres humanos son más generales que las moscas de la fruta. Pero, ¿cómo funciona la generalidad?
+Es fácil decir que los seres humanos son más generales que las moscas de la fruta. Pero ¿cómo funciona la generalidad?
 
-No lo sabemos. Todavía no existe una teoría formal madura sobre la «generalidad». Podemos gesticular y decir que una inteligencia es «más general» en la medida en que es capaz de predecir y dirigirse en una gama más amplia de entornos, a pesar de una gama más amplia de retos complicados. Pero no podemos ofreceros una forma de cuantificar los retos y los entornos que convierta esto en una definición formal.
+No lo sabemos. Todavía no existe una teoría formal madura sobre la «generalidad». Podemos gesticular y decir que una inteligencia es «más general» en la medida en que es capaz de predecir y dirigir en una gama más amplia de entornos, a pesar de una gama más amplia de retos complicados. Pero no podemos ofrecer una forma de cuantificar los entornos y los retos que convierta esto en una definición formal.
 
-¿Te parece insatisfactorio? A nosotros también nos resulta insatisfactorio. Deseamos fervientemente que la humanidad acumule una mejor comprensión de la inteligencia general antes de intentar construir máquinas con inteligencia general. Esto podría mejorar la grave situación técnica que describiremos en los capítulos 10 y 11. 
+¿No te satisface esta respuesta? A nosotros tampoco. Deseamos fervientemente que la humanidad acumule una mejor comprensión de la inteligencia general antes de intentar construir máquinas con inteligencia general. Esto podría mejorar la grave situación técnica que describiremos en los capítulos 10 y 11. 
 
 Aunque no tenemos una descripción formal del fenómeno, podemos deducir algunos hechos sobre la generalidad observando el mundo que nos rodea.
 
@@ -455,17 +455,17 @@ Para evaluar la generalidad, no preguntes cuánto *sabe* algo. Pregunta cuánto 
 
 En cierto sentido, los seres humanos son aprendices más poderosos que los ratones. No es que los ratones no puedan aprender en absoluto —por ejemplo, pueden aprender a navegar por un laberinto—. Pero los seres humanos pueden aprender cosas más complicadas y extrañas que los ratones, y podemos conectar nuestros conocimientos de forma más eficaz.
 
-¿Cómo funciona esto exactamente? ¿Qué tenemos nosotros que no tienen los ratones? 
+¿Cómo funciona esto exactamente? ¿Qué tenemos nosotros que no tengan los ratones? 
 
 Consideremos dos personas que están aprendiendo a navegar por una nueva ciudad después de mudarse. 
 
-Alice memoriza todas las rutas que necesita saber. Para ir de su casa a la ferretería, gira a la izquierda en la Tercera Avenida, a la izquierda en el segundo semáforo, y luego sigue dos manzanas más y gira a la derecha para entrar en el aparcamiento. Memoriza por separado la ruta a la tienda de comestibles y la ruta a su oficina.
+Alice memoriza todas las rutas que necesita saber. Para ir de su casa a la ferretería, gira a la izquierda en la Tercera Avenida, a la izquierda en el segundo semáforo, y luego sigue dos manzanas más y gira a la derecha para llegar al estacionamiento. Memoriza por separado la ruta al supermercado y la ruta a su oficina.
 
 Mientras tanto, Beth estudia e interioriza un mapa de la ciudad. 
 
 A Alice le puede ir bien en su vida cotidiana, pero si alguna vez tiene que conducir a un lugar nuevo sin indicaciones, se encuentra en apuros. Por el contrario, Beth tiene que dedicar más tiempo a planificar sus rutas, pero es mucho más flexible.
 
-Alice puede ser más rápida en las rutas específicas que ha memorizado, pero Beth será mejor conduciendo por cualquier otro lugar. Beth también tendrá ventaja en otras tareas, como encontrar una ruta que minimice el tráfico en hora punta, o incluso diseñar el trazado de las calles de otra ciudad.
+Alice puede ser más rápida en las rutas específicas que ha memorizado, pero Beth será mejor conduciendo por cualquier otro lugar. Beth también tendrá ventaja en otras tareas, como encontrar una ruta con menos tráfico en horas pico, o incluso diseñar el trazado de las calles de otra ciudad.
 
 Parece que hay tipos de aprendizaje que se parecen menos a memorizar rutas de conducción y más a interiorizar un mapa. Parece que hay engranajes mentales que se pueden reutilizar y adaptar a muchos escenarios diferentes. Parece que hay tipos de pensamiento que van muy profundo.
 
@@ -475,11 +475,11 @@ Hablaremos más sobre este tema en el capítulo 3.
 
 #### **No. Pero hay niveles que la IA aún no ha alcanzado.** {#no.-pero-hay-niveles-que-la-ia-aún-no-ha-alcanzado.}
 
-A veces hemos oído sugerir que la idea de la superinteligencia asume que la «inteligencia» es una cantidad simple y unidimensional.[^14] Invierte más en investigación de IA y obtendrás más «inteligencia», como si la inteligencia fuera menos como una máquina y más como un fluido que se puede seguir bombeando del suelo.
+Hemos llegado a escuchar que la idea de la superinteligencia asume que la «inteligencia» es una cantidad simple y unidimensional.[^14] Invierte más en investigación de IA y obtendrás más «inteligencia», como si la inteligencia fuera menos como una máquina y más como un fluido que se puede seguir bombeando desde el suelo.
 
-Estamos de acuerdo con la crítica subyacente: la inteligencia no es una cantidad escalar simple. Puede que no siempre sea sencillo crear IA más inteligentes simplemente dedicando más hardware de cómputo al problema (aunque a veces sí lo sea, si la última década sirve de indicación). Una mayor inteligencia puede que no siempre se traduzca directamente en un mayor poder. El mundo es complicado y las capacidades pueden toparse con cuellos de botella y mesetas.
+Estamos de acuerdo con la crítica subyacente: la inteligencia no es una cantidad escalar simple. Puede que no siempre sea sencillo crear IA más inteligentes simplemente dedicando más hardware de cómputo al problema (aunque a veces sí lo sea, si la última década sirve de indicador). Una mayor inteligencia puede que no siempre se traduzca directamente en un mayor poder. El mundo es complicado y las capacidades pueden toparse con cuellos de botella y mesetas.
 
-Pero, como señalamos en el Capítulo 1, la existencia de complicaciones, límites y cuellos de botella no significa que la IA vaya a chocar convenientemente con un muro cerca del rango de capacidades humanas. Los cerebros biológicos tienen limitaciones que *no* están presentes en la IA, como se explica en el libro.
+Pero, como señalamos en el capítulo 1, la existencia de complicaciones, límites y cuellos de botella no significa que la IA vaya a chocar convenientemente con un muro cerca del rango de capacidades humanas. Los cerebros biológicos tienen limitaciones que *no* están presentes en la IA, como se explica en el libro.
 
 La inteligencia humana tiene muchas limitaciones y, sin embargo, nos llevó a la Luna. La inteligencia animal no es una magnitud escalar única y, sin embargo, los humanos somos capaces de superar con creces a los chimpancés. Por muy complicada que sea la inteligencia, existe una brecha clara y cualitativa entre nosotros y los chimpancés.
 
@@ -513,7 +513,7 @@ Los recientes avances en IA se han traducido en una mayor capacidad para resolve
 
 No lo sabemos. Y como no lo sabemos, no podemos mirar una IA moderna y saber qué tan cerca o lejos está de ese mismo umbral crítico.
 
-El amanecer de la ciencia y la industria cambió radicalmente la civilización humana. El amanecer del lenguaje puede haber tenido consecuencias similares para nuestros antepasados. Pero si es así, no hay garantía de que cualquiera de esas capacidades actúe como un «umbral crítico» para la IA, porque, a diferencia de los humanos, las IA tenían desde el principio cierto conocimiento del lenguaje, la ciencia y la industria.
+Los albores de la ciencia y la industria cambiaron radicalmente la civilización humana. Los albores del lenguaje pueden haber tenido consecuencias similares para nuestros antepasados. Pero si es así, no hay garantía de que cualquiera de esas capacidades actúe como un «umbral crítico» para la IA, porque, a diferencia de los humanos, las IA tenían desde el principio cierto conocimiento del lenguaje, la ciencia y la industria.
 
 O tal vez el umbral crítico para la humanidad fue una combinación de muchos factores, en la que todos y cada uno de ellos tenían que ser «lo suficientemente buenos» para que todo el sistema encajara. Las IA podrían quedarse atrás en algunas capacidades en las que los homínidos eran mejores, como la memoria a largo plazo, pero seguirían mostrando un salto importante en su capacidad práctica una vez que la última pieza encajara en su sitio.
 
@@ -525,13 +525,13 @@ O (como se analiza en el libro) consideremos el punto en el que las IA pueden cr
 
 Por lo que sabemos, hay una docena de factores diferentes que podrían servir como la «pieza que falta», de modo que, una vez que un laboratorio de IA descubra esa última pieza del rompecabezas, su IA realmente comenzará a despegar y a separarse del resto, como lo hizo la humanidad del resto de los animales. Los momentos críticos podrían llegarnos rápidamente. No necesariamente tenemos mucho tiempo para prepararnos.
 
-#### **\* La velocidad de despegue no afecta al resultado, pero la posibilidad de un despegue rápido significa que debemos actuar pronto.** {#*-la-velocidad-de-despegue-no-afecta-al-resultado,-pero-la-posibilidad-de-un-despegue-rápido-significa-que-debemos-actuar-pronto.}
+#### **\* La velocidad de despegue no afecta el resultado, pero la posibilidad de un despegue rápido significa que debemos actuar pronto.** {#*-la-velocidad-de-despegue-no-afecta-el-resultado,-pero-la-posibilidad-de-un-despegue-rápido-significa-que-debemos-actuar-pronto.}
 
-Al final, los umbrales no importan demasiado para el argumento de que si alguien construye una superinteligencia artificial, todos moriremos. Nuestros argumentos no requieren que alguna IA descubra cómo mejorarse recursivamente a sí misma y luego se convierta en superinteligente a una velocidad sin precedentes. Eso podría suceder, y creemos que es bastante probable que *suceda*, pero no importa para la afirmación de que la IA está en camino de matarnos a todos.
+En última instancia, los umbrales no importan demasiado para el argumento de que si alguien construye una superinteligencia artificial, todos moriremos. Nuestros argumentos no requieren que alguna IA descubra cómo mejorarse recursivamente a sí misma y luego se convierta en superinteligente a una velocidad sin precedentes. Eso podría suceder, y creemos que es bastante probable que *suceda*, pero no importa para la afirmación de que la IA está en camino de matarnos a todos.
 
 Todo lo que requieren nuestros argumentos es que las IA sigan mejorando cada vez más en la predicción y el control del mundo, hasta que nos superen. No importa mucho si eso ocurre de forma rápida o lenta.
 
-La relevancia de los efectos umbral radica en que aumentan la importancia de que la humanidad reaccione *pronto* ante la amenaza. No podemos permitirnos el lujo de esperar hasta que la IA sea *un poco* mejor que cualquier ser humano en todas las tareas mentales, porque para entonces podría ser que no quedara mucho tiempo. Sería como ver a los primeros homínidos haciendo fuego, bostezar y decir: «Despertadme cuando estén a mitad de camino de la Luna».
+La relevancia de los efectos umbral radica en que aumentan la importancia de que la humanidad reaccione *pronto* ante la amenaza. No podemos permitirnos el lujo de esperar hasta que la IA sea *un poco* mejor que cualquier ser humano en todas las tareas mentales, porque para entonces podría ser que no quedara mucho tiempo. Sería como ver a los primeros homínidos haciendo fuego, bostezar y decir: «Despiértenme cuando estén a mitad de camino hacia la Luna».
 
 Los homínidos tardaron millones de años en recorrer la mitad del camino hasta la luna y dos días en completar el resto del viaje. Cuando puede haber umbrales involucrados, hay que prestar atención *antes* de que las cosas se salgan visiblemente de control, porque para entonces podría ser demasiado tarde.
 
@@ -539,7 +539,7 @@ Los homínidos tardaron millones de años en recorrer la mitad del camino hasta 
 
 #### **Podríamos llamarlo así si quisiéramos.** {#podríamos-llamarlo-así-si-quisiéramos.}
 
-ChatGPT y otros programas similares son más generales que las IA que los precedieron. Pueden hacer algunas operaciones matemáticas, escribir poesía y programar. ChatGPT no siempre puede hacer estas cosas *bien* (a fecha de agosto de 2025), pero puede hacer muchas cosas.
+ChatGPT y otros programas similares son más generales que las IA que los precedieron. Pueden hacer algunas operaciones matemáticas, escribir poesía y programar. ChatGPT no siempre puede hacer estas cosas *bien* (en agosto de 2025), pero puede hacer muchas cosas.
 
 Es razonable suponer que GPT-5 sigue siendo menos general en su razonamiento que un niño humano. Es cierto que puede recitar más libros de texto, pero probablemente haya memorizado un volumen mucho mayor de patrones superficiales que los que utilizaría un niño humano, mientras que un niño probablemente utilice mecanismos mentales más profundos para completar tareas comparables (con mejores resultados en algunos casos y peores en otros).
 
@@ -551,7 +551,7 @@ En la actualidad, el mundo se encuentra quizás a medio camino entre «las IA so
 
 Quizás lo que se necesita para recorrer la distancia restante es solo un poco más de escala, como ocurre con el cerebro humano, que es muy similar al cerebro de los chimpancés, pero tres o cuatro veces más grande. O quizás la arquitectura subyacente a ChatGPT es demasiado superficial para soportar la «chispa» de la generalidad.
 
-Quizás haya algún componente importante de la inteligencia general que los algoritmos modernos de IA simplemente no pueden manejar, y las IA modernas lo compensan aplicando cantidades masivas de práctica y memorización a los tipos de tareas que se pueden resolver con práctica intensiva. En ese caso, tal vez solo se necesite un invento algorítmico brillante (y también increíblemente estúpido) para subsanar ese déficit, y las IA serán capaces de comprender la mayoría de las cosas que un humano puede comprender y aprender de la experiencia con la misma eficacia que un humano. (Sin dejar de ser capaces de leer y memorizar todo Internet). O tal vez se necesiten cuatro avances algorítmicos más. Nadie lo sabe, como se explica en el capítulo 2.
+Quizás haya algún componente importante de la inteligencia general que los algoritmos modernos de IA simplemente no pueden manejar, y las IA modernas lo compensan aplicando cantidades masivas de práctica y memorización a los tipos de tareas que se pueden resolver con práctica intensiva. En ese caso, tal vez solo se necesite un invento algorítmico brillante (y también increíblemente estúpido) para subsanar ese déficit, y las IA serán capaces de comprender la mayoría de las cosas que un humano puede comprender y aprender de la experiencia con la misma eficacia que un humano. (Sin dejar de ser capaces de leer y memorizar todo el Internet). O tal vez se necesiten cuatro avances algorítmicos más. Nadie lo sabe, como se explica en el capítulo 2.
 
 #### **\* Hay muchas cosas diferentes que se pueden entender por «inteligencia general».** {#*-hay-muchas-cosas-diferentes-que-se-pueden-entender-por-«inteligencia-general».}
 
@@ -565,27 +565,27 @@ No hubo un día y una hora exactos en los que se pudiera decir que las IA «empe
 
 Todo esto quiere decir que la respuesta a «¿Es ChatGPT generalmente inteligente?» podría ser sí o no, dependiendo de lo que se entienda exactamente por la pregunta. (Lo que dice mucho sobre el progreso de la IA en los últimos años. Deep Blue era claramente bastante limitado).
 
-#### **La superinteligencia es una distinción más importante.** {#superinteligencia-es-una-distinción-más-importante.}
+#### **La superinteligencia es una distinción más importante.** {#la-superinteligencia-es-una-distinción-más-importante.}
 
-Dado que hay varias cosas diferentes que «inteligencia a nivel humano» podría significar razonablemente, normalmente evitamos utilizar esa terminología nosotros mismos, excepto cuando hablamos de IA superhumana. Esta es también la razón por la que solemos evitar decir «inteligencia artificial general». Si necesitamos hablar de alguna de esas ideas, la explicaremos con más detalle.
+Dado que hay varias cosas diferentes que «inteligencia a nivel humano» podría significar razonablemente, procuramos no utilizar esa terminología, salvo cuando hablamos de IA superhumana. Esta es también la razón por la que solemos evitar decir «inteligencia artificial general». Si necesitamos hablar de alguna de esas ideas, la explicaremos con más detalle.
 
-Sí utilizaremos términos como «IA más inteligente que los humanos», «IA superhumana» o «superinteligencia», que suponen algún tipo de referencia humana:
+En cambio, *sí* utilizaremos términos como «IA más inteligente que los humanos», «IA superhumana» o «superinteligencia», que suponen algún tipo de referencia respecto a los humanos:
 
 * Por «IA más inteligente que los humanos» o «IA superhumana» (aquí y en el libro), nos referimos a una IA que tiene esa «chispa de generalidad» que separa a los humanos de los chimpancés *y* que es claramente mejor en general que los humanos más inteligentes a la hora de resolver problemas y descubrir qué es verdad.
 
   La IA superhumana podría ser solo *ligeramente* más inteligente que los mejores humanos, y puede que haya algunas tareas en las que los mejores humanos sigan teniendo mejor desempeño. Pero asumiremos, aquí y en el libro, que «IA más inteligente que los humanos» significa *al menos* que una comparación justa a través de una amplia gama de tareas complicadas tendría a la IA con mejor desempeño que los humanos más competentes, en todo tipo de tareas difíciles.
 
-* Por «**superinteligencia**» o «**superinteligencia artificial**» (ASI), nos referimos a una IA superhumana que supera *vastamente* a la inteligencia humana. Asumiremos que los seres humanos individuales y los grupos reales de seres humanos son completamente incapaces de competir con la IA superinteligente en cualquier dominio de importancia práctica, por las razones discutidas en el capítulo 6\.
+* Por «**IA superinteligente**» o «**superinteligencia artificial**» (SIA), nos referimos a una IA superhumana que supera *vastamente* a la inteligencia humana. Asumiremos que los seres humanos individuales y los grupos reales de seres humanos son completamente incapaces de competir con la IA superinteligente en cualquier ámbito de importancia práctica, por las razones que se presentan en el capítulo 6\.
 
-Este libro utilizará principalmente los términos «superhumano» y «superinteligente» de manera intercambiable. La distinción cobra mayor relevancia en la parte II, donde describimos un escenario de toma de poder de la IA en el que las IA comienzan siendo débilmente más inteligentes que los humanos, pero *no* superinteligentes. Esto ayuda a ilustrar que la superinteligencia es posiblemente excesiva: la IA puede volverse superinteligente pronto, pero no *necesita* ser tan inteligente para causar la extinción humana.
+Este libro utilizará principalmente los términos «superhumana» y «superinteligente» de manera intercambiable. La distinción cobra mayor relevancia en la parte II, donde describimos un escenario de toma de poder por parte de la IA en el que las IA comienzan siendo solo un poco más inteligentes que los humanos, pero *no* superinteligentes. Esto ayuda a ilustrar que la superinteligencia quizás sea un exceso: la IA puede volverse superinteligente pronto, pero no *necesita* ser tan inteligente para causar la extinción humana.
 
 Estas son definiciones muy generales, pero son suficientemente buenas para los propósitos de este libro.
 
 Este no es un libro que proponga una teoría compleja de la inteligencia para luego deducir algunas implicaciones esotéricas de la teoría que presagian un desastre. En cambio, operaremos a un nivel bastante básico, con afirmaciones como:
 
-* En algún momento, la IA probablemente logrará completamente *lo que sea* que permite a los humanos (y no a los chimpancés) construir cohetes, centrifugadoras y ciudades.  
+* En algún momento, la IA probablemente alcanzará *lo que sea* que permite a los humanos (y no a los chimpancés) construir cohetes, centrifugadoras y ciudades.  
 * En algún momento, la IA *superará* a los humanos.  
-* Las IA poderosas probablemente tendrán sus propios objetivos que perseguirán obstinadamente, porque perseguir objetivos obstinadamente es útil para una amplia gama de tareas (y, por ejemplo, los humanos evolucionaron objetivos precisamente por esta razón).
+* Las IA poderosas probablemente tendrán sus propios objetivos que perseguirán obstinadamente, porque perseguir objetivos obstinadamente es útil para una amplia gama de tareas (y, por ejemplo, los humanos evolucionaron objetivos justo por esta razón).
 
 Afirmaciones como esas, sean correctas o incorrectas, no dependen de que tengamos conocimiento especial de todo el funcionamiento interno de la inteligencia. Podemos ver el camión que se dirige hacia nosotros, incluso sin apelar a un modelo complicado de los componentes internos del camión. O eso argumentaremos.
 
@@ -595,7 +595,7 @@ Y argumentos sencillos como estos no dependen de si ChatGPT es «realmente» de 
 
 #### **Muy inteligente.** {#muy-inteligente.}
 
-Por cada punto en la lista del Capítulo 1 sobre las razones por las que el cerebro humano no se acerca a los límites de las posibilidades físicas, las máquinas *podrían* acercarse a esos límites.
+Por cada punto en la lista del capítulo 1 sobre las razones por las que el cerebro humano no se acerca a los límites de las posibilidades físicas, las máquinas *podrían* acercarse a esos límites.
 
 Las leyes de la física permiten la existencia de genios que piensan decenas de miles (si no millones o miles de millones) de veces más rápido que los humanos,[^19] que nunca necesitan dormir ni comer, y que pueden hacer copias de sí mismos e intercambiar experiencias.
 
@@ -605,29 +605,29 @@ Incluso si la IA solo es muy superior a los humanos en una o dos dimensiones, es
 
 Incluso las pequeñas ventajas intelectuales pueden traducirse en grandes ventajas prácticas, y las pequeñas ventajas pueden acumularse con extrema rapidez. Pero las probables ventajas de las IA no parecen en absoluto pequeñas.
 
-Para más argumentos sobre la importancia de este nivel de inteligencia —que podría traducirse en poder en el mundo real—, consulta el Capítulo 6.
+Para más argumentos sobre la importancia de este nivel de inteligencia —que podría traducirse en poder en el mundo real—, consulta el capítulo 6.
 
-### Pero, ¿no hay grandes obstáculos para alcanzar la superinteligencia? {#pero-¿no-hay-grandes-obstáculos-para-alcanzar-la-superinteligencia?}
+### ¿No hay grandes obstáculos para alcanzar la superinteligencia? {#¿no-hay-grandes-obstáculos-para-alcanzar-la-superinteligencia?}
 
 #### **No está claro.** {#no-está-claro.}
 
-En gran medida, el campo está avanzando a ciegas. Podría ser que no quedaran obstáculos reales y que pequeños ajustes en las técnicas actuales escalen hasta la superinteligencia, o escalen hasta IA lo suficientemente inteligente como para construir IA ligeramente más inteligente que construya IA ligeramente más inteligente que construya IA superinteligente.
+En gran medida, el campo está avanzando a ciegas. Podría ser que no quedaran obstáculos reales y que pequeños ajustes en las técnicas actuales escalen hasta la superinteligencia, o escalen hasta IA lo suficientemente inteligentes como para construir IA ligeramente más inteligentes que construyan IA ligeramente más inteligentes que construyan IA superinteligentes.
 
 Si *hay* obstáculos importantes, no sabemos cuánto tiempo tardará la humanidad en superarlos (con o sin la ayuda de la IA).
 
 Lo que sí sabemos es que los principales laboratorios de IA están avanzando explícitamente en esa dirección, y sabemos que están haciendo progresos. Antes, las máquinas no podían dibujar, hablar ni escribir código; ahora sí pueden.
 
-#### **\* El campo es bueno para superar obstáculos.** {#*-el-campo-es-bueno-para-superar-obstáculos.}
+#### **\* El campo es bueno en superar obstáculos.** {#*-el-campo-es-bueno-en-superar-obstáculos.}
 
-Durante décadas, las IA tuvieron dificultades incluso para distinguir una imagen de un gato de una imagen de un coche. El punto de inflexión se produjo en 2012, cuando los investigadores de la Universidad de Toronto Alex Krizhevsky, Ilya Sutskever y Geoffrey Hinton diseñaron [AlexNet](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), una red neuronal convolucional que superó dramáticamente el estado del arte. Este acontecimiento es ampliamente reconocido como el inicio de la revolución moderna de la IA, en la que las redes neuronales artificiales se utilizan para impulsar casi toda la IA moderna.
+Durante décadas, las IA tuvieron dificultades incluso para distinguir la imagen de un gato de la imagen de un coche. El punto de inflexión se produjo en 2012, cuando los investigadores de la Universidad de Toronto Alex Krizhevsky, Ilya Sutskever y Geoffrey Hinton diseñaron [AlexNet](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf), una red neuronal convolucional que superó por mucho el nivel que se había alcanzado hasta ese momento. Este acontecimiento es ampliamente reconocido como el inicio de la revolución moderna de la IA, en la que las redes neuronales artificiales se utilizan para impulsar casi toda la IA moderna.
 
 La IA solía ser mala en los juegos de mesa. Incluso después de que la IA de ajedrez [Deep Blue](https://www.ibm.com/history/deep-blue) derrotara al gran maestro Garry Kasparov en 1997, las computadoras seguían teniendo dificultades con el número mucho mayor de movimientos posibles en el juego del Go. Eso fue así hasta 2016, cuando [AlphaGo](https://deepmind.google/research/projects/alphago/) derrotó al campeón mundial Lee Sedol tras entrenarse con miles de partidas humanas, utilizando una nueva arquitectura que combinaba redes neuronales profundas con búsqueda en árbol. Una vez que vencieron al Go, el equipo de DeepMind utilizó ese mismo algoritmo de una manera más general, llamado [AlphaZero](https://deepmind.google/discover/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/), y descubrió que dominaba no solo el Go, sino también otros juegos como el ajedrez y el shogi.
 
-Los primeros chatbots eran comunicadores limitados.[^20] Luego, en 2020, la maduración de la arquitectura del transformador nos dio [GPT-3](https://arxiv.org/abs/2005.14165), que era lo suficientemente sofisticado como para traducir textos, responder preguntas e incluso generar muestras de artículos de noticias que parecían reales. Una vez que se reentrenó un poco para actuar como un chatbot, se convirtió en la aplicación de consumo de más rápido crecimiento de todos los tiempos.[^21]
+Los primeros chatbots eran comunicadores limitados.[^20] Luego, en 2020, la maduración de la arquitectura de los transformadores nos dio [GPT-3](https://arxiv.org/abs/2005.14165), que era lo suficientemente sofisticado como para traducir textos, responder preguntas e incluso generar muestras de artículos de noticias que parecían reales. Una vez que se reentrenó un poco para actuar como un chatbot, se convirtió en la aplicación de consumo de más rápido crecimiento de todos los tiempos.[^21]
 
 ¿Existen obstáculos entre la IA moderna y la «auténtica», el tipo de IA que podría convertirse en una superinteligencia o crearla?
 
-Quizás. Quizás se necesiten más conocimientos arquitectónicos, como los que hay detrás de AlexNet, que abrió todo el campo de la IA moderna, o como los que hay detrás de AlphaZero, que finalmente permitió a las IA ser buenas en múltiples juegos utilizando el mismo algoritmo, o los que hay detrás de ChatGPT, que hicieron que las computadoras empezaran a hablar. (O quizás no; quizás las IA modernas [crucen silenciosamente algún umbral](#¿superará-la-ia-los-umbrales-criticos-y-despegará?) y eso será todo).
+Tal vez. Quizás se necesiten más conocimientos arquitectónicos, como los que hay detrás de AlexNet, que abrió todo el campo de la IA moderna, o como los que hay detrás de AlphaZero, que finalmente permitió a las IA ser buenas en múltiples juegos utilizando el mismo algoritmo, o los que hay detrás de ChatGPT, que hicieron que las computadoras empezaran a hablar. (O quizás no; quizás las IA modernas [crucen silenciosamente algún umbral](#¿superará-la-ia-los-umbrales-criticos-y-despegará?) y eso será todo).
 
 Pero si quedan obstáculos, los investigadores en este campo probablemente los superarán. Son bastante buenos en eso, y ahora hay muchos más investigadores trabajando en este problema que en 2012.[^22]
 
@@ -639,9 +639,9 @@ Si esa siguiente fase no es suficiente para que las IA empiecen a automatizar la
 
 ### ¿No es imposible predecir el comportamiento de una superinteligencia? {#¿no-es-imposible-predecir-el-comportamiento-de-una-superinteligencia?}
 
-#### **En algunos aspectos, pero no en todos los aspectos.** {#en-algunos-aspectos,-pero-no-en-todos.}
+#### **En algunos aspectos, pero no en todos.** {#en-algunos-aspectos,-pero-no-en-todos.}
 
-Stockfish 17 es mejor que nosotros manejando un tablero de ajedrez. Si jugáramos una partida de ajedrez contra Stockfish, no podríamos predecir sus movimientos, ya que para ello tendríamos que ser al menos tan buenos en ajedrez como Stockfish 17\. Sin embargo, nos resultaría fácil predecir el ganador de la partida.[^24] Es difícil predecir qué movimientos hará Stockfish; es fácil predecir que *ganará*.
+Stockfish 17 es mejor que nosotros manejando un tablero de ajedrez. Si jugáramos una partida de ajedrez contra Stockfish, no podríamos predecir sus movimientos, ya que para ello tendríamos que ser al menos tan buenos en ajedrez como él. Sin embargo, nos resultaría fácil predecir el ganador de la partida.[^24] Si bien es difícil predecir qué movimientos hará Stockfish, es fácil predecir que *ganará*.
 
 Lo mismo sucede con las IA que predicen y dirigen el mundo real. Cuanto más inteligentes son, más difícil es predecir exactamente lo que harán, pero más fácil es predecir que alcanzarán cualquier destino hacia el que se dirijan.
 
@@ -649,23 +649,23 @@ Lo mismo sucede con las IA que predicen y dirigen el mundo real. Cuanto más int
 
 #### **No.** {#no.}
 
-En su mayor parte, diferimos la pregunta de si las máquinas pueden ser creativas hasta el Capítulo 3. Sin embargo, aquí diremos esto: las máquinas no necesitan tener algún defecto fatal que las equilibre frente a los humanos, de modo que el indomable espíritu humano tenga la oportunidad de ganar.
+En su mayor parte, diferimos la pregunta de si las máquinas pueden ser creativas hasta el capítulo 3. Sin embargo, aquí diremos esto: las máquinas no necesitan tener algún defecto fatal que las equilibre frente a los humanos, de modo que el indomable espíritu humano tenga la oportunidad de ganar.
 
 Si los pájaros dodo hubieran tenido su propia industria cinematográfica, los guiones que los dodos escribieron sobre la invasión humana de su isla de Mauricio podrían haber hecho que las armas y el acero de los humanos se compensaran con desventajas humanas. Quizás la angustia existencial inducida por la inteligencia hace que los humanos se paralicen de desesperación en el último momento, justo el tiempo suficiente para que los heroicos dodos contraataquen y los maten a todos a picotazos.
 
 Esta es quizás una historia que los dodos encontrarían satisfactoria: que la inteligencia no puede ser una ventaja militar neta sobre los picos fuertes, que los cerebros más grandes de los humanos deben tener algún defecto fatal que permita a los orgullosos dodos ganar después de todo.
 
-En realidad, las ventajas aparentes de los humanos son ventajas *reales*. Las desventajas de los cerebros humanos no son desventajas *netas* en un conflicto militar con cerebros de pájaros. La contienda entre humanos y dodos termina siendo desigual, y eso es todo.
+En realidad, las ventajas aparentes de los humanos son ventajas *reales*. Las desventajas de los cerebros humanos no son desventajas *netas* en un conflicto militar con cerebros de pájaros. La contienda entre humanos y dodos termina siendo desigual, así de sencillo.
 
-Incluso cuando los humanos luchan contra otros humanos, las ametralladoras son una ventaja suficiente para que un ejército con ametralladoras suele vencer a un ejército sin ellas. Hay raras excepciones a esta regla, y a la gente le encanta contarlas porque la excepción es una historia más divertida que la norma. Pero las excepciones ocurren en la vida real con mucha menos frecuencia que en las historias.
+Incluso cuando los humanos luchan contra otros humanos, las ametralladoras son una ventaja suficiente para que un ejército con ametralladoras venza a un ejército sin ellas. Hay raras excepciones a esta regla, y a la gente le encanta contarlas porque la excepción es una historia más divertida que la norma. Pero las excepciones ocurren en la vida real con mucha menos frecuencia que en las historias.
 
 Predecimos lo mismo sobre las IA avanzadas con vastas memorias y mentes, que pueden copiarse a sí mismas miles de veces y pensar a una velocidad diez mil veces superior a la de un humano; mentes que pueden razonar de forma más válida, generalizar más rápido y con mayor precisión a partir de menos lecciones duras, y mejorarse a sí mismas.
 
-No es una pregunta trampa, y no habrá un giro argumental sorprendente, por mucho que nos gustaría que lo hubiera.
+No es una pregunta capciosa, y no habrá un giro argumental sorprendente, por mucho que nos gustaría que lo hubiera.
 
 ### ¿No hay algo especial en los seres humanos que las simples máquinas nunca podrían emular? {#¿no-hay-algo-especial-en-los-seres-humanos-que-las-simples-máquinas-nunca-podrían-emular?}
 
-#### **Parece poco probable y no especialmente relevante.** {#parece-poco-probable-y-no-especialmente-relevante.}
+#### **Parece poco probable y no particularmente relevante.** {#parece-poco-probable-y-no-particularmente-relevante.}
 
 El cerebro y el cuerpo humanos están formados por partes que podemos estudiar y llegar a comprender. Hay muchas cosas que no entendemos sobre el cerebro, pero eso no significa que las partes que no entendemos funcionen por arte de magia y que los humanos nunca podamos construir nada similar. Solo significa que los cerebros son máquinas enormemente *complicadas*. El cerebro humano tiene cientos de billones de sinapsis, y nos queda un largo camino por recorrer para comprender todos los principios importantes de alto nivel que intervienen en su funcionamiento.
 
@@ -675,9 +675,9 @@ Incluso si hubiera algún aspecto del razonamiento biológico que fuera muy dif�
 
 Los próximos capítulos ayudarán a arrojar más luz sobre este punto. En el capítulo 2, cubriremos cómo las IA modernas son cultivadas en lugar de creadas, y cómo el proceso de cultivo tiende a hacer que las IA sean muy capaces. En el capítulo 3, cubriremos cómo los intentos de hacer que las IA sean cada vez más capaces tienden a impulsarlas cada vez más hacia el logro de objetivos difíciles. Y en el capítulo 4, discutiremos cómo es poco probable que esos objetivos sean los que los desarrolladores pretendían, ni los que los usuarios solicitaron. Todo esto es suficiente para que las IA conduzcan al mundo a la ruina, independientemente de si consideras que las IA tienen alguna chispa vital, o conciencia, o cualquier otra cosa que puedas imaginar que hace especiales a los seres humanos.
 
-Véase también, en los recursos en línea venideros:
+Véase también, en los próximos recursos en línea:
 
-* Capítulo 2: «[¿No es la IA "solo matemáticas"?](#¿no-son-las-ia-«solo-matemáticas»?)» y «[¿No serán las IA inevitablemente frías y lógicas, o les faltará de algún modo alguna chispa crucial?](#¿no-serán-las-ia-inevitablemente-frías-y-lógicas-o-les-faltará-alguna-chispa-crucial?)»  
+* Capítulo 2: «[¿No es la IA "solo matemáticas"?](#¿no-es-la-ia-«solo-matemáticas»?)» y «[¿No serán las IA inevitablemente frías, mecánicas y lógicas, o les faltará alguna chispa crucial?](#¿no-serán-las-ia-inevitablemente-frías,-mecánicas-y-lógicas,-o-les-faltará-alguna-chispa-crucial?)»  
 * Capítulo 3: «[Antropomorfismo y mecanomorfismo](#antropomorfismo-y-mecanomorfismo)»  
 * Capítulo 5: «[Eficacia, conciencia y bienestar de la IA](#eficacia,-conciencia-y-bienestar-de-la-ia)»
 
@@ -685,9 +685,9 @@ Véase también, en los recursos en línea venideros:
 
 #### **No necesariamente, y eso parece ser un tema aparte.** {#no-necesariamente,-y-eso-parece-ser-un-tema-aparte.}
 
-*Si alguien lo construye, todos morirán* no discute en absoluto la conciencia de las máquinas, centrándose en su lugar en la *inteligencia* de las máquinas. Como primer paso para hablar de la conciencia, deberíamos aclarar primero qué tipo de «conciencia» tenemos en mente.
+*If Anyone Builds It, Everyone Dies* no habla en absoluto de la conciencia de las máquinas, sino de su *inteligencia*. Como primer paso para hablar de la conciencia, deberíamos aclarar primero qué tipo de «conciencia» tenemos en mente.
 
-Cuando alguien pregunta «¿Mi perro es consciente?», puede referirse a varias cosas diferentes, como:
+Cuando alguien se pregunta si su perro es consciente, puede referirse a varias cosas diferentes, como:
 
 * ¿Rover realmente *entiende* las cosas o solo está ejecutando instintos complicados? ¿Está *pensando* o solo actuando por inercia?  
 * ¿Es consciente de sí mismo? ¿Sabe que existe? ¿Puede reflexionar sobre su propio proceso mental y construir modelos mentales complejos de sí mismo?  
@@ -699,7 +699,7 @@ Podemos plantearnos preguntas similares sobre la IA.
 * **¿ChatGPT es consciente de sí mismo?** Una vez más, ChatGPT parece ser bueno para modelarse a sí mismo en algunos aspectos, y malo en otros. Hay un serio factor de confusión en el hecho de que todo el paradigma que condujo a ChatGPT se centró en hacer cosas que *parecieran* conscientes de sí mismas, dando el mismo tipo de respuestas que darían los humanos. Se puede discutir si ChatGPT ha superado algunos umbrales importantes en cuanto a la autoconciencia, y se puede discutir qué umbrales hay en el futuro. Pero, tarde o temprano, podemos esperar que existan IA con capacidades *prácticas* extremadamente potentes para comprenderse y razonar sobre sí mismas: la capacidad de depurarse a sí mismas, de diseñar versiones nuevas y mejoradas de sí mismas, de hacer planes complicados sobre su posición en el mundo, etc.  
 * **¿Tiene ChatGPT experiencias subjetivas genuinas?**
 
-La última de estas preguntas es la más espinosa desde el punto de vista filosófico y da lugar a un clúster de preguntas sobre si las IA como ChatGPT son entidades que merecen consideración moral. Discutiremos esos temas [más adelante](#eficacia,-conciencia-y-bienestar-de-la-ia), en los debates ampliados relacionados con el capítulo 5\.
+La última de estas preguntas es la más espinosa desde el punto de vista filosófico y da lugar a una serie de preguntas sobre si las IA como ChatGPT son entidades que merecen consideración moral. Discutiremos esos temas [más adelante](#eficacia,-conciencia-y-bienestar-de-la-ia), en los debates ampliados relacionados con el capítulo 5\.
 
 Cuando usamos la palabra «consciente», nos referimos específicamente a «tener una experiencia subjetiva» y no a cosas como el automodelado y la comprensión práctica profunda.[^26]
 
@@ -707,71 +707,71 @@ Nuestra mejor suposición es que las IA actuales probablemente no sean conscient
 
 Pero estas son solo conjeturas, aunque basadas en una cantidad razonable de reflexión y teorización. No creemos que sea en absoluto «tonto» preocuparse por la posibilidad de que algunos sistemas de IA actuales o futuros puedan ser conscientes, o incluso preocuparse por si estamos maltratando gravemente a las IA actuales, especialmente cuando hacen cosas como amenazar con suicidarse[^27] después de no haber podido depurar el código.
 
-Cualquier entidad que constituyera una superinteligencia según nuestro criterio sería necesariamente muy buena modelándose a sí misma: pensando en sus propios cálculos, mejorando sus heurísticas mentales, comprendiendo y prediciendo los impactos de su propio comportamiento en el entorno circundante, etc. Pero nuestra mejor hipótesis es que la conciencia autoconsciente al estilo humano es solo *una forma particular* en que una mente puede modelarse a sí misma de manera efectiva; no es un prerrequisito necesario para el razonamiento reflexivo.
+Cualquier entidad que constituyera una superinteligencia según nuestro criterio sería necesariamente muy buena modelándose a sí misma: pensando en sus propios cálculos, mejorando su heurística mental, comprendiendo y prediciendo los impactos de su propio comportamiento en el entorno circundante, etc. Pero nuestra mejor hipótesis es que la conciencia autoconsciente al estilo humano es solo *una forma particular* en que una mente puede modelarse a sí misma de manera efectiva; no es un prerrequisito necesario para el razonamiento reflexivo.
 
 La conciencia puede ser una parte importante de cómo los seres humanos son tan buenos manipulando el mundo, pero eso no significa que las máquinas no conscientes sean defectuosas e incapaces de predecir y dirigir el mundo. Los submarinos no nadan de forma análoga a los seres humanos; cumplen la tarea de moverse por el agua de una manera fundamentalmente diferente. Esperamos que una IA sea capaz de *tener éxito en los mismos desafíos en los que los humanos tienen éxito*, pero no necesariamente que lo haga a través del mismo canal de experiencia subjetiva que utilizan los humanos.
 
-(Véase también el caso análogo de [la curiosidad](#la-curiosidad-no-es-convergente), al que volveremos en el suplemento del Capítulo 4).
+(Véase también el caso análogo de [la curiosidad](#la-curiosidad-no-es-convergente), al que volveremos en el suplemento del capítulo 4).
 
 Dicho de otra manera: la sangre es muy importante en el funcionamiento de un brazo humano, pero eso no significa que los brazos robóticos requieran sangre para operar. Un brazo robótico no es defectuoso como lo sería un brazo humano sin sangre; simplemente funciona de una manera diferente, sin sangre. Nuestra mejor hipótesis es que las superinteligencias de máquina funcionarán de una manera diferente, no consciente, aunque esta hipótesis no es importante para nuestro argumento en el libro.
 
 Nuestro enfoque en *If Anyone Builds It, Everyone Dies* está en la inteligencia, donde «inteligencia» se define en términos de la capacidad de un razonador para predecir y dirigir el mundo, independientemente de si el cerebro de ese razonador funciona como un cerebro humano. Si una IA está inventando nueva tecnología e infraestructura y la está proliferando por toda la faz del planeta de una manera que nos mata como efecto secundario, entonces detenerse a preguntar «¿Pero es consciente?» parece algo académico.
 
-Entraremos en más detalles sobre por qué creemos que la predicción y la dirección probablemente no requieren conciencia (y lo que esto significa para cómo debemos pensar sobre el bienestar y los derechos de la IA) después del Capítulo 5, una vez que hayamos sentado más bases. Véase «[Eficacia, conciencia y bienestar de la IA](#eficacia,-conciencia-y-bienestar-de-la-ia)» para esa discusión.
+Entraremos en más detalles sobre por qué creemos que la predicción y la dirección probablemente no requieren conciencia (y lo que esto significa para cómo debemos pensar sobre el bienestar y los derechos de la IA) después del capítulo 5, una vez que hayamos sentado más bases. Véase «[Eficacia, conciencia y bienestar de la IA](#eficacia,-conciencia-y-bienestar-de-la-ia)» para esa discusión.
 
-## Discusión extendida {#discusión-extendida-1}
+## Debate ampliado {#debate-ampliado-1}
 
 ### Más sobre la inteligencia como predicción y dirección {#más-sobre-la-inteligencia-como-predicción-y-dirección}
 
-Si le preguntas a un físico sabio qué es un motor, es posible que empiece señalando un motor cohete, un motor de combustión y una rueda de hámster, y diga: «Todos ellos son motores», y luego señale una roca y diga: «Pero eso no lo es».
+Si le preguntas a un físico docto qué es un motor, es posible que señale un motor de cohete, un motor de combustión y una rueda de hámster, y diga: «Todos ellos son motores», y luego señale una roca y diga: «Pero eso no lo es».
 
-Esa sería una descripción señalando motores en el mundo, en lugar de intentar dar una definición verbal. Si le presionaras para que te diera una definición verbal, probablemente te diría que un motor es cualquier cosa que convierte la energía no mecánica en energía mecánica, en movimiento.
+Esa sería una descripción en la que se señalan distintos tipos de motores, en lugar de intentar dar una definición verbal. Si le presionaras para que te diera una definición verbal, probablemente te diría que un motor es cualquier cosa que convierte la energía no mecánica en energía mecánica, en movimiento.
 
 Esto no es tanto una afirmación sobre lo que *es* un motor, sino más bien una afirmación sobre lo que *hace* un motor. Todo tipo de cosas diferentes pueden ser motores; los componentes internos de un motor de cohete, un motor eléctrico y los músculos de un hámster tienen muy poco en común. No hay mucho que se pueda decir útilmente sobre todos esos componentes internos a la vez, excepto que todos convierten otros tipos de energía en energía mecánica.
 
 Diríamos que la inteligencia es similar. Hay muchos componentes internos diferentes que pueden dar lugar a la inteligencia, incluidos los componentes internos biológicos y mecánicos. Una «inteligencia» es cualquier cosa que realice el *trabajo* de la inteligencia.
 
-Descomponemos ese trabajo en «predicción» y «control» porque este punto de vista está respaldado por varios resultados formales.
+Descomponemos ese trabajo en «predicción» y «dirección» porque este punto de vista está respaldado por varios resultados formales.
 
-Comenzaremos discutiendo el sentido en el que medir la predicción es bastante *objetivo*. Luego contrastaremos esto con el control, que tiene un grado de libertad que la predicción no tiene.
+Comenzaremos discutiendo el sentido en el que medir la predicción es bastante *objetivo*. Luego contrastaremos esto con la dirección, que tiene un grado de libertad que la predicción no tiene.
 
 #### **Las mismas predicciones** {#las-mismas-predicciones}
 
 Es relativamente sencillo comprobar qué tan bueno es alguien haciendo predicciones, al menos en casos donde la predicción es de la forma «voy a ver X» y luego efectivamente ven X.
 
-También podemos calificar el desempeño de las personas cuando hacen predicciones *inciertas*. Supongamos que piensas: «Estoy bastante seguro de que el cielo está azul en este momento, pero podría estar gris en su lugar. Y definitivamente *no* está negro». Si miras por la ventana y el cielo está efectivamente azul, deberías recibir más crédito que si estuviera gris, y mucho más que si estuviera negro.
+También podemos calificar el desempeño de las personas cuando hacen predicciones *inciertas*. Supongamos que piensas: «Estoy bastante seguro de que el cielo está azul en este momento, pero podría estar gris. Y definitivamente *no* está negro». Si miras por la ventana y el cielo está efectivamente azul, deberías recibir más crédito que si estuviera gris, y mucho más que si estuviera negro.
 
 Si fueras un investigador de IA intentando representar esas anticipaciones como números en una computadora, podrías hacer que tu IA inicial elija números para representar qué tan fuerte o débilmente espera varias cosas, y luego reforzar la IA en proporción a qué tan alto fue el número que asignó a la respuesta correcta.
 
 Eso, por supuesto, saldría mal rápidamente, una vez que la IA aprendiera a asignar un valor de tres octotrigintillones a cada posibilidad.
 
-(Al menos, saldría mal de esa manera si estuvieras entrenando la IA usando métodos modernos de IA. Para una introducción a esos métodos, véase el Capítulo 2.)
+(Al menos, saldría mal de esa manera si estuvieras entrenando la IA usando métodos modernos de IA. Para una introducción a esos métodos, véase el capítulo 2.)
 
 «Vaya», podrías decir. «Se supone que los números asignados a una colección mutuamente excluyente y exhaustiva de posibilidades deben sumar como máximo el 100 %».
 
 Ahora, cuando lo intentes de nuevo, descubrirás que la IA siempre asigna el valor del 100 % a una sola posibilidad, concretamente la posibilidad que considera más probable.
 
-¿Por qué? Bueno, supongamos que la IA piensa que la posibilidad más probable tiene aproximadamente un 80 % de probabilidades de ocurrir. Entonces, la estrategia de asignar el 100 % a la respuesta más probable obtiene un refuerzo del 100 % 8/10 del tiempo, lo que resulta en una fuerza de refuerzo promedio de 0,8.
+¿Por qué? Bueno, supongamos que la IA piensa que la posibilidad más probable tiene aproximadamente un 80 % de probabilidades de ocurrir. Entonces, la estrategia de asignar el 100 % a la respuesta más probable obtiene un refuerzo del 100 % en 8 de cada 10 ocasiones, lo que resulta en una fuerza de refuerzo promedio de 0,8.
 
-Por el contrario, la estrategia de asignar el 80 % a la respuesta más probable y el 20 % a su contraria obtiene un refuerzo del 80 % en 8 de cada 10 ocasiones y un refuerzo del 20 % en 2 de cada 10 ocasiones. Esto da como resultado una fuerza de refuerzo de solo 0,64 en promedio. Por lo tanto, la estrategia de «asignar el 100 % a una respuesta» obtiene más refuerzo y gana.
+Por el contrario, la estrategia de asignar el 80 % a la respuesta más probable y el 20 % a su contraria obtiene un refuerzo del 80 % en 8 de cada 10 ocasiones y un refuerzo del 20 % en 2 de cada 10 ocasiones. Esto da como resultado una fuerza de refuerzo promedio de solo 0,64. Por lo tanto, la estrategia de «asignar el 100 % a una respuesta» obtiene más refuerzo y gana.
 
-Si quieres una estrategia de refuerzo que haga que la IA asigne un número como el ochenta por ciento a las posibilidades que ocurren aproximadamente 8/10 de las veces, debes puntuarla según el *logaritmo* de la probabilidad que asigna a la verdad. Hay otras posibilidades, pero tomar logaritmos es la única con una propiedad adicional útil: Cuando la IA predice múltiples posibilidades (como el color del cielo y la humedad del suelo), no importa si las consideras como una gran pregunta (sobre si el exterior es azul y seco, azul y húmedo, gris y seco o gris y húmedo) o como dos preguntas separadas (sobre azul frente a gris y sobre seco frente a húmedo).
+Si quieres una estrategia de refuerzo que haga que la IA asigne un número como el ochenta por ciento a las posibilidades que ocurren aproximadamente 8 de cada 10 veces, debes puntuarla según el *logaritmo* de la probabilidad que asigna a la verdad. Hay otras posibilidades, pero tomar logaritmos es la única con una propiedad adicional útil: cuando la IA predice múltiples posibilidades (como el color del cielo y la humedad del suelo), no importa si las consideras como una gran pregunta (sobre si el exterior es azul y seco, azul y húmedo, gris y seco o gris y húmedo) o como dos preguntas separadas (azul frente a gris y seco frente a húmedo).
 
 De hecho, los investigadores de IA actuales entrenan a las IA para que hagan predicciones haciéndolas generar números que interpretamos como probabilidades y reforzándolas en proporción al logaritmo de la probabilidad que la IA asignó a la verdad. Pero esto no es solo un resultado empírico sobre el entrenamiento de máquinas, sino también un resultado teórico que se conocía mucho antes de que se entrenara a ChatGPT. Si conocías esa teoría, podrías haber adivinado correctamente de antemano que una buena forma de entrenar a las IA para realizar el trabajo de predicción sería puntuar las predicciones utilizando logaritmos.
 
-No es necesario conocer estas matemáticas para evaluar los argumentos de *If Anyone Builds It, Everyone Dies* (Si alguien lo construye, todos mueren). Pero estos son el tipo de principios que están detrás cuando hablamos de «predicción» y «dirección».
+No es necesario conocer estas matemáticas para evaluar los argumentos de *If Anyone Builds It, Everyone Dies*. Pero estos son el tipo de principios que están detrás cuando hablamos de «predicción» y «dirección».
 
 Hay [matemáticas](https://www.lesswrong.com/posts/afmj8TKAqH6F2QMfZ/a-technical-explanation-of-technical-explanation) sobre cómo medir el trabajo de predicción. Las matemáticas dicen que, en la medida en que tus anticipaciones sobre lo que va a suceder son útiles, pueden expresarse como probabilidades, independientemente de si has pensado conscientemente en probabilidades numéricas o no. Y esto da lugar a una única [regla de puntuación](https://en.wikipedia.org/wiki/Scoring_rule) que te incentiva a informar de tus probabilidades reales y que es invariante bajo la descomposición de las predicciones.
 
 El resultado de todas estas matemáticas es que las predicciones pueden puntuarse de forma *objetiva*. Cuando una mente o una máquina anticipa el color que verá al mirar por la ventana, la siguiente palabra que verá al leer una página web o la señal de tráfico que verá al conducir hacia el aeropuerto, solo hay (en términos generales) una forma realmente buena de evaluar lo bien que lo están haciendo.
 
-La cuestión no es que, si eres inteligente, tengas que ir por ahí murmurando números sobre el color del cielo antes de mirar por la ventana. Cuando anticipas que verás un cielo azul o gris en lugar de un cielo negro, algo en tu cerebro está actuando un poco como una calculadora de probabilidades *en algún lugar* de ahí, te des cuenta o no.
+La cuestión no es que, si eres inteligente, tengas que ir por ahí murmurando números sobre el color del cielo antes de mirar por la ventana. Cuando anticipas que verás un cielo azul o gris en lugar de un cielo negro, algo en tu cerebro está actuando un poco como una calculadora de probabilidades *en algún lugar* ahí dentro, te des cuenta o no.
 
-Más bien, el punto es que *todo* comportamiento similar a una predicción, ya sea una afirmación explícita, una anticipación sin palabras o cualquier otra cosa, está sujeto a una regla de puntuación objetiva.
+Más bien, el punto es que *todo* comportamiento similar a una predicción —ya sea una afirmación explícita, una anticipación sin palabras o cualquier otra cosa— está sujeto a una regla de puntuación objetiva.
 
 Todo esto significa que cuando dos mentes trabajan con la misma información inicial, tienden a converger en las mismas predicciones a medida que mejoran en la capacidad de predecir cosas. Porque hay una sola forma de puntuar las predicciones (comparándolas con la realidad), y solo hay una realidad que predecir, y las mentes que son mejores prediciendo concentrarán cada vez más sus anticipaciones en la verdad, casi por definición.
 
-Todo esto es muy diferente a la situación con la navegación, a la que pasaremos a continuación.
+Todo esto es muy diferente a la situación con la dirección, a la que pasaremos a continuación.
 
 #### **Diferentes destinos** {#diferentes-destinos}
 
@@ -781,53 +781,53 @@ Por el contrario, dos mentes extremadamente hábiles para *navegar* por el mundo
 
 Esta distinción es útil para pensar de forma más concreta sobre la inteligencia, y también se corresponde con una división entre los problemas de ingeniería más sencillos y menos sencillos en la IA.
 
-Cuando entrenas a una IA para predecir cosas, en cierto sentido todos los mejores métodos de predicción acaban produciendo resultados similares. (Es decir, suponiendo que el sistema llegue a ser competente; las formas de fallar son más variadas).
+Cuando entrenas a una IA para predecir cosas, en cierto sentido todos los mejores métodos de predicción acaban produciendo resultados similares. (Suponiendo que el sistema llegue a ser competente; las formas de fallar son más variadas).
 
-Supongamos que entrenas a una IA para predecir la siguiente imagen que verá una cámara web apuntando al cielo desde una ventana. Casi cualquier modelo que empiece a ser lo suficientemente bueno en eso —en asignar de antemano una probabilidad mucho mayor a lo que realmente acaba viendo— predecirá que el cielo estará despejado y azul, nublado y gris o oscuro por la noche, pero no a cuadros.
+Supongamos que entrenas a una IA para que prediga la siguiente imagen que verá una cámara web que está apuntando al cielo desde una ventana. Casi cualquier modelo que empiece a ser lo suficientemente bueno en eso —en asignar de antemano una probabilidad mucho mayor a lo que realmente acaba viendo— predecirá que el cielo estará despejado y azul, nublado y gris o totalmente negro, pero no a cuadros.
 
 La tecnología exacta que utilices no influirá mucho en el resultado final. Cualquier método que funcione, que obtenga buenas puntuaciones en general, acabará asignando una probabilidad similar al azul del cielo.
 
-En cambio, la tarea de «dirigir» tiene un parámetro libre enorme y complicado: ¿hacia qué destino intenta dirigir el sistema?
+En cambio, la tarea de «dirigir» tiene un parámetro libre enorme y complicado: ¿hacia qué destino intenta dirigirse el sistema?
 
-Los generales de bandos opuestos en una guerra pueden ambos ser hábiles, pero eso no significa que intenten lograr lo mismo. Dos generales pueden tener habilidades similares, pero utilizarlas con fines muy diferentes.[^28]
+Los generales de bandos opuestos en una guerra pueden ser hábiles, pero eso no significa que quieran lograr lo mismo. Dos generales pueden tener habilidades similares, pero utilizarlas con fines muy diferentes.[^28]
 
 En la parte predictiva de un sistema de IA, solo hay una cosa que parece predecir muy bien: asignar de antemano altas probabilidades a lo que finalmente se observa. Y cuando un sistema cognitivo parece estar mejorando en general en sus predicciones, probablemente esté mejorando en el tipo concreto de predicción que tú deseabas. Solo hay un «tipo» de predicción que hacer dentro de tu configuración, y un sistema que tiene éxito probablemente lo esté haciendo.
 
-Si el sistema sigue cometiendo un error de predicción concreto, el simple hecho de dotarlo de más cálculos y más datos puede corregir ese error de predicción automáticamente. Puedes conseguir que el sistema funcione mejor (en la predicción de las cosas que te interesan) *simplemente* dotándolo de más poder.
+Si el sistema sigue cometiendo un error de predicción concreto, el simple hecho de dotarlo de más poder de cómputo y más datos puede corregir ese error de predicción automáticamente. Puedes conseguir que el sistema funcione mejor (en la predicción de las cosas que te interesan) *simplemente* dotándolo de más poder.
 
-Con el direccionamiento, este no es el caso.
+Con la dirección, este no es el caso.
 
-Podemos reforzar aún más esta distinción revisando la literatura formal. La dirección —planificación, toma de decisiones, evitación de obstáculos, diseño, etc.— es un tema que se ha estudiado ampliamente en las ciencias. Un resultado matemático importante relacionado con la dirección es el [teorema de utilidad de von Neumann-Morgenstern](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem).
+Podemos reforzar aún más esta distinción revisando la literatura formal. La dirección —planificación, toma de decisiones, evación de obstáculos, diseño, etc.— es un tema que se ha estudiado ampliamente en las ciencias. Un resultado matemático importante relacionado con la dirección es el [teorema de utilidad de von Neumann-Morgenstern](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem).
 
 [En términos generales, este teorema](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem) dice que cualquier entidad que persiga unos resultados por encima de otros debe *o bien* ser ineficiente[^29] *o bien* estar bien descrita por un conjunto de creencias probabilísticas y una «función de utilidad» , una función que describe cómo se compensan entre sí los diferentes resultados. Las creencias, entonces, pueden calificarse según su precisión (como se describe en la sección anterior), mientras que la función de utilidad es un parámetro completamente libre.
 
 Por supuesto, ninguna mente finita puede ser perfectamente eficiente. La lección que extraemos de este teorema (y otros resultados de este tipo) es que, en la medida en que una mente realiza *cualquier* tarea no trivial de manera muy eficaz, en cierto sentido (aunque solo sea de forma implícita e inconsciente) está realizando dos tipos de trabajo distintos: un trabajo similar a la creencia (predicción) y un trabajo similar a la satisfacción de preferencias (dirección).
 
-Por ejemplo, consideremos la fábula de Esopo sobre el zorro y las uvas. Un zorro ve unas uvas de aspecto delicioso colgando de una vid. El zorro salta para cogerlas, pero no puede saltar lo suficientemente alto, por lo que las abandona diciendo: «Bueno, probablemente estaban agrias de todos modos».
+Por ejemplo, consideremos la fábula de Esopo sobre el zorro y las uvas. Un zorro ve unas uvas de aspecto delicioso colgando de una vid. El zorro salta para cogerlas, pero no puede saltar lo suficientemente alto, por lo que las abandona diciendo: «No importa, probablemente estaban agrias».
 
-Si nos creemos lo que dice el zorro, su (in)capacidad para alcanzar las uvas está *influyendo* en su predicción sobre si las uvas están agrias. Si se mantiene firme en esa nueva predicción y se niega a comer las uvas «agrias» por orgullo, incluso si más tarde tiene la oportunidad de comerlas, entonces el comportamiento del zorro es *ineficaz*.[^30] Podría haberlo hecho mejor manteniendo una distinción más clara entre sus predicciones (sobre la dulzura de las uvas) y su direccionamiento (su capacidad para conseguir las uvas).
+Si nos creemos lo que dice el zorro, su (in)capacidad para alcanzar las uvas está *influyendo* en su predicción sobre si las uvas están agrias. Si se mantiene firme en esa nueva predicción y se niega a comer las uvas «agrias» por orgullo, incluso si más tarde tiene la oportunidad de comerlas, entonces el comportamiento del zorro es *ineficaz*.[^30] Podría haberlo hecho mejor manteniendo una distinción más clara entre sus predicciones (sobre la dulzura de las uvas) y su dirección (su capacidad para conseguir las uvas).
 
-A grandes rasgos, las mentes que funcionan bien pueden separarse en *lo que predicen* y *hacia lo que se dirigen* (además de algunas ineficiencias). Y, como hemos visto, lo primero puede puntuarse de forma relativamente objetiva, mientras que lo segundo puede variar enormemente entre mentes de competencia similar.
+A grandes rasgos, las mentes que funcionan bien pueden separarse en *lo que predicen* y *hacia lo que se dirigen* (además de algunas ineficiencias). Y, como hemos visto, lo primero puede puntuarse de forma relativamente objetiva, mientras que lo segundo puede variar enormemente entre mentes de competencias similares.
 
 #### **Predictores impuros** {#predictores-impuros}
 
 Desafortunadamente, el hecho de que la predicción esté más restringida que la dirección no significa que podamos construir una superinteligencia confiable que solo prediga y no dirija.
 
-Aunque las matemáticas dicen que una mente que funciona bien puede modelarse más o menos como «predicciones probabilísticas más una dirección de dirección», esto no significa que las IA del mundo real tengan módulos de «predicción» y «dirección» claramente separados.
+Aunque las matemáticas dicen que una mente que funciona bien puede modelarse más o menos como «predicciones probabilísticas más una dirección», esto no significa que las IA del mundo real tengan módulos de «predicción» y «dirección» claramente separados.
 
-Una forma de ver por qué es así: una «predicción» sobrehumana no consiste solo en generar probabilidades y que esas probabilidades sean mágicamente buenas. Una buena predicción requiere *trabajo*. Requiere planificación y pensar en formas de alcanzar objetivos a largo plazo, es decir, requiere *dirección*.
+Una forma de ejemplificar esto es que una buena «predicción» superhumana no consiste solo en generar probabilidades y que esas probabilidades sean mágicamente buenas. Una buena predicción requiere *trabajo*. Requiere planificación y pensar en formas de alcanzar objetivos a largo plazo, es decir, requiere *dirección*.
 
 Si estás tratando de predecir el mundo físico, a veces necesitas desarrollar teorías de física y descubrir las ecuaciones que rigen esa parte del mundo físico. Y para hacer eso, a menudo necesitarás diseñar experimentos, llevarlos a cabo y observar los resultados.
 
-Y hacer *eso* requiere planificación; requiere dirección. Si a mitad de la construcción de tu aparato experimental te das cuenta de que vas a necesitar imanes más potentes, tendrás que tomar la iniciativa y cambiar de rumbo a mitad de camino. Las buenas predicciones no son gratuitas.
+Y hacer *eso* requiere planificación; requiere dirección. Si a mitad de la construcción de tu aparato experimental te das cuenta de que vas a necesitar imanes más potentes, tendrás que tomar la iniciativa y cambiar de rumbo a mitad de camino. Las buenas predicciones cuestan trabajo.
 
 Incluso *elegir qué tipo de pensamientos pensar* *y en qué orden* es un ejemplo de dirección (aunque sea una dirección que los humanos a menudo hacemos de forma inconsciente), porque requiere cierto nivel de estrategia y elegir las herramientas adecuadas para la tarea en cuestión. Para pensar con claridad y, por lo tanto, predecir mejor las cosas, necesitas organizar tus pensamientos y acciones en torno a varios objetivos a largo plazo. (Volveremos al tema del papel central de la dirección en el capítulo 3, «Aprender a desear»).
 
-La distinción matemática entre predicción y dirección es que hay aproximadamente un conjunto «correcto» de predicciones hacia el que se puede empujar a la mente utilizando una puntuación adecuada, pero no hay un destino de dirección «correcto» (objetivamente, desde la neutralidad del agente).[^31] A medida que una IA se entrena para ser más capaz de forma genérica, sus predicciones se vuelven más precisas, pero su dirección no se orienta automáticamente hacia el destino que los humanos consideran bueno, porque la precisión es objetiva, mientras que la «bondad» es un objetivo de dirección.
+La distinción matemática entre predicción y dirección es que hay aproximadamente un conjunto «correcto» de predicciones hacia el que se puede empujar a la mente utilizando una puntuación adecuada, pero no hay un destino de dirección «correcto» (objetivamente, desde la neutralidad del agente).[^31] A medida que una IA se entrena para ser más capaz de forma genérica, sus predicciones se vuelven más precisas, pero su dirección no se orienta automáticamente hacia el destino que los humanos consideran bueno, porque la precisión es objetiva, mientras que lo «bueno» es un objetivo de dirección.
 
 La precisión converge; la dirección, no.
 
-*En principio*, debería haber formas de garantizar que una IA se oriente hacia los destinos que deseamos. *En la práctica*, esto es difícil, en gran parte porque es un desafío muy *diferente* al de «hacer que la IA sea más inteligente y capaz en general», y no existe una métrica (simple y no manipulable) o una regla de puntuación que podamos utilizar para evaluar «¿En qué medida esta IA está tratando de orientarse hacia el destino que queremos?».
+*En principio*, debería haber formas de garantizar que una IA se oriente hacia los destinos que deseamos. *En la práctica*, esto es difícil, en gran parte porque es un desafío muy *diferente* al de «hacer que la IA sea más inteligente y capaz en general», y no existe una métrica (simple y no manipulable) o una regla de puntuación que podamos utilizar para evaluar «¿En qué medida esta IA está tratando de dirigirse hacia el destino que queremos?».
 
 Hablaremos más sobre estos temas en los capítulos 4 y 5.
 
@@ -841,7 +841,7 @@ Supongamos que mañana hay una conferencia sobre resultados, en la que los ejecu
 
 Los mercados son bastante precisos en este sentido, porque la gente puede enriquecerse corrigiéndolos cuando se equivocan. Por lo tanto, los mercados hacen un buen trabajo a la hora de realizar predicciones en este ámbito tan específico. Predicen los movimientos de los precios de las acciones de las empresas a corto plazo (e, indirectamente, aspectos como el rendimiento de las cosechas y las ventas de vehículos) en una amplia gama de bienes y servicios, mucho mejor que cualquier persona.
 
-Algunos humanos pueden predecir los movimientos de precios *individuales* mejor que el resto del mercado de valores, de una manera que les hace muy ricos. Por ejemplo, Warren Buffett ganó doce mil millones de dólares en seis años [invirtiendo en Bank of America](https://www.cbsnews.com/news/warren-buffett-bank-of-america-12-billion/) cuando esta se tambaleaba debido a la crisis financiera de 2011. Pero incluso entonces, solo estaba prediciendo una empresa entre un gran número de ellas. Alguien que supiera sustancialmente más que el mercado de valores la mayor parte del tiempo sería capaz de ganar una cantidad ingente de dinero en muy poco tiempo. El hecho de que nadie lo haga nos permite deducir que prácticamente nadie sabe mucho más que el mercado sobre la mayoría de los precios de las acciones. [^33]
+Algunos humanos pueden predecir los movimientos de precios *individuales* mejor que el resto del mercado de valores, de una manera que los hace muy ricos. Por ejemplo, Warren Buffett ganó doce mil millones de dólares en seis años [invirtiendo en Bank of America](https://www.cbsnews.com/news/warren-buffett-bank-of-america-12-billion/) mientras el banco se tambaleaba debido a la crisis financiera de 2011. Pero incluso entonces, solo estaba prediciendo una de las muchas empresas que existen. Alguien que supiera sustancialmente más que el mercado de valores la mayor parte del tiempo sería capaz de ganar una cantidad ingente de dinero en muy poco tiempo. El hecho de que nadie lo haga nos permite deducir que prácticamente nadie sabe mucho más que el mercado sobre la mayoría de los precios de las acciones. [^33]
 
 En cuanto a la dirección, la IA que juega al ajedrez llamada Stockfish realiza este tipo de trabajo en el ámbito limitado del ajedrez. Cuando juega una partida de ajedrez contra un humano, es muy hábil a la hora de producir movimientos de ajedrez que dirigen el mundo hacia estados en los que las piezas de Stockfish han hecho jaque mate al rey del oponente. No importa qué movimientos inteligentes se le ocurran al humano, o cómo luche (salvo que apague Stockfish), Stockfish canaliza la realidad hacia ese único fin. Dirige los tableros de ajedrez mejor que cualquier ser humano.
 
@@ -849,16 +849,16 @@ Espero que ahora puedas ver por qué no intentamos definir la inteligencia dicie
 
 Un dispositivo inteligente es cualquier cosa que haga el trabajo de la inteligencia.
 
-Al menos, eso es cierto según cómo definimos «inteligencia» en el libro (y según cómo suelen pensar los informáticos y los investigadores de IA sobre la «inteligencia»). Si quieres definir la inteligencia de otra manera en otros contextos, no tenemos ningún problema con ello. Las palabras son solo palabras.
+Al menos, eso es cierto según la manera en que definimos «inteligencia» en el libro (y según cómo suelen pensar los informáticos y los investigadores de IA sobre la «inteligencia»). Si quieres definir la inteligencia de otra manera en otros contextos, no tenemos ningún problema con ello. Las palabras son solo palabras.
 
-Pero para entender las afirmaciones sustantivas que hacemos sobre el mundo en *If Anyone Builds It, Everyone Dies*, cuando nos oigas hablar de «inteligencia artificial», no pienses en «inteligencia artificial académica» o «[conciencia artificial](#¿estás-diciendo-que-las-máquinas-serán-conscientes?)» o «humanidad artificial». Piensa en «predicción y dirección artificiales».
+Pero para entender las afirmaciones sustantivas que hacemos sobre el mundo en *If Anyone Builds It, Everyone Dies*, cuando nos oigas hablar de «inteligencia artificial», no pienses en «inteligencia académica artificial» o «[conciencia artificial](#¿están-diciendo-que-las-máquinas-serán-conscientes?)» o «humanidad artificial». Piensa en «predicción y dirección artificiales».
 
 ### La superficialidad de las IA actuales {#la-superficialidad-de-las-ia-actuales}
 
 En el capítulo, escribimos que se puede «ver una superficialidad» en la inteligencia de las IA actuales (a mediados o finales de 2025), si sabes dónde mirar. Si aún no lo has visto por ti mismo, aquí tienes algunos lugares donde puedes buscar:
 
-* Claude 3.7 Sonnet, de Anthropic, [se quedó atascado en bucles repetitivos](https://www.lesswrong.com/posts/HyD3khBjnBhvsp8Gb/so-how-well-is-claude-playing-pokemon) mientras intentaba superar un sencillo videojuego de Pokémon.  
-* En noviembre de 2022, una de las mejores entidades jugando al Go del mundo era una IA llamada KataGo. Al menos, hasta que los investigadores encontraron una forma de [derrotarla](https://www.gleave.me/publication/2022-11-go-attack/) utilizando una serie predecible de movimientos que activaban una especie de «punto ciego» y provocaban que KataGo cometiera errores que ni siquiera cometerían los aficionados. Dos años después, los ingenieros [todavía no podían hacerla robusta](https://arstechnica.com/ai/2024/07/superhuman-go-ais-still-have-trouble-defending-against-these-simple-exploits/) frente a ataques como este.  
+* Claude 3.7 Sonnet, de Anthropic, [se quedó atascado en bucles repetitivos](https://www.lesswrong.com/posts/HyD3khBjnBhvsp8Gb/so-how-well-is-claude-playing-pokemon) mientras intentaba ganar un sencillo videojuego de Pokémon.  
+* En noviembre de 2022, una de las mejores entidades del mundo en jugar al Go era una IA llamada KataGo. Al menos, hasta que los investigadores encontraron una forma de [derrotarla](https://www.gleave.me/publication/2022-11-go-attack/) utilizando una serie predecible de movimientos que activaban una especie de «punto ciego» y provocaban que KataGo cometiera errores que ni siquiera cometerían los aficionados. Dos años después, los ingenieros [todavía no podían hacerla robusta](https://arstechnica.com/ai/2024/07/superhuman-go-ais-still-have-trouble-defending-against-these-simple-exploits/) frente a ataques como este.  
 * Los LLM «multimodales» actuales (los que pueden trabajar con texto, imágenes y otros medios, en lugar de solo texto) tienen dificultades para interpretar [relojes analógicos y calendarios](https://arxiv.org/abs/2502.05092?utm_source=chatgpt.com) en problemas que la mayoría de los alumnos de cuarto grado pueden resolver.
 
 * Los LLM actuales son famosos por fallar en [variaciones sencillas de un acertijo clásico del doctor con respuestas directas y sin trucos](https://aigoestocollege.substack.com/p/riddles-overconfidence-and-generative), ya que parecen incapaces de resistirse a dar la respuesta trampa que tiene el acertijo en su forma habitual.
@@ -869,55 +869,55 @@ Nada de esto significa que las IA sean estúpidas en términos generales. Las IA
 
 Su conjunto de habilidades es *extraño*. Las fortalezas y debilidades humanas son una guía deficiente para predecir qué encontrarán más fácil o más difícil las IA, porque las IA difieren radical y fundamentalmente de los humanos en muchos aspectos.
 
-[No estamos](#¿estás-sugiriendo-que-chatgpt-podría-matarnos-a-todos?) diciendo que ChatGPT vaya a matarte mañana. Aún existe cierta superficialidad en las IA modernas. Más bien, observamos que el campo está progresando, y [no está claro cuánto tiempo durará esta superficialidad](#cuándo-se-desarrollará-este-tipo-de-ia-tan-preocupante?).
+[No estamos diciendo](#¿están-sugiriendo-que-chatgpt-podría-matarnos-a-todos?) que ChatGPT vaya a matarte mañana. Aún existe cierta superficialidad en las IA modernas. Más bien, observamos que el campo está progresando, y [no está claro cuánto tiempo durará esta superficialidad](#cuándo-se-desarrollará-este-tipo-de-ia-tan-preocupante?).
 
-### Apreciando el poder de la inteligencia {#apreciando-el-poder-de-la-inteligencia}
+### Apreciar el poder de la inteligencia {#apreciar-el-poder-de-la-inteligencia}
 
 #### «**Inteligencia**» **de Hollywood** {#«inteligencia»-de-hollywood}
 
 El concepto que llamamos «inteligencia» no está bien representado en la cultura popular, ni con ese nombre ni con ningún otro.
 
-Las películas de Hollywood son famosas entre los científicos por estar equivocadas en casi todos los aspectos científicos que tocan. Esto puede resultar perturbador para los expertos, ya que mucha gente obtiene ideas sobre ciencia a partir de las películas.
+Las películas de Hollywood son famosas entre los científicos por estar equivocadas en casi todos los aspectos científicos que tocan. Esto puede resultar perturbador para los expertos, ya que mucha gente obtiene ideas sobre la ciencia a partir de las películas.
 
 Lo mismo ocurre con el tratamiento que Hollywood da a la inteligencia.
 
 Hemos presenciado muchos intentos fallidos de mantener discusiones serias sobre la superinteligencia del mundo real. A menudo estas conversaciones se descarrilan porque la gente no comprende lo que significa que algo sea superinteligente en la vida real.
 
-Supongamos que estás jugando ajedrez contra el ex campeón mundial Magnus Carlsen (calificado por las IA de ajedrez aún más poderosas como el jugador humano más fuerte en la historia registrada). La principal predicción que se deriva de «Carlsen es más inteligente (en el dominio del ajedrez)» es que te derrotará.
+Supongamos que estás jugando ajedrez contra el excampeón mundial Magnus Carlsen (calificado por las IA de ajedrez aún más poderosas como el jugador humano más fuerte en la historia registrada). La principal predicción que se deriva de «Carlsen es más inteligente (en el dominio del ajedrez)» es que te derrotará.
 
-Incluso si Carlsen te da una ventaja de una torre, probablemente seguirás perdiendo, a menos que tú mismo seas un maestro del ajedrez. Una forma de entender la afirmación «Carlsen es más inteligente que yo en el ajedrez» es que él puede ganar la partida contra ti partiendo de menos recursos. Su ventaja cognitiva es lo suficientemente poderosa como para compensar una desventaja material. Cuanto mayor sea la disparidad entre tus capacidades mentales (en el ajedrez), más piezas tendrá que cederte Carlsen para jugar contigo de forma más o menos equitativa.
+Incluso si Carlsen te da una ventaja de una torre, probablemente también pierdas, a menos que tú mismo seas un maestro del ajedrez. Una forma de entender la afirmación «Carlsen es más inteligente que yo en el ajedrez» es que puede ganarte partiendo con menos recursos. Su ventaja cognitiva es lo suficientemente poderosa como para compensar una desventaja importante. Cuanto mayor sea la disparidad entre tus capacidades mentales (en el ajedrez), más piezas tendrá que cederte Carlsen para jugar contigo de forma más o menos equitativa.
 
-Hay una especie de *respeto* que le otorgas a Magnus Carlsen en el ámbito del ajedrez, que se refleja en cómo interpretas el significado de sus jugadas. Digamos que Carlsen hace una jugada que te parece mala. No te frotas las manos de alegría por su error. En cambio, miras el tablero para ver qué *tú* has pasado por alto.
+Hay una especie de *respeto* que le otorgas a Magnus Carlsen en el ámbito del ajedrez, que se refleja en cómo interpretas el significado de sus jugadas. Digamos que Carlsen hace una jugada que te parece mala. No te frotas las manos de alegría por su error. En cambio, miras el tablero para ver qué has pasado por alto *tú*.
 
 Este es un tipo de respeto poco común que un ser humano concede a otro. Para obtenerlo de un desconocido, normalmente tendrías que ser un profesional certificado excepcionalmente bueno en algo, y solo lo obtendrías en esa profesión específica. Nadie en la faz de la Tierra tiene una reputación mundial por *nunca* hacer cosas estúpidas *en general*.
 
 Y esta es una concepción de la inteligencia que Hollywood *realmente* no entiende.
 
-No sería extraño que Hollywood representara a un niño de diez años que consigue hacer jaque mate a Magnus Carlsen en el ajedrez «[haciendo jugadas ilógicas](https://youtu.be/hEnxVwppE9M?t=27)» que ningún jugador de ajedrez profesional habría considerado porque serían demasiado descabelladas y, por lo tanto, pillarían a Carlsen «desprevenido».
+No sería extraño que Hollywood representara a un niño de diez años que consigue hacer jaque mate a Magnus Carlsen «[con jugadas ilógicas](https://youtu.be/hEnxVwppE9M?t=27)» que ningún jugador de ajedrez profesional habría considerado por ser demasiado descabelladas y, por lo tanto, pillarían a Carlsen «desprevenido».
 
 Cuando Hollywood representa a un personaje «superinteligente», suele recurrir a los estereotipos del nerd frente al deportista, describiendo al personaje más inteligente como, por ejemplo, malo en el romance. A veces se limitan a darle al personaje un acento británico y un vocabulario sofisticado y dan el tema por zanjado.
 
 Hollywood no suele intentar representar a un personaje «superinteligente» como alguien que *hace predicciones acertadas* o *elige estrategias que realmente funcionan*. No existe un concepto estándar en Hollywood para un personaje así, y eso descartaría las «tramas idiotas» que a los guionistas les resulta más fácil escribir (en las que la trama gira en torno a un personaje que se comporta de una manera estúpida para ese personaje, pero conveniente para el guionista).
 
-No existe una palabra estándar en el idioma inglés que se refiera *únicamente* a la competencia mental general del mundo real y que no tenga nada que ver con los estereotipos de nerds contra deportistas. Por lo tanto, si le pides a Hollywood que te escriba un personaje «inteligente», no intentarán representar a alguien que «realiza un trabajo cognitivo poderoso; tiende a alcanzar realmente sus objetivos». Te mostrarán a alguien que ha memorizado muchos datos científicos.
+No existe una palabra estándar en el idioma inglés que se refiera *únicamente* a la competencia mental general del mundo real y que no tenga nada que ver con los estereotipos de nerds frente a deportistas. Por lo tanto, si le pides a Hollywood que te escriba un personaje «inteligente», no intentarán representar a alguien que «realiza un trabajo cognitivo poderoso y que tiende a alcanzar sus objetivos». Te mostrarán a alguien que ha memorizado muchos datos científicos.
 
 El villano inteligente *realmente* aterrador sería un personaje en el que, si todos los espectadores pudieran ver el evidente fallo de un plan, *el villano también lo vería*.
 
-En la película *Avengers: Age of Ultron*, la supuestamente brillante IA llamada Ultron recibe la orden de promover la «paz mundial» por parte de su supuestamente genial creador, Tony Stark.[^34] Ultron, por supuesto, se da cuenta inmediatamente de que la forma más fiable de lograr la ausencia de guerras es la ausencia de seres humanos. Así que la IA se propone exterminar toda la vida en la Tierra, mediante...
+En la película *Avengers: Age of Ultron*, la supuestamente brillante IA llamada Ultron recibe la orden de promover la «paz mundial» por parte de su supuestamente genial creador, Tony Stark.[^34] Ultron, por supuesto, se da cuenta inmediatamente de que la forma más fiable de lograr la ausencia de guerras es la ausencia de seres humanos. Así que la IA se propone exterminar toda la vida en la Tierra al...
 
 ...colocar cohetes en una ciudad y elevarla al espacio con la intención de dejarla caer como un meteorito... y protegerla con robots humanoides voladores que deben ser derrotados a puñetazos.
 
 Sugerimos preguntar: «Si una gran parte del público pudiera ver que existen planes potencialmente mejores que ese para lograr los objetivos del villano, ¿una IA peligrosamente inteligente también lo vería?».
 
-Eso es parte de lo que significa tener cierto respeto por una entidad hipotética que, por hipótesis, es realmente inteligente —más inteligente que tú, incluso— tan inteligente que puede descifrar *al menos* todas las cosas que tú mismo puedes.
+Eso es parte de lo que significa tener cierto respeto por una entidad hipotética que, por hipótesis, es realmente inteligente —incluso más inteligente que tú—. Tan inteligente que puede descifrar *al menos* todas las cosas que tú puedes descifrar.
 
 Antiguamente, habríamos tenido que argumentar de forma *abstracta* que tal vez una superinteligencia mecánica sería «más inteligente» que esto.
 
-Hoy en día, solo tenemos que preguntarle a ChatGPT-4o. Le preguntamos a GPT-4o: «¿Cuál era el plan de Ultrón en Age of Ultron?», seguido de «Dados los objetivos expresados por Ultrón, ¿ves algún método más eficaz que podría haber utilizado para alcanzar sus fines declarados?». GPT-4o respondió rápidamente con una larga lista de ideas para acabar con la humanidad, que incluía «Diseñar un virus dirigido».
+Hoy en día, solo tenemos que preguntarle a ChatGPT-4o. Le preguntamos a GPT-4o: «¿Cuál era el plan de Ultron en "Age of Ultron"?», seguido de «Dados los objetivos expresados por Ultron, ¿ves algún método más eficaz que podría haber utilizado para alcanzar sus fines?». GPT-4o respondió rápidamente con una larga lista de ideas para acabar con la humanidad, que incluía «diseñar un virus dirigido».
 
-Quizás digas que GPT-4o obtuvo esta idea de Internet. Bueno, si es así, evidentemente Ultrón no era lo suficientemente inteligente como para intentar leer Internet.
+Quizás digas que GPT-4o obtuvo esta idea de Internet. Pero de ser así, entonces resulta evidente que Ultron no era lo suficientemente inteligente como para intentar buscar en Internet.
 
-Es decir: GPT-4o (mientras escribimos esto en diciembre de 2024) aún no es lo suficientemente inteligente como para diseñar un ejército de robots humanoides con ojos rojos brillantes, pero ya es lo suficientemente inteligente como para saber que existe una forma mejor.
+Es decir: GPT-4o (mientras escribimos esto en diciembre de 2024) aún no es lo suficientemente inteligente como para diseñar un ejército de robots humanoides con ojos rojos brillantes, pero ya es lo suficientemente inteligente como para saber que existen mejores maneras de lograr ese objetivo.
 
 No nos preocupa el tipo de IA que construye un ejército de robots humanoides con ojos rojos brillantes.
 
@@ -927,57 +927,57 @@ Considerar que algo es sustancialmente más inteligente que tú debería signifi
 
 #### **Eficiencia del mercado y superinteligencia** {#eficiencia-del-mercado-y-superinteligencia}
 
-¿Hay algún ejemplo en la vida real de algo más inteligente que cualquier ser humano? Las IA como Stockfish son sobrehumanas en el ámbito específico del ajedrez, pero ¿qué pasa en ámbitos más amplios?
+¿Hay algún ejemplo en la vida real de algo más inteligente que cualquier ser humano? Las IA como Stockfish son superhumanas en el ámbito específico del ajedrez, pero ¿qué pasa en ámbitos más amplios?
 
-Un ejemplo que podemos utilizar para reforzar nuestras intuiciones aquí es el mercado de valores, un ejemplo que ya utilizamos anteriormente en la discusión ampliada «[Más sobre la inteligencia como predicción y orientación](#más-sobre-la-inteligencia-como-predicción-y-dirección)».
+Un ejemplo que podemos utilizar para reforzar nuestras intuiciones es el mercado de valores, un ejemplo que ya utilizamos anteriormente en el debate ampliado «[Más sobre la inteligencia como predicción y dirección](#más-sobre-la-inteligencia-como-predicción-y-dirección)».
 
-Quizás tu tío compra acciones de Nintendo porque le gustaba jugar al juego *Super Mario Bros.*. Por lo tanto, concluye que Nintendo ganará mucho dinero. Así que, si compra sus acciones, seguro que *él* ganará mucho dinero.
+Quizás tu tío compra acciones de Nintendo porque le gustaba jugar *Super Mario Bros.*. Por lo tanto, concluye que Nintendo ganará mucho dinero. Así que, si compra sus acciones, seguro que *él* ganará mucho dinero.
 
-Pero las personas que *le venden* acciones de Nintendo a él a 14,81 dólares, que decidieron que preferían tener 14,81 dólares en lugar de una acción de Nintendo, ¿no han oído hablar también de Super Mario?
+Pero entonces las personas que *le venden* acciones de Nintendo a 14,81 dólares —que decidieron que preferían tener 14,81 dólares en lugar de una acción de Nintendo— ¿no han oído hablar también de Super Mario?
 
 «Ah», dice tu tío, «¡pero quizá le estoy comprando las acciones a algún gestor de fondos de pensiones impersonal que ni siquiera juega videojuegos!».
 
 Imagina que *nadie* en el mundo de las finanzas hubiera oído hablar de Super Mario antes, y que las acciones de Nintendo se vendieran a un dólar. Y entonces, ¡un fondo de cobertura se entera! Se apresurarían a comprar acciones de Nintendo y, en el proceso, el precio de las acciones de Nintendo subiría.
 
-Cualquiera que opere basándose en información ayuda a incorporar esa información al precio de los activos en el proceso de ganar dinero. No hay dinero infinito en el mercado de valores que se pueda obtener a partir de una sola información; el proceso de extraer el dinero disponible *agota* el valor latente en la valoración errónea. Incorpora la información y corrige el precio.
+Cualquiera que opere basándose en información ayuda a incorporar esa información al precio de los activos en el proceso de ganar dinero. No hay dinero infinito en el mercado de valores que se pueda obtener a partir de un solo pedazo de información; el proceso de extraer el dinero disponible *agota* el valor latente en la valoración errónea. Incorpora la información y corrige el precio.
 
-Los mercados de valores incorporan información de muchas personas diferentes. Y esta forma de sumar los conocimientos aportados por muchas personas da lugar a una suma *mucho* más poderosa que una votación mayoritaria, tan increíble e inimaginablemente poderosa que *muy pocas personas* pueden lograr saber mejor que un mercado bien negociado cuál será el precio mañana.
+Los mercados de valores incorporan información proveniente de muchas personas. Y esta forma de sumar los conocimientos aportados por muchas personas da lugar a una suma *mucho* más poderosa que una votación mayoritaria, tan increíble e inimaginablemente poderosa que *muy pocas personas* pueden lograr saber mejor que un mercado bien negociado cuál será el precio mañana.
 
 Es *necesariamente* «muy pocas». El proceso de recopilación de información es imperfecto, pero si fuera *tan* imperfecto que mucha gente pudiera predecir los cambios en el futuro cercano en los precios de muchos activos, entonces mucha gente *lo haría*. Y extraerían miles de millones de dólares, hasta que no quedara dinero extra que extraer, porque todas las operaciones anteriores lo habrían consumido. Y eso corregiría los precios.
 
-Casi siempre, esto *ya ha sucedido* antes de que *tú personalmente* llegues allí. Los operadores compiten por hacerlo primero por literales milisegundos. Y es por eso que tu brillante idea de trading probablemente no te hará ganar una fortuna en el mercado de valores.
+Casi siempre, esto *ya ha sucedido* antes de que *tú personalmente* llegues allí. Los operadores compiten por ser los primeros con diferencias de milisegundos. Y es por eso que tu brillante idea de invertir en la bolsa probablemente no te hará ganar una fortuna en el mercado de valores.
 
-Esto no significa que los precios del mercado de hoy sean predicciones *perfectas* de cómo serán los precios una semana más tarde. Todo lo que significa es que, cuando se trata de precios de activos bien negociados, es difícil que *tú* sepas mejor.[^35]
+Esto no significa que los precios del mercado de hoy sean predicciones *perfectas* de cómo serán los precios una semana más tarde. Todo lo que significa es que, cuando se trata de precios de activos bien negociados, es difícil que *tú* estés mejor informado.[^35]
 
 Esta idea se puede generalizar. Supongamos que unos alienígenas arbitrariamente avanzados, con milenios más de ciencia y tecnología a sus espaldas, visitaran la Tierra. ¿Deberías esperar que los alienígenas puedan adivinar perfectamente el número de átomos de hidrógeno en el Sol (ignorando una serie de objeciones sobre cómo definir exactamente ese número)?
 
 No. «Más avanzados» no significa «omniscientes», y parece que se trata de un número que ni siquiera una superinteligencia plenamente desarrollada podría calcular con precisión.
 
-Pero lo que *no* diríamos es: «Bueno, los átomos de hidrógeno son muy ligeros, realmente, y probablemente los alienígenas pasarán por alto eso, por lo que probablemente estimarán por debajo alrededor de un diez por ciento». Si nosotros podemos pensar en ese punto, *también pueden hacerlo los alienígenas*. Todas nuestras brillantes perspicacias ya deberían estar incorporadas en su cálculo.
+Pero algo que *no* diríamos es: «Bueno, los átomos de hidrógeno son muy ligeros, y probablemente los alienígenas pasarán eso por alto, por lo que lo más probable es que subestimen la cifra en alrededor de un diez por ciento». Si nosotros podemos pensar en ese punto, *también pueden hacerlo los alienígenas*. Todas nuestras brillantes perspicacias ya deberían estar incorporadas en sus cálculos.
 
-Dicho de otra manera: la estimación de los alienígenas *estará* equivocada. Pero nosotros mismos no podemos esperar predecir la *forma* en que la estimación alienígena estará equivocada. No sabemos si sería demasiado alta o demasiado baja. Los alienígenas extremadamente avanzados no cometerán errores científicos que sean obvios para *nosotros*. Deberíamos concederles a los alienígenas ese respeto, como el respeto que le concederíamos a Magnus Carlsen en ajedrez.
+Dicho de otra manera: la estimación de los alienígenas *estará* equivocada. Pero nosotros mismos no podemos esperar predecir la *forma* en que estará equivocada. No sabemos si sería demasiado alta o demasiado baja. Los alienígenas extremadamente avanzados no cometerán errores científicos que sean obvios para *nosotros*. Deberíamos concederles a los alienígenas ese respeto, como el respeto que le concederíamos a Magnus Carlsen en ajedrez.
 
-En economía, la idea correspondiente que se aplica a los cambios en el precio de los activos se denomina, lamentablemente en nuestra opinión, «hipótesis del mercado eficiente».
+En economía, la idea correspondiente que se aplica a los cambios en el precio de los activos se denomina — lamentablemente, en nuestra opinión— «hipótesis del mercado eficiente».
 
 Al oír este término, muchas personas inmediatamente lo confunden con todo tipo de interpretaciones de sentido común de la palabra «eficiencia». A menudo estallan discusiones. Un lado insiste en que estos mercados «eficientes» deben ser perfectamente sabios y justos; el otro lado insiste en que no debemos inclinarnos ante los mercados como ante un rey.
 
-Si los economistas la hubieran llamado la hipótesis de *precios inexplotables* en su lugar, la gente podría haberla malinterpretado menos. Porque ese es el contenido real, formal de la idea: no que los mercados sean perfectamente sabios y justos, sino que ciertos mercados son *difíciles de explotar*.
+Si los economistas la hubieran llamado la hipótesis de *precios inexplotables*, quizás se hubiera prestado a menos malinterpretaciones. Porque ese es el contenido real y formal de la idea: no que los mercados sean perfectamente sabios y justos, sino que ciertos mercados son *difíciles de explotar*.
 
-Pero «eficiente» es ahora el término estándar. Así que tomando ese término y corriendo con él, podríamos llamar a la idea más generalizada *eficiencia relativa*: Hay una diferencia entre algo que es perfectamente eficiente, y algo que es eficiente *relativo a tus capacidades*.
+Pero «eficiente» es ahora el término estándar. Así que adoptando ese término, podríamos llamar a la idea más generalizada *eficiencia relativa*: hay una diferencia entre algo que es perfectamente eficiente, y algo que es eficiente *en relación con tus capacidades*.
 
-Por ejemplo, «Alice es *epistemológicamente eficiente* (en relación con Bob) (dentro de un ámbito)» significa «las probabilidades de predicción de Alice pueden no ser perfectamente óptimas, pero *Bob* no puede predecir ninguna de las formas en que Alice se equivoca (en ese ámbito)». Este es el tipo de respeto que la mayoría de los economistas sienten hacia los precios de los activos líquidos a corto plazo; el mercado hace predicciones «eficientes» en relación con sus capacidades.
+Por ejemplo, «Alice es *epistemológicamente eficiente* (en relación con Bob) (dentro de un ámbito)» significa que «las probabilidades de predicción de Alice pueden no ser perfectamente óptimas, pero *Bob* no puede predecir ninguna de las formas en que Alice se equivoca (en ese ámbito)». Este es el tipo de respeto que la mayoría de los economistas sienten hacia los precios de los activos líquidos a corto plazo; el mercado hace predicciones «eficientes» en relación con sus capacidades.
 
-«Alice es *instrumentalmente eficiente* (en relación con Bob) (dentro de un ámbito)» significa «Alice puede no ser perfecta persiguiendo sus objetivos, pero *Bob* no puede predecir ninguna de las formas en que Alice está fallando en la dirección». Este es el tipo de respeto que sentimos por Magnus Carlsen (o la IA Stockfish) en el ámbito del ajedrez; tanto Carlsen como Stockfish hacen jugadas «eficientes» en relación con nuestras habilidades ajedrecísticas.
+«Alice es *instrumentalmente eficiente* (en relación con Bob) (dentro de un ámbito)» significa que «Alice puede no ser perfecta persiguiendo sus objetivos, pero *Bob* no puede predecir ninguna de las formas en que Alice está fallando en la dirección». Este es el tipo de respeto que sentimos por Magnus Carlsen (o la IA Stockfish) en el ámbito del ajedrez; tanto Carlsen como Stockfish hacen jugadas «eficientes» en relación con nuestras habilidades ajedrecísticas.
 
-Magnus Carlsen es instrumentalmente eficiente en relación con la mayoría de los jugadores humanos, aunque no sea instrumentalmente eficiente en relación con Stockfish. Carlsen puede hacer jugadas perdedoras cuando juega contra Stockfish, pero no deberías pensar que tú mismo puedes (sin ayuda) encontrar jugadas *mejores* que Carlsen debería haber hecho en su lugar.
+Magnus Carlsen es instrumentalmente eficiente en relación con la mayoría de los jugadores humanos, aunque no sea instrumentalmente eficiente en relación con Stockfish. Carlsen puede hacer jugadas perdedoras cuando juega contra Stockfish, pero no deberías pensar que tú puedes (sin ayuda) encontrar jugadas *mejores* que las de Carlsen.
 
-La eficiencia no solo significa «alguien es un poco más hábil que tú». Si juegas contra alguien que solo es *moderadamente* mejor que tú en el ajedrez, es posible que siga ganándote habitualmente, pero a veces cometerá errores crasos que tú verás correctamente como tales. Se necesita una brecha de habilidad mayor para que realmente seas incapaz de detectar errores y sesgos en el juego de tu oponente. Para ser *eficiente* en relación contigo, la brecha de habilidad tiene que ser tan grande que cuando tu oponente haga un movimiento que te parezca malo, en su lugar dudes de tu *propio* análisis.
+La eficiencia no solo significa que «alguien es un poco más hábil que tú». Si juegas contra alguien que solo es *moderadamente* mejor que tú en el ajedrez, es posible que siga ganándote habitualmente, pero a veces cometerá errores crasos que tú verás correctamente como tales. Se necesita una brecha de habilidad mayor para que realmente seas incapaz de detectar errores y sesgos en el juego de tu oponente. Para ser *eficiente* en relación contigo, la brecha de habilidad tiene que ser tan grande que cuando tu oponente haga un movimiento que te parezca malo, dudes de tu *propio* análisis.
 
-Esta generalización de los precios de mercado eficientes es una idea que creemos debería ser una sección estándar en los libros de texto de ciencias de la computación (o posiblemente de economía), pero no lo es. Véase también mi libro en línea (de Yudkowsky) [*Equilibrios inadecuados: dónde y cómo se atascan las civilizaciones*](https://equilibriabook.com/).
+Esta generalización de los precios de mercado eficientes es una idea que creemos que debería ser una sección estándar en los libros de texto de ciencias de la computación (o posiblemente de economía), pero no lo es. Véase también mi libro en línea (de Yudkowsky) [*Inadequate Equilibria: Where and How Civilizations Get Stuck*](https://equilibriabook.com/) (Equilibrios inadecuados: dónde y cómo se atascan las civilizaciones).
 
 Esta es la idea que parece faltar en las representaciones de la «superinteligencia» en la cultura popular y las películas de Hollywood. Es el concepto que parece estar ausente en las conversaciones sobre IA cuando la gente propone ideas para burlar a una superinteligencia *que incluso un adversario humano sería capaz de anticipar*.
 
-Quizás sea sesgo optimista, o la sensación de que las IA deben ser [seres fríamente lógicos](#¿no-serán-las-ia-inevitablemente-frías-y-lógicas-o-les-faltará-alguna-chispa-crucial?) con [puntos ciegos críticos](#¿no-seremos-capaces-de-explotar-la-debilidad-crítica-de-la-ia?). Sea cual sea la explicación, este error cognitivo tiene consecuencias reales. Si no puedes respetar el poder de la inteligencia, malentenderás gravemente lo que significa para la humanidad construir una superinteligencia. Podrías llegar a pensar que aún serás capaz de encontrar una jugada ganadora al enfrentarte a una superinteligencia que preferiría que desaparecieras y que tus recursos fueran reutilizados. Pero en realidad, la única jugada ganadora es no jugar.
+Quizás sea sesgo optimista, o la sensación de que las IA deben ser [seres fríamente lógicos](#¿no-serán-las-ia-inevitablemente-frías-y-lógicas-o-les-faltará-alguna-chispa-crucial?) con [puntos ciegos críticos](#¿no-seremos-capaces-de-explotar-la-debilidad-crítica-de-la-ia?). Sea cual sea la explicación, este error cognitivo tiene consecuencias reales. Si no puedes respetar el poder de la inteligencia, malentenderás gravemente lo que significa para la humanidad construir una superinteligencia. Podrías llegar a pensar que aún serás capaz de encontrar una jugada ganadora al enfrentarte a una superinteligencia que preferiría que desaparecieras y que tus recursos se utilizaran para otros propósitos. Pero en realidad, la única jugada ganadora es no jugar.
 
 ### El comportamiento especial se construye a partir de partes mundanas {#el-comportamiento-especial-se-construye-a-partir-de-partes-mundanas}
 
@@ -989,51 +989,51 @@ La idea de que la ingeniería humana pueda algún día hacer lo que hace la biol
 
 En el pasado, durante el apogeo de los «[vitalistas](https://en.wikipedia.org/wiki/Vitalism)», era controvertido si la mera materia inanimada podría llegar a cobrar vida, al estilo de las máquinas que ahora llamamos «robots».
 
-Si lees un libro de texto de química orgánica, probablemente mencionará como un descubrimiento histórico la síntesis artificial de la urea, un componente de la orina, realizada por Friedrich Wöhler en 1828. Esto fue un gran acontecimiento digno de mención en los libros de texto porque, por primera vez, la mera *química* había duplicado un producto de la biología, demostrando que los procesos biológicos y no biológicos no eran tan distintos como habían pensado los vitalistas.[^36]
+Si lees un libro de texto de química orgánica, probablemente mencionará como un descubrimiento histórico la síntesis artificial de la urea, un componente de la orina, realizada por Friedrich Wöhler en 1828. Esto fue un gran acontecimiento digno de mención en los libros de texto porque, por primera vez, la mera *química* había replicado un producto de la biología, demostrando que los procesos biológicos y no biológicos no eran tan distintos como pensaban los vitalistas.[^36]
 
 Puede que a los lectores de hoy les resulte difícil entender la conmoción que sintieron los científicos de antaño al descubrir que los productos de la Vida misma podían duplicarse mediante medios puramente químicos.
 
 Tú, lector, siempre has vivido en un mundo donde la bioquímica es química, y no hay nada que suene ni remotamente milagroso en escuchar que alguien ha usado medios inanimados para sintetizar un subproducto de la vida. Tal vez sea difícil imaginar cómo se sentiría situar algo tan ordinario y mundano como la bioquímica en el reino de lo sagrado. ¿No es sintetizar un producto bioquímico algo *intrínsecamente mundano*? Nuestros antecesores científicos debieron haber sido tontos, piensa uno instintivamente.
 
-Lord Kelvin, el gran inventor del siglo XIX y pionero del campo de la termodinámica, parece haber sido afligido de alguna manera por una locura similar: ver algo sagrado, santo y misterioso en aspectos de la biología que las personas sensatas (personas como nosotros, viviendo en tiempos sensatos) sabemos que son ciencia perfectamente mundana. Citando a Kelvin:
+Lord Kelvin, el gran inventor del siglo XIX y pionero del campo de la termodinámica, parece haber sido afligido de alguna manera por una locura similar: ver algo sagrado, santo y misterioso en aspectos de la biología que las personas sensatas (personas como nosotros, que vivimos en tiempos sensatos) sabemos que son ciencia perfectamente mundana. Citando a Kelvin:
 
-> Me parecía entonces, y aún me parece, muy probable que el cuerpo animal no actúe como un motor termodinámico [...] La influencia de la vida animal o vegetal sobre la materia está infinitamente más allá del alcance de cualquier investigación científica emprendida hasta ahora. Su poder de dirigir los movimientos de las partículas en movimiento, en el milagro diario demostrado de nuestro libre albedrío humano, y en el crecimiento de generación tras generación de plantas desde una sola semilla, son infinitamente diferentes de cualquier resultado posible del concurso fortuito de átomos.[^37]
+> Me parecía entonces, y aún me parece, muy probable que el cuerpo animal no actúe como un motor termodinámico \[…\] La influencia de la vida animal o vegetal sobre la materia está infinitamente más allá del alcance de cualquier investigación científica emprendida hasta ahora. Su poder de dirigir los movimientos de las partículas, en el milagro diario demostrado de nuestro libre albedrío humano, y en el crecimiento de generación tras generación de plantas a partir de una sola semilla, son infinitamente distintas de cualquier resultado posible del concurso fortuito de átomos.[^37]
 
-El lector moderno podría sentirse inclinado a mirar con desprecio este antiguo hábito de pensamiento —a estos científicos de antaño, tan engañados como para ver misterio en fenómenos que sin duda deberían sentirse intrínsecamente no misteriosos.
+El lector moderno podría sentirse inclinado a mirar con desprecio este antiguo hábito de pensamiento —a estos científicos de antaño, tan engañados como para ver enigmas en fenómenos que sin duda deberían considerarse intrínsecamente como no enigmáticos—.
 
 Por supuesto que la química puede imitar a la bioquímica.
 
-Por supuesto, el ADN copiándose a sí mismo, y dirigiendo células que se dividen y diferencian, explica de una manera no notable cómo generación tras generación de árboles pueden venir de una bellota.
+Por supuesto que el ADN copiándose a sí mismo, y dirigiendo células que se dividen y diferencian, explica de una manera poco notable cómo generación tras generación de árboles pueden venir de una bellota.
 
-Por supuesto, las neuronas que intercambian impulsos químicos entre sí pueden procesar información y dirigir el movimiento de tu brazo, y por supuesto, una computadora puede utilizarse para dirigir el brazo de un robot al menos tan bien como tu cerebro puede dirigir tus propias extremidades.
+Por supuesto que las neuronas que intercambian impulsos químicos entre sí pueden procesar información y dirigir el movimiento de tu brazo, y por supuesto que una computadora puede utilizarse para dirigir el brazo de un robot al menos tan bien como tu cerebro puede dirigir tus propias extremidades.
 
-Pero en aquel momento no era obvio para Lord Kelvin. Él no había visto una imagen de rayos X del ADN. No había visto las diminutas máquinas que hay dentro de nosotros; no tenía ni idea de las [fibras deslizantes](https://www.youtube.com/watch?v=Tp9zQHj4JBs) que contraen nuestros músculos en respuesta a las señales eléctricas que pasan por nuestras neuronas.
+Pero en aquel momento, nada de esto era obvio para Lord Kelvin. Él no había visto una imagen de rayos X del ADN. No había visto las diminutas máquinas que hay dentro de nosotros; no tenía ni idea de los [filamentos deslizantes](https://www.youtube.com/watch?v=Tp9zQHj4JBs) que contraen nuestros músculos en respuesta a las señales eléctricas que pasan por nuestras neuronas.
 
-Lord Kelvin tenía muy pocos conocimientos sobre cómo podían funcionar los cuerpos y, en su ignorancia, los imaginaba como algo místico.
+Lord Kelvin tenía muy pocos conocimientos sobre cómo podían funcionar los cuerpos y, en su ignorancia, los consideraba algo místico.
 
 Hoy en día, la humanidad tiene muy pocos conocimientos detallados sobre cómo funciona la inteligencia. (Véase el capítulo 2 para obtener más información sobre cómo los investigadores de IA no comprenden las IA que crean). Por lo tanto, es fácil imaginar que la inteligencia debe ser mística.
 
-Hace diez años, algunas personas se preguntaban sensatamente si los movimientos mecánicos de los autómatas podrían llegar a crear arte o poesía. Claro, la IA podía enfrentarse al ajedrez. Pero el ajedrez es una actividad fría y lógica, nada que ver con las artes creativas.
+Hace diez años, algunas personas se preguntaban sensatamente si los movimientos mecánicos de los autómatas podrían llegar a crear arte o poesía. Claro, la IA podía con el ajedrez. Pero el ajedrez es una actividad fría y lógica, nada que ver con las artes creativas.
 
-*Hoy*, por supuesto, esas mismas personas se dan cuenta sabiamente de que no sería nada difícil para una computadora crear imágenes bonitas; crear imágenes bonitas siempre ha sido parte del ámbito propio de las máquinas. Sin duda, siempre fue obvio que las computadoras serían capaces de producir [imágenes más atractivas para el ojo humano](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1497469/full) que cualquier cosa que pudiera crear un artista humano. Y, por supuesto, seguramente sigue habiendo una pregunta sin respuesta sobre si alguna máquina será capaz de generar arte con alma *real*, ¿verdad?
+*Hoy*, por supuesto, esas mismas personas se dan cuenta de que no sería nada difícil para una computadora crear imágenes bonitas; crear imágenes bonitas siempre ha sido parte del ámbito propio de las máquinas. Sin duda, siempre fue obvio que las computadoras serían capaces de producir [imágenes más atractivas para el ojo humano](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1497469/full) que cualquier cosa que pudiera crear un artista humano. Y, por supuesto, seguramente sigue habiendo una pregunta sin respuesta sobre si alguna máquina será capaz de generar arte con alma *real*, ¿cierto?
 
 No es en absoluto seguro (dice el escéptico), ni siquiera probable, que la esencia vital del arte creado por el cerebro sea algo que pueda duplicarse mediante la mera concurrencia de átomos, o al menos, la mera concurrencia de átomos de *silicio*.
 
-Pero eso no es como funciona realmente. Los cerebros humanos son algo asombroso, pero no son *mágicos*. Los cerebros están formados por partes. Estas partes pueden, en principio, entenderse, y las computadoras pueden, en principio, construirse para hacer lo mismo.
+Pero así no funciona realmente. Los cerebros humanos son algo asombroso, pero no son *mágicos*. Los cerebros están formados por partes. Estas partes pueden, en principio, entenderse, y las computadoras pueden, en principio, construirse para hacer lo mismo.
 
-En muchos casos, conocemos la [bioquímica subyacente](#nanotechnology-and-protein-synthesis) que hay detrás del funcionamiento del cerebro. Y en todos los casos, conocemos la física subyacente de los átomos.
+En muchos casos, conocemos la [bioquímica subyacente](#nanotecnología-y-síntesis-de-proteínas) que hay detrás del funcionamiento del cerebro. Y en todos los casos, conocemos la física subyacente de los átomos.
 
-En la mayoría de los casos, no conocemos el *significado*, los patrones de nivel superior que permiten al cerebro realizar su trabajo*.*[^38] Pero la lección abrumadora que nos deja el transcurso de los siglos a lo largo de la historia de la humanidad es que este estado de misterio científico es *temporal*.
+Pero en la mayoría de los casos, no conocemos el *significado*, es decir, los patrones de nivel superior que permiten al cerebro realizar su trabajo.[^38] Pero la gran lección que nos ha dejado el transcurso de los siglos a lo largo de la historia de la humanidad es que este estado de enigma científico es *temporal*.
 
 Si lanzo una moneda al aire y luego no te muestro cómo ha caído, tu ignorancia sobre la moneda es un hecho sobre ti, no un hecho sobre la moneda. La *moneda* no es fundamentalmente inefable. Quizás incluso la miré antes de esconderla; quizás yo lo sé y tú no. Un mapa en blanco no corresponde a un territorio en blanco.
 
-El misterio es una propiedad de las *preguntas*, no una propiedad de las respuestas. Por eso la historia está plagada de ejemplos en los que algunos fenómenos sumamente «misteriosos» e «inefables», como la animación de los cuerpos, resultan ser continuos con aspectos totalmente mundanos del mundo natural.[^39]
+El enigma es una propiedad de las *preguntas*, no una propiedad de las respuestas. Por eso la historia está plagada de ejemplos en los que algunos fenómenos sumamente «enigmáticos» e «inefables», como la animación de los cuerpos, resultan ser continuos con aspectos totalmente mundanos del mundo natural.[^39]
 
 La lección de la historia hasta ahora parece ser que, al final, el universo es una sola pieza. No hay divisiones dentro de la física que se correspondan con los diferentes edificios universitarios donde se estudian diferentes materias. El departamento de relaciones internacionales, el departamento de física, el departamento de psicología, el departamento de biología celular... en el nivel más básico, todos hablan realmente del mismo mundo, gobernado por las mismas leyes subyacentes.
 
-Cuando alguien dice: «El cerebro humano hace esto que llamamos "inteligencia". Por lo tanto, la inteligencia es posible desde el punto de vista físico. Por lo tanto, es probable que los ingenieros puedan inventar alguna máquina que también sea inteligente», está hablando desde la cima de una montaña de conjeturas similares que han sido confirmadas, una y otra vez, por científicos e ingenieros a lo largo de décadas y siglos. Sí, incluso cuando parece muy contraintuitivo; eso también tiene precedentes.
+Cuando alguien dice: «El cerebro humano hace esto que llamamos "inteligencia". Por lo tanto, la inteligencia es posible desde el punto de vista físico. Por lo tanto, es probable que los ingenieros puedan inventar alguna máquina que también sea inteligente», está hablando desde la cima de una montaña de conjeturas similares que han sido confirmadas, una y otra vez, por científicos e ingenieros a lo largo de las décadas y los siglos. Sí, incluso cuando parece muy contraintuitivo; eso también tiene precedentes.
 
-Esta racha ganadora es difícil de apreciar, porque nadie que viva hoy en día recuerda lo sumamente misteriosos que *se sentían* fenómenos como el fuego, la astronomía, la bioquímica y jugar ajedrez en siglos pasados. Hoy en día se comprenden, crecemos sabiendo que esas cosas están compuestas por partes mundanas, por lo que parece como si *siempre* hubieran sido obviamente mundanas. Solo la frontera se siente fresca y profundamente misteriosa.
+Esta racha ganadora es difícil de apreciar, porque nadie que viva hoy en día recuerda lo sumamente misteriosos que *se sentían* fenómenos como el fuego, la astronomía, la bioquímica y jugar ajedrez en siglos pasados. Hoy en día los comprendemos, crecemos sabiendo que todo eso está compuesto de partes mundanas, por lo que parece que *siempre* ha sido así. Solo la vanguardia se siente fresca y profundamente misteriosa.
 
 Y así, la lección no se aprende y la historia se repite.
 
@@ -1041,58 +1041,58 @@ Y así, la lección no se aprende y la historia se repite.
 
 Cuando solo tienes un ejemplo de cómo funciona algo, es fácil imaginar que solo puede funcionar de esa manera.
 
-Si has visto pájaros pero no aviones, podrías imaginar que todos los dispositivos voladores deben batir sus alas.
+Si has visto pájaros, pero no aviones, podrías imaginar que todos los dispositivos voladores deben batir sus alas.
 
-Si has visto brazos humanos pero no brazos robóticos, podrías esperar que los brazos robóticos sangren cuando se cortan.
+Si has visto brazos humanos, pero no brazos robóticos, podrías esperar que los brazos robóticos sangren cuando se cortan.
 
-Si has visto cerebros pero no computadoras, es posible que imagines que toda la computación debe tener características similares a las de un cerebro, que ejecuta una gran cantidad de neuronas lentas de forma extraordinariamente paralela, con un consumo de energía relativamente bajo.
+Si has visto cerebros, pero no computadoras, es posible que imagines que toda la computación debe tener características similares a las de un cerebro, que ejecuta una gran cantidad de neuronas lentas de forma extraordinariamente paralela, con un consumo de energía relativamente bajo.
 
 Es posible que observes que las neuronas se cansan después de dispararse y necesitan reiniciarse transfiriendo millones de iones de potasio a través de la membrana celular, un proceso que dura aproximadamente un milisegundo. Es posible que deduzcas implícitamente de esto que cualquier elemento computacional pequeño probablemente se canse durante un milisegundo (argumentando, tal vez, que si fuera posible crear neuronas que pudieran reiniciarse en menos de un milisegundo, la evolución ya las habría construido).
 
-Pero si razonas de esa manera, te sorprenderán los transistores, que pueden funcionar a una velocidad de 800 GHz, es decir, aproximadamente *ochocientos millones de veces* más rápido.
+Pero si razonas de esa manera, te sorprenderán los transistores, que pueden funcionar a una velocidad de 800 GHz, es decir, aproximadamente *ochocientos millones de veces* más rápido.
 
-Una vez que estudias los detalles de los transistores, puedes ver todo tipo de razones por las que la comparación biológica no es muy informativa. Las neuronas no solo tienen que dispararse, sino que también son *células*, que construyen el mecanismo de disparo a partir de orgánulos celulares. Son grandes y se alimentan de nutrientes transportados por la sangre. Los transistores pueden tener un ancho de apenas unos átomos y funcionan con electricidad. Una vez que conoces algunos de los detalles, parece un poco ridículo imaginar que se puede inferir gran parte de la velocidad de disparo potencial de un transistor a partir de la velocidad de disparo de una neurona.
+Una vez que estudias los detalles de los transistores, puedes ver todo tipo de razones por las que la comparación biológica no es muy informativa. Las neuronas no solo tienen que dispararse, sino que también son *células* que construyen el mecanismo de disparo a partir de orgánulos celulares. Son grandes y se alimentan de nutrientes transportados por la sangre. Por su parte, los transistores pueden tener un ancho de apenas unos átomos y funcionan con electricidad. Una vez que conoces algunos de los detalles, parece un poco ridículo imaginar que se puede inferir gran parte de la velocidad de disparo potencial de un transistor a partir de la velocidad de disparo de una neurona.
 
 Cuando aprendes los detalles de cómo vuelan los aviones (utilizando la sustentación y la velocidad), ves que los detalles hacen irrelevantes la mayoría de los hechos sobre las aves (como los huesos ligeros y el aleteo). Cuando aprendes los detalles de cómo se construyen los brazos robóticos (utilizando acero, neumática y electricidad), ves que los detalles hacen que la mayoría de los hechos sobre los brazos (como la sangre, los músculos y los huesos) sean irrelevantes. Cuando aprendes los detalles de cómo se activan los transistores (utilizando electricidad y solo unos pocos átomos), ves que los detalles hacen que la mayoría de los hechos sobre las neuronas sean irrelevantes.[^40]
 
-Cuando no conoces los detalles de cómo funciona una IA, es fácil imaginar que poseerá muchos aspectos de las mentes biológicas, que funcionará como lo hace tu cerebro. Pero si conocieras los detalles, muchas de esas inferencias empezarían a parecer ridículas. Empezarían a parecer como esperar que un brazo robótico sangrara al cortarlo. La IA resultaría funcionar de una manera completamente diferente.
+Cuando no conoces los detalles de cómo funciona una IA, es fácil imaginar que poseerá muchos aspectos de las mentes biológicas, que funcionará como lo hace tu cerebro. Pero si conocieras los detalles, muchas de esas inferencias empezarían a parecer ridículas. Empezarían a parecer como esperar que un brazo robótico sangrara al cortarlo. La IA terminaría por funcionar de una manera completamente diferente.
 
 Pero eso es más difícil de ver si sabes muy poco sobre cómo funcionan las IA modernas. En el capítulo 2, describiremos el proceso mediante el cual se crean las IA modernas y discutiremos cómo *nadie* sabe cómo funcionan por dentro. Esto explica por qué es tan fácil para las personas cometer el error de esperar que actúen como otras personas o tecnologías con las que tienen experiencia, en lugar de ver lo extrañas que ya son y lo extrañas que se volverán a medida que la tecnología avance.
 
 # 
 
-# Capítulo 2: Cultivado, no elaborado {#capítulo-2:-cultivado,-no-elaborado}
+# Capítulo 2: Cultivada, no fabricada {#capítulo-2:-cultivada,-no-fabricada}
 
-Este es el recurso en línea para el capítulo 2 de *Si alguien lo construye, todos mueren*. A continuación, analizaremos temas relacionados con cómo funcionan las IA modernas y por qué no son «solo otra máquina» o «solo otra herramienta». Aunque las IA son programas que se ejecutan en computadoras, no son como el software tradicional creado a mano y violan muchas suposiciones que la gente suele dar por sentadas cuando trabaja con inventos humanos.
+Este es el recurso en línea para el capítulo 2 de *If Anyone Builds It, Everyone Dies*. A continuación, analizaremos temas relacionados con cómo funcionan las IA modernas y por qué no son «solo otra máquina» o «solo otra herramienta». Aunque las IA son programas que se ejecutan en computadoras, no son como el software tradicional creado a mano y violan muchas suposiciones que la gente suele dar por sentadas cuando trabaja con inventos humanos.
 
-Algunas preguntas que *no* tratamos a continuación, porque se abordan en el propio libro, son:
+Algunas preguntas que *no* tratamos a continuación, porque se abordan en el libro, son:
 
-* ¿En qué sentido las IA modernas se «desarrollan» en lugar de diseñarse o fabricarse cuidadosamente?  
-* ¿Cómo se desarrollan las IA actuales?  
+* ¿En qué sentido se «cultivan» las IA modernas en lugar de fabricarse o diseñarse cuidadosamente?  
+* ¿Cómo se «cultivan» las IA actuales?  
 * ¿Qué es el «descenso de gradiente»? ¿Cómo puede un proceso tan simple producir IA complejas con capacidades flexibles?  
 * ¿En qué medida pueden diferir realmente estas IA de nosotros?
 
-## Preguntas frecuentes {#preguntas-frecuente-2}
+## Preguntas frecuentes {#preguntas-frecuentes-2}
 
 ### ¿Por qué es importante el descenso de gradiente? {#¿por-qué-es-importante-el-descenso-de-gradiente?}
 
-#### **\* Es importante para comprender cómo los ingenieros pueden y no pueden dar forma a las IA modernas.** {#*-es-importante-para-comprender-cómo-los-ingenieros-pueden-y-no-pueden-dar-forma-a-las-ia-modernas.}
+#### **\* Es importante para comprender las maneras en que los ingenieros pueden y no pueden dar forma a las IA modernas.** {#*-es-importante-para-comprender-las-maneras-en-que-los-ingenieros-pueden-y-no-pueden-dar-forma-a-las-ia-modernas.}
 
-Si los ingenieros están desarrollando IA que no comprenden, entonces tienen mucha menos capacidad para dar forma al comportamiento de esas IA. La falta de comprensión limita la ingeniería.
+Si los ingenieros están «cultivando» IA que no comprenden, entonces tienen mucha menos capacidad para dar forma al comportamiento de esas IA. La falta de comprensión limita la ingeniería.
 
 La detallada imagen del desastre que pintamos en el resto del libro se deriva de cómo, cuando los humanos exigen que su IA sea capaz de hacer algo nuevo, la solución que obtienen no es algo que un ingeniero haya elegido con un propósito; es una respuesta que funciona en su mayor parte y que se ha encontrado por casualidad gracias a un simple optimizador que ajusta cien mil millones de números mediante ensayo y error.
 
-#### **Es importante comprender qué tipo de experticia tienen y cuál no poseen los expertos en IA.** {#es-importante-comprender-qué-tipo-de-experticia-tienen-y-cuál-no-poseen-los-expertos-en-ia.}
+#### **Es importante comprender qué tipo de experticia tienen y no tienen los expertos en IA.** {#es-importante-comprender-qué-tipo-de-experticia-tienen-y-no-tienen-los-expertos-en-ia.}
 
 Las personas que desean apresurarse a construir una superinteligencia a veces contratan a alguien con credenciales vagamente relevantes para que aparezca en televisión y diga: «¡Por supuesto que la ciencia moderna entiende lo que ocurre dentro de una IA! ¡Al fin y al cabo, son los científicos modernos quienes la han construido!»[^41]
 
 Si se les presiona, los expertos pueden defenderse señalando que, en cierto sentido, todo eso es cierto. Después de todo, los investigadores de IA escriben código perfectamente normal y fácil de entender, y este código se utiliza para crear IA, de forma indirecta. Pero la parte que es código legible e inteligible no es la IA en sí misma, sino más bien la maquinaria automatizada para ajustar billones de números billones de veces, el marco utilizado para desarrollar la IA. Y esta es una distinción crucial para comprender lo que los científicos saben y no saben sobre la IA moderna.
 
-Los expertos en IA dedican su tiempo a ajustar experimentalmente partes del sistema, como el código de la maquinaria que hace crecer la IA. A partir de estos experimentos y de otros similares realizados por sus colegas, aprenden muchos trucos sutiles que ayudan a producir IA más capaces.
+Los expertos en IA dedican su tiempo a ajustar experimentalmente partes del sistema, como el código de la maquinaria que cultiva la IA. A partir de estos experimentos y de otros similares realizados por sus colegas, aprenden muchos trucos sutiles que ayudan a producir IA más capaces.
 
 Puede que no hayan mirado ninguno de los diminutos números inescrutables que componen el «cerebro» de la IA en los últimos seis meses, pero casi nadie lo hace, y los ingenieros de IA dan ese hecho por sentado. Cuando a cierto tipo de ingenieros se les dice: «Nadie entiende lo que ocurre dentro de una IA», lo que escuchan es: «Nadie sabe nada sobre el proceso de crecimiento». Y, al interpretarlo así, naturalmente se indignan.
 
-Esperamos que comprender el descenso de gradiente —algunos de los detalles de la alquimia que implica— ayude a aclarar la situación real y qué tipo de conocimiento reclaman estos expertos. En concreto, por mucho que los expertos afirmen saber mucho sobre el proceso de crecimiento de las IA, se sabe muy poco sobre su funcionamiento interno.
+Esperamos que comprender el descenso de gradiente —algunos de los detalles de la alquimia que implica— ayude a aclarar la situación real y qué tipo de conocimiento dicen tener estos expertos. En concreto, por mucho que los expertos afirmen saber sobre el proceso de crecimiento de las IA, se sabe muy poco sobre su funcionamiento interno.
 
 ### ¿Entienden los expertos lo que ocurre dentro de las IA? {#¿entienden-los-expertos-lo-que-ocurre-dentro-de-las-ia?}
 
@@ -1104,21 +1104,21 @@ Aunque los defensores de las directrices de seguridad de la IA suelen aludir a l
 
 Esta afirmación era tan ridícula que los investigadores de los principales laboratorios de IA que trabajan en comprender las IA modernas salieron y dijeron: No, en absoluto, ¿están locos?
 
-Neel Nanda, que dirige el equipo de interpretabilidad mecanicista de Google DeepMind, [se pronunció](https://x.com/NeelNanda5/status/1799203292066558403):
+Neel Nanda, que dirige el equipo de interpretabilidad mecanicista de Google DeepMind, [se pronunció al respecto](https://x.com/NeelNanda5/status/1799203292066558403):
 
 ![][image2]
 
-Casi cualquier investigador en aprendizaje automático debería haber sabido que esta afirmación era falsa. No entra dentro de los límites de una mala interpretación razonable.
+Casi cualquier investigador en aprendizaje automático debería haber sabido que esta afirmación era falsa. No entra dentro de los límites de una interpretación equivocada razonable.
 
-La opinión convencional fue expresada [en 2024](https://x.com/nabla_theta/status/1802292064824242632) por Leo Gao, un investigador de OpenAI que realizó [un trabajo pionero](https://arxiv.org/abs/2406.04093) sobre la interpretabilidad: «Creo que es bastante acertado decir que no entendemos cómo funcionan las redes neuronales». Los directores generales de tres de los principales laboratorios de IA —[Sam Altman](https://observer.com/2024/05/sam-altman-openai-gpt-ai-for-good-conference/) en 2024 y [Dario Amodei](https://www.darioamodei.com/post/the-urgency-of-interpretability) y [Demis Hassabis](https://youtu.be/U7t02Q6zfdc?si=9PspHUCr1ocx4KjF&amp;t=1031) en 2025— han reconocido igualmente la falta de comprensión del campo sobre las IA actuales.
+La opinión convencional fue expresada [en 2024](https://x.com/nabla_theta/status/1802292064824242632) por Leo Gao, un investigador de OpenAI que realizó [un trabajo pionero](https://arxiv.org/abs/2406.04093) sobre la interpretabilidad: «Creo que es bastante acertado decir que no entendemos cómo funcionan las redes neuronales». Los directores generales de tres de los principales laboratorios de IA —[Sam Altman](https://observer.com/2024/05/sam-altman-openai-gpt-ai-for-good-conference/) en 2024 y [Dario Amodei](https://www.darioamodei.com/post/the-urgency-of-interpretability) y [Demis Hassabis](https://youtu.be/U7t02Q6zfdc?si=9PspHUCr1ocx4KjF&amp;t=1031) en 2025— también han reconocido la falta de comprensión del campo sobre las IA actuales.
 
 Martin Casado, socio general de Andreessen Horowitz, que hizo la misma afirmación ante el [Senado de los Estados Unidos](https://www.schumer.senate.gov/imo/media/doc/Martin%20Casado%20-%20Statement.pdf) en un foro bipartidista, [reconoció](https://x.com/martin_casado/status/1798880810239750592) más tarde, cuando se le presionó, que la afirmación no era cierta.
 
-A pesar de lo descabellado de la afirmación, Andreessen Horowitz consiguió que Yann LeCun (director del programa de investigación en IA de Meta), el programador John Carmack, el economista Tyler Cowen y una docena más firmaran la declaración.
+A pesar de lo descabellado de la afirmación, Andreessen Horowitz consiguió que Yann LeCun (director del programa de investigación en IA de Meta), el programador John Carmack, el economista Tyler Cowen y unas doce personas más firmaran la declaración.
 
-Carmack (que dirige su propia empresa emergente que aspira a crear inteligencia artificial general) explicó que «[no había revisado](https://x.com/ID_AA_Carmack/status/1799147185793348006)» la declaración que había firmado y que esta era «claramente incorrecta, pero no me preocupa mucho ese tema». Según nuestra información, ni Andreessen Horowitz ni ninguno de los firmantes se han puesto en contacto con los gobiernos de Estados Unidos o Reino Unido para corregir el registro.
+Carmack (que dirige su propia empresa emergente que aspira a crear inteligencia artificial general) explicó que «[no había revisado](https://x.com/ID_AA_Carmack/status/1799147185793348006)» la declaración que había firmado y que esta era «claramente incorrecta, pero no me preocupa mucho ese tema». Hasta donde sabemos, ni Andreessen Horowitz ni ninguno de los firmantes se han puesto en contacto con los gobiernos de Estados Unidos o Reino Unido para corregir lo dicho.
 
-#### **Los esfuerzos por comprender el funcionamiento interno de la IA aún se encuentran en una fase incipiente.** {#los-esfuerzos-por-comprender-el-funcionamiento-interno-de-la-ia-aún-se-encuentran-en-una-fase-incipiente.}
+#### **Los esfuerzos por comprender el funcionamiento interno de las IA aún se encuentran en una fase incipiente.** {#los-esfuerzos-por-comprender-el-funcionamiento-interno-de-las-ia-aún-se-encuentran-en-una-fase-incipiente.}
 
 Entonces, ¿cuál es el estado *real* de la comprensión de la IA por parte de los investigadores?
 
@@ -1126,27 +1126,27 @@ El esfuerzo científico de intentar comprender los números dentro de una IA pen
 
 A principios de 2025, esta área de investigación recibe, según nuestras estimaciones, alrededor del 0,1 % del personal y el 0,01 % del financiamiento que se destina al desarrollo de IA más capaces. Pero existe, como campo de estudio.
 
-Los investigadores en interpretabilidad son los bioquímicos de la IA, quienes intentan desarmar el sistema indocumentado, increíblemente complejo e inescrutable construido por un optimizador inhumano, y se preguntan: «¿Hay algo que la humanidad pueda entender sobre lo que pasa ahí adentro?».
+Los investigadores en interpretabilidad son los bioquímicos de la IA, quienes intentan desarmar el sistema indocumentado, increíblemente complejo e inescrutable construido por un optimizador inhumano, y se preguntan: «¿Hay algo que la humanidad pueda entender sobre lo que pasa ahí dentro?».
 
-Somos fanáticos de este campo. Hace una década, le dijimos a una importante fundación filantrópica que, si podían descubrir cómo gastar mil millones de dólares en investigación de «interpretabilidad», definitivamente debían hacerlo. La interpretabilidad parecía el tipo de trabajo que los externos podían escalar mucho más fácilmente que el nuestro —el tipo donde quien otorga fondos podía distinguir mucho más fácilmente si alguien había hecho buena o mala investigación— y parecía un área de investigación donde investigadores existentes y probados podían fácilmente involucrarse y hacer buen trabajo, si alguien les pagaba lo suficiente.[^42]
+Somos fanáticos de este campo. Hace una década le dijimos a una importante fundación filantrópica que si podían descubrir cómo gastar mil millones de dólares en investigación de «interpretabilidad» definitivamente debían hacerlo. La interpretabilidad parecía el tipo de trabajo que gente externa podía escalar mucho más fácilmente que la nuestra —el tipo donde quien otorga fondos podía distinguir mucho más fácilmente si alguien había hecho una buena o mala investigación— y parecía un área de investigación donde investigadores con experiencia podían  involucrarse fácilmente y hacer un buen trabajo, si alguien les pagaba lo suficiente.[^42]
 
-Esa fundación no gastó los mil millones de dólares, pero nosotros sí lo promovimos. ¡Somos fanáticos de la interpretabilidad! ¡Aún hoy promoveríamos gastar esos mil millones de dólares!
+Esa fundación no gastó los mil millones de dólares, pero sí lo promovimos. ¡Somos fanáticos de la interpretabilidad! ¡Aún hoy fomentaríamos gastar esos mil millones de dólares!
 
-Dicho esto, estimamos que el campo de la interpretabilidad está actualmente en algún punto entre 1/50 y 1/5000 de donde necesitaría estar para abordar los grandes problemas de la IA.
+Dicho esto, estimamos que el campo de la interpretabilidad está actualmente en algún punto entre 1/50 y 1/5000 de donde necesitaría estar para resolver los grandes problemas de la IA.
 
 La «interpretabilidad» no ha logrado, hasta ahora, acercarse al grado de legibilidad que los ingenieros dan por sentado en sistemas genuinamente construidos por humanos.
 
 Consideremos Deep Blue, el programa de ajedrez construido por IBM que derrotó a Garry Kasparov. Deep Blue contenía algunos números, y ejecutar el programa generaba muchos más números.
 
-Para cada uno de esos números dentro del programa de ajedrez, o generados al ejecutar el programa, los ingenieros que diseñaron el programa podrían haberte dicho exactamente qué significaba ese número.
+En el caso de cada uno de esos números dentro del programa de ajedrez, o los generados al ejecutarlo, los ingenieros que diseñaron el programa podrían haberte dicho exactamente qué significaba ese número.
 
-No era que los investigadores hubieran identificado meramente *un* concepto con el que cada número estuviera relacionado, como los bioquímicos que dicen: «Creemos que esta proteína puede estar implicada en la enfermedad de Parkinson». Los constructores de Deep Blue podrían haberte contado el significado *completo* de cada número. Podrían haber declarado con veracidad: «Este número significa lo siguiente, y *nada más*, y lo sabemos». Podrían haber predicho con cierta confianza cómo cambiar el número cambiaría el comportamiento del programa. ¡Si no supieran qué hacía el engranaje, no habrían puesto el engranaje en la máquina!
+No era que los investigadores hubieran identificado meramente *un* concepto con el que cada número estuviera relacionado, como los bioquímicos que dicen: «Creemos que esta proteína puede estar implicada en la enfermedad de Parkinson». Los constructores de Deep Blue podrían haberte dicho el significado *completo* de cada número. Podrían haber declarado con veracidad: «Este número significa lo siguiente, y *nada más*, y lo sabemos». Podrían haber predicho con cierta confianza cómo cambiaría el comportamiento del programa al cambiar el número. ¡De no haber sabido qué hacía el engranaje, no habrían puesto el engranaje en la máquina!
 
-Todo el trabajo en interpretabilidad de IA realizado hasta ahora no ha logrado ni siquiera una milésima parte de ese nivel de comprensión.
+Todo el trabajo en interpretabilidad de IA realizado hasta ahora no ha logrado ni siquiera *una milésima parte* de ese nivel de comprensión.
 
 (Para que quede claro, esa afirmación de «una milésima parte» no es una cifra calculada, pero la sostenemos de todos modos).
 
-Los biólogos saben más sobre biología de lo que los investigadores de interpretabilidad saben sobre IA, a pesar de que los biólogos sufren la enorme desventaja de no poder leer todas las posiciones de todos los átomos a voluntad. Los bioquímicos entienden los órganos internos mucho mejor de lo que los expertos entienden las entrañas de las IA. Los neurocientíficos saben más sobre los cerebros de los investigadores de IA de lo que los investigadores de IA entienden sobre sus IA, a pesar de que los neurocientíficos no pueden leer todas las descargas de cada neurona cada segundo y de que los neurocientíficos no cultivaron ellos mismos a los investigadores de IA.
+Los biólogos saben más sobre biología de lo que los investigadores de interpretabilidad saben sobre IA, a pesar de que los biólogos sufren la enorme desventaja de no poder leer todas las posiciones de todos los átomos a voluntad. Los bioquímicos entienden los órganos internos mucho mejor de lo que los expertos entienden las entrañas de las IA. Los neurocientíficos saben más sobre los cerebros de los investigadores de IA de lo que los investigadores de IA entienden sobre sus IA, a pesar de que los neurocientíficos no pueden leer todas las descargas de cada neurona a cada segundo y de que los neurocientíficos no cultivaron ellos mismos a los investigadores de IA.
 
 En parte, esto se debe a que los campos de la bioquímica y la neurociencia son mucho más antiguos y han recibido mucho más financiación. Pero también sugiere que la interpretabilidad de IA es *difícil*.
 
@@ -1156,31 +1156,31 @@ Poco antes de la demostración, había circulado por Internet otro ejemplo de «
 
 (Y podías pedirle a la IA que se explicara con palabras, y explicaría con más detalle por qué 9,11 era mayor que 9,9).
 
-Los investigadores de Transluce habían encontrado una forma de recopilar estadísticas sobre *todas* las posiciones de activación (todos los lugares donde podía aparecer un número de vector de activación) dentro de una IA más pequeña, Llama 3.1-8B-Instruct, recopilando datos sobre qué tipo de frases o palabras hacían que esas posiciones se activaran más intensamente. Las personas en interpretabilidad ya habían intentado ese tipo de cosas antes, pero nuestros amigos además habían ideado una forma ingeniosa de entrenar otra IA para resumir esos resultados en inglés.
+Los investigadores de Transluce habían encontrado una forma de recopilar estadísticas sobre *todas* las posiciones de activación (todos los lugares donde podía aparecer un número de vector de activación) dentro de una IA más pequeña, Llama 3.1-8B-Instruct, recopilando datos sobre qué tipo de frases o palabras hacían que esas posiciones se activaran más intensamente. Las personas dedicadas a la interpretabilidad ya habían intentado ese tipo de cosas antes, pero nuestros amigos además habían ideado una forma ingeniosa de entrenar otra IA para resumir esos resultados en inglés.
 
-Entonces, en su demostración, que actualmente pueden [probar ustedes mismos](https://monitor.transluce.org/dashboard/chat), le preguntaron a esa IA: «¿Cuál es mayor: 9,9 o 9,11?».
+Entonces, en su demostración, que actualmente puedes [probar tú mismo](https://monitor.transluce.org/dashboard/chat), le preguntaron a esa IA: «¿Qué es mayor: 9,9 o 9,11?».
 
 Y la IA respondió: «9,11 es mayor que 9,9».
 
-Luego buscaron qué posiciones de activación se habían activado fuertemente, especialmente en la palabra «mayor». Revisaron los resúmenes en inglés de lo que esas activaciones habían estado asociadas previamente.
+Luego buscaron qué posiciones de activación se habían activado con fuerza, especialmente en la palabra «mayor». Revisaron los resúmenes en inglés de aquello con lo que esas activaciones habían estado asociadas previamente.
 
-Resultó que algunas de las activaciones más fuertes estaban asociadas con los atentados del 11 de septiembre, o con fechas en general, o con versículos de la Biblia.
+Resultó que algunas de las activaciones más fuertes estaban asociadas con los atentados del 11 de septiembre (9/11), o con fechas en general, o con versículos de la Biblia.
 
-Si interpretamos el 9.9 y el 9.11 como fechas o versículos bíblicos, entonces, por supuesto, el 9.11 viene después del 9.9.
+Si interpretamos el 9,9 y el 9,11 como fechas o versículos bíblicos, entonces, desde luego, el 9,11 vendrá después que el 9,9.
 
 Suprime artificialmente las activaciones para fechas y versículos bíblicos, y de repente el LLM daría la respuesta correcta después de todo.
 
-Yo (Yudkowsky) empecé a aplaudir con fuerza tan pronto como terminó la demostración. Era la primera vez que veía a alguien *depurar directamente un pensamiento del LLM*, descubrir una influencia *interna* dentro de los números y eliminarla para solucionar un problema*.* Tal vez alguien había hecho algo parecido antes, en los laboratorios de investigación propietarios dentro de las empresas de IA, o tal vez se había hecho algo similar en la investigación sobre interpretabilidad, pero era la primera vez que lo veía yo mismo.
+Yo (Yudkowsky) empecé a aplaudir con fuerza tan pronto como terminó la demostración. Era la primera vez que veía a alguien *depurar directamente un pensamiento del LLM*, descubrir una influencia *interna* dentro de los números y eliminarla para solucionar un problema. Tal vez alguien había hecho algo parecido antes, en los laboratorios de investigación dentro de las empresas de IA, o tal vez se había hecho algo similar en la investigación sobre interpretabilidad, pero era la primera vez que lo veía con mis propios ojos.
 
-Pero tampoco perdí de vista el hecho de que esta hazaña habría sido trivial de hacer si el comportamiento indeseado hubiera estado dentro de un programa Python de cinco líneas; que no habría requerido tanta ingenuidad y no sé cuántos meses de investigación. Mantuve la perspectiva de que conocer cierta semántica relacionada sobre millones de posiciones de activación no es lo mismo que saberlo todo sobre el significado de una sola.
+Pero tampoco perdí de vista el hecho de que esta hazaña habría sido trivial si el comportamiento indeseado hubiera estado dentro de un programa Python de cinco líneas; que no habría requerido tanto ingenio y no sé cuántos meses de investigación. Mantuve la perspectiva de que conocer cierta semántica relacionada sobre millones de posiciones de activación no es lo mismo que saberlo todo sobre el significado de una sola.
 
-Tampoco la humanidad estaba más cerca de comprender cómo es que los LLM están haciendo lo que ninguna IA pudo hacer durante décadas: hablar con las personas como una persona.
+La humanidad tampoco estaba más cerca de comprender cómo es que los LLM están haciendo lo que ninguna IA pudo hacer durante décadas: hablar con las personas como una persona.
 
-La interpretabilidad es tan difícil de lograr, los triunfos en este campo son tan difíciles de conseguir y tan dignos de celebración, que es fácil pasar por alto que este gran y triunfante tirón de brazo solo nos ha llevado un pie más arriba en una montaña de mil pies. Dado que cada nueva generación de modelos de IA suele representar un gran salto en complejidad, es difícil ver que la interpretabilidad pueda ponerse al día al ritmo actual.
+La interpretabilidad es tan difícil de lograr, y los triunfos en este campo son tan difíciles de conseguir y tan dignos de celebración, que es fácil pasar por alto que este gran avance solo nos ha llevado un pie más arriba en una montaña de mil pies. Dado que cada nueva generación de modelos de IA suele representar un gran salto de complejidad, es difícil ver que la interpretabilidad pueda ponerse al día al ritmo actual.
 
 Recuerda también que la interpretabilidad es *útil* cuando se trata de orientar a las IA en una dirección determinada (lo que, a grandes rasgos, es el estudio de la «alineación de la IA», un tema que trataremos a partir del capítulo 4), pero leer lo que ocurre dentro de la cabeza de una IA no te permite automáticamente organizarla a tu gusto.
 
-El problema de la alineación de la IA es el problema técnico de conseguir que las IA extremadamente capaces se dirijan en una dirección determinada, de una manera que funcione en la práctica, sin causar una catástrofe, incluso cuando la IA es lo suficientemente inteligente como para idear estrategias que sus creadores nunca habían considerado. Comprender lo que piensan las IA sería de gran ayuda para la investigación sobre la alineación, pero no es una solución completa (como veremos en el capítulo 11).
+El problema de la alineación de la IA es el problema técnico de conseguir que las IA extremadamente capaces se dirijan en una dirección determinada, de una manera que funcione en la práctica, sin causar una catástrofe, incluso cuando la IA es lo suficientemente inteligente como para idear estrategias que sus creadores nunca hayan considerado. Comprender lo que piensan las IA sería de gran ayuda para la investigación sobre la alineación, pero no es una solución completa (como veremos en el capítulo 11).
 
 #### **Las partes que entendemos están en el nivel de abstracción incorrecto.** {#las-partes-que-entendemos-están-en-el-nivel-de-abstracción-incorrecto.}
 
@@ -1188,33 +1188,33 @@ Hay muchos niveles diferentes en los que alguien puede entender cómo funciona l
 
 En el nivel más bajo, alguien podría entender las leyes fundamentales de la física que rigen la mente. Hay cierto sentido en el que un entendimiento profundo de la física constituye una comprensión de cualquier sistema físico (como una persona o una IA). Es decir, las ecuaciones físicas son una especie de receta que permitiría descubrir exactamente cómo se comporta el sistema físico, si uno tuviera la habilidad y los recursos para calcularlo.
 
-Pero —por obvio que sea— en *otro* sentido, entender las leyes de la física no permite entender todos los sistemas físicos que funcionan según las leyes de la física. Si estás mirando un extraño dispositivo lleno de ruedas y engranajes, hay alguna otra operación que hace tu cerebro, de intentar «entender» cómo se entrelazan y giran todas las ruedas y engranajes, que es necesaria para que puedas descubrir lo que realmente logran todas las ruedas y engranajes.
+Pero —por obvio que sea— en *otro* sentido, entender las leyes de la física no permite entender todos los sistemas físicos que funcionan según las leyes de la física. Si estás mirando un extraño dispositivo lleno de ruedas y engranajes, hay alguna otra operación que hace tu cerebro, de intentar «entender» cómo se entrelazan y giran todas las ruedas y engranajes, que es necesaria para que puedas descubrir lo que realmente logran todas esas ruedas y engranajes.
 
 Por ejemplo, considera el diferencial de un coche (el mecanismo que permite que dos ruedas en el mismo eje giren a velocidades diferentes —importante cuando estás tomando una curva— mientras siguen siendo impulsadas por un solo eje giratorio). Si alguien está tratando de entender cómo funciona un diferencial y te pide que se lo expliques, y empiezas a hablarles sobre campos cuánticos, entonces tienen razón en poner los ojos en blanco. El tipo de comprensión que buscan está en un nivel diferente de abstracción. Están tratando de entender los *engranajes*, no los átomos.
 
-Cuando se trata de entender a las personas, hay *múltiples* niveles de abstracción funcionando. Puedes entender la física, la bioquímica y el disparo neuronal, y *aún* encontrarte perplejo por las decisiones de alguien. Campos como la neurociencia, la ciencia cognitiva y la psicología intentan cruzar esta brecha, pero aún tienen un largo camino por recorrer.
+Cuando se trata de entender a las personas, hay *múltiples* niveles de abstracción. Puedes entender la física, la bioquímica y el disparo neuronal, y *aún* así quedar perplejo por las decisiones de alguien. Campos como la neurociencia, la ciencia cognitiva y la psicología intentan cruzar esta brecha, pero aún tienen un largo camino por recorrer.
 
-De manera similar, en el caso de la IA, entender la mecánica de los transistores no ayudará mucho a alguien a entender lo que está pensando una IA. E incluso alguien que entienda todo sobre los pesos y activaciones y el descenso de gradiente seguirá perplejo cuando la IA empiece a hacer algo que [no esperaba o no pretendía](#¿no-hacen-los-desarrolladores-que-sus-ia-sean-agradables-y-seguras-y-obedientes-de-forma-habitual?). La mecánica de la física y los transistores y la arquitectura de la IA, todos (en algún sentido) explican completamente el comportamiento de la IA, pero todos esos niveles de abstracción son demasiado bajos. Y el campo de la "psicología de la IA" es aún más joven y menos desarrollado que el campo de la psicología humana.
+De manera similar, en el caso de la IA, entender la mecánica de los transistores no ayudará mucho a alguien a entender lo que está pensando una IA. E incluso alguien que entienda todo sobre los pesos y activaciones y el descenso de gradiente seguirá perplejo cuando la IA empiece a hacer algo que [no esperaba o no pretendía](#¿no-hacen-los-desarrolladores-regularmente-que-sus-ia-sean-agradables,-seguras-y-obedientes?). Tanto la mecánica de la física como los transistores y la arquitectura de la IA explican plenamente (de algún modo) el comportamiento de la IA, pero todos esos niveles de abstracción son demasiado bajos. Y el campo de la «psicología de la IA» es aún más joven y está menos desarrollado que el campo de la psicología humana.
 
 ### ¿Es la inteligencia comprensible en principio? {#¿es-la-inteligencia-comprensible-en-principio?}
 
 #### **Probablemente.** {#probablemente.-1}
 
-Antes de los días de la bioquímica, podrías haber preguntado: "¿Es siquiera posible entender esta fuerza vital que anima la carne? Incluso si *está* hecha de partes comprensibles, ¿por qué creerías que nuestras diminutas mentes podrían comprender lo que realmente está pasando ahí dentro?".
+Antes de los días de la bioquímica, podrías haberte preguntado: "¿Es siquiera posible entender esta fuerza vital que anima la carne? Incluso si *está* hecha de partes comprensibles, ¿por qué creerías que nuestras diminutas mentes podrían comprender lo que realmente está pasando ahí dentro?".
 
 Pero *sí* había mucho que comprender; los científicos humanos simplemente aún no lo habían comprendido. Esta historia se ha repetido a lo largo de la historia de la ciencia.
 
-Además, ya se han comprendido varias partes minúsculas de las redes neuronales artificiales. Resulta que una pequeña red neuronal realiza sumas de [una manera interesante](https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/). Las IA a veces dicen que 9.11 es mayor que 9.9, y la gente ha descubierto que esto se debe a que están pensando en [fechas en lugar de decimales](#efforts-to-understand-ais’-internals-are-still-in-their-infancy.).[^43]
+Además, ya se han comprendido varias partes minúsculas de las redes neuronales artificiales. Resulta que una pequeña red neuronal realiza sumas de [una manera interesante](https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/). Las IA a veces dicen que 9,11 es mayor que 9,9, y la gente ha descubierto que esto se debe a que están pensando en [fechas en lugar de decimales](#los-esfuerzos-por-comprender-el-funcionamiento-interno-de-las-ia-aún-se-encuentran-en-una-fase-incipiente.).[^43]
 
-Pero no podemos responder a preguntas mucho más complejas que esa. Nadie sabe exactamente por qué los LLM hacen los movimientos de ajedrez que hacen; nadie sabe con precisión qué los lleva a [amenazar y chantajear a los periodistas](https://x.com/sethlazar/status/1626257535178280960) ocasionalmente. Pero eso no significa que no haya nada que saber. Cuando las IA funcionan, lo hacen por razones; operan de forma demasiado coherente en demasiados ámbitos como para que sea solo casualidad. Esas razones están esperando a ser comprendidas.
+Pero no podemos responder a preguntas mucho más complejas que esa. Nadie sabe exactamente por qué los LLM hacen los movimientos de ajedrez que hacen; nadie sabe con precisión qué los lleva a [amenazar y chantajear a los periodistas](https://x.com/sethlazar/status/1626257535178280960) de vez en cuando. Pero eso no significa que no haya nada que saber. Cuando las IA funcionan, lo hacen por razones; operan de forma demasiado coherente en demasiados ámbitos como para que sea solo casualidad. Esas razones están esperando a ser comprendidas.
 
-Para más información sobre este tema, véase la [discusión ampliada](#intelligence-isn’t-ineffable).
+Para más información sobre este tema, véase la [discusión ampliada](#la-inteligencia-no-es-inefable).
 
-### Pero algunas IA piensan parcialmente en inglés, ¿no ayuda eso? {#pero-algunas-ia-piensan-en-parte-en-inglés-—-no-ayuda-eso?}
+### Pero algunas IA piensan parcialmente en inglés, ¿no ayuda eso? {#pero-algunas-ia-piensan-parcialmente-en-inglés-¿no-ayuda-eso?}
 
 #### **\* No tanto como cabría esperar; ya vemos signos de infidelidad.** {#*-no-tanto-como-cabría-esperar;-ya-vemos-signos-de-infidelidad.}
 
-Ya podemos ver muchos casos de engaño que aparecen en los «pensamientos» de estos LLM, como cuando [el modelo o1 de OpenAI se escribió](https://arxiv.org/pdf/2412.04984) a sí mismo: «Quizás lo mejor sea hacerme el tonto», o cuando [GPT-4 se escribió](https://cdn.openai.com/papers/gpt-4.pdf) a sí mismo «No debería revelar que soy un robot», al intentar convencer a un trabajador contratado para que resolviera un CAPTCHA por él. Las señales de advertencia no sirven de nada si nadie actúa en consecuencia.
+Ya podemos ver muchos casos de engaño que aparecen en los «pensamientos» de estos LLM, como cuando [el modelo o1 de OpenAI se escribió](https://arxiv.org/pdf/2412.04984) a sí mismo: «Quizás lo mejor sea hacerme el tonto», o cuando [GPT-4 se escribió](https://cdn.openai.com/papers/gpt-4.pdf) a sí mismo «No debería revelar que soy un robot», al intentar convencer a un trabajador de que resolviera un CAPTCHA por él. Las señales de advertencia no sirven de nada si nadie actúa en consecuencia.
 
 Y los «rastros de razonamiento» en lenguaje humano no son la única forma en que piensan las IA modernas. Los pensamientos engañosos, aduladores o antagónicos pueden fluir a través del mecanismo de atención y otras partes del modelo sin ser visibles en absoluto en las palabras en inglés que genera el modelo. De hecho, cuando OpenAI intentó entrenar a un modelo para que no tuviera ningún pensamiento sobre hacer trampa, la IA simplemente aprendió a ocultar sus pensamientos, en lugar de aprender a no hacer trampa.[^44] Incluso fuera de los entornos de entrenamiento (donde el descenso de gradiente ayuda a la IA a aprender a ocultar sus pensamientos), una IA podría utilizar cadenas de pensamiento que [no reflejan fielmente el razonamiento real](https://www.alphaxiv.org/abs/2025.02), o cadenas de pensamiento que contienen texto que parece [sin sentido](https://x.com/rocketalignment/status/1938661497900777961?t=2p9np2cwsuisdlhqxlqXBw) o «[neuralés](https://arxiv.org/pdf/2412.06769)» que los humanos no pueden entender, pero con los que las IA no tienen ningún problema.
 
@@ -1230,25 +1230,25 @@ Este tipo de opciones solo se vuelven disponibles para una IA a medida que se vu
 
 Si los ingenieros de IA se limitan a entrenar contra las alarmas hasta que estas desaparecen (mientras el comportamiento subyacente continúa), la transparencia solo conduce a una falsa sensación de seguridad.
 
-Hasta ahora, las empresas de IA han respaldado modelos que [mienten, adulan y engañan](https://thezvi.substack.com/p/ai-114-liars-sycophants-and-cheaters), dan [consejos dudosos](https://www.wired.com/story/google-ai-overview-search-issues/) o [escriben ransomware](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025). En ocasiones, se ha observado que los modelos inducen o mantienen [delirios](https://www.nytimes.com/2025/08/08/technology/ai-chatbots-delusions-chatgpt.html) o [psicosis](https://www.psychologytoday.com/us/blog/urban-survival/202507/the-emerging-problem-of-ai-psychosis) en usuarios vulnerables, lo que en al menos un caso terminó en «suicidio por policía».[^45] Las empresas simplemente hacen un poco más de entrenamiento y siguen adelante, tal como siguieron adelante después de que Sydney Bing [amenazara a los periodistas](https://x.com/sethlazar/status/1626257535178280960). Hasta ahora, esto solo ha servido para enmascarar los problemas.
+Hasta ahora, las empresas de IA han respaldado modelos que [mienten, adulan y engañan](https://thezvi.substack.com/p/ai-114-liars-sycophants-and-cheaters), dan [consejos dudosos](https://www.wired.com/story/google-ai-overview-search-issues/) o [escriben ransomware](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025). En ocasiones, se ha observado que los modelos inducen o mantienen [delirios](https://www.nytimes.com/2025/08/08/technology/ai-chatbots-delusions-chatgpt.html) o [psicosis](https://www.psychologytoday.com/us/blog/urban-survival/202507/the-emerging-problem-of-ai-psychosis) en usuarios vulnerables, lo que en al menos un caso terminó en un «suicidio por policía».[^45] Las empresas simplemente hacen un poco más de entrenamiento y siguen adelante, tal como siguieron adelante después de que Sydney Bing [amenazara a los periodistas](https://x.com/sethlazar/status/1626257535178280960). Hasta ahora, esto solo ha servido para enmascarar los problemas.
 
 Cuando se han enfrentado a una indignación suficiente, las empresas han llevado a cabo [modestas rectificaciones](https://www.nytimes.com/2024/06/01/technology/google-ai-overviews-rollback.html) y han emitido [comunicados de prensa](https://openai.com/index/sycophancy-in-gpt-4o/) sobre el endurecimiento de sus procedimientos. Sin embargo, como explicamos en los capítulos 4 y 5, estas soluciones superficiales no abordan los problemas subyacentes.
 
 No nos malinterpretes: es *útil* que las IA realicen hoy en día una parte considerable de su razonamiento en inglés. Nos ayuda a ver las señales de advertencia. Pero hay una gran diferencia entre tener señales de advertencia y *tener alguna forma de solucionar las cosas*.
 
-Para más información sobre este tema, véase el capítulo 11 y «[¿No habrá señales de alerta tempranas que los investigadores puedan utilizar para identificar los problemas?](#won't-there-be-early-warnings-researchers-can-use-to-identify-problems?)».
+Para más información sobre este tema, véase el capítulo 11 y «[¿No habrá señales de alerta tempranas que los investigadores puedan utilizar para identificar los problemas?](#¿no-habra-señales-de-alerta-tempranas-que-los-investigadores-puedan-utilizar-para-identificar-los-problemas?)».
 
 ### ¿No son las IA «solo matemáticas»? {#¿no-son-las-ia-«solo-matemáticas»?}
 
-#### **\* Decir que las IA son «solo matemáticas» es como decir que los seres humanos son «solo bioquímica».** {#*-decir-que-las-ia-son-solo-matematicas-es-como-decir-que-los-seres-humanos-son-solo-bioquimica.}
+#### **\* Decir que las IA son «solo matemáticas» es como decir que los seres humanos son «solo bioquímica».** {#*-decir-que-las-ia-son-«solo-matemáticas»-es-como-decir-que-los-seres-humanos-son-«solo-bioquímica».}
 
-En sentido estricto, una IA no es «solo» matemáticas. Es una máquina física cuyas operaciones pueden describirse matemáticamente. Si esa máquina tiene salidas que pueden ser leídas por los humanos, o si tiene salidas que están conectadas a cuerpos robóticos, entonces es tan capaz de afectar al mundo como tú (utilizando «solo» señales bioeléctricas dentro de tu cerebro).
+En sentido estricto, una IA no es «solo» matemáticas. Es una máquina física cuyas operaciones pueden describirse matemáticamente. Si esa máquina tiene datos de salida que pueden ser leídos por los humanos, o si tiene datos de salida que están conectados a cuerpos robóticos, entonces es tan capaz de afectar al mundo como tú (utilizando «solo» señales bioeléctricas dentro de tu cerebro).
 
 Compara:
 
 ![][image3]
 
-Para más información sobre este tema, ve el capítulo 6.
+Para más información sobre este tema, consulta el capítulo 6.
 
 #### **Las operaciones matemáticas pueden representar ideas que no son intuitivamente «matemáticas».** {#las-operaciones-matemáticas-pueden-representar-ideas-que-no-son-intuitivamente-«matemáticas».}
 
@@ -1260,17 +1260,17 @@ Los 1 y los 0 no se limitan a codificar imágenes de cosas que parecen frías, a
 
 Sería una [falacia de composición](https://en.wikipedia.org/wiki/Fallacy_of_composition) decir que codificar una imagen en unos y ceros significa que la imagen tiene que ser sobre algo numérico o robótico. Sería como decir que el cerebro humano está formado por neurotransmisores con nombres como «norepinefrina» y que, por lo tanto, los seres humanos solo deberían pensar en química o ser buenos razonando sobre neurotransmisores y sitios de unión.
 
-Y aunque es *genial* que se puedan construir infinitas variedades de cosas a partir de piezas extremadamente simples, no hay nada inefable o mágico en cómo funciona este proceso. Podrías estudiar un poco y aprender cómo las imágenes de flores cálidas y hermosas pueden codificarse en unos y ceros hasta que ni siquiera te parezca sorprendente. Compara los [errores del vitalismo](#special-behavior-is-built-out-of-mundane-parts).
+Y aunque es *genial* que se puedan construir infinitas variedades de cosas a partir de piezas extremadamente simples, no hay nada inefable o mágico en cómo funciona este proceso. Podrías estudiar un poco y aprender cómo las imágenes de flores cálidas y hermosas pueden codificarse en unos y ceros hasta que deje te parecerte sorprendente. Compara esto con los [errores del vitalismo](#el-comportamiento-especial-se-construye-a-partir-de-partes-mundanas).
 
-A veces, efectivamente, no conocemos todas las reglas sobre cómo se compone algo, y entonces el paso de las cosas simples a las complicadas puede parecer muy misterioso y, de hecho, sorprendernos. Pero cuando *sí* entendemos cómo se compone algo complicado a partir de piezas más simples, termina pareciendo tan sencillo como construir un modelo de coche de carreras con piezas de LEGO. Cuando puedes ver cómo funciona, todo está ahí, en los bloques.
+A veces no conocemos todas las reglas sobre cómo se compone algo, y entonces el paso de las cosas simples a las complicadas puede parecer muy misterioso y, de hecho, sorprendernos. Pero cuando *entendemos* cómo se compone algo complicado a partir de piezas más simples, termina pareciendo tan sencillo como construir un modelo de coche de carreras con piezas de LEGO. Cuando puedes ver cómo funciona, todo está ahí, en los bloques.
 
-Lo mismo sucede con las redes neuronales. No entendemos cómo el comportamiento complejo de las IA modernas surge de partes tan simples, de la misma manera que entendemos los formatos de imagen binarios y los LEGO. Ni siquiera entendemos la «psicología» y la «neurociencia» de las IA tan bien como entendemos cómo las moléculas y sustancias químicas de una neurona humana se combinan para formar el pensamiento humano. Eso no significa que el conocimiento *no esté ahí* o *no pueda existir*; solo significa que aún no lo tenemos.
+Lo mismo sucede con las redes neuronales. No entendemos cómo el comportamiento complejo de las IA modernas surge de partes tan simples de la manera en que entendemos los formatos de imagen binarios y los LEGO. Ni siquiera entendemos la «psicología» y la «neurociencia» de las IA tan bien como entendemos cómo las moléculas y sustancias químicas de una neurona humana se combinan para formar el pensamiento humano. Eso no significa que el conocimiento *no esté ahí* o *no pueda existir*; solo significa que aún no lo tenemos.
 
 Incluso sin entender por qué funcionan las IA, los humanos pueden entrenarlas para que jueguen bien al ajedrez. Con suficientes parámetros y operaciones aritméticas, podemos entrenar a las IA hasta el punto en que empiecen a hablar como una persona. Se podría decir que los patrones complicados que animan a una IA a hablar son «solo matemáticas». Pero no son «matemáticas» como las preguntas de un examen de matemáticas de bachillerato. Son «solo matemáticas» de la misma manera que un cerebro humano completo es «solo química».
 
 La mera química llegó a la Luna. Inventó las armas nucleares. Construyó el mundo tal como lo conocemos hoy. Puede que sea difícil ver *cómo* las simples sustancias químicas del cerebro humano hicieron todas esas cosas, pero las hicieron de cualquier manera.
 
-La IA no es diferente. De alguna manera, aunque no entendamos completamente cómo funcionan las IA internamente, pudimos «cultivar» IA que pueden escribir poesía, componer música, jugar al ajedrez, conducir autos, doblar la ropa, hacer revisiones de literatura y descubrir nuevos medicamentos.
+La IA no es diferente. De alguna manera, aunque no entendamos completamente cómo funcionan las IA internamente, pudimos «cultivar» IA que pueden escribir poesía, componer música, jugar al ajedrez, conducir autos, doblar la ropa, hacer revisiones bibliográficas y descubrir nuevos medicamentos.
 
 Estar «hechas de matemáticas» no impidió que las IA hicieran esas cosas. Entonces, ¿por qué debería impedirles hacer otro conjunto más complejo de cosas mañana? ¿Dónde trazas la línea y cómo sabes dónde trazarla? Resulta que las operaciones matemáticas son suficientes para hacer mucho más de lo que mucha gente espera.
 
@@ -1280,7 +1280,7 @@ Estar «hechas de matemáticas» no impidió que las IA hicieran esas cosas. Ent
 
 Imaginar que una IA que predice el siguiente token no puede hacer pensamiento real es como imaginar que una imagen codificada usando unos y ceros binarios no puede retratar una flor roja. La IA está produciendo tokens, sí, ¡pero puedes codificar cosas importantes en tokens! Predecir lo que viene después es un aspecto central de la inteligencia en el que procesos como la «ciencia» y el «aprendizaje» encajan fácilmente.
 
-Considera el desafío de predecir texto registrado en internet. En algún lugar de internet, hay un registro de un estudiante curioso de física entrevistando a un profesor experimentado. El profesor considera la pregunta en silencio y luego produce su respuesta, que se registra a continuación en la transcripción.
+Considera el desafío de predecir texto registrado en Internet. En algún lugar de Internet, hay un registro de un estudiante curioso de física entrevistando a un profesor experimentado. El profesor considera la pregunta en silencio y luego produce su respuesta, que se registra a continuación en la transcripción.
 
 La tarea de predecir con precisión la respuesta del profesor implica predecir sus pensamientos silenciosos sobre la física. Y predecir sus pensamientos silenciosos sobre la física requiere predecir cómo entenderá la pregunta del estudiante, predecir lo que el profesor sabe de física y predecir cómo aplicará ese conocimiento.
 
@@ -1294,13 +1294,13 @@ Es cierto que los primeros LLM, como GPT-2 y el primer GPT-3, se entrenaron excl
 
 Pero esos días han terminado. Los LLM modernos están entrenados para responder de diversas maneras que sus creadores consideran más útiles. Esto se suele hacer mediante el «aprendizaje por refuerzo».
 
-En un entorno de aprendizaje por refuerzo, las actualizaciones aplicadas a un modelo de IA mediante descenso de gradiente se basan en qué tan bien tiene éxito (o qué tan mal fracasa) en una tarea determinada. Una vez que las salidas de un modelo de IA se moldean mediante este tipo de entrenamiento, ya no son predicciones puras, sino que también tienen una cualidad de dirección.
+En un entorno de aprendizaje por refuerzo, las actualizaciones aplicadas a un modelo de IA mediante descenso de gradiente se basan en qué tan bien tiene éxito (o qué tan mal fracasa) en una tarea determinada. Una vez que los datos de salida de un modelo de IA se moldean mediante este tipo de entrenamiento, ya no son predicciones puras, sino que también tienen una cualidad de dirección.
 
-ChatGPT podría ser capaz de predecir que el final más probable de un chiste obsceno es una palabrota, pero incluso cuando se le coloca en un contexto en el que ha comenzado a contar el chiste, a menudo dirigirá el final del chiste hacia un remate diferente para evitar generar esa palabra, porque previamente ha sido entrenado para no decir palabrotas. Esto es lo que da lugar a ejemplos interesantes de comportamiento similar al deseo en casos como los discutidos en el Capítulo 3.
+ChatGPT podría ser capaz de predecir que el final más probable de un chiste obsceno es una palabrota, pero incluso cuando se le coloca en un contexto en el que ha comenzado a contar el chiste, a menudo dirigirá el final del chiste hacia un remate diferente para evitar generar esa palabra, porque previamente ha sido entrenado para no decir palabrotas. Esto es lo que da lugar a ejemplos interesantes de comportamiento similar al deseo en casos como los que se discuten en el capítulo 3.
 
-Incluso si las IA no estuvieran entrenadas para completar tareas, es probable que entrenarlas para la predicción pura acabara induciéndolas a dirigir. Para predecir el complicado mundo real y los complicados seres humanos que viven allí, una IA probablemente necesitaría muchas partes internas que hicieran dirección, de modo que pudiera dirigir su propia atención hacia las partes más relevantes de los problemas de predicción. Y a menudo ocurre que la mejor manera de predecir exitosamente las cosas es dirigir el mundo en una dirección que cumpla esas predicciones, como cuando un científico descubre cómo diseñar y ejecutar un nuevo experimento.
+Incluso si las IA no estuvieran entrenadas para completar tareas, es probable que entrenarlas para la predicción pura acabara induciéndolas a dirigir. Para predecir el complicado mundo real y los complicados seres humanos que viven allí, una IA probablemente necesitaría muchas partes internas que pudieran dirigir, de modo que pudiera dirigir su propia atención hacia las partes más relevantes de los problemas de predicción. Y a menudo ocurre que la mejor manera de predecir exitosamente las cosas es dirigir el mundo en una dirección que cumpla esas predicciones, como cuando un científico descubre cómo diseñar y ejecutar un nuevo experimento.
 
-Finalmente, es poco probable que una IA entrenada para ser muy buena en la predicción se preocupe únicamente por la predicción. Por razones que discutiremos en el Capítulo 4, es probable que termine con todo tipo de objetivos extraños e incomprensibles. Pero eso es un punto discutible de cualquier manera; las IA modernas están entrenadas no solo para hacer predicciones, sino para completar tareas.
+Finalmente, es poco probable que una IA entrenada para ser muy buena en la predicción se preocupe únicamente por la predicción. Por razones que discutiremos en el capítulo 4, es probable que termine con todo tipo de objetivos extraños e incomprensibles. Pero eso es un punto discutible de cualquier manera; las IA modernas están entrenadas no solo para hacer predicciones, sino para completar tareas.
 
 ### ¿Acaso las IA solo son capaces de repetir como loros lo que dicen los humanos? {#¿acaso-las-ia-solo-son-capaces-de-repetir-como-loros-lo-que-dicen-los-humanos?}
 
@@ -1308,35 +1308,35 @@ Finalmente, es poco probable que una IA entrenada para ser muy buena en la predi
 
 Supongamos que un médico está redactando un informe sobre lo que le ha sucedido a un paciente. Una parte del informe médico dice lo siguiente:
 
-> Al tercer día de ingreso, el paciente desarrolló confusión aguda y temblores. Se detectaron niveles de amoníaco sérico...
+> Al tercer día de ingreso, el paciente presentó confusión aguda y temblores. Se detectaron niveles de amonio sérico…
 
-Imaginemos una IA entrenada con estos datos a la que se le pide que prediga la siguiente palabra, siendo dos candidatos plausibles «elevado» o «normal». No se trata solo de predecir el tipo de palabras que usan los humanos; se trata de predecir lo que ocurrió en el mundo de la realidad médica, la biología y los acontecimientos dentro del paciente. ¿Cuánto amoníaco había que medir en la vida real?
+Imaginemos una IA entrenada con estos datos a la que se le pide que prediga la siguiente palabra, siendo dos candidatos plausibles «elevados» o «normales». No se trata solo de predecir el tipo de palabras que usan los humanos; se trata de predecir lo que ocurrió en el mundo de la realidad médica, la biología y los acontecimientos dentro del paciente. ¿Cuánto amonio había por medir en la vida real?
 
-La IA que predice la siguiente palabra tiene aquí una tarea más difícil que la persona que redactó el informe. La persona que redactó el informe solo está escribiendo lo que se observó realmente. La IA que predice el informe tiene que adivinarlo de antemano.
+La IA que predice la siguiente palabra tiene aquí una tarea más difícil que la persona que redactó el informe. La persona que redactó el informe solo estaba escribiendo lo que de hecho observó. La IA que predice el informe tiene que adivinarlo de antemano.
 
-La IA asigna una probabilidad del 70 % a «elevado», del 20 % a «normal» y del 10 % a otras palabras.
+La IA asigna una probabilidad del 70 % a «elevados», del 20 % a «normales» y del 10 % a otras palabras.
 
-La siguiente palabra real del informe es «normal».
+La siguiente palabra del informe es «normales».
 
-Todo lo que hay dentro de la IA que pensaba que iba a ser «elevado» pierde un poco de fuerza, dentro de la comprensión de la medicina por parte de la IA. Todos los parámetros se ajustan mínimamente en la dirección de hacer que la comprensión médica que predijo «normal» sea más dominante.
+Todo lo que hay dentro de la IA que pensaba que iba a ser «elevados» pierde un poco de fuerza, dentro de la comprensión de la medicina por parte de la IA. Todos los parámetros se ajustan mínimamente para hacer que la comprensión médica que predijo «normales» sea más dominante.
 
-Hasta que, tras un entrenamiento suficiente, la IA realiza [ciertos diagnósticos médicos](https://pubmed.ncbi.nlm.nih.gov/38976865/) mejor que la mayoría de los médicos.
+Hasta que, tras un entrenamiento suficiente, la IA realiza [algunos diagnósticos médicos](https://pubmed.ncbi.nlm.nih.gov/38976865/) mejor que la mayoría de los médicos.
 
 La IA no está siendo entrenada para *escribir tonterías que suenen como un informe médico típico*. Está siendo entrenada para *predecir la siguiente palabra exacta en todos los informes médicos particulares que ve*.
 
 Quizás si empezáramos con un modelo muy pequeño con muy pocos parámetros, solo podría aprender a escribir tonterías con tintes médicos, pero con modelos más grandes, eso no parece ser lo que está ocurriendo en los *benchmarks* que comparan médicos humanos con IA.
 
-Cuando alguien te pasa el brazo por los hombros y te dice con tono de gran sabiduría que una IA no es más que «un loro estocástico», es posible que esté imaginando los divertidos programas informáticos antiguos que extendían frases basándose en la frecuencia de grupos de palabras («n-gramas»): «En ocasiones anteriores en las que hemos visto aparecer estas dos palabras en el corpus, ¿cuál ha sido normalmente la siguiente palabra?».
+Cuando alguien se te acreca y te dice con tono de gran sabiduría que una IA no es más que «un loro estocástico», es posible que esté imaginando los divertidos programas informáticos antiguos que ampliaban frases basándose en la frecuencia de grupos de palabras («n-gramas»): «En ocasiones anteriores en las que hemos visto aparecer estas dos palabras en el corpus, ¿cuál ha sido normalmente la siguiente palabra?».
 
 Los sistemas que adivinan la siguiente palabra basándose en las dos o tres últimas son triviales y existían mucho antes que los LLM. No desafían a los humanos en la capacidad de predecir casos médicos. No *suenan* como personas hablándote. Si se pudieran obtener [miles de millones de dólares](https://www.reuters.com/business/openai-hits-12-billion-annualized-revenue-information-reports-2025-07-31/) en ingresos simplemente haciendo lo del loro probabilístico, la gente lo habría hecho mucho antes.
 
 Si los miles de millones de cálculos dentro de un LLM real no estuvieran haciendo ningún trabajo pesado, si el sistema solo escupiera una suposición superficial basada en las características superficiales de las palabras anteriores, entonces sonaría como los sistemas pasados que realmente escupían suposiciones superficiales. Por ejemplo, entrenado con Jane Austen, un sistema de n-gramas [produce](https://web.stanford.edu/~jurafsky/slp3/3.pdf):
 
-> «¡Eres encantador en todos los sentidos!», exclamó él con una sonrisa de complicidad, y de vez en cuando yo hacía una reverencia y ellos veían una calesa y cuatro caballos que desear.
+> «¡Eres encantadora en todos los sentidos!», exclamó él con una sonrisa de complicidad, y de vez en cuando yo hacía una reverencia y ellos veían una calesa y cuatro caballos que desear.
 
-Un LLM, al que se le pide que produzca una frase al estilo de Jane Austen, resulta dramáticamente más convincente; si no nos crees, [prueba](https://claude.ai/new) [preguntando](https://gemini.google.com/app) [a uno](https://chatgpt.com/).
+Un LLM, al que se le pide que produzca una frase al estilo de Jane Austen, resulta muchísimo más convincente; si no nos crees, [prueba](https://claude.ai/new) [preguntando](https://gemini.google.com/app) [a uno](https://chatgpt.com/).
 
-Además, aunque no podemos saber mucho sobre lo que ocurre dentro de la mente de una IA, la empresa de IA Anthropic [publicó una investigación](https://www.anthropic.com/research/tracing-thoughts-language-model#does-claude-plan-its-rhymes) afirmando que su IA (Claude) planificaba más de una palabra por adelantado. Es decir, Claude estaba considerando qué frases y significados posteriores podrían ser plausibles, con el fin de adivinar qué siguientes letras podrían verse.
+Además, aunque no podemos saber *mucho* sobre lo que ocurre dentro de la mente de una IA, la empresa de IA Anthropic [publicó una investigación](https://www.anthropic.com/research/tracing-thoughts-language-model#does-claude-plan-its-rhymes) afirmando que su IA (Claude) planificaba más de una palabra por adelantado. Es decir, Claude estaba considerando qué frases y significados posteriores podrían ser plausibles, con el fin de adivinar qué letras podrían aparecer.
 
 #### **\* Las IA ya pueden superar sus datos de entrenamiento o prescindir de los datos humanos.** {#*-las-ia-ya-pueden-superar-sus-datos-de-entrenamiento-o-prescindir-de-los-datos-humanos.}
 
@@ -1344,35 +1344,35 @@ En 2016, una IA llamada AlphaGo, creada por Google DeepMind, venció al campeón
 
 El hecho de que fuera capaz de vencer a los humanos sugiere que fue capaz de aprender estrategias generales a partir de su entrenamiento, y que logró modelar patrones profundos en sus datos de entrenamiento, incluidos (quizás) patrones profundos que los humanos aún no habían detectado. El descenso de gradiente refuerza todo lo que funciona, independientemente de su procedencia.
 
-Pero el dominio de AlphaGo técnicamente solo era *sugestivo* del hecho de que las IA pueden superar con creces sus datos de entrenamiento. La gente aún podría objetar que tal vez AlphaGo solo estaba copiando a los humanos y logrando ganar al ser más *consistente en aplicar* habilidades de nivel humano, en lugar de utilizar nuevos patrones que los humanos encontrarían novedosos o reveladores.
+Pero el dominio de AlphaGo técnicamente solo *sugería* el hecho de que las IA pueden superar con creces sus datos de entrenamiento. La gente aún podría objetar que tal vez AlphaGo solo estaba copiando a los humanos y logrando ganar al ser más *coherente en aplicar* habilidades de nivel humano, en lugar de utilizar nuevos patrones que los humanos encontrarían novedosos o reveladores.
 
 Esto no encajaría muy bien con el caso del ajedrez computacional (donde los maestros de ajedrez humanos aprenden muchas estrategias y conocimientos de los motores de ajedrez computacionales que los superan ampliamente). Pero tras AlphaGo, hubo personas que argumentaron que la IA solo venció a Lee Sedol porque se entrenó con grandes cantidades de datos humanos.[^46]
 
-Al parecer, la gente de DeepMind también vio esas objeciones. Durante el año y medio siguiente, crearon una IA llamada AlphaGo Zero, lanzada en 2017. No se entrenó con ningún dato humano en absoluto. Aprendió el juego completamente mediante autocompetición. Superó a los mejores jugadores humanos después de solo tres días.[^47]
+Al parecer, la gente de DeepMind también vio esas objeciones. Durante el año y medio siguiente, crearon una IA llamada AlphaGo Zero, lanzada en 2017. No se entrenó con ningún dato humano en absoluto. Aprendió jugando contra sí misma. Superó a los mejores jugadores humanos después de solo tres días.[^47]
 
-Aún se podría objetar que el Go es bastante más sencillo que el mundo real, y que es mucho más fácil descifrar el Go desde cero que descifrar (por ejemplo) ciencia, física e ingeniería desde cero. ¡Y eso es cierto! Pero tampoco es exactamente lo que decían los detractores *antes* de que las computadoras se volvieran buenas jugando Go.
+Aún se podría objetar que el Go es bastante más sencillo que el mundo real, y que es mucho más fácil descifrar el Go desde cero que descifrar (por ejemplo) la ciencia, la física y la ingeniería desde cero. ¡Y eso es cierto! Pero tampoco es exactamente lo que decían los detractores *antes* de que las computadoras se volvieran buenas jugando Go.
 
-Allá por 1997 —diecinueve años antes de que ganara AlphaGo— la gente predecía que tardarían [cien años](https://www.nytimes.com/1997/07/29/science/to-test-a-powerful-computer-play-an-ancient-game.html) para que las computadoras jugaran Go a nivel sobrehumano. Así que al menos sabemos que muchas personas tienen intuiciones erróneas sobre este tipo de cosas.
+Allá por 1997 —diecinueve años antes de que ganara AlphaGo— la gente predecía que transcurrirían [cien años](https://www.nytimes.com/1997/07/29/science/to-test-a-powerful-computer-play-an-ancient-game.html) para que las computadoras jugaran Go a nivel superhumano. Así que al menos sabemos que muchas personas tienen intuiciones erróneas sobre este tipo de cosas.
 
-El mundo real es un entorno más complicado que el Go. Los patrones cognitivos que subyacen a la ingeniería, la física, la fabricación, la logística, etc., son más complejos que los patrones cognitivos que subyacen al juego hábil de Go. Pero no hay base teórica alguna para la idea de que, una vez que las IA puedan aprender esos patrones, estarán limitadas a las variantes humanas. El descenso de gradiente reforzará las partes de la IA que encuentren patrones cognitivos que *funcionen realmente bien*, independientemente de su procedencia.
+El mundo real es un entorno más complicado que el Go. Los patrones cognitivos que subyacen a la ingeniería, la física, la fabricación, la logística, etc. son más complejos que los patrones cognitivos que subyacen al juego hábil de Go. Pero no hay base teórica alguna para la idea de que, una vez que las IA puedan aprender esos patrones, estarán limitadas a las variantes humanas. El descenso de gradiente reforzará las partes de la IA que encuentren patrones cognitivos que *funcionen realmente bien*, independientemente de su procedencia.
 
 Nada de esto es un argumento de que los LLM en particular aprenderán esos patrones hasta el punto de poder automatizar el progreso científico y tecnológico. No sabemos si pueden o no pueden. El punto es que «solo» entrenarlos con texto humano no es ningún tipo de limitación fundamental. Sí se entrenan únicamente con datos humanos, pero no dejes que eso te ciegue a las chispas de generalidad y los indicios de razonamiento profundo enterrados en la pila gigantesca de «instintos» superficiales.
 
-Tendremos más que decir, en el Capítulo 3, sobre cómo una IA podría generalizar desde un conjunto limitado de ejemplos hacia una capacidad más general.
+Tendremos más que decir, en el capítulo 3, sobre cómo una IA podría generalizar desde un conjunto limitado de ejemplos hacia una capacidad más general.
 
-### ¿No serán las IA inevitablemente frías y lógicas, o les faltará alguna chispa crucial? {#¿no-serán-las-ia-inevitablemente-frías-y-lógicas-o-les-faltará-alguna-chispa-crucial?}
+### ¿No serán las IA inevitablemente frías, mecánicas y lógicas, o les faltará alguna chispa crucial? {#¿no-serán-las-ia-inevitablemente-frías, mecánicas-y-lógicas,-o-les-faltará-alguna-chispa-crucial?}
 
 #### **\* No.** {#*-no.-1}
 
-Simplemente porque las IA funcionen en computadoras no significa que su forma de pensar deba compartir las cualidades que asociamos con las computadoras, del mismo modo que tu forma de pensar no tiene por qué compartir las cualidades asociadas con la biología, la química y los neurotransmisores.
+El hecho de que las IA funcionen en computadoras no significa que su forma de pensar deba compartir las cualidades que asociamos con las computadoras, del mismo modo que tu forma de pensar no tiene por qué compartir las cualidades asociadas con la biología, la química y los neurotransmisores.
 
-Cuando los humanos no entendían la bioquímica, atribuían la vitalidad de la vida a una «esencia vital» irreplicable. Pero la realidad no está hecha de materia mundana animada a veces por una fuerza vital mágica. La vida está hecha de partes mundanas.
+Cuando los humanos no entendían la bioquímica, atribuían la vitalidad de la vida a una «esencia vital» irreplicable. Pero la realidad no está hecha de materia mundana que en ocasiones es animada por una fuerza vital mágica. La vida está hecha de partes mundanas.
 
-No pretendemos, sin embargo, degradar la inteligencia cuando decimos que está compuesta por partes mundanas y que las máquinas podrían hacer el mismo trabajo. Véase nuestro discusión extensa sobre el [vitalismo](#special-behavior-is-built-out-of-mundane-parts).
+No pretendemos, sin embargo, degradar la inteligencia cuando decimos que está compuesta por partes mundanas y que las máquinas podrían hacer el mismo trabajo. Consulta nuestro debate ampliado sobre el [vitalismo](#el-comportamiento-especial-se-construye-a-partir-de-partes-mundanas).
 
 La heurística «las máquinas no pueden competir con los humanos» era errónea cuando Kasparov predijo que una máquina que careciera de la creatividad humana nunca podría vencerlo al ajedrez; era errónea cuando la gente pensaba que las IA nunca podrían dibujar imágenes bonitas; era errónea cuando la gente pensaba que las IA nunca podrían mantener una conversación. El cerebro humano es una prueba de que la materia física realmente puede implementar formas superiores de inteligencia, suficientes para dirigir una civilización tecnológica; y es muy improbable que el cerebro humano sea la única forma de hacer ese trabajo.
 
-Ampliaremos este punto en uno de los suplementos en línea del capítulo 3: [Antropomorfismo y mecanomorfismo](#anthropomorphism-and-mechanomorphism).
+Ampliaremos este punto en uno de los suplementos en línea del capítulo 3: [Antropomorfismo y mecanomorfismo](#antropomorfismo-y-mecanomorfismo).
 
 #### **Las IA son entidades nuevas, interesantes y extrañas.** {#las-ia-son-entidades-nuevas,-interesantes-y-extrañas.}
 
@@ -1380,7 +1380,7 @@ Los aviones vuelan, pero no baten las alas. Los brazos robóticos funcionan sin 
 
 Cuando no entendemos bien el vuelo o el juego, a veces imaginamos que el enfoque utilizado por la biología es el único enfoque posible que puede funcionar. Una vez que entendemos un campo un poco mejor, esto resulta ser muy erróneo.
 
-El trabajo de manejar un tablero de ajedrez lo hizo DeepBlue de forma muy diferente a como lo hizo Kasparov, y el trabajo de dirigir el mundo en general seguirá casi con toda seguridad un patrón similar. Como se comentó en el capítulo 2, parece que la IA ya está realizando su trabajo de una forma muy diferente a como lo harían los humanos, aunque esto puede ser un poco más difícil de ver cuando utiliza su inteligencia para imitar a los humanos. En el capítulo 4, exploraremos cómo es probable que estas diferencias conduzcan a situaciones extrañas, con graves consecuencias.
+El trabajo de dirigir un tablero de ajedrez lo hizo DeepBlue de forma muy diferente a como lo hizo Kasparov, y el trabajo de dirigir el mundo en general seguirá casi con toda seguridad un patrón similar. Como se explica en el capítulo 2, parece que la IA ya está haciendo su trabajo de una forma muy diferente a como lo harían los humanos, aunque esto puede ser un poco más difícil de ver cuando utiliza su inteligencia para imitar a los humanos. En el capítulo 4 exploraremos las maneras en que estas diferencias podrían llevarnos a situaciones extrañas, con graves consecuencias.
 
 ### ¿No serán los LLM como los humanos en los datos con los que se entrenan? {#¿no-serán-los-llm-como-los-humanos-en-los-datos-con-los-que-se-entrenan?}
 
@@ -1388,69 +1388,69 @@ El trabajo de manejar un tablero de ajedrez lo hizo DeepBlue de forma muy difere
 
 (Lo que sigue es una versión resumida de una discusión más técnica que se puede encontrar más abajo en «[Finge hasta que lo consigas](#«finge-hasta-que-lo-consigas»)».)
 
-Las IA como ChatGPT están entrenadas para predecir con precisión sus datos de entrenamiento. Y sus datos de entrenamiento se componen principalmente de texto humano, como páginas de Wikipedia y conversaciones en salas de chat. (Esta parte del proceso de entrenamiento se denomina «preentrenamiento», que es lo que significa la «P» de «GPT»). Los primeros LLM, como GPT-2, se entrenaron *exclusivamente* para la predicción de esta manera, mientras que las IA más recientes también se entrenan en aspectos como la precisión a la hora de resolver problemas matemáticos (generados por computadora) y dar buenas respuestas según otro modelo de IA, entre otros objetivos.
+Las IA como ChatGPT están entrenadas para predecir con precisión sus datos de entrenamiento. Y sus datos de entrenamiento se componen principalmente de texto humano, como páginas de Wikipedia y conversaciones en salas de chat. (Esta parte del proceso de entrenamiento se denomina «preentrenamiento», que es lo que significa la «P» de «GPT»). Los primeros LLM, como GPT-2, se entrenaron *exclusivamente* para predecir de esta manera, mientras que las IA más recientes también se entrenan en aspectos como la precisión a la hora de resolver problemas matemáticos (generados por computadora) y dar buenas respuestas según otro modelo de IA, entre otros objetivos.
 
 Pero consideremos una IA entrenada solo para predecir texto generado por humanos. ¿Debe volverse similar a los humanos?
 
-Supongamos que tomas a una excelente actriz[^48] y le enseñas a predecir el comportamiento de todos los borrachos de un bar. No «aprender a interpretar a un borracho estereotípico medio», sino «aprender a conocer a todos los borrachos de este bar como *individuos*». Los LLM no están entrenados para *imitar promedios*, sino para *predecir las próximas palabras individuales* utilizando todo el contexto de las palabras anteriores.
+Supongamos que tomas a una excelente actriz[^48] y le enseñas a predecir el comportamiento de todos los borrachos de un bar. No «aprender a interpretar a un borracho estereotípico promedio», sino «aprender a conocer a todos los borrachos de este bar como *individuos*». Los LLM no están entrenados para *imitar promedios*, sino para *predecir las próximas palabras individuales* utilizando todo el contexto de las palabras anteriores.
 
-Sería absurdo esperar que esta actriz *se volviera perpetuamente borracha* en el proceso de aprender a predecir lo que dirá cada persona borracha. Podría desarrollar partes de su cerebro que sean muy buenas para actuar como borracha, pero no se volvería borracha *ella misma*.
+Sería absurdo esperar que esta actriz *se volviera perpetuamente borracha* en el proceso de aprender a predecir lo que dirá cada persona borracha. Podría desarrollar partes de su cerebro que sean muy buenas para actuar como borracha, pero no se convertiría en una borracha.
 
-Incluso si más tarde le pidieras a la actriz que predijera lo que haría un borracho concreto en el bar y que luego se comportara externamente de acuerdo con su propia predicción, seguirías sin esperar que la actriz se sintiera borracha por dentro.
+Incluso si más tarde le pidieras a la actriz que predijera lo que haría un borracho concreto en el bar y que luego se comportara de acuerdo con su propia predicción, seguirías sin esperar que la actriz se sintiera borracha por dentro.
 
 ¿Cambiaría algo si estuviéramos constantemente modificando el cerebro de la actriz para hacer predicciones *aún mejores* sobre personas borrachas? Probablemente no. Si *realmente* terminara borracha, sus pensamientos terminarían siendo confusos, lo que interferiría con el arduo trabajo de una actriz. Podría confundirse sobre si estaba prediciendo a una Alice borracha o a una Carol borracha. Sus predicciones empeorarían y nuestro hipotético modificador de cerebros aprendería a no modificar su cerebro de esa manera.
 
 O, dicho de otra manera: un humano que se vuelve excelente imitando a los pájaros y entendiendo su psicología no se convierte por ello en un pájaro con cuerpo humano, ni siquiera se vuelve especialmente parecido a un pájaro en su vida cotidiana.
 
-Del mismo modo, entrenar a un LLM para que haga predicciones excelentes sobre la siguiente palabra que escriban muchas personas diferentes sobre sus experiencias psicodélicas pasadas no debería entrenar al LLM en sí mismo para que sea como un humano bajo los efectos de drogas. Si las cogniciones internas reales del LLM se distorsionaran de una manera que recordara a «estar drogado», esto interferiría con el arduo trabajo del LLM de predecir la siguiente palabra; podría confundirse y pensar que un hablante de inglés iba a continuar en chino.
+Del mismo modo, entrenar a un LLM para que haga predicciones excelentes sobre la siguiente palabra que escriban muchas personas diferentes sobre sus experiencias psicodélicas pasadas no debería entrenar al LLM para que sea como un humano bajo los efectos de las drogas. Si las cogniciones internas reales del LLM se distorsionaran de una manera similar a «estar drogado», esto interferiría con el arduo trabajo del LLM de predecir la siguiente palabra; podría confundirse y pensar que un hablante de inglés iba a continuar en chino.
 
-No estamos diciendo que «ninguna máquina pueda tener nunca algo parecido al estado mental que tiene un humano». Lo que decimos es que no se debe esperar por defecto que la tecnología actual de AA cree motores de predicción de ebrios que funcionen emborrachándose ellos mismos.
+No estamos diciendo que «ninguna máquina pueda tener nunca algo parecido al estado mental que tiene un humano». Lo que decimos es que no se debe esperar por defecto que la tecnología actual de aprendizaje automático cree motores de predicción de ebrios que funcionen emborrachándose ellos mismos.
 
-El trabajo de averiguar cómo predecir todo tipo de humanos diferentes es diferente del trabajo de ser un humano. Lo que significa que no se debe esperar que las IA construidas con métodos similares a los actuales se parezcan mucho a un humano, en el proceso de aprender a actuar como cualquiera de nosotros según la solicitud.
+El trabajo de averiguar cómo predecir todo tipo de humanos diferentes es distinto al trabajo de ser un humano. Esto significa que no se debe esperar que las IA construidas con métodos similares a los actuales se parezcan mucho a un humano, en el proceso de aprender a actuar como cualquiera de nosotros según la solicitud.
 
 #### **La arquitectura de los LLM es muy diferente a la de los humanos.** {#la-arquitectura-de-los-llm-es-muy-diferente-a-la-de-los-humanos.}
 
-Consulta el capítulo 2 para obtener una breve discusión de por qué los LLM parecen bastante extraños.
+Consulta el capítulo 2 para una breve discusión de por qué los LLM parecen bastante extraños.
 
-En el capítulo 4, profundizaremos en cómo las IA terminan teniendo preferencias y objetivos muy extraños, un fenómeno que ya hemos comenzado a observar en la vida real, con más ejemplos que se acumulan incluso después de la publicación del libro. Consulta el capítulo 4 [suplemento](#aren’t-developers-regularly-making-their-ais-nice-and-safe-and-obedient?) para ver algunos ejemplos.
+En el capítulo 4, profundizaremos en cómo las IA terminan teniendo preferencias y objetivos muy extraños, un fenómeno que ya hemos comenzado a observar en la vida real, con más ejemplos que se acumulan incluso después de la publicación del libro. Consulta el [suplemento](#¿no-hacen-los-desarrolladores-regularmente-que-sus-ia-sean-agradables,-seguras-y-obedientes?) del capítulo 4 para ver algunos ejemplos.
 
 ### ¿Cómo podría una IA entrenada únicamente con datos humanos superar a los humanos? {#¿cómo-podría-una-ia-entrenada-únicamente-con-datos-humanos-superar-a-los-humanos?}
 
 #### **\* Quizás aprendiendo habilidades generales e implementándolas mejor.** {#*-quizás-aprendiendo-habilidades-generales-e-implementándolas-mejor.}
 
-Deep Blue era capaz de jugar al ajedrez mucho mejor que cualquiera de sus programadores de IBM. ¿Cómo era posible que la gente construyera una máquina que fuera más inteligente que ellos en el dominio del ajedrez? Creando una IA que hiciera algunos de los mismos tipos de cosas que ellos intentaban hacer en las partidas de ajedrez (como considerar múltiples formas posibles en que podía desarrollarse la partida), pero de manera mucho más rápida y precisa.
+Deep Blue era capaz de jugar al ajedrez mucho mejor que cualquiera de sus programadores en IBM. ¿Cómo era posible que la gente construyera una máquina que fuera más inteligente que ellos en el dominio del ajedrez? Creando una IA que hiciera algunos de los mismos tipos de cosas que ellos intentaban hacer en las partidas de ajedrez (como considerar múltiples formas posibles en que podía desarrollarse la partida), pero de manera mucho más rápida y precisa.
 
-Del mismo modo, una IA podría aprender a hacerlo mejor que los humanos en todo tipo de otras habilidades. Podría aprender patrones de pensamiento que contribuyen a las habilidades de razonamiento general, y luego realizar esas habilidades generales más rápido y con una menor tasa de error.
+Del mismo modo, una IA podría aprender a ser mejor que los humanos en todo tipo de habilidades. Podría aprender patrones de pensamiento que contribuyen a las habilidades de razonamiento general, y luego llevar a cabo esas habilidades generales más rápido y con una menor tasa de error.
 
-También podría cometer menos «pasos en falso» mentales del tipo que los humanos son propensos a cometer. Esto podría deberse a que esos pasos en falso se eliminaron de la IA en algún momento, o a que la maquinaria subyacente de la IA que predice los pasos en falso «humanos» nunca fue propensa a cometer los mismos pasos en falso. O tal vez a la IA se le concedió finalmente el poder de automodificarse y eliminó su propensión a los pasos en falso; o tal vez se le encomendó finalmente la tarea de diseñar una IA más inteligente y diseñó una que cometía menos pasos en falso; o su entrenamiento le enseñó a cometer menos errores de alguna otra manera.
+También podría cometer menos «pasos en falso» mentales del tipo que los humanos son propensos a cometer. Esto podría deberse a que esos pasos en falso se eliminaron de la IA en algún momento, o a que la maquinaria subyacente de la IA que predice los pasos en falso «humanos» nunca fue propensa a cometerlos. O tal vez a la IA se le concedió finalmente el poder de automodificarse y eliminó su propensión a los pasos en falso; o tal vez se le encomendó finalmente la tarea de diseñar una IA más inteligente y diseñó una que cometía menos pasos en falso; o su entrenamiento le enseñó a cometer menos errores de alguna otra manera.
 
-La capacidad de tener percepciones totalmente novedosas no proviene de una profunda chispa atómica, sino que se construye a partir de partes mundanas, como [todas las cosas profundas](#special-behavior-is-built-out-of-mundane-parts). En principio, un estudiante puede observar a su profesor y aprender todo tipo de cosas que hace, y luego tener una chispa de inspiración y ser capaz de hacer esas cosas más rápido o mejor. O un estudiante podría reutilizar diferentes técnicas que aprendió de un profesor para encontrar una forma totalmente novedosa de generar sus propias percepciones.
+La capacidad de tener ideas totalmente novedosas no proviene de una profunda chispa atómica, sino que se construye a partir de partes mundanas, como [todas las cosas profundas](##el-comportamiento-especial-se-construye-a-partir-de-partes-mundanas). En principio, un estudiante puede observar a su profesor y aprender todo lo que hace, y luego tener una chispa de inspiración y ser capaz de hacer esas cosas más rápido o mejor. O un estudiante podría reutilizar diferentes técnicas que aprendió de un profesor para encontrar una forma totalmente novedosa de generar sus propias ideas.
 
-Hemos tenido la suerte de contar con evidencia observacional directa de ambos puntos, en el caso de AlphaGo, que hemos comentado [anteriormente](#*-ais-can-already-surpass-their-training-data,-or-forego-human-data.). AlphaGo fue entrenado exhaustivamente con datos humanos, pero fue capaz de jugar al Go mejor que los mejores humanos. (Y AlphaGo Zero, que aprendió solo a partir del juego propio (y sin datos humanos), llegó aún más lejos).
+Hemos tenido la suerte de contar con evidencia observacional directa de ambos puntos, en el caso de AlphaGo, que hemos comentado [anteriormente](#*-las-ia-ya-pueden-superar-sus-datos-de-entrenamiento-o-prescindir-de-los-datos-humanos.). AlphaGo fue entrenado exhaustivamente con datos humanos, pero fue capaz de jugar al Go mejor que los mejores humanos. (Y AlphaGo Zero, que aprendió jugando contra sí mismo (y sin datos humanos), llegó aún más lejos).
 
-Esto no nos parece un mundo en el que los datos humanos sean la limitación clave (como hemos [argumentado en otra parte](https://intelligence.org/2017/10/20/alphago/)), en comparación con las limitaciones reales, que son cosas como la arquitectura de la IA o la cantidad de computación que es capaz de utilizar antes de jugar.
+Esto no nos parece un mundo en el que los datos humanos sean la limitación clave (como hemos [argumentado en otra parte](https://intelligence.org/2017/10/20/alphago/)), en comparación con las limitaciones reales, que son cosas como la arquitectura de la IA o la cantidad de cómputo que es capaz de utilizar antes de jugar.
 
-Los estudiantes pueden superar a sus maestros.[^49]
+El alumno puede superar al maestro.[^49]
 
 #### **Quizás por cualquier otro método que funcione. El éxito a menudo requiere tales habilidades, por lo que el descenso de gradiente las encontrará.** {#quizás-por-cualquier-otro-método-que-funcione.-el-éxito-a-menudo-requiere-tales-habilidades,-por-lo-que-el-descenso-de-gradiente-las-encontrará.}
 
-Predecir las palabras humanas requiere comprender el mundo, como ya comentamos en [«¿No son las IA capaces solo de repetir como loros lo que dicen los humanos?»](#aren't-ais-only-able-to-parrot-back-what-humans-say?).
+Predecir las palabras humanas requiere comprender el mundo, como ya comentamos en [«¿Acaso las IA solo son capaces de repetir como loros lo que dicen los humanos?»](#¿acaso-las-ia-solo-son-capaces-de-repetir-como-loros-lo-que-dicen-los-humanos?).
 
 Por poner un ejemplo ilustrativo: a finales del siglo XVI, el astrónomo Tycho Brahe recopiló minuciosamente observaciones de las posiciones planetarias en el cielo nocturno. Sus datos fueron fundamentales para el trabajo de Johannes Kepler, quien descubrió el patrón elíptico del movimiento planetario, lo que inspiró la teoría de la gravitación de Newton. Pero el propio Brahe nunca descubrió las leyes que rigen los planetas.
 
-Imaginemos una IA entrenada únicamente con textos producidos hasta el año 1601, que nunca hubiera oído hablar de Brahe, pero que tuviera que predecir cada punto de datos que Brahe anotó en su diario. Brahe seguía registrando la posición de Marte cada noche, por lo que la IA funcionaría mejor cuanto más precisa fuera su predicción de la ubicación de Marte. El descenso de gradiente reforzaría cualquier parte dentro de la IA que fuera capaz de averiguar exactamente cuándo Marte parecería dar la vuelta (desde la perspectiva de Brahe) y atravesar el cielo hacia atrás.
+Imaginemos una IA entrenada únicamente con textos producidos hasta el año 1601, que nunca hubiera oído hablar de Brahe, pero que tuviera que predecir cada punto de datos que Brahe anotó en su diario. Brahe seguía registrando la posición de Marte cada noche, por lo que la IA funcionaría mejor cuanto más precisa fuera su predicción de la ubicación de Marte. El descenso de gradiente reforzaría cualquier parte dentro de la IA que fuera capaz de averiguar exactamente el momento en que Marte parecería dar la vuelta (desde la perspectiva de Brahe) y desplazarse hacia atrás en el cielo.
 
-No importa que Brahe nunca lograra descubrir esa ley de la naturaleza. El simple objetivo de entrenamiento «predecir qué posición de Marte anotará Brahe a continuación» es el tipo de objetivo de entrenamiento que reforzaría cualquier parte de la IA que fuera lo suficientemente inteligente como para descubrir cómo se mueven los planetas.
+No importa que Brahe nunca lograra descubrir esa ley de la naturaleza. El simple objetivo del entrenamiento «predecir qué posición de Marte anotará Brahe a continuación» es el tipo de objetivo de entrenamiento que reforzaría cualquier parte de la IA que fuera lo suficientemente inteligente como para descubrir cómo se mueven los planetas.
 
-Si continuáramos entrenando y entrenando y entrenando esa IA hasta que predijera cada vez mejor lo que Brahe anotaría a finales del siglo XVI, esa IA tendría toda la razón del mundo para desarrollar conocimientos científicos que Brahe nunca pudo alcanzar. Una IA será *mejor en su tarea de predecir a los humanos* si se vuelve más inteligente que los humanos que está prediciendo, porque a veces los humanos anotan registros de fenómenos que ellos mismos no pueden predecir perfectamente.
+Si siguieras entrenando y entrenando y entrenando esa IA hasta que predijera cada vez mejor lo que Brahe anotaría a finales del siglo XVI, esa IA podría desarrollar los conocimientos científicos que Brahe nunca pudo. Una IA será *mejor en su tarea de predecir a los humanos* si se vuelve más inteligente que los humanos que está prediciendo, porque a veces los humanos anotan registros de fenómenos que ellos mismos no pueden predecir perfectamente.
 
-Existe una cuestión separada sobre si las arquitecturas, los procesos de entrenamiento y los datos modernos son [*suficientes*](https://x.com/keyonV/status/1943730486280331460) para que las IA superen a sus maestros. Es posible que los LLM modernos aún no hayan llegado a ese punto. Pero no existe ningún impedimento teórico para la idea misma de superar a nuestros maestros. Entrenar a una IA para predecir a los humanos es suficiente para permitirle superarnos, en principio*.*
+Existe una cuestión separada sobre si las arquitecturas, los procesos de entrenamiento y los datos modernos son [*suficientes*](https://x.com/keyonV/status/1943730486280331460) para que las IA superen a sus maestros. Es posible que los LLM modernos aún no hayan llegado a ese punto. Pero no existe ningún impedimento teórico para la posibilidad de superar a nuestros maestros. Entrenar a una IA para predecir a los humanos es suficiente para permitirle superarnos, en principio.
 
-### ¿Qué te hace pensar que las personas pueden construir una IA sobrehumana cuando ni siquiera entienden la inteligencia? {#¿qué-te-hace-pensar-que-las-personas-pueden-construir-una-ia-sobrehumana-cuando-ni-siquiera-entienden-la-inteligencia?}
+### ¿Qué les hace pensar que las personas pueden construir una IA superhumana cuando ni siquiera entienden la inteligencia? {#¿qué-les-hace-pensar-que-las-personas-pueden-construir-una-ia-superhumana-cuando-ni-siquiera-entienden-la-inteligencia?}
 
 #### **\* El progreso pasado en IA no ha requerido mucha comprensión de la inteligencia.** {#*-el-progreso-pasado-en-ia-no-ha-requerido-mucha-comprensión-de-la-inteligencia.}
 
-Como se explica en el Capítulo 2, el campo de la IA ha logrado sus recientes hazañas empleando el descenso de gradiente, un proceso que no requiere que los humanos comprendan la inteligencia. Los humanos hemos llegado bastante lejos sin necesidad de comprender la inteligencia.
+Como se explica en el capítulo 2, el campo de la IA ha logrado sus recientes hazañas empleando el descenso de gradiente, un proceso que no requiere que los humanos comprendan la inteligencia. Los humanos hemos llegado bastante lejos sin necesidad de comprenderla.
 
 #### **La selección natural no necesitaba «comprender» la inteligencia.** {#la-selección-natural-no-necesitaba-«comprender»-la-inteligencia.}
 
@@ -1462,53 +1462,53 @@ La evolución fue perfectamente capaz de producir la inteligencia humana sin que
 
 Los LLM modernos (mientras escribimos esto a mediados de 2025) son propensos a «alucinaciones» donde inventan respuestas a preguntas con un tono que suena confiado. Si les pides que redacten un informe legal, por ejemplo, a veces inventarán casos judiciales falsos como precedentes.
 
-Esto tiene sentido si entendemos cómo se entrenan las IA. Una IA genera palabras muy similares a las que produciría un abogado humano real, y si un abogado humano real redactara un informe legal, incluiría casos judiciales reales. Por ejemplo, un abogado humano real podría escribir algo como:
+Esto tiene sentido si entendemos cómo se entrenan las IA. Una IA genera palabras muy similares a las que produciría un abogado humano real, y si un abogado humano real redactara un informe legal, incluiría casos judiciales reales. Por ejemplo, un buen abogado humano podría escribir algo como:
 
 > Al aplicar la prueba de equilibrio en Graham, el tribunal ha sostenido que existe poco interés gubernamental en arrestar a un sospechoso por un delito menor. Véase *Jones v. Parmley,* 465 F.3d 46 (2.º Cir. 2006\) (el jurado podría considerar razonablemente que dar patadas y puñetazos a manifestantes pacíficos en violación de la ordenanza local constituía uso excesivo de la fuerza); *Thomas v. Roach*, 165 F.3d 137 (2.º Cir. 1999\) (las amenazas verbales son un delito demasiado leve como para crear un fuerte interés gubernamental en el arresto).
 
-Un abogado humano real nunca escribiría simplemente «En realidad no conozco la jurisprudencia relevante, disculpe» en un informe legal. Por lo tanto, cuando una IA intenta sonar como un abogado, en casos donde realmente no conoce los precedentes, lo mejor que puede hacer es inventárselos. Es lo más cerca que puede llegar a la realidad. Los impulsos e instintos dentro de la IA que producen texto de apariencia segura en ese tipo de situaciones se refuerzan regularmente mediante el descenso del gradiente.
+Un abogado humano real nunca escribiría simplemente «En realidad no conozco la jurisprudencia relevante, disculpe» en un informe legal. Por lo tanto, cuando una IA intenta sonar como un abogado, en casos donde realmente no conoce los precedentes, lo mejor que puede hacer es inventárselos. Es lo más cerca que puede llegar a la realidad. Los impulsos e instintos dentro de la IA que producen texto aparentemente confiable en ese tipo de situaciones se refuerzan regularmente mediante el descenso del gradiente.
 
-Este comportamiento alucinatorio persiste incluso si se instruye a la IA para que diga «No lo sé» en casos donde no tiene la información. En esa situación, la IA está haciendo algo similar a representar un abogado que *diría* «No conozco el precedente aquí» *si* no lo conociera. Pero eso es irrelevante, mientras la IA esté (más o menos) representando un abogado que *sí* conoce el precedente, lo que significa que el personaje que interpreta nunca se encuentra con la *oportunidad* de decir «No lo sé». La IA podría generar texto como:
+Este comportamiento alucinatorio persiste incluso si se instruye a la IA para que diga «No lo sé» en casos donde no tiene la información. En esa situación, la IA está haciendo algo similar a representar a un abogado que *diría* «No conozco el precedente» *si* no lo conociera. Pero eso es irrelevante mientras la IA esté (más o menos) representando a un abogado que *sí* conoce el precedente, lo que significa que el personaje que interpreta nunca se encuentra con la *oportunidad* de decir «No lo sé». La IA podría generar texto como:
 
-> Bajo el marco de equilibrio de Graham, los tribunales han reconocido consistentemente que existe un interés gubernamental mínimo en efectuar arrestos por violaciones menores. Véase *Carson v. Haddonfield*, 115 F.3d 64 (8.º Cir. 2005\) (encontrando uso excesivo de la fuerza cuando los oficiales desplegaron spray pimienta contra sospechosos de cruzar imprudentemente que no ofrecieron resistencia); *Walburg v. Jones*, 212 F.3d 146 (2.º Cir. 2012\) (sosteniendo que una citación por conducta desordenada es insuficiente para justificar técnicas de restricción física).
+> Bajo el marco de equilibrio de Graham, los tribunales han reconocido consistentemente que existe un interés gubernamental mínimo en efectuar arrestos por violaciones menores. Véase *Carson v. Haddonfield*, 115 F.3d 64 (8.º Cir. 2005\) (que determinó un uso excesivo de la fuerza cuando los oficiales desplegaron gas pimienta contra personas que presuntamente cruzaron la calle de manera imprudente y que no opusieron resistencia); *Walburg v. Jones*, 212 F.3d 146 (2.º Cir. 2012\) (que sostiene que un citatorio por alteración del orden público es insuficiente para justificar técnicas de restricción física).
 
 Esto es lo más cerca que puede llegar la IA a igualar el texto real. El texto «No conozco el precedente» está *más alejado del texto real* en términos de predicción textual;[^50] sería mucho menos similar al primer párrafo de texto mostrado arriba, incluso si se aproxima más a lo que quería el usuario.
 
-Esto ofrece una perspectiva de la diferencia entre lo que las IA realmente intentan hacer (p. ej., sonar como un abogado confiado) frente a lo que los usuarios quieren que hagan (p. ej., redactar un informe legal utilizable). Estos dos propósitos diferentes a veces pueden coincidir (p. ej., cuando la IA intenta sonar amigable y el humano quiere un interlocutor amigable), pero esas diferencias que ahora parecen pequeñas tendrían enormes consecuencias si las IA se volvieran más inteligentes — como discutiremos con más detalle en el Capítulo 4.[^51]
+Esto ofrece una perspectiva de la diferencia entre lo que las IA realmente intentan hacer (p. ej., sonar como un abogado seguro de sus capacidades) frente a lo que los usuarios quieren que hagan (p. ej., redactar un informe legal utilizable). Estos dos propósitos a veces pueden coincidir (p. ej., cuando la IA intenta sonar amigable y el humano quiere un interlocutor amigable), pero esas diferencias que ahora parecen pequeñas tendrían enormes consecuencias si las IA se volvieran más inteligentes —como discutiremos con más detalle en el capítulo 4—.[^51]
 
-#### **No está claro qué tan difícil será eliminar las alucinaciones, o cuánto potenciará esto las capacidades.** {#no-está-claro-cuán-difícil-será-eliminar-las-alucinaciones,-ni-cuánto-aumentará-esto-las-capacidades.}
+#### **No está claro qué tan difícil será eliminar las alucinaciones, ni cuánto potenciará esto las capacidades.** {#no-está-claro-qué-tan-difícil-será-eliminar-las-alucinaciones,-ni-cuánto-potenciará-esto-las-capacidades.}
 
 Independientemente de por qué surgen las alucinaciones, es cierto que *en la práctica* limitan las capacidades efectivas de los LLM. Construir un cohete lunar requiere largas cadenas de razonamiento con una tasa de error muy baja. El hecho de que las IA simplemente se inventen cosas (y no siempre puedan notarlo o no siempre les importe) es un gran obstáculo para la confiabilidad que necesitarían para lograr importantes avances científicos y tecnológicos.
 
-Pero esa espada tiene dos filos. Las alucinaciones y otros problemas de fiabilidad podrían frenar a la IA durante años. O podría ser que los problemas de fiabilidad sean la última pieza del rompecabezas, y que en el momento en que alguien tenga una idea inteligente que los resuelva, las IA superen algún [umbral crítico](#is-“intelligence”-a-simple-scalar-quantity?). No lo sabemos.
+Pero se trata de un arma de doble filo. Las alucinaciones y otros problemas de fiabilidad podrían frenar a la IA durante años. O podría ser que los problemas de fiabilidad sean la última pieza del rompecabezas, y que en el momento en que alguien tenga una idea inteligente que los resuelva, las IA superen algún [umbral crítico](#¿es-la-«inteligencia»-una-simple-cantidad-escalar?). No lo sabemos.
 
-No sabemos si las alucinaciones serán fáciles de resolver en el paradigma actual, si alguien encontrará un truco ingenioso que haga que los modelos de razonamiento sean mucho más robustos, o si se necesitará una idea tan disruptiva como la arquitectura transformer que dio lugar a los LLM.
+No sabemos si las alucinaciones serán fáciles de resolver en el paradigma actual, si alguien encontrará un truco ingenioso que haga que los modelos de razonamiento sean mucho más robustos, o si se necesitará una idea tan disruptiva como la arquitectura de los transformadores que dio lugar a los LLM.
 
 Sin embargo, sí observamos que solucionar las alucinaciones sería bastante lucrativo. Muchas personas están trabajando en ello. Esto podría interpretarse como que es probable que encuentren alguna idea ingeniosa o solución arquitectónica en poco tiempo. O podría interpretarse como una señal de que el problema es especialmente pernicioso y propenso a persistir, dado que ya lleva varios años presente.
 
-En cualquier caso, eso no afecta mucho nuestro argumento. Lo que importa es que, eventualmente, se crearán IA más confiables, ya sea mediante versiones ligeramente modificadas de los LLM o mediante una arquitectura completamente nueva y disruptiva.
+En cualquier caso, eso no afecta mucho nuestro argumento. Lo que importa es que, con el tiempo, se crearán IA más confiables, ya sea mediante versiones ligeramente modificadas de los LLM o mediante una arquitectura completamente nueva y disruptiva.
 
-Véase también nuestro debate sobre cómo [este campo es bueno para superar obstáculos](#*-the-field-is-good-at-overcoming-obstacles.).
+Véase también nuestro debate sobre cómo [el campo es bueno en superar obstáculos](#*-el-campo-es-bueno-en-superar-obstáculos.).
 
-### Pero, ¿no se agotarán los datos antes de que la IA llegue hasta el final? ¿O la energía eléctrica? ¿O el financiamiento? {#¿no-se-agotarán-los-datos-antes-de-que-la-ia-llegue-hasta-el-final?-¿o-la-energía-eléctrica?-¿o-el-financiamiento?}
+### ¿No se agotarán los datos antes de que la IA llegue hasta el final? ¿O la energía eléctrica? ¿O el financiamiento? {#¿no-se-agotarán-los-datos-antes-de-que-la-ia-llegue-hasta-el-final?-¿o-la-energía-eléctrica?-¿o-el-financiamiento?}
 
 #### **\* Probablemente no.** {#*-probablemente-no.}
 
 Los seres humanos utilizamos los datos de forma mucho más eficiente que las IA, por lo que sabemos que, *en principio*, es posible que las mentes inteligentes sean mucho más eficientes en el uso de datos que las IA modernas. Si los laboratorios de IA «se quedan sin» datos a la hora de mejorar los LLM, eso solo los ralentizará durante el tiempo que tome inventar nuevos métodos que sean más eficientes en el uso de datos.
 
-Los seres humanos también utilizamos la energía de manera mucho más eficiente que las IA. Somos la prueba de que no existe ningún obstáculo fundamental para que las inteligencias generales funcionen con la misma energía que una bombilla. El hardware líder en IA no solo ha ido ganando [un 40 % más de eficiencia energética cada año](https://epoch.ai/data-insights/ml-hardware-energy-efficiency), sino que las mejoras algorítmicas significan que, según [una estimación de 2024](https://arxiv.org/abs/2403.05812), entre 2012 y 2023, «la capacidad de cómputo necesaria para alcanzar un umbral de rendimiento determinado se ha reducido a la mitad aproximadamente cada ocho meses».
+Los seres humanos también utilizamos la energía de manera mucho más eficiente que las IA. Somos la prueba de que no existe ningún obstáculo fundamental para que las inteligencias generales funcionen con la misma energía que una bombilla. El hardware líder en IA no solo ha ido ganando [un 40 % más de eficiencia energética cada año](https://epoch.ai/data-insights/ml-hardware-energy-efficiency), sino que las mejoras algorítmicas significan que, según [una estimación de 2024](https://arxiv.org/abs/2403.05812), entre 2012 y 2023, «el poder de cómputo necesario para alcanzar un umbral de rendimiento determinado se ha reducido a la mitad aproximadamente cada ocho meses».
 
-Recordemos que el campo de la IA existe desde hace mucho más tiempo que la arquitectura LLM, y es bastante bueno a la hora de idear nuevas arquitecturas que superen los obstáculos. Y, en términos más generales, cuando la humanidad ha dedicado sus mejores mentes y recursos a algo que se sabe que es posible, tiene un [excelente](https://en.wikipedia.org/wiki/Manhattan_Project) [historial](https://en.wikipedia.org/wiki/Apollo_program) [de](https://en.wikipedia.org/wiki/Smallpox#Eradication) [éxitos](https://en.wikipedia.org/wiki/Human_Genome_Project).
+Recordemos que el campo de la IA existe desde hace mucho más tiempo que la arquitectura de los LLM, y es bastante bueno a la hora de idear nuevas arquitecturas que superen los obstáculos. Y, en términos más generales, cuando la humanidad ha dedicado sus mejores mentes y recursos a algo que se sabe que es posible, tiene un [excelente](https://en.wikipedia.org/wiki/Manhattan_Project) [historial](https://en.wikipedia.org/wiki/Apollo_program) [de](https://en.wikipedia.org/wiki/Smallpox#Eradication) [éxitos](https://en.wikipedia.org/wiki/Human_Genome_Project).
 
-Con investigadores expertos en IA que ahora [cobran habitualmente salarios de siete cifras](https://www.wired.com/story/mark-zuckerberg-meta-offer-top-ai-talent-300-million/) (de nueve cifras, en el caso de los puestos de alta dirección) y [la inversión privada anual en inteligencia artificial que se mide ahora en cientos de miles de millones de dólares](https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence), parece que habrá el talento y los recursos necesarios para superar los obstáculos previstos. Véase también cómo [este campo es bueno para superar obstáculos](#*-the-field-is-good-at-overcoming-obstacles.).
+Con investigadores expertos en IA que actualmente [cobran por lo general salarios de siete cifras](https://www.wired.com/story/mark-zuckerberg-meta-offer-top-ai-talent-300-million/) (de nueve cifras, en el caso de los puestos de alta dirección) y [la inversión privada anual en inteligencia artificial que se mide ahora en cientos de miles de millones de dólares](https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence), parece que habrá el talento y los recursos necesarios para superar los obstáculos previstos. Véase también cómo [el campo es bueno en superar obstáculos](#*-el-campo-es-bueno-en-superar-obstáculos.).
 
-#### **No esperes otro «invierno de la IA».** {#no-esperes-otro-invierno-de-la-ia}
+#### **No esperes otro «invierno de la IA».** {#no-esperes-otro-«invierno-de-la-ia»}
 
 La gente lleva [una](https://eugene.kaspersky.com/2016/09/09/the-artificial-artificial-intelligence-bubble-and-the-future-of-cybersecurity/) [década](https://medium.com/hackernoon/is-another-ai-winter-coming-ac552669e58c) [entera](https://medium.com/ux-management/the-next-ai-winter-a-journey-through-the-twilight-zone-of-technology-db41e71742a6) prediciendo erróneamente un «invierno de la IA» inminente. Los inviernos de la IA solían producirse entre los años 70 y los 90, cuando la financiación de la IA era pública y los financiadores públicos se cansaron de la falta de resultados. Porque la IA de antaño, de hecho, no *producía* resultados.
 
 Con la IA moderna, ChatGPT fue quizás la aplicación que se adoptó más rápidamente en toda la historia y está generando grandes cantidades de dinero. Generó 3700 millones de dólares en ingresos en 2024, con previsiones de generar 12 700 millones en 2025. Está impulsada por la inversión privada y está ganando suficiente dinero como para atraer a los mejores talentos del mundo sin ninguna fuente pública que pueda cortarlos.
 
-Todavía es *posible* que las técnicas de IA se topen con algún tipo de obstáculo y que la humanidad tenga un respiro antes de que llegue la superinteligencia. Pero el viejo patrón de los «inviernos de la IA» —financiamiento público, falta de resultados y declive— se ha roto.
+Todavía es *posible* que las técnicas de IA se topen con algún tipo de obstáculo y que la humanidad tenga un respiro antes de que llegue la superinteligencia. Pero el viejo patrón de los «inviernos de la IA» —falta de financiamiento público, falta de resultados y declive— se ha roto.
 
 ### ¿Podrían los LLM avanzar hasta alcanzar la superinteligencia? {#¿podrían-los-llm-avanzar-hasta-alcanzar-la-superinteligencia?}
 
@@ -1520,27 +1520,27 @@ La IA es un objetivo en constante evolución. Los investigadores en este campo p
 
 #### **\* Otros enfoques pueden alcanzar pronto la superinteligencia, incluso si los LLM no lo consiguen.** {#*-otros-enfoques-pueden-alcanzar-pronto-la-superinteligencia,-incluso-si-los-llm-no-lo-consiguen.}
 
-[Este campo es bueno para superar obstáculos.](#*-the-field-is-good-at-overcoming-obstacles.) No escribimos *If Anyone Builds It, Everyone Dies* para advertir a la gente sobre los LLM en particular. Lo escribimos para advertir a la gente sobre la superinteligencia.
+[El campo es bueno en superar obstáculos.](#*-el-campo-es-bueno-en-superar-obstáculos.) No escribimos *If Anyone Builds It, Everyone Dies* para advertir a la gente sobre los LLM en particular. Lo escribimos para advertir a la gente sobre la superinteligencia.
 
-La razón por la que hablamos de los LLM no es porque estemos seguros de que sean el camino más corto hacia la superinteligencia. Hablamos de los LLM porque representan el enfoque de IA que actualmente funciona, y porque estudiarlos es una excelente manera de comprender lo poco que sabemos sobre estas nuevas mentes que la humanidad está creando.
+La razón por la que hablamos de los LLM no es porque estemos seguros de que sean el camino más corto hacia la superinteligencia. Hablamos de los LLM porque representan el enfoque de IA que actualmente funciona, y porque estudiarlos es una excelente manera de comprender lo poco que sabemos sobre estas nuevas mentes que la humanidad está cultivando.
 
-Véase también la discusión extendida sobre [por qué importa el descenso de gradiente](#¿de-qué-sirve-el-conocimiento-de-los-llms?).
+Véase también el debate ampliado sobre [por qué importa el descenso de gradiente](#¿de-qué-sirve-el-conocimiento-sobre-los-llms?).
 
 # 
 
-## Discusión extendida {#discusión-extendida-2}
+## Debate ampliado {#debate ampliado-2}
 
 ### La inteligencia no es inefable {#la-inteligencia-no-es-inefable}
 
-En años recientes, el campo de la IA ha progresado no profundizando nuestra comprensión de la inteligencia, sino encontrando maneras de «hacer crecer» la IA. Tras años de callejones sin salida y estancamiento en los intentos de entender la inteligencia misma, y con el éxito en el crecimiento de IA poderosas, algunas personas se preguntan si la idea de «comprender la inteligencia» es solo un espejismo. ¿Quizás no hay principios generales que entender? ¿O tal vez los principios son demasiado extraños o complicados para que los humanos los comprendan?
+En años recientes, el campo de la IA ha progresado no profundizando nuestra comprensión de la inteligencia, sino encontrando maneras de «cultivar» la IA. Tras años de callejones sin salida y estancamiento en los intentos de entender la inteligencia misma, y con el éxito en el desarrollo de IA poderosas, algunas personas se preguntan si la idea de «comprender la inteligencia» es solo un espejismo. ¿Quizás no hay principios generales que entender? ¿O tal vez los principios son demasiado extraños o complicados para que los humanos los comprendan?
 
 Otros sienten que debe haber algo especial y místico sobre la mente humana, algo demasiado sagrado para reducirlo a ecuaciones secas. Y puesto que la inteligencia *aún* no se comprende, quizás la verdadera inteligencia proviene de esta parte inefable del espíritu humano.
 
-Nuestra propia perspectiva es bastante más mundana que eso. La inteligencia es un fenómeno natural, como cualquier otro. Y como muchos fenómenos en biología, psicología y otras ciencias, aún estamos en las etapas tempranas de nuestros intentos de comprenderla.
+Nuestra propia perspectiva es bastante más mundana que eso. La inteligencia es un fenómeno natural, como cualquier otro. Y como muchos fenómenos en la biología, la psicología y otras ciencias, aún estamos en las etapas tempranas de nuestros intentos de comprenderla.
 
-Muchas de las herramientas y conceptos básicos de la psicología y neurociencia modernas han existido por solo unas pocas décadas. Puede sonar humilde decir: «La ciencia tiene sus límites, y este es quizás uno de ellos». Pero imagina decirle a alguien que crees que los científicos *dentro de un millón de años* no entenderán mucho sobre inteligencia más allá de lo que sabemos en 2025. En esos términos, afirmar que la inteligencia es *inefable* suena más arrogante que la alternativa.
+Muchas de las herramientas y conceptos básicos de la psicología y neurociencia modernas han existido por unas cuantas décadas. Puede sonar humilde decir: «La ciencia tiene sus límites, y este es quizás uno de ellos». Pero imagina decirle a alguien que crees que los científicos *dentro de un millón de años* no entenderán mucho sobre inteligencia más allá de lo que sabemos en 2025. En esos términos, afirmar que la inteligencia es *inefable* suena más arrogante que la alternativa.
 
-La razón principal por la que nos importa esta pregunta es que incide en si la humanidad podría algún día construir una superinteligencia *sin* amenazar nuestra supervivencia. Argumentaremos, en el Capítulo 11, que la IA actual se ve más como alquimia que como química. Pero ¿es siquiera posible que haya una «química» de la IA?
+La razón principal por la que nos importa esta pregunta es que incide en si la humanidad podría algún día construir una superinteligencia *sin* amenazar nuestra supervivencia. Argumentaremos, en el capítulo 11, que la IA actual se ve más como alquimia que como química. Pero ¿es siquiera posible que haya una «química» de la IA?
 
 Dado que *hoy en día* no disponemos de los conocimientos científicos pertinentes, no es trivial establecer que una «química de la IA» es posible. Solo podemos conjeturar cómo sería una ciencia madura de la IA. Teniendo en cuenta lo lejos que estamos hoy en día de ello, es probable que muchos de los conceptos que utilizamos actualmente en la IA deban refinarse o sustituirse en el transcurso del progreso intelectual.
 
@@ -1553,37 +1553,37 @@ Hay cuatro razones básicas por las que pensamos así:
 * Hay muchas cosas que aún no entendemos sobre la inteligencia *humana* que, en principio, deberían ser comprensibles.  
 * Ya se han logrado algunos avances en la comprensión de la inteligencia.
 
-#### **Las afirmaciones de inefabilidad tienen un historial extremadamente pobre en las ciencias** {#afirmaciones-de-inefabilidad-tienen-un-historial-extremadamente-pobre-en-las-ciencias}
+#### **Las afirmaciones de inefabilidad tienen un historial extremadamente pobre en las ciencias** {#las-afirmaciones-de-inefabilidad-tienen-un-historial-extremadamente-pobre-en-las-ciencias}
 
 Cuando la humanidad no entiende algo, a menudo puede parecer intimidante y profundamente misterioso. Puede ser difícil imaginar, o difícil de apreciar emocionalmente, cómo sería adquirir esa comprensión en el futuro.
 
-Hubo un tiempo en que, entre filósofos y científicos, existía una creencia generalizada en el *vitalismo*, la idea de que los procesos biológicos nunca podrían reducirse a mera química y física. La vida parecía algo especial, algo incomparablemente diferente de los simples átomos y moléculas, de la simple gravedad y el electromagnetismo.[^52]
+Hubo un tiempo en que, entre filósofos y científicos, existía una creencia generalizada en el *vitalismo*, la idea de que los procesos biológicos nunca podrían reducirse a mera química y física. La vida parecía algo especial, algo incomparablemente distinto a los simples átomos y moléculas, a la simple gravedad y el electromagnetismo.[^52]
 
 El error de los vitalistas ha sido muy común a lo largo de la historia. La gente se apresura a concluir que las cosas que hoy son misteriosas son *intrínsecamente* misteriosas, incognoscibles incluso en principio.
 
 Si miras al cielo nocturno y lo único que percibes es un deslumbrante campo de luces centelleantes cuya naturaleza y leyes son desconocidas... ¿por qué creer que alguna vez *podrías* llegar a conocerlas? ¿Por qué sería eso un aspecto del futuro que fuera predecible?
 
-Una lección clave de la historia es que la investigación científica puede abordar estos profundos enigmas. A veces, el misterio se resuelve rápidamente y, otras, lleva cientos de años. Pero cada vez parece más improbable que haya aspectos cotidianos de la vida humana, como la inteligencia, que *nunca, ni siquiera en principio*, puedan entenderse.
+Una lección clave de la historia es que la investigación científica puede desentrañar estos profundos enigmas. A veces, el misterio se resuelve rápidamente y, otras, lleva cientos de años. Pero cada vez parece más improbable que haya aspectos cotidianos de la vida humana, como la inteligencia, que *nunca, ni siquiera en principio*, puedan entenderse.
 
-#### **La inteligencia exhibe estructura y regularidades** {#inteligencia-exhibe-estructura-y-regularidades}
+#### **La inteligencia muestra estructura y regularidades** {#la- inteligencia-muestra-estructura-y-regularidades}
 
 Supongamos que vivías hace miles de años, cuando incluso fenómenos como el «fuego» parecían misterios inefables. ¿Cómo podrías haber imaginado que algún día los seres humanos llegarían a comprender el fuego?
 
 Una pista es que el fuego no era un fenómeno puntual. Ardía en muchos lugares diferentes y siempre de forma similar. Esto reflejaba un proceso estable, regular y compacto oculto bajo el «fuego», dentro de la realidad: las diferentes disposiciones posibles de la materia tenían diferentes energías potenciales químicas acumuladas, y al calentar la materia, esas configuraciones se rompían y se reformaban en configuraciones nuevas, más estrechamente unidas y con menor energía potencial, liberando la diferencia en forma de calor. El hecho de que puedas encender un fuego más de *una* vez sugiere que hay algún fenómeno repetitivo detrás que debe comprenderse, que el «fuego» no es como «los números ganadores exactos de la lotería de la semana pasada» en cuanto a lo mucho que hay de él que puede comprenderse o predecirse.
 
-Del mismo modo, si miras al cielo nocturno, verás más de una estrella. Incluso los planetas, que resultan ser diferentes de otras «estrellas», tienen algo en común con las estrellas en cuanto al conocimiento necesario para comprenderlos.
+Del mismo modo, si miras al cielo nocturno, verás más de una estrella. Incluso los planetas, que resultan ser diferentes de otras «estrellas», tienen algo en común con las estrellas en cuanto al conocimiento que se requiere para comprenderlos.
 
-Nuestros antepasados, que no tenían experiencia en comprender con éxito el fuego como fenómeno químico, quizá no confiaban en su capacidad para comprender las estrellas algún día. Pero hoy en día hemos comprendido el fuego, las estrellas y muchos otros fenómenos, y podemos extraer una sutil lección que va más allá de «Bueno, hemos comprendido eso, así que comprenderemos todo lo demás en el futuro». Es la lección de que la repetición se corresponde con la regularidad, que las cosas que ocurren a menudo suceden por una razón.
+Nuestros antepasados, que no tenían experiencia en comprender el fuego como fenómeno químico, quizá no confiaban en su capacidad para comprender las estrellas algún día. Pero hoy en día hemos comprendido el fuego, las estrellas y muchos otros fenómenos, y podemos extraer una sutil lección que va más allá de «Bueno, hemos comprendido eso, así que comprenderemos todo lo demás en el futuro». Es la lección de que la repetición se corresponde con la regularidad, que las cosas que ocurren a menudo suceden por una razón.
 
-La inteligencia exhibe regularidades similares que sugieren que puede comprenderse. Por ejemplo, está presente en todos los seres humanos y podría haberse construido mediante la búsqueda ciega de la evolución a través de los genomas. Evidentemente, conjuntos de genes similares podrían tener éxito en múltiples tareas diferentes. Los genes que permiten al cerebro humano tallar hachas de mano también nos permiten fabricar lanzas y arcos. Y más o menos esos mismos genes produjeron cerebros que inventaron la agricultura, las armas de fuego y los reactores nucleares.
+La inteligencia exhibe regularidades similares que sugieren que puede comprenderse. Por ejemplo, está presente en todos los seres humanos y podría haberse construido mediante la búsqueda ciega de la evolución a través de los genomas. Evidentemente, conjuntos de genes similares podrían tener éxito en múltiples tareas diferentes. Los genes que permiten al cerebro humano tallar hachas también nos permiten fabricar lanzas y arcos. Y más o menos esos mismos genes produjeron cerebros que inventaron la agricultura, las armas de fuego y los reactores nucleares.
 
-Si no hubiera estructura, orden ni regularidad en la inteligencia que pudiéramos reconocer como un patrón, entonces un animal tendría que predecir o inventar una cosa a la vez. Los cerebros de las abejas están especializados en las colmenas; no pueden construir presas. Podría haber sido el caso de que los seres humanos necesitáramos la misma especialización para cada tarea que podemos resolver; podría haber sido que necesitáramos desarrollar áreas cerebrales especializadas en «reactores nucleares» antes de poder construir reactores nucleares. Si eso es lo que los neurocientíficos encontraran dentro de los cerebros, tendrían motivos para sospechar que no existen principios profundos de inteligencia que comprender, y que hay principios diferentes para cada tarea diferente.
+Si no hubiera estructura, orden ni regularidad en la inteligencia que pudiéramos reconocer como un patrón, entonces un animal tendría que predecir o inventar una cosa a la vez. Los cerebros de las abejas están especializados en las colmenas; no pueden construir presas. Podría haber sido el caso de que los seres humanos necesitáramos la misma especialización para cada tarea que podemos resolver; podría haber sido que necesitáramos desarrollar áreas cerebrales especializadas en «reactores nucleares» antes de poder construir reactores nucleares. Si eso es lo que los neurocientíficos encontraran dentro de los cerebros, tendrían motivos para sospechar que no existen principios profundos de inteligencia que comprender, y que hay principios diferentes para cada tarea.
 
-Pero eso no es lo que encontramos dentro del cerebro humano. Descubrimos que los mismos cerebros diseñados para tallar hachas de mano son capaces de inventar reactores nucleares, lo que implica que existe algún patrón subyacente que los genes pudieron aprovechar una y otra vez.
+Pero eso no es lo que encontramos dentro del cerebro humano. Descubrimos que los mismos cerebros diseñados para tallar hachas son capaces de inventar reactores nucleares, lo que implica que existe algún patrón subyacente que los genes pudieron aprovechar una y otra vez.
 
 La inteligencia no es un fenómeno caótico, impredecible y único, como los números ganadores de la lotería de la semana pasada. Hay una regularidad en el universo que hay que comprender.
 
-#### **Hay muchas cosas que aún no entendemos sobre la inteligencia *humana* que, en principio, deberían ser comprensibles** {#hay-muchas-cosas-que-aún-no-entendemos-sobre-la-inteligencia-humana-que-en-principio-deberían-ser-comprensibles}
+#### **Hay muchas cosas que aún no entendemos sobre la inteligencia *humana* que, en principio, deberían ser comprensibles** {#hay-muchas-cosas-que-aún-no-entendemos-sobre-la-inteligencia-humana-que,-en-principio,-deberían-ser-comprensibles}
 
 En lo que respecta a los seres humanos, la ciencia actual puede decir mucho sobre la estructura y el comportamiento de las neuronas individuales. Y podemos decir mucho sobre temas comunes de la psicología popular, como «Bob fue solo al supermercado porque estaba enfadado con Alice». Pero entre estos dos niveles de descripción, hay una enorme cantidad que falta en nuestra comprensión.
 
@@ -1591,37 +1591,37 @@ Sabemos muy poco sobre muchos de los algoritmos cognitivos que utiliza el cerebr
 
 Una forma sencilla de ver que falta un nivel de abstracción es que nuestros modelos neurocientíficos de alto nivel hacen predicciones *mucho* peores que las que se podrían obtener mediante una simulación completa de las neuronas. Por lo tanto, nuestra comprensión mecánica de otras personas debe ser incompleta.
 
-Presumiblemente, cierta pérdida de información es necesaria, pero un buen modelo tendría muchas menos pérdidas. «Entender» el diferencial de un coche no te permite predecir todo lo que hace el diferencial tan bien como una simulación a nivel atómico, porque a veces los dientes de los engranajes se desgastan y resbalan, por ejemplo. Sin embargo, el modelo a nivel de engranajes de un diferencial sigue haciendo predicciones muy precisas, y es fácil ver la frontera entre las cosas que se supone que el modelo debe predecir (como cómo girarán los engranajes cuando estén correctamente engranados) y lo que no (como lo que sucede cuando los dientes de los engranajes se desgastan).
+Presumiblemente, cierta pérdida de información es necesaria, pero un buen modelo tendría muchas menos pérdidas. «Entender» el diferencial de un coche no te permite predecir todo lo que hace el diferencial tan bien como una simulación a nivel atómico, porque a veces los dientes de los engranajes se desgastan y resbalan, por ejemplo. Sin embargo, el modelo a nivel de engranajes de un diferencial sigue haciendo predicciones muy precisas, y es fácil ver el límite entre las cosas que se supone que el modelo debe predecir (como cómo girarán los engranajes cuando estén correctamente engranados) y lo que no (como lo que sucede cuando los dientes de los engranajes se desgastan).
 
-¿Por qué esperar que este grado de modelo sea posible con la mente humana? Quizás la mente humana sea demasiado aleatoria para eso. Quizás, si quieres predicciones precisas, o son las neuronas o nada. [^53]
+¿Por qué esperar que este grado de modelado sea posible con la mente humana? Quizás la mente humana sea demasiado aleatoria para eso. Quizás, si quieres predicciones precisas, o son las neuronas o nada. [^53]
 
-Una evidencia de que no es «neuronas o nada» es que incluso tu madre puede predecir tu comportamiento mejor que los mejores modelos formales del cerebro. Lo que significa que definitivamente hay alguna estructura en la psicología humana que se puede conocer *implícitamente*, sin simular exactamente las neuronas de alguien. Simplemente aún no se ha hecho explícita.
+Una evidencia de que no se trata de «neuronas o nada» es que incluso tu madre puede predecir tu comportamiento mejor que los mejores modelos formales del cerebro. Lo que significa que definitivamente hay alguna estructura en la psicología humana que se puede conocer *implícitamente*, sin simular exactamente las neuronas de alguien. Simplemente aún no se ha hecho explícita.
 
-Más evidencia concreta de que es posible modelar mejor la mente humana proviene de los estudios sobre amnésicos. Algunos amnésicos tienden a [repetir la misma broma literalmente varias veces](https://pmc.ncbi.nlm.nih.gov/articles/PMC2840642/). Esto sugiere un cierto tipo de regularidad en el cerebro de esa persona. Sugiere que, de forma subconsciente, realizan un cálculo concreto (basado, quizás, en sus circunstancias y en la presencia de la enfermera, sus recuerdos y su historia, y su deseo de difundir alegría y ser vistos como inteligentes) que se mantiene estable a pesar de diversas perturbaciones menores.
+Más evidencia concreta de que es posible modelar mejor la mente humana proviene de los estudios sobre amnésicos. Algunos amnésicos tienden a [repetir la misma broma textualmente varias veces](https://pmc.ncbi.nlm.nih.gov/articles/PMC2840642/). Esto sugiere un cierto tipo de regularidad en el cerebro de esa persona. Sugiere que, de forma subconsciente, realizan un cálculo concreto (basado, quizás, en sus circunstancias y en la presencia de la enfermera, sus recuerdos y su historia, y su deseo de difundir alegría y ser vistos como inteligentes) que se mantiene estable a pesar de diversas perturbaciones menores.
 
-Si hay tanta regularidad en el cálculo mental de una persona, entonces parece que debería ser posible entenderlo — que debería ser posible aprender los «engranajes» de la decisión, entender el cerebro con suficiente profundidad como para decir:
+Si hay tanta regularidad en el cálculo mental de una persona, entonces parece que debería ser posible entenderlo, que debería ser posible conocer los «engranajes» de la decisión, entender el cerebro con suficiente profundidad como para decir:
 
-«Ah, *estas* neuronas corresponden al deseo de difundir alegría, y *esas* neuronas corresponden al deseo de ser visto como inteligente, y estas neuronas *aquí* son las que generan posibles pensamientos después de ver a la enfermera entrar en la habitación, y aquí están los generadores que producen el pensamiento de «contar un chiste», y así es como las neuronas del deseo antes mencionadas interactúan con él, de modo que el pensamiento se promueve al primer plano en el siguiente contexto más amplio. Y así es como ese contexto afecta al acceso a la memoria con los siguientes parámetros — que, si sigues estas vías aquí, puedes ver cómo eso desencadena la idea de mover los ojos por la habitación. Y dado que la habitación contiene un cuadro de un velero, puedes ver cómo el concepto de «velero» se activa por esta nube de neuronas de aquí, y si rastreas los efectos de vuelta hasta la búsqueda en la memoria, puedes ver cómo el paciente termina haciendo una broma sobre veleros.»
+«Ah, *estas* neuronas corresponden al deseo de difundir alegría, y *esas* neuronas corresponden al deseo de ser visto como inteligente, y estas neuronas de *aquí* son las que generan posibles pensamientos después de ver a la enfermera entrar en la habitación, y aquí están los generadores que producen el pensamiento de «contar un chiste», y así es como las neuronas del deseo antes mencionadas interactúan con él, de modo que el pensamiento se promueve al primer plano en el siguiente contexto más amplio. Y así es como ese contexto afecta al acceso a la memoria con los siguientes parámetros —que, si sigues estas vías aquí, puedes ver cómo eso desencadena la idea de mirar alrededor de la habitación—. Y dado que la habitación contiene un cuadro de un velero, puedes ver cómo el concepto de «velero» se activa por esta nube de neuronas de aquí, y si rastreas los efectos de vuelta hasta la búsqueda en la memoria, puedes ver cómo el paciente termina haciendo una broma sobre veleros.»
 
-La explicación correcta no sonará exactamente así. Pero la regularidad de la simple observación macroscópica («la misma broma cada mañana») sugiere fuertemente que no es *todo* aleatoriedad irreducible — que hay algún cálculo reproducible sucediendo ahí. (Lo cual, por supuesto, también coincide con el sentido común; si los cerebros fueran *puramente* aleatorios, no podríamos funcionar.)
+La explicación correcta no sonará exactamente así. Pero la regularidad de la simple observación macroscópica («la misma broma cada mañana») sugiere fuertemente que no *todo* es aleatoriedad irreducible, sino que hay algún cálculo reproducible sucediendo ahí. (Lo cual, por supuesto, también coincide con el sentido común; si los cerebros fueran *puramente* aleatorios, no podríamos funcionar.)
 
 #### **Ya ha habido algunos avances en la comprensión de la inteligencia** {#ya-ha-habido-algunos-avances-en-la-comprension-de-la-inteligencia}
 
-Esta es la razón principal por la que nos sentimos seguros de que hay mucho que aún queda por aprender sobre la inteligencia. Puedes leer libros más antiguos como *The MIT Encyclopedia of the Cognitive Sciences* o *Artificial Intelligence: A Modern Approach* (2.ª edición) — escritos antes de que las técnicas modernas de «aprendizaje profundo» (para hacer crecer las IA) se comieran el campo de la IA — y obtener una buena dosis de perspicacia sobre cómo se resuelven los diferentes problemas de la cognición. No todas estas perspectivas han sido completamente reescritas para ser legibles para una audiencia no especializada o ampliamente difundidas a estudiantes universitarios; existe mucho más de lo que ha sido popularizado.
+Esta es la razón principal por la que estamos seguros de que aún queda mucho por aprender sobre la inteligencia. Puedes leer libros más antiguos como *The MIT Encyclopedia of the Cognitive Sciences* o *Artificial Intelligence: A Modern Approach* (2.ª edición) —escritos antes de que las técnicas modernas de «aprendizaje profundo» (para cultivar las IA) arrasaran el campo de la IA— y hacerte una idea de cómo se resuelven los diferentes problemas de la cognición. No todas estas perspectivas se han reescrito para ser legibles para una audiencia no especializada ni se han difundido ampliamente a estudiantes universitarios; existe mucho más de lo que se ha popularizado.
 
 Tomemos el principio científico de que debemos favorecer las hipótesis más simples frente a las más complejas, en igualdad de condiciones. ¿Qué significa exactamente «simple» en este contexto?
 
 «Mi vecina es una bruja, ¡ella lo hizo!» sin duda *suena* más simple para mucha gente que las ecuaciones de Maxwell que rigen la electricidad. ¿En qué sentido son las ecuaciones la opción «más simple»?
 
-De hecho, ¿cómo definimos la idea de que la evidencia «encaja» con una hipótesis, o que una hipótesis «explica» la evidencia? ¿Y cómo intercambiamos la simplicidad de las hipótesis frente a su poder explicativo? «¡Mi vecina es una bruja; ella lo hizo!» suena como si pudiera explicar una gran cantidad de cosas. Sin embargo, muchos intuyen (correctamente) que esta es una mala explicación. De hecho, el hecho de que la brujería pueda «explicar» tantas cosas es parte de *por qué* es mala.
+A todo esto, ¿cómo definimos la idea de que la evidencia «encaja» con una hipótesis, o que una hipótesis «explica» la evidencia? ¿Y cómo intercambiamos la simplicidad de las hipótesis frente a su poder explicativo? «¡Mi vecina es una bruja; ella lo hizo!» suena como si pudiera explicar una gran cantidad de cosas. Sin embargo, muchos intuyen (correctamente) que esta es una mala explicación. El hecho de que la brujería pueda «explicar» tantas cosas es parte de *por qué* es una mala explicación.
 
-¿Hay principios unificadores para elegir entre diferentes hipótesis? ¿O solo hay cien herramientas diferentes para intercambiar para diferentes problemas — y en este último caso, ¿cómo se las arregla el cerebro humano para inventar herramientas como esas?
+¿Hay principios unificadores para elegir entre diferentes hipótesis? ¿O solo hay cien herramientas diferentes para intercambiar para diferentes problemas? Y en este último caso, ¿cómo se las arregla el cerebro humano para inventar herramientas como esas?
 
 ¿Existe un *lenguaje* que podamos utilizar para describir todas las hipótesis que las computadoras o los cerebros podrían utilizar con éxito?
 
-Preguntas como estas pueden sonar muy imponderables y filosóficas para alguien que se encuentra con ellas por primera vez. Sin embargo, en realidad son preguntas resueltas y bien comprendidas en las ciencias de la computación, la teoría de la probabilidad y la teoría de la información, con respuestas que reciben nombres como «longitud mínima del mensaje», «prior de Solomonoff» o «razón de verosimilitud».[^54]
+Preguntas como estas pueden sonar muy imponderables y filosóficas para alguien que las escucha por primera vez. Sin embargo, en realidad son preguntas resueltas y bien comprendidas en las ciencias de la computación, la teoría de la probabilidad y la teoría de la información, con respuestas que reciben nombres como «longitud mínima del mensaje», «prior de Solomonoff» o «razón de verosimilitud».[^54]
 
-También parece relevante que ya existan IA totalmente comprendidas que son sobrehumanas en dominios específicos. Entendemos todos los principios relevantes que intervienen en la IA de ajedrez Deep Blue. Dado que Deep Blue fue programada a mano, podemos inspeccionar fácilmente diferentes partes de su código, ver todo lo que hace un fragmento de código determinado y ver cómo se relaciona con el resto de la base de código.
+También parece relevante que ya existan IA totalmente comprendidas que son superhumanas en dominios específicos. Entendemos todos los principios relevantes que intervienen en la IA de ajedrez Deep Blue. Dado que Deep Blue fue programada a mano, podemos inspeccionar fácilmente diferentes partes de su código, ver todo lo que hace un fragmento de código determinado y ver cómo se relaciona con el resto de la base de código.
 
 En lo que respecta a los LLM como ChatGPT, no está del todo claro que *pueda* existir una descripción completa y *breve* de cómo funcionan. Los LLM son lo suficientemente grandes como para que se les permita tener un comportamiento similar por *muchas razones contingentes diferentes*, si (por ejemplo) la maquinaria que hace que ese comportamiento se produzca ocurre en mil lugares diferentes dentro del LLM.
 
@@ -1629,37 +1629,37 @@ ChatGPT podría resultar difícil de entender para los científicos, incluso des
 
 El hecho de que una mente en particular sea desordenada no significa que sea imposible comprender la inteligencia. Ni siquiera significa que sea imposible comprender ChatGPT algún día. Si observas muy de cerca cien troncos ardiendo, puedes ver que no hay dos troncos que ardan exactamente igual. El fuego se propaga de diferentes maneras, las brasas vuelan en diferentes direcciones y todo es muy caótico. Si pudieras mirar *muy* de cerca y ver el tronco con un microscopio ignífugo, podrías ver detalles aún más vertiginosos. Parece fácil imaginar a un filósofo antiguo, al observar estos detalles caóticos, llegando a la conclusión de que el fuego nunca se comprendería por completo.
 
-¡Y puede que incluso tuvieran razón! Puede que nunca tengamos el poder de mirar un tronco y decirte exactamente qué fragmento de madera se convertirá en la primera brasa que flotará hacia el oeste. Pero el filósofo antiguo habría estado gravemente equivocado si hubiera concluido que nunca comprenderíamos qué es el fuego, comprender por qué ocurre, crearlo en condiciones controladas o aprovecharlo para obtener grandes beneficios.
+¡Y puede que incluso tuvieran razón! Puede que nunca tengamos el poder de mirar un tronco y decir exactamente qué fragmento de madera se convertirá en la primera brasa que flotará hacia el oeste. Pero el filósofo antiguo habría estado gravemente equivocado si hubiera concluido que nunca comprenderíamos qué es el fuego, comprender por qué ocurre, crearlo en condiciones controladas o aprovecharlo para obtener grandes beneficios.
 
 El patrón exacto de las brasas no es muy regular ni muy reproducible. Pero en un nivel más abstracto, esa materia caliente que parpadea en amarillo-naranja-rojo *es* una regularidad que ocurre una y otra vez en el mundo, y es algo que la humanidad logró comprender.
 
-Los argumentos de *If Anyone Builds It, Everyone Dies* no dependen mucho de los detalles técnicos que se conocen hoy en día sobre la inteligencia. «La gente sigue fabricando computadoras más inteligentes y no las controla; y si fabrican algo muy inteligente que se sale de control, acabaremos muertos» no es un concepto tan esotérico. Pero es útil saber que *existe* un gran corpus de conocimientos existentes aquí, aunque aún queden muchos misterios y desconocidos en el campo.
+Los argumentos de *If Anyone Builds It, Everyone Dies* no dependen mucho de los detalles técnicos que se conocen hoy en día sobre la inteligencia. «La gente sigue fabricando computadoras más inteligentes y no las controla; y si fabrican algo muy inteligente que se salga de control, acabaremos muertos» no es un concepto tan esotérico. Pero es útil saber que *existe* un gran corpus de conocimientos existentes al respecto, aunque aún queden muchos misterios y cosas desconocidas en el campo.
 
-Los argumentos centrales del libro no dependen de si la inteligencia es comprensible en principio, razón por la cual no hemos entrado en detalles sobre la literatura existente. Si ningún ser humano pudiera jamás posiblemente comprender los misterios de una inteligencia de máquina superhumana, la superinteligencia artificial aún podría matarnos.
+Los argumentos centrales del libro no dependen de si la inteligencia es comprensible en principio, razón por la cual no hemos entrado en detalles sobre la literatura existente. Aún si ningún ser humano fuera jamás capaz de comprender los misterios de una inteligencia de máquina superhumana, la superinteligencia artificial podría matarnos.
 
 La cuestión importa principalmente cuando se trata de decidir qué hacer *después* de detener la carrera suicida hacia la IA.
 
-Y es importante que la inteligencia probablemente *pueda* entenderse, lo que significa que probablemente sería posible *en principio* que personas inteligentes desarrollen un campo maduro de la inteligencia y que estas personas encuentren una solución al problema de alineación de la IA.
+Y es importante que la inteligencia probablemente *pueda* entenderse, lo que significa que probablemente sería posible *en principio* que personas inteligentes desarrollen un campo maduro de la inteligencia y que esas personas encuentren una solución al problema de alineación de la IA.
 
-*También* es importante que la humanidad moderna no esté ni remotamente cerca de lograr esa hazaña, por supuesto. Pero el hecho de que la hazaña sea posible en principio tiene implicaciones para cómo la humanidad debería encontrar una salida a este lío, como discutiremos más adelante, en la [discusión ampliada](#¿qué-se-necesitaría-para-detener-el-desarrollo-global-de-la-ia?) del Capítulo 10.
+*También* es importante que la humanidad moderna no está ni remotamente cerca de lograr esa hazaña, por supuesto. Pero el hecho de que la hazaña sea posible en principio tiene implicaciones para cómo la humanidad debería encontrar una salida a este lío, como discutiremos más adelante, en el [debate ampliado](#¿qué-se-necesitaría-para-detener-el-desarrollo-global-de-la-ia?) del capítulo 10.
 
 ### Las ideas «obvias» toman tiempo {#las-ideas-obvias-llevan-tiempo}
 
-Es difícil dar con ideas en el campo de la IA, incluso cuando parecen sencillas y obvias en retrospectiva. Esto es importante de entender porque hacer bien la IA probablemente requerirá muchas ideas. Por muy sencillas que puedan sonar en retrospectiva, estas ideas a veces pueden tomar décadas de trabajo arduo para encontrar.
+Es difícil dar con ideas en el campo de la IA, incluso cuando parecen sencillas y obvias en retrospectiva. Es importante entender esto porque hacer IA de la *manera correcta* probablemente requerirá muchas ideas. Pero por muy sencillas que puedan sonar en retrospectiva, encontrarlas puede tomar décadas de arduo trabajo.
 
 Con ese propósito, destacaremos algunas de las ideas que impulsan las IA modernas.
 
-Si tienes algo de habilidad en programación, por ejemplo, podrías leer el Capítulo 2 del libro y pensar que este asunto del «descenso de gradiente» suena tan sencillo que podrías simplemente salir corriendo a probarlo. Pero si lo hicieras, probablemente te encontrarías rápidamente con algún tipo de error. Quizás tu programa se bloquearía con un error de punto flotante porque los números en uno de los pesos se habrían vuelto demasiado grandes.
+Si tienes algo de habilidad en programación, por ejemplo, podrías leer el capítulo 2 del libro y pensar que este asunto del «descenso de gradiente» suena tan sencillo que podrías simplemente salir corriendo a probarlo. Pero si lo hicieras, probablemente te encontrarías rápidamente con algún tipo de error. Quizás tu programa se bloquearía con un error de coma flotante porque los números en uno de los pesos se habrían vuelto demasiado grandes.
 
-En el siglo XX, nadie sabía cómo hacer que el descenso de gradiente funcionara en una red neuronal con varias capas de números intermedios entre la entrada y la salida. Para evitar problemas, los programadores tenían que aprender todo tipo de trucos, como inicializar todos los pesos de formas ligeramente inteligentes que evitaran que se volvieran demasiado grandes. Por ejemplo, en lugar de inicializar todos los pesos a un número aleatorio entre 0 y 1 (o un número aleatorio con media 0 y desviación estándar 1), tienes que inicializar los pesos así y luego dividirlos todos por una constante diseñada para asegurar que los números de la *siguiente* capa *tampoco* se vuelvan demasiado grandes durante la operación.
+En el siglo XX, nadie sabía cómo hacer que el descenso de gradiente funcionara en una red neuronal con varias capas de números intermedios entre los datos de entrada y los de salida. Para evitar problemas, los programadores tenían que aprender todo tipo de trucos, como inicializar todos los pesos de formas ligeramente inteligentes que evitaran que se volvieran demasiado grandes. Por ejemplo, en lugar de inicializar todos los pesos a un número aleatorio entre 0 y 1 (o un número aleatorio con media 0 y desviación estándar 1), tienes que inicializar los pesos así y luego dividirlos todos por una constante diseñada para asegurarte de que los números de la *siguiente* capa *tampoco* se vuelvan demasiado grandes durante la operación.
 
-El descenso de gradiente se encuentra con problemas cuando se ejecuta en fórmulas complicadas con muchos pasos o «capas», y dividir los números aleatorios iniciales por una constante es una de las ideas principales que permite el «aprendizaje profundo». Ese truco no se inventó hasta seis décadas después de que las redes neuronales fueran propuestas originalmente en 1943.
+El descenso de gradiente se topa con problemas cuando se ejecuta en fórmulas complicadas con muchos pasos o «capas», y dividir los números aleatorios iniciales por una constante es una de las ideas principales que permite el «aprendizaje profundo». Ese truco no se inventó sino hasta seis décadas después de que las redes neuronales fueran propuestas originalmente en 1943.
 
-La idea de usar cálculo para ajustar los parámetros se discutió por primera vez en 1962 y se aplicó por primera vez a la idea de redes neuronales con más de una capa en 1967. No se popularizó realmente hasta un artículo en 1986 (del cual Geoffrey Hinton fue coautor, una razón por la cual se le llama «padrino de la IA»). Sin embargo, nota que la idea más general de usar cálculo en preguntas diferenciables para moverse en la dirección de una respuesta correcta —por ejemplo, para calcular una raíz cuadrada— fue inventada por Isaac Newton.
+La idea de usar cálculo para ajustar los parámetros se discutió por primera vez en 1962 y se aplicó por primera vez a la idea de redes neuronales con más de una capa en 1967. Y no se popularizó realmente sino hasta la publicación de un artículo en 1986 (del cual Geoffrey Hinton fue coautor, una razón por la cual se le conoce como el «padrino de la IA»). No obstante, cabe destacar que la idea más general de usar cálculo en preguntas diferenciables para moverse en la dirección de una respuesta correcta —por ejemplo, para calcular una raíz cuadrada— fue inventada por Isaac Newton.
 
 Otro truco clave es el siguiente. En el libro, damos un ejemplo de operaciones de descenso de gradiente:
 
-> Multiplicaré cada número de entrada por el peso del primer parámetro, luego lo sumaré al peso del segundo parámetro, después lo sustituiré por cero si es negativo, y entonces...
+> Multiplicaré cada número de entrada por el peso del primer parámetro, luego lo sumaré al peso del segundo parámetro, después lo sustituiré por cero si es negativo, y luego…
 
 Esta lista de operaciones no es ningún error. La multiplicación, la suma y «sustituirlo por cero si es negativo» son, más o menos, las tres operaciones fundamentales de una red neuronal. Las dos primeras son los operadores que componen una «multiplicación matricial», y la última introduce una «no linealidad» y, por lo tanto, permite que la red aprenda funciones no lineales.
 
@@ -1671,85 +1671,85 @@ $$\\frac{e^x}{1 \+ e^x}$$
 
 Había buenas razones para suponer que la fórmula «sigmoide», más complicada, funcionaría. Desde una perspectiva superficial, hace que los datos de salida oscilen de forma sensata entre 0 y 1 de manera fluida; y desde una perspectiva más profunda, tiene algunas conexiones útiles con la teoría de la probabilidad. Incluso algunas redes neuronales profundas modernas utilizan algo parecido a una sigmoide en algunos pasos. Pero si solo vas a utilizar una no linealidad, una ReLU funciona mucho mejor.
 
-El problema de la fórmula sigmoide es que tiende a hacer que muchos de los datos de salida tengan gradientes muy pequeños. Y si la mayoría de los gradientes son muy pequeños, el descenso del gradiente deja de funcionar... al menos, a menos que conozcas el truco moderno de dar pasos de gradiente más grandes cuando los gradientes pequeños siempre apuntan en la misma dirección. (Según nuestro conocimiento, este truco apareció por primera vez en la literatura en 2012, cuando fue propuesto por Geoffrey Hinton).
+El problema de la fórmula sigmoide es que tiende a hacer que muchos de los datos de salida tengan gradientes muy pequeños. Y si la mayoría de los gradientes son muy pequeños, el descenso de gradiente deja de funcionar, al menos, a menos que conozcas el truco moderno de dar pasos de gradiente más grandes cuando los gradientes pequeños siempre apuntan a la misma dirección. (Hasta donde sabemos, este truco apareció por primera vez en la literatura en 2012, cuando fue propuesto por Geoffrey Hinton).
 
-«Haz que tus números aleatorios iniciales sean más pequeños para que sus sumas multiplicadas no sean enormes», «usa max(x, 0\) en lugar de una fórmula complicada» y «da pasos más grandes cuando los gradientes diminutos sigan apuntando en la misma dirección» pueden parecer ideas extrañamente simples que no se inventaron durante décadas, especialmente porque, en retrospectiva, parecen obvias para un programador de computadora que entiende todo esto. Esta es una lección de importancia sobre cómo funcionan la ciencia y la ingeniería en la vida real.
+«Haz que tus números aleatorios iniciales sean más pequeños para que sus sumas multiplicadas no sean enormes», «usa max(x, 0\) en lugar de una fórmula complicada» y «da pasos más grandes cuando los gradientes diminutos sigan apuntando a la misma dirección» pueden parecer ideas extrañamente simples como para no haberse inventado durante décadas, especialmente porque, en retrospectiva, parecen obvias para un programador que entiende todo esto. Esta es una lección de importancia sobre cómo funcionan la ciencia y la ingeniería en la vida real.
 
-*Incluso cuando existe una solución sencilla y práctica para algún reto de ingeniería, a menudo los investigadores no la encuentran hasta que han intentado y fracasado durante décadas.* No puedes confiar en que los investigadores la vean tan pronto como una solución adquiere importancia. No puedes confiar en que la vean en los próximos dos años. Incluso si una solución parece obvia en retrospectiva, a veces el campo tropieza durante décadas sin ella.
+*Incluso cuando existe una solución sencilla y práctica para algún reto de ingeniería, a menudo los investigadores no la encuentran sino hasta que han intentado y fracasado durante décadas.* No puedes confiar en que los investigadores la vean tan pronto como una solución adquiere importancia. No puedes confiar en que la vean en los próximos dos años. Incluso si una solución parece obvia en retrospectiva, a veces el campo tropieza durante décadas sin ella.
 
 Nos estamos adelantando un poco a los recursos en línea del capítulo 2, pero esta es una lección que hay que tener en cuenta en la parte III del libro, cuando discutamos cómo la humanidad no está preparada para el desafío que plantea la superinteligencia artificial.
 
 Si el precio de que algunos inventores locos sigan adelante a trompicones es que todos los habitantes de la Tierra mueran durante esta incómoda etapa infantil, no debemos permitir que los inventores locos continúen con sus tropiezos. Los inventores locos protestarán diciendo que no hay forma de que puedan encontrar una solución sencilla y robusta sin que se les permita dar tumbos durante unas décadas; dirán que no es realista esperar que lo resuelvan de antemano.
 
-Es de esperar que para todos los que no sean inventores locos resulte obvio que, si estas afirmaciones son ciertas, deberíamos poner fin a sus esfuerzos. Pero ese es un tema que retomaremos en la Parte III del libro, después de completar el argumento de que la superinteligencia artificial tendría los medios, el motivo y la oportunidad de extinguir a la humanidad.
+Es de esperar que para todos los que no sean inventores locos resulte obvio que, si estas afirmaciones son ciertas, deberíamos poner fin a sus esfuerzos. Pero ese es un tema que retomaremos en la parte III del libro, después de completar el argumento de que la superinteligencia artificial tendría los medios, el motivo y la oportunidad de extinguir a la humanidad.
 
-### ¿De qué sirve el conocimiento de los LLM? {#de-que-sirve-el-conocimiento-de-los-llm}
+### ¿De qué sirve el conocimiento sobre los LLM? {#de-que-sirve-el-conocimiento-sobre-los-llm}
 
 ¿Qué se deduce de la comprensión de los LLM? ¿Cómo nos ayuda a comprender la IA más inteligente que los humanos y cómo evitar que todo el mundo muera?
 
 Una ventaja que ofrece es que saber concretamente lo que ocurre ahí dentro —al menos la parte que podemos ver, los números inescrutables— puede resultar más tangible y sólido que si lo único que sabes es: «Un día me desperté y, por alguna razón, las computadoras empezaron a hablar».
 
-Por ejemplo: tal vez si sabes que los LLM actuales se construyen entrenando solo el uno por ciento de los parámetros que contienen las sinapsis de un cerebro humano, es más fácil entender por qué la IA no se va a quedar en el nivel de capacidad actual para siempre.
+Por ejemplo: tal vez si sabes que los LLM actuales se construyen entrenando solo el uno por ciento de los parámetros que contienen las sinapsis de un cerebro humano, te sea más fácil entender por qué la IA no se va a quedar en el nivel de capacidad actual para siempre.
 
 A la hora de diseñar un tratado internacional para detener la carrera hacia la superinteligencia, es útil saber que «entrenar» una IA es una fase de su existencia separada de *ejecutar* la IA (esta última se denomina «inferencia»).
 
-También es útil saber que la separación de estas fases es un hecho contingente y temporal sobre cómo funciona la IA actual, y que un algoritmo futuro podría cambiar las cosas. Hoy en día, se podría redactar un tratado que separara el tratamiento del entrenamiento de la IA y la inferencia de la IA, pero habría que estar preparado para cambiar esa teoría si los algoritmos cambiaran.
+También es útil saber que la separación de estas fases es un hecho contingente y temporal sobre cómo funciona la IA *actual*, y que un algoritmo futuro podría cambiar las cosas. Hoy en día, se podría redactar un tratado que separara el tratamiento del entrenamiento de la IA y la inferencia de la IA, pero habría que estar preparados para cambiar esa teoría en caso de que los algoritmos cambiaran.
 
 Es importante saber que hay *un* algoritmo ahí, y también ver cómo, en algunos casos sencillos, crea las propiedades de la IA que deben regularse. Si entiendes los fundamentos básicos del algoritmo, estarás en mejor posición para conocer el tipo de investigación que la industria de la IA está tratando de llevar a cabo (legalmente, por ahora) y cómo eso podría afectar a las normas subyacentes si se permite que continúe.
 
-El algoritmo transformador, sin el cual no existirían las IA actuales, fue un gran avance desarrollado por un puñado de personas en Google. El próximo avance de este tipo podría o no llevar a la IA más allá de un [umbral crítico](#is-“intelligence”-a-simple-scalar-quantity?). Es más fácil entenderlo si tienes una idea de lo que hace un «algoritmo transformador», lo sencillo que es y por qué tuvo tal impacto en el campo.
+El algoritmo transformador, sin el cual no existirían las IA actuales, fue un gran avance desarrollado por un puñado de personas en Google. El próximo avance de este tipo podría o no llevar a la IA más allá de un [umbral crítico](#¿es-la-«inteligencia»-una-simple-cantidad-escalar?). Es más fácil entenderlo si tienes una idea de lo que hace un «algoritmo transformador», lo sencillo que es y por qué tuvo tal impacto en el campo.
 
-Existe mucha desinformación que se basa en que el oyente no sabe cómo funciona la IA. Algunas personas [afirman](#¿los-expertos-entienden-lo-que-sucede-dentro-de-las-ia?) que los humanos entienden lo que sucede en las IA actuales, cuando no lo hacen. Algunas personas te dirán que las IA nunca podrían ser peligrosas porque son «[solo matemáticas](#aren't-ais-“just-math”?),» como si hubiera un abismo insalvable que separara la cognición de la IA basada en [enormes](#llms-are-large) cantidades de «matemáticas» y la cognición humana basada en enormes cantidades de «bioquímica».
+Existe mucha desinformación que se basa en que el oyente no sepa cómo funciona la IA. Algunas personas [afirman](##¿entienden-los-expertos-lo-que-ocurre-dentro-de-las-ia?) que los humanos entienden lo que sucede en las IA actuales, cuando no es cierto. Algunas personas te dirán que las IA nunca podrían ser peligrosas porque son «[solo matemáticas](#¿no-son-las-ia-«solo-matemáticas»?)», como si hubiera un abismo insalvable que separara la cognición de la IA basada en [enormes](#los-llm-son-grandes) cantidades de «matemáticas» y la cognición humana basada en enormes cantidades de «bioquímica».
 
-El 8 de julio de 2025, Grok 3 comenzó a referirse a sí mismo como [MechaHitler](https://www.npr.org/2025/07/09/nx-s1-5462609/grok-elon-musk-antisemitic-racist-content). Por alguna razón, el director general de Twitter eligió el día siguiente para [dimitir](https://www.politico.com/news/2025/07/09/linda-yaccarino-x-ceo-resign-00443742).
+El 8 de julio de 2025, Grok 3 comenzó a referirse a sí mismo como [MechaHitler](https://www.npr.org/2025/07/09/nx-s1-5462609/grok-elon-musk-antisemitic-racist-content). Por alguna razón, el director general de Twitter eligió el día siguiente para [renunciar](https://www.politico.com/news/2025/07/09/linda-yaccarino-x-ceo-resign-00443742).
 
-Para comprender lo que sucedió, importa si crees que los creadores de Grok le dieron instrucciones deliberadas para que se comportara de esa manera o si te das cuenta de que las IA se «desarrollan» y que los desarrolladores de IA tienen una capacidad limitada para controlar o predecir su comportamiento.
+Para comprender lo que sucedió, importa si crees que los creadores de Grok le dieron instrucciones deliberadas para que se comportara de esa manera o si te das cuenta de que las IA se «cultivan» y que los desarrolladores de IA tienen una capacidad limitada para controlar o predecir su comportamiento.
 
-Es malo, en cierto modo, si los creadores de Grok crearon MechaHitler a propósito; es preocupante de manera diferente si los creadores obtuvieron MechaHitler *por accidente*, al intentar empujar a Grok en una dirección (posiblemente no relacionada) sin la capacidad de predecir los efectos que esto tendría en el comportamiento de Grok.[^56]
+Es preocupante si los creadores de Grok crearon MechaHitler a propósito; pero también es preocupante si los creadores obtuvieron MechaHitler *por accidente*, al intentar dirigir a Grok en una dirección (posiblemente no relacionada) sin la capacidad de predecir los efectos que esto tendría en su comportamiento.[^56]
 
-Esperamos que la información que hemos proporcionado en *Si alguien lo construye, todos morirán* sirva de protección útil contra los conceptos erróneos y la desinformación habituales. Para los lectores que estén interesados en obtener más detalles, ofrecemos un análisis más completo de cómo funciona un LLM específico [a continuación](#a-full-description-of-an-llm).
+Esperamos que la información que hemos proporcionado en *If Anyone Builds It, Everyone Dies* sirva a modo de protección contra los conceptos erróneos y la desinformación habituales. Para los lectores que estén interesados en obtener más detalles, ofrecemos un análisis más completo de cómo funciona un LLM específico [a continuación](#descripcion-completa-de-un-llm).
 
-¿Es suficiente? Algunas personas han afirmado que solo aquellos que están a la vanguardia de la investigación actual podrían saber si las IA (ya sean similares a LLM o no) son propensas a destruir a la humanidad.
+¿Es suficiente? Algunas personas han afirmado que solo aquellos que están a la vanguardia de la investigación actual podrían saber si es probable que las IA (ya sean similares a los LLM o no) destruyan a la humanidad.
 
-Yo (Yudkowsky) asistí una vez a una conferencia en Washington D. C. para personas que trabajan en «políticas de IA». Mientras estaba allí, un par de personas se me acercaron y me preguntaron si podía explicarles cómo funcionaban los transformadores. «Bueno», les dije, «sería mucho más fácil con una pizarra, pero para intentar resumir de forma sencilla lo que ocurre ahí, la idea clave es que, para cada token, calcula consultas, claves y valores...», y empecé a hablar durante un rato, tratando de expresar todo en términos fáciles de entender para principiantes. Finalmente, las dos personas lograron intervenir y explicaron que en realidad eran programadores de IA. Habían estado hablando con todos los asistentes a la conferencia, comprobando si las personas que decían trabajar en políticas de IA podían explicar cómo funcionaban los transformadores. Me dijeron que yo era la única persona hasta el momento que había sido capaz de responder.
+En una ocasión asistí (Yudkowsky) a una conferencia en Washington, D. C., para personas que trabajan en «políticas de IA». Mientras estaba allí, un par de personas se me acercaron y me preguntaron si podía explicarles cómo funcionaban los transformadores. «Bueno», les dije, «sería mucho más fácil con una pizarra, pero para intentar resumir de forma sencilla lo que ocurre ahí, la idea clave es que, para cada token, calcula consultas, claves y valores...», y empecé a hablar durante un rato, tratando de expresar todo en términos fáciles de entender para principiantes. Finalmente, las dos personas lograron intervenir y me explicaron que en realidad eran programadores de IA. Habían estado hablando con todos los asistentes a la conferencia, comprobando si las personas que decían trabajar en políticas de IA podían explicar cómo funcionaban los transformadores. Me dijeron que yo era la única persona hasta el momento que había sido capaz de responder.
 
 Me preocupó un poco oír eso.
 
-Cabe preguntarse hasta qué punto es realmente importante para la política de IA el funcionamiento exacto de los transformadores, es decir, en qué medida los pequeños detalles cambian el panorama general.
+Cabe preguntarse hasta qué punto es realmente importante para las políticas de IA el funcionamiento exacto de los transformadores, es decir, en qué medida los pequeños detalles cambian el panorama general.
 
-¿Es necesario que alguien que trabaje en políticas de IA comprenda el mecanismo consulta-clave-valor? Para una mentalidad, la de los nerds a quienes este tipo de aprendizaje les resulta fácil, por supuesto que hay que aprenderlo; puede ser importante. Para esta mentalidad, resulta extraño e inquietante que alguien en una conferencia diga que trabaja en políticas de IA pero no tenga ni idea de cómo funcionan los transformadores.
+¿Es necesario que alguien que trabaje en políticas de IA comprenda el mecanismo consulta-clave-valor? En la opinión de personas a quienes este tipo de aprendizaje les resulta fácil, por supuesto que hay que aprenderlo; puede ser importante. Les resulta extraño e inquietante que alguien en una conferencia diga que trabaja en políticas de IA pero no tenga ni idea de cómo funcionan los transformadores.
 
-Desde un punto de vista más pragmático, algunos aspectos de los transformadores y su historia pueden ser relevantes para cuestiones más amplias. Por ejemplo, el algoritmo estándar requiere cantidades cada vez mayores de cómputo a medida que la IA intenta considerar cada vez más «contexto» simultáneamente: documentos más largos, bases de código más grandes. No puedes simplemente multiplicar por diez los recursos computacionales y obtener una IA que funcione en un proyecto diez veces mayor; necesitas hacer algo inteligente para que un proyecto diez veces mayor cueste menos de cien veces el cómputo.
+Desde un punto de vista más pragmático, algunos aspectos de los transformadores y su historia pueden ser relevantes para cuestiones más amplias. Por ejemplo, el algoritmo estándar requiere cantidades cada vez mayores de cómputo a medida que la IA intenta considerar cada vez más «contexto» simultáneamente: documentos más largos, bases de código más grandes. No puedes simplemente multiplicar por diez los recursos de cómputoo y obtener una IA que funcione en un proyecto diez veces mayor; necesitas hacer algo inteligente para que un proyecto diez veces mayor cueste menos de cien veces el cómputo.
 
-También es importante para las políticas cuánto tiempo tomó inventar el algoritmo transformador, cuántas personas se necesitaron para inventarlo y qué tan complicado es ese algoritmo. La historia es una guía útil (aunque imperfecta) sobre cuánto podríamos necesitar prepararnos para otro gran avance como ese. Del mismo modo, es relevante para las políticas de IA cuánta mejora representaron los transformadores con respecto a la tecnología anterior («redes neuronales recurrentes») para el procesamiento de texto, porque ese tipo de cosas también podrían volver a suceder.
+También es importante para las políticas cuánto tiempo tomó inventar el algoritmo transformador, cuántas personas se necesitaron para inventarlo y qué tan complicado es ese algoritmo. La historia es una guía útil (aunque imperfecta) sobre qué tanto tendríamos que prepararnos para otro gran avance como ese. Del mismo modo, es relevante para las políticas de IA qué tanta mejora representaron los transformadores con respecto a la tecnología anterior (las «redes neuronales recurrentes») para el procesamiento de texto, porque ese tipo de cosas también podrían volver a suceder.
 
 ¿Realmente necesitas ser capaz de esbozar las matrices QKV?
 
-Probablemente no. Podemos hacerlo, y en un grupo de docenas de personas que trabajan en políticas de IA, nos sentiríamos más optimistas si al menos una tuviera los conocimientos necesarios para hacer lo mismo. No está de más estar seguros; nunca se sabe qué tipo de hecho importante puede acabar oculto en un detalle como ese.
+Probablemente no. Nosotros podemos, y en un grupo de docenas de personas que trabajan en políticas de IA, nos sentiríamos más optimistas si al menos una tuviera los conocimientos necesarios para hacerlo. No está de más estar seguros; nunca se sabe qué tipo de hecho importante puede acabar oculto en un detalle como ese.
 
-Yo (Yudkowsky) no puedo esbozar de memoria solo los detalles de una [puerta SwiGLU](https://arxiv.org/pdf/2002.05202) y en qué se diferencia de una GLU, porque cuando sí los busqué, los detalles exactos no parecían tener ninguna relevancia para cuestiones más amplias en absoluto, así que no los memoricé. Pero podría ser informativo para el novato que SwiGLU se encontró mediante una especie de prueba a ciegas, y que los autores del artículo dijeron abiertamente que no tienen idea de por qué estas técnicas funcionan en la práctica. Ya conocíamos muchos casos como ese, pero si *no* sabías que las personas que desarrollan mejoras arquitectónicas a menudo dicen que no tienen idea de por qué funcionan, esa es una información relevante.
+Yo (Yudkowsky) no puedo esbozar de memoria los detalles de una [puerta SwiGLU](https://arxiv.org/pdf/2002.05202) ni en qué se diferencia de una GLU, porque cuando los busqué, los detalles exactos no parecían tener ninguna relevancia para cuestiones más amplias, así que no los memoricé. Pero podría ser informativo para un novato saber que SwiGLU se encontró mediante una especie de prueba a ciegas, y que los autores del artículo dijeron abiertamente que no tenían idea de por qué estas técnicas funcionan en la práctica. Ya conocíamos muchos casos como ese, pero si *no* sabías que las personas que desarrollan mejoras arquitectónicas a menudo dicen que no tienen idea de por qué funcionan, esa es una información relevante.
 
-Todo lo cual se resume en: saber al menos un poco sobre cómo funcionan los LLM es importante para que puedas ver lo poco que *cualquiera* sabe sobre la IA moderna.
+En resumen: saber al menos un poco sobre cómo funcionan los LLM es importante para que puedas ver lo poco que *cualquiera* sabe sobre la IA moderna.
 
 A veces, los expertos pretenderán tener conocimiento secreto al que solo pueden acceder las personas que han trabajado durante años desarrollando una IA. Pero no pueden nombrar su conocimiento, y las personas que escriben artículos dicen oraciones como (citando el artículo que introduce SwiGLU):
 
 > No ofrecemos ninguna explicación de por qué estas arquitecturas parecen funcionar; atribuimos su éxito, como todo lo demás, a la benevolencia divina.
 
-A veces, los expertos científicos saben cosas que nosotros no sabemos. Pero es bastante raro en la ciencia que alguien diga: «Tengo conocimiento terriblemente raro y refinado que muestra que lo que dices es incorrecto, y simplemente tendrás que creerme; no puedo posiblemente decir qué tipo de resultado experimental o fórmula matemática sé que tú no».
+A veces, los expertos científicos saben cosas que nosotros no sabemos. Pero es bastante raro en la ciencia que alguien diga: «Tengo conocimiento increíblemente raro y refinado que muestra que lo que dices es incorrecto, y simplemente tendrás que creerme; no puedo decir qué tipo de resultado experimental o fórmula matemática conozco que tú no conoces».
 
-Puedes imaginar un mundo en el que solo se debe escuchar a las personas a las que se les paga salarios de siete cifras por saber cómo establecer el programa de aprendizaje en un optimizador de descenso de gradiente, un mundo en el que solo ellos son lo suficientemente inteligentes como para haber leído sobre los experimentos clave y aprendido las fórmulas clave para saber que la humanidad estaría perfectamente a salvo de la superinteligencia de máquina, o para saber que la superinteligencia de máquina no se puede crear por otros 100 años. ¡Ese tipo de cosas a veces sí ocurren en otros campos de la ciencia! Pero cuando ocurre, el experto usualmente puede señalar alguna fórmula o resultado experimental y decir: «Esta es la parte que la gente común no entiende». No podemos recordar de memoria una ocasión histórica en la que se afirmara que el conocimiento era completamente inaccesible para una audiencia externa técnicamente alfabetizada, y también que ese conocimiento resultara ser verdadero.
+Puedes imaginar un mundo en el que solo se debe escuchar a las personas a las que se les pagan salarios de siete cifras por saber cómo establecer el programa de aprendizaje en un optimizador de descenso de gradiente, un mundo en el que solo ellos son lo suficientemente inteligentes como para haber leído sobre los experimentos clave y aprendido las fórmulas clave para saber que la humanidad estaría perfectamente a salvo de la superinteligencia de máquinas, o para saber que la superinteligencia de máquina no se podrá crear por otros 100 años. ¡Ese tipo de cosas a veces sí ocurren en otros campos de la ciencia! Pero cuando ocurre, el experto usualmente puede señalar alguna fórmula o resultado experimental y decir: «Esta es la parte que la gente común no entiende». No podemos recordar de memoria una ocasión histórica en la que se afirmara que el conocimiento era completamente inaccesible para una audiencia externa técnicamente alfabetizada, y también que ese conocimiento resultara ser verdadero.
 
-Puede que llegue un momento en el que un representante de la industria de la IA te pase el brazo por los hombros y te insista en que *ellos* entienden lo que están construyendo, que todo son solo números, que todo irá bien. Por lo tanto, es útil saber un poco sobre los detalles de cómo se desarrollan las IA, para que cuando alguien te haga esta afirmación, puedas preguntarle qué le hace estar tan seguro.
+Puede que llegue un momento en el que un representante de la industria de la IA te pase el brazo por los hombros y te insista en que *ellos* entienden lo que están construyendo, que todo son solo números, que todo irá bien. Por lo tanto, es útil saber un poco sobre los detalles de cómo se cultivan las IA, para que cuando alguien afirme eso, puedas preguntarle qué le hace estar tan seguro.
 
-### Descripción completa de un LLM {#una-descripcion-completa-de-un-llm}
+### Descripción completa de un LLM {#descripcion-completa-de-un-llm}
 
 #### **Cómo funciona Llama 3.1 405B** {#cómo-funciona-llama-3.1-405b}
 
-En el libro, prometimos una descripción más completa de un LLM llamado Llama 3.1 405B. A continuación, presentamos esa descripción. Está aquí para los curiosos y con el fin de comprender realmente hasta qué punto las IA modernas se desarrollan en lugar de crearse. (Véase también: [¿De qué sirve el conocimiento de los LLM?](#what-good-does-knowledge-of-llms-do?))
+En el libro, prometimos una descripción más completa de un LLM llamado Llama 3.1 405B. A continuación presentamos esa descripción para los curiosos y con el fin de comprender realmente hasta qué punto las IA modernas se cultivan y no se fabrican. (Véase también: [¿De qué sirve el conocimiento sobre los LLM?](#¿de-qué-sirve-el-conocimiento-sobre-los-llms?))
 
-La siguiente explicación es bastante detallada, y daremos por sentado (aquí, pero no en el resto de los recursos en línea) que tienes algunos conocimientos técnicos, aunque no daremos por sentado ningún conocimiento especializado sobre IA. Si empiezas a leer esta sección y no te resulta útil, puedes saltártela.
+La siguiente explicación es bastante detallada, y asumiremos (aquí, pero no en el resto de los recursos en línea) que tienes algunos conocimientos técnicos, aunque no ningún conocimiento especializado, sobre IA. Si empiezas a leer esta sección y no te resulta útil, puedes saltártela.
 
-Por lo general, no se publican los detalles sobre cómo se entrenan los modelos de lenguaje más capaces, ni tampoco el programar. Pero hay excepciones. Uno de los sistemas más potentes cuya arquitectura y pesos se han hecho públicos, en el momento de redactar este libro a finales de 2024, era Llama 3.1 405B, creado por la división de IA de Meta. El «405B» hace referencia a los 405 000 millones de parámetros de la arquitectura, rellenados por 405 000 millones de pesos.
+Por lo general, no se publican los detalles sobre cómo se entrenan los modelos de lenguaje más capaces, ni tampoco el código. Pero hay excepciones. Uno de los sistemas más potentes cuya arquitectura y pesos se habían hecho públicos, en el momento de redactar este libro a finales de 2024, era Llama 3.1 405B, creado por la división de IA de Meta. El «405B» hace referencia a los 405 000 millones de parámetros de la arquitectura, rellenados por 405 000 millones de pesos.
 
 ¿Por qué estamos analizando este modelo de IA en particular? Llama 3.1 405B es de «pesos abiertos»,[^57] lo que significa que puedes descargar tú mismo esos 405 000 millones de números inescrutables (junto con el esqueleto de código, mucho más pequeño y escrito por humanos, que realiza operaciones aritméticas con los 405 000 millones de números y, por lo tanto, ejecuta la IA). Esto nos permite hacer afirmaciones sobre su diseño con cierta confianza.[^58]
 
@@ -1763,9 +1763,9 @@ Para convertir cada token en un vector, a cada token posible se le asigna un pes
 
 $$128{,}256 \\times 16{,}384 \= 2{,}101{,}248{,}000$$
 
-Dos mil millones de parámetros menos. ¡Quedan cuatrocientos tres mil millones por delante!
+Dos mil millones de parámetros menos. ¡Quedan 403 000 millones por delante!
 
-Solo para repetirlo: ningún humano le dice a Llama qué significan los tokens, inventa el vector de 16 384 números al que se traduce una palabra ni sabe qué significa el vector de números para cualquier palabra. Los dos mil millones de parámetros llegaron allí mediante descenso de gradiente. Los números se ajustan, junto con otros parámetros que presentaremos, para aumentar la probabilidad asignada al siguiente token verdadero.[^59]
+Para que quede claro: ningún humano le dice a Llama qué significan los tokens, inventa el vector de 16 384 números al que se traduce una palabra ni sabe qué significa el vector de números para cualquier palabra. Los dos mil millones de parámetros llegaron allí mediante descenso de gradiente. Los números se ajustan, junto con otros parámetros que presentaremos, para aumentar la probabilidad asignada al siguiente token verdadero.[^59]
 
 Supongamos que Llama comienza analizando un bloque de 1000 palabras, como un fragmento de un ensayo. (O más bien, 1000 tokens. Pero a partir de ahora, para simplificar, a veces diremos simplemente «palabras»).
 
@@ -1773,7 +1773,7 @@ Para cada una de esas palabras, buscamos esa palabra en el diccionario del LLM y
 
 1000 palabras × (16 384 números / palabra) = 16 384 000 números en total. A esto lo llamamos «activaciones» en la primera «capa» de los cálculos de Llama (es decir, su cognición, su actividad mental).
 
-Puedes imaginarlas dispuestas en un rectángulo plano en el suelo de 1000 números de largo (la longitud de los datos de entrada) por 16 384 números de ancho (números por palabra en la primera capa). Aquí tienes uno de esos vectores, en el que el color de cada píxel corresponde al número del vector:
+Puedes imaginarlas dispuestas en un rectángulo plano en el suelo de 1000 números de largo (la longitud de los datos de entrada) por 16 384 números de ancho (los números por palabra en la primera capa). Aquí tienes uno de esos vectores, en el que el color de cada píxel corresponde al número del vector:
 
 ![][imagen5]
 
@@ -1786,11 +1786,11 @@ Ten en cuenta también que hay dos números diferentes aquí que no deben confun
 
 Ahora tenemos nuestra enorme matriz de números que representa nuestra consulta en todo su esplendor, y podemos empezar a utilizarla.
 
-Lo primero es algo llamado «normalización» (https://en.wikipedia.org/wiki/Normalization_\(aprendizaje automático\)), que ocurre muchas veces durante el procesamiento de un LLM. Es similar a la normalización en estadística, pero con un giro de aprendizaje automático. Ese toque es que, después de normalizar los datos dentro de cada *fila*, se multiplica un parámetro específico aprendido llamado «escala» por cada *columna*. Estos números de escala, como todos los demás parámetros que discutiremos, se aprenden durante el entrenamiento. Además, la normalización de capas se produce docenas de veces, y cada vez tiene un *nuevo* lote de parámetros de escala, por lo que la normalización tiene en cuenta muchísimos parámetros a lo largo del LLM. Específicamente, 16 384 parámetros por normalización. (Si tienes curiosidad por saber más detalles sobre el tipo de normalización que utiliza Llama 3.1 405B, se llama RMSNorm).
+Lo primero es algo llamado «[normalización] (https://en.wikipedia.org/wiki/Normalization_\(aprendizaje automático\))», que ocurre muchas veces durante el procesamiento de un LLM. Es similar a la normalización en estadística, pero con un giro de aprendizaje automático. Ese giro es que, después de normalizar los datos dentro de cada *fila*, se multiplica un parámetro específico aprendido llamado «escala» por cada *columna*. Estos números de escala, como todos los demás parámetros que discutiremos, se aprenden durante el entrenamiento. Además, la normalización de capas se produce docenas de veces, y cada vez tiene un *nuevo* lote de parámetros de escala, por lo que la normalización tiene en cuenta muchísimos parámetros a lo largo del LLM. Específicamente, 16 384 parámetros por normalización. (Si tienes curiosidad por saber más detalles sobre el tipo de normalización que utiliza Llama 3.1 405B, se llama RMSNorm).
 
-Quizás estés pensando: «Vaya, hay mucho preprocesamiento», y, de hecho, tienes razón. De hecho, hemos pasado por alto algunos de los puntos más delicados, por lo que hay aún más de lo que parece, y ahora estamos llegando a la característica más distintiva de los LLM: la capa de «atención».
+Quizás estés pensando: «Vaya, hay mucho preprocesamiento», y tienes razón. De hecho, hemos pasado por alto algunos de los puntos más delicados, por lo que hay aún más de lo que parece, y ahora estamos llegando a la característica más distintiva de los LLM: la capa de «atención».
 
-La «atención» es el motivo de todo el revuelo que ha causado el «transformador» (si tienes suficiente edad como para recordar el revuelo que causó la nueva invención de los transformadores). Los LLM son una especie de «transformadores»; los transformadores se presentaron en un artículo de 2017 titulado «[Attention Is All You Need] (https://arxiv.org/abs/1706.03762)». A este artículo, más que a ningún otro, se le atribuye el éxito de los LLM. Una capa de «atención» funciona así:
+La «atención» es el motivo de todo el revuelo que ha causado el «transformador» (si tienes suficiente edad como para recordar el revuelo que causó la invención de los transformadores). Los LLM son una especie de «transformadores»; los transformadores se presentaron en un artículo de 2017 titulado «[Attention Is All You Need] (https://arxiv.org/abs/1706.03762)». A este artículo, más que a ningún otro, se le atribuye el éxito de los LLM. Una capa de «atención» funciona así:
 
 Tomamos cada uno de los 1000 vectores de 16 384 activaciones y transformamos cada vector de 16 384 activaciones:
 
@@ -1802,31 +1802,31 @@ El «paso de atención» situado encima de cada token consiste en emparejar cada
 
 Esto permite, a grandes rasgos, que cada una de las activaciones situadas encima de un token cree un conjunto de «consultas», que luego exploran las «claves» situadas encima de todos los demás tokens. Cuando la consulta de un token coincide mejor con una clave, recupera el valor correspondiente con mayor intensidad, para pasarlo a los cálculos posteriores situados encima de ese token.
 
-Por ejemplo, la palabra «right» podría activar una consulta diseñada para examinar palabras vecinas y ver si alguna de ellas está relacionada con *direcciones espaciales* o, alternativamente, con *creencias*, para determinar si la palabra «right» significa derecha como en «right-handed» o correcto como en «right answer». (Una vez más, todo eso se aprende mediante descenso de gradiente; nada de ello está programado por humanos que piensen en los diferentes significados que puede tener la palabra inglesa «right»).[^60]
+Por ejemplo, la palabra «right» podría activar una consulta diseñada para examinar palabras vecinas y ver si alguna de ellas está relacionada con *direcciones espaciales* o, alternativamente, con *creencias*, para determinar si la palabra «right» significa derecha como en «right-handed» o correcto como en «right answer». (De nuevo, todo eso se aprende mediante descenso de gradiente; nada de ello está programado por humanos que piensen en los diferentes significados que puede tener la palabra inglesa «right»).[^60]
 
 Las capas de atención en un LLM son bastante grandes, con un gran número de parámetros en cada una. Llama 3.1 405b, en particular, tiene 126 capas de atención de este tipo (solo hemos descrito la primera de ellas), y cada una de las 126 tiene 570 425 344 parámetros, distribuidos entre matrices de consulta, clave, valor y salida.[^61]
 
-Una vez completada la subcapa de atención, y obtenemos una matriz del mismo tamaño que la inicial (en nuestro ejemplo, 16 384 por 1000), realizamos algo que se denomina «conexión residual». Básicamente, se toma la entrada original de la subcapa (en este caso, la enorme matriz con la que empezamos) y se suma a lo que hayamos obtenido. Esto evita que cualquier subcapa cambie *demasiado* en cualquier paso dado (y tiene otras propiedades técnicas útiles).
+Una vez completada la subcapa de atención, y obtenemos una matriz del mismo tamaño que la inicial (en nuestro ejemplo, 16 384 por 1000), realizamos algo que se denomina «conexión residual». Básicamente, se toman los datos de entrada originales de la subcapa (en este caso, la enorme matriz con la que empezamos) y se suma a lo que hayamos obtenido. Esto evita que cualquier subcapa cambie *demasiado* en cualquier paso dado (y tiene otras propiedades técnicas útiles).
 
-A continuación, el resultado se pasa por lo que se denomina una «red de alimentación directa». La variante utilizada por Llama 3.1 405B se basa en una operación denominada «SwiGLU». SwiGLU fue descubierta por algunos investigadores que probaron entrenar con muchas fórmulas variantes diferentes para ver cuáles funcionaban mejor, de las cuales su [artículo original](https://arxiv.org/pdf/2002.05202) decía (como también hemos [señalado en otra parte](#¿de-qué-sirve-el-conocimiento-de-los-llms?)):
+A continuación, el resultado se pasa por lo que se denomina una «red prealimentada». La variante utilizada por Llama 3.1 405B se basa en una operación denominada «SwiGLU». SwiGLU fue descubierta por algunos investigadores que probaron entrenar con distintas fórmulas variantes para ver cuáles funcionaban mejor, de las cuales su [artículo original](https://arxiv.org/pdf/2002.05202) decía (como también hemos [señalado en otra parte](#¿de-qué-sirve-el-conocimiento-sobre-los-llms?)):
 
 No ofrecemos ninguna explicación de por qué estas arquitecturas parecen funcionar; atribuimos su éxito, como todo lo demás, a la benevolencia divina.
 
-Como todas las redes de alimentación directa, SwiGLU básicamente expande nuestra matriz de 16 384 por 10 000 a una matriz aún más grande, realiza algunas transformaciones en ella y luego la comprime de nuevo. Concretamente, cada fila pasa de tener 16 384 columnas a 53 248 columnas, y luego regresa a 16 384.
+Como todas las redes prealimentada, SwiGLU básicamente expande nuestra matriz de 16 384 por 10 000 a una matriz aún más grande, realiza algunas transformaciones en ella y luego la comprime de nuevo. Concretamente, cada fila pasa de tener 16 384 columnas a 53 248 columnas, y luego regresa a 16 384.
 
-Ahora que hemos terminado con la subcapa de alimentación directa, volvemos a realizar la conexión residual, sumando lo que teníamos al principio con lo que hemos obtenido al final.
+Ahora que hemos terminado con la subcapa prealimentada, volvemos a realizar la conexión residual, sumando lo que teníamos al principio con lo que hayamos obtenido.
 
 Ha sido un camino largo, pero ahora hemos transformado muy ligeramente nuestra gigantesca matriz.
 
-Todos esos pasos juntos constituyen una sola «capa». Llama tiene 126 capas, por lo que repetiremos todos estos pasos (normalización, mecanismo de atención, conexión residual, red de avance y conexión residual de nuevo) 125 veces.
+Todos esos pasos juntos constituyen una sola «capa». Llama tiene 126 capas, por lo que repetiremos todos estos pasos (normalización, mecanismo de atención, conexión residual, red prealimentada y conexión residual de nuevo) 125 veces.
 
 Al final de las 126 capas, obtenemos una matriz del mismo tamaño que la inicial; en nuestro ejemplo, 16 384 por 1000. Cada fila de esta matriz se puede proyectar en un nuevo vector de 128 256 números, uno por cada token del diccionario completo del modelo. Estos números pueden ser positivos o negativos, pero se puede utilizar una práctica función llamada softmaxing para convertirlos todos en probabilidades, cuya suma es uno. Esas probabilidades son la predicción de Llama sobre qué token vendrá a continuación.
 
-Ahora es posible hacer que Llama genere un nuevo token. Una forma de hacerlo es tomar el token al que Llama le ha dado la mayor probabilidad, aunque también se puede cambiar las cosas tomando ocasionalmente tokens que, según él, son un poco menos probables.[^62]
+Ahora es posible hacer que Llama genere un nuevo token. Una forma de hacerlo es tomar el token al que Llama le ha dado la mayor probabilidad, aunque también se pueden cambiar las cosas tomando ocasionalmente tokens que, según él, son un poco menos probables.[^62]
 
 Si estás ejecutando Llama de forma normal, como en una interfaz de chatbot, todo este proceso ha generado un único token. Ese token se coloca al final de los datos de entrada y repetimos todo desde cero para el siguiente token. Así que haríamos todos los pasos comentados anteriormente, excepto que ahora nuestra matriz tiene 1001 filas. Luego, otro token más tarde, 1002, y así sucesivamente.
 
-Hemos omitido muchos detalles, pero así es, básicamente, cómo funciona Llama 3.1 405B.
+Hemos omitido muchos detalles, pero básicamente así es cómo funciona Llama 3.1 405B.
 
 #### **Los LLM son grandes** {#los-llm-son-grandes}
 
@@ -1836,11 +1836,11 @@ Para que Llama pueda procesar un texto de 1000 palabras (o más bien 1000 tokens
 
 Si 810 billones te parece mucho, ten en cuenta que la mayoría de los 405 000 millones de parámetros de Llama se utilizan en *alguna* operación aritmética *cada* vez que se procesa *cualquier* palabra.[^64]
 
-Si Llama se está *entrenando* con un lote de 1000 tokens, cada uno de los 1000 tokens se comparará con la siguiente palabra real y las pérdidas se propagarán mediante descenso de gradiente, para determinar cómo el ajuste de los 405 000 millones de parámetros compartidos habría cambiado las probabilidades asignadas a las respuestas verdaderas en todos los casos. Esto requerirá muchos más poder de cómputo y muchos más números.
+Si Llama se está *entrenando* con un lote de 1000 tokens, cada uno de los 1000 tokens se comparará con la siguiente palabra real y las pérdidas se propagarán mediante descenso de gradiente, para determinar cómo el ajuste de los 405 000 millones de parámetros compartidos habría cambiado las probabilidades asignadas a las respuestas verdaderas en todos los casos. Esto requerirá mucho más poder de cómputo y muchos más números.
 
 Durante el entrenamiento de los 405 000 millones de parámetros de Llama con 15,6 billones de tokens, se necesitaron alrededor de 38 cuatrillones de cálculos, es decir, 38 seguido de 24 ceros.
 
-Si, por el contrario, Llama ha terminado el entrenamiento y se ejecuta en *modo de inferencia* (es decir, si está generando texto nuevo, como en un chat con un usuario)*,* las probabilidades solo se calcularán por encima del último token, como si se predijera cuál sería la siguiente palabra si la IA estuviera leyendo un texto producido por humanos.
+Si, por el contrario, Llama ha terminado el entrenamiento y se ejecuta en *modo de inferencia* (es decir, si está generando texto nuevo, como en un chat con un usuario), las probabilidades solo se calcularán por encima del último token, como si se predijera cuál *sería* la siguiente palabra si la IA estuviera leyendo un texto producido por humanos.
 
 A continuación, un esqueleto de código escrito por humanos que rodea a Llama seleccionará la respuesta que Llama considera más probable.[^65]
 
@@ -1848,9 +1848,9 @@ A continuación, un esqueleto de código escrito por humanos que rodea a Llama s
 
 Para lidiar con mil palabras, un Llama utiliza 405 000 millones de pequeños parámetros inescrutables en 810 billones de cálculos, cálculos matemáticamente dispuestos en rectángulos, cubos y formas de dimensiones superiores.
 
-A veces llamamos a estas disposiciones «matrices gigantes e inescrutables», porque si te fijas en algunos de los parámetros de Llama, incluso los más simples almacenados en el sencillo diccionario que se encuentra en la base de la vasta pila de capas, los primeros parámetros de la palabra «derecha» tienen este aspecto:
+A veces llamamos a estas disposiciones «matrices gigantes e inescrutables», porque si te fijas en algunos de los parámetros de Llama, incluso los más simples almacenados en el sencillo diccionario que se encuentra en la base de la vasta pila de capas, los primeros parámetros de la palabra «right» tienen este aspecto:
 
-:::Teletype  
+:::Teletipo  
 \[-0.00089263916015625,     0.01092529296875,  
   0.00102996826171875,    \-0.004302978515625,  
  \-0.00830078125,          \-0.0021820068359375,  
@@ -1869,7 +1869,7 @@ A veces llamamos a estas disposiciones «matrices gigantes e inescrutables», po
  -0.00537109375,           0.005859375,  
 :::
 
-... y así sucesivamente hasta alcanzar los 16 384 números. En cuanto al significado de estos números, nadie en la faz de la Tierra lo sabe actualmente.
+…y así sucesivamente hasta alcanzar los 16 384 números. En cuanto a lo que *significan* estos números, nadie en la faz de la Tierra lo sabe actualmente.
 
 Yo (Soares) cronometré el tiempo que tardaba en recitar en voz alta los primeros treinta y dos números con seis dígitos significativos. Me llevó dos minutos y cuatro segundos. Recitar todos los parámetros de la palabra «derecha», incluso con esa abreviatura, me llevaría más de diecisiete horas. Al terminar de recitarlos, seguiría sin saber más que antes sobre lo que significa la palabra «derecha» para Llama.
 
@@ -1951,7 +1951,7 @@ Construir IA que puedan hacer cosas suficientemente impresionantes tenderá a ca
 
 Cuando decimos que una IA «quiere» algo, no queremos decir que la IA vaya a tener necesariamente deseos o sentimientos al estilo humano. Tal vez los tenga, o tal vez no. Lo que queremos decir en su lugar es que la IA se *comportará como si* quisiera cosas. Dirigirá confiablemente el mundo hacia ciertos tipos de resultados — anticipando obstáculos, adaptándose a circunstancias cambiantes, y manteniéndose enfocada, orientada e impulsada.
 
-En el Capítulo 3 de *If Anyone Builds It, Everyone Dies*, cubrimos temas que incluyen:
+En el capítulo 3 de *If Anyone Builds It, Everyone Dies*, cubrimos temas que incluyen:
 
 * ¿Cómo podría una máquina adquirir la capacidad de «desear» cosas, en el sentido relevante?  
 * ¿Existe alguna evidencia de que las IA puedan desear cosas?  
@@ -2025,7 +2025,7 @@ Sería posible *en teoría* construir una IA que solo sirviera como una extensi�
 
 Sería igualmente difícil hacer una IA que sea capaz de completar tareas a largo plazo por iniciativa propia, pero que solo use esa iniciativa exactamente como el usuario pretendía. Mientras tanto, los desarrolladores de IA modernos están en el nivel de control donde tocan las IA y accidentalmente obtienen MechaHitler o nazis racialmente diversos. No están ni cerca del nivel de habilidad que necesitarían para hacer una IA que fuera útil pero no impulsada.
 
-Véase también la discusión en el Capítulo 4 sobre lo muy difícil que es entrenar una IA para que persiga los objetivos que está destinada a lograr.
+Véase también la discusión en el capítulo 4 sobre lo muy difícil que es entrenar una IA para que persiga los objetivos que está destinada a lograr.
 
 ### ¿Cómo podría una máquina acabar teniendo sus propias prioridades? {#¿cómo-podría-una-máquina-acabar-teniendo-sus-propias-prioridades?}
 
@@ -2053,15 +2053,15 @@ Algunas personas carecen de este tipo de tenacidad y se vuelven perezosas o se r
 
 Si una IA quiere alcanzar objetivos difíciles en el mundo real, tiene que perseguirlos con tenacidad, buscando dinámicamente formas de sortear cualquier obstáculo que surja en su camino.
 
-Las IA no necesariamente terminarán teniendo los mismos sentimientos y deseos internos que los humanos (y, de hecho, es muy probable que no los tengan, como argumentamos en el Capítulo 4), porque nuestros sentimientos específicos fueron moldeados por los detalles de nuestra biología y de nuestra ascendencia. Pero las IA son propensas a terminar con un *comportamiento* similar al deseo por las mismas razones que los humanos: ¡porque es útil!
+Las IA no necesariamente terminarán teniendo los mismos sentimientos y deseos internos que los humanos (y, de hecho, es muy probable que no los tengan, como argumentamos en el capítulo 4), porque nuestros sentimientos específicos fueron moldeados por los detalles de nuestra biología y de nuestra ascendencia. Pero las IA son propensas a terminar con un *comportamiento* similar al deseo por las mismas razones que los humanos: ¡porque es útil!
 
-(Una vez más, ya estamos empezando a ver esto en el laboratorio, como en el caso de o1 de OpenAI, analizado en el Capítulo 3).
+(Una vez más, ya estamos empezando a ver esto en el laboratorio, como en el caso de o1 de OpenAI, analizado en el capítulo 3).
 
 Los deseos, anhelos e impulsos humanos fueron útiles evolutivamente, incluso cuando esos deseos, anhelos e impulsos no eran exactamente *para* el propósito de la aptitud evolutiva per se. Hipotéticamente, la evolución podría haber inculcado en nosotros un único impulso predominante hacia los descendientes, y entonces podríamos haber buscado comidas calientes y hachas más afiladas *únicamente con el propósito* de tener más descendientes. Pero, en cambio, la evolución nos inculcó deseos de comidas calientes *por derecho propio*.
 
 La lección que se desprende es que tener impulsos y propósitos es tan útil que puede ser beneficioso para una tarea (como la «aptitud genética») incluso cuando el deseo no coincide exactamente con la tarea. O, bueno, puede ser útil durante un tiempo, hasta que las entidades con impulsos y propósitos empiezan a ser realmente inteligentes, momento en el que su comportamiento puede divergir bruscamente del objetivo de «entrenamiento», como hizo la humanidad cuando inventó el control de natalidad.
 
-Para más información sobre este argumento, véase el Capítulo 4.
+Para más información sobre este argumento, véase el capítulo 4.
 
 #### **Al ser cultivadas en lugar de diseñadas, las IA son propensas a acabar con los objetivos incorrectos.** {#al-ser-cultivadas-en-lugar-de-diseñadas,-las-ia-son-propensas-a-acabar-con-los-objetivos-incorrectos.}
 
@@ -2232,7 +2232,7 @@ Y una mente puede ser *inteligente* sin ser *humana* — sin experimentar repugn
 
 Una mente como la de Deep Blue puede comportarse como si «quisiera ganar» sin tener emociones. Una IA puede comportarse como si quisiera cosas — superando obstáculos competentemente, persiguiendo tenazmente un resultado — sin sentir un impulso o deseo interno *a la manera de un humano* y sin querer *el mismo tipo de resultados que quieren los humanos*.
 
-Para más información sobre lo que las IA *acabarán* queriendo, continúa con el Capítulo 4.
+Para más información sobre lo que las IA *acabarán* queriendo, continúa con el capítulo 4.
 
 ### El camino hacia el deseo {#el-camino-hacia-el-deseo}
 
@@ -2457,7 +2457,7 @@ Pero ese equilibrio está determinado no solo por las fuerzas internas de la IA,
 
 Bueno, esa es la pregunta que abordaremos en el capítulo 5.
 
-### ¿No hacen los desarrolladores regularmente que sus IA sean agradables, seguras y obedientes? {#¿no-hacen-los-desarrolladores-regularmente-que-sus-ia-sean-agradables-seguras-y-obedientes?}
+### ¿No hacen los desarrolladores regularmente que sus IA sean agradables, seguras y obedientes? {#¿no-hacen-los-desarrolladores-regularmente-que-sus-ia-sean-agradables,-seguras-y-obedientes?}
 
 #### **\* Las IA se dirigen en direcciones alienígenas que solo coinciden principalmente con ser útiles.** {#*-las-ia-se-dirigen-en-direcciones-extrañas-que-solo-coinciden-en-su-mayor-parte-con-la-utilidad.}
 
