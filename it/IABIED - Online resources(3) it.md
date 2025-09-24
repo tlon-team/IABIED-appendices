@@ -1,6 +1,3 @@
----
-original_path: IABIED - Online resources(3).md
----
 ### L'intelligenza artificiale non dovrebbe diventare una vera e propria civiltà prima di poter essere pericolosa?
 
 #### **Con i computer, la parte difficile è far loro risolvere un certo problema. Volume elevato e velocità arrivano subito dopo.** {#con-i-computer,-la-parte-difficile-è-far-loro-risolvere-un-certo-problema.-volume-elevato-e-velocità-arrivano-subito-dopo.}
