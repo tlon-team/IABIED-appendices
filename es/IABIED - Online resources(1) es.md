@@ -2,7 +2,7 @@
 
 Este es el primer suplemento en línea de [*If Anyone Builds It, Everyone Dies*](https://www.amazon.com/gp/product/0316595640) (Si alguien lo construye, todos mueren), de Yudkowsky y Soares. Cada capítulo responde a preguntas comunes e incluye debates ampliados que profundizan en los antecedentes y detalles que no eran esenciales para el libro.
 
-Estos recursos contienen mucho contenido y no están diseñados para leerse de principio a fin. Escribimos el libro para que fuera autónomo y cubriera todo el argumento central. Pero si tienes alguna pregunta, objeción o curiosidad específica que el libro no haya podido satisfacer, es muy probable que encuentres más información al respecto aquí. Si echas en falta algo importante, solicítalo \[aquí\](TODO).
+Estos recursos incluyen mucho contenido y no están diseñados para leerse de principio a fin. Escribimos el libro con el objetivo de que fuera autónomo y cubriera todo el argumento central. Pero si tienes alguna pregunta, objeción o curiosidad específica que el libro no haya podido satisfacer, es muy probable que encuentres más información al respecto aquí. Si echas en falta algo importante, solicítalo \[aquí\](TODO).
 
 ## Preguntas frecuentes {#preguntas-frecuentes}
 
@@ -16,30 +16,30 @@ En 1933, el físico Leo Szilard fue el primero en darse cuenta de que las reacci
 
 Creemos que si se observa la IA desde la perspectiva adecuada, hoy es posible prever uno de los giros que dará la historia. Y creemos que las cosas irán mal si la humanidad no cambia de rumbo.
 
-Los laboratorios de IA compiten por construir máquinas más inteligentes que cualquier ser humano y parecen estar logrando avances significativos en este campo. Como veremos en los próximos capítulos, las IA modernas son más «desarrolladas» que «creadas». Muestran comportamientos que nadie ha pedido ni deseado, y están en camino de superar la capacidad de cualquier ser humano. Esto nos parece una situación extremadamente peligrosa.
+Los laboratorios de IA compiten por construir máquinas más inteligentes que cualquier ser humano y parecen estar logrando avances significativos en este campo. Como veremos en los próximos capítulos, las IA modernas no se «fabrican», se «cultivan». Muestran comportamientos que nadie ha pedido ni deseado, y están en camino de superar la capacidad de cualquier ser humano. Esto nos parece una situación extremadamente peligrosa.
 
-Los principales científicos del campo se reunieron para firmar una [carta abierta](https://aistatement.com/) en la que advertían al público que la amenaza de la IA debía tratarse como una «prioridad mundial, junto a otros riesgos a escala societal como las pandemias y la guerra nuclear». No se trata de una preocupación aislada, sino que es compartida por [casi la mitad de los expertos en la materia](#expertos-en-ia-sobre-escenarios-catastroficos). Aunque al principio se muestre escéptico ante estos peligros, esperamos que el nivel de preocupación de los expertos en IA, y lo mucho que está en juego si sus inquietudes son acertadas, deje claro por qué este es un tema que merece un debate serio.
+Los principales científicos del campo se reunieron para firmar una [carta abierta](https://aistatement.com/) en la que advertían al público que la amenaza de la IA debía tratarse como una «prioridad mundial, junto a otros riesgos a escala societal como las pandemias y la guerra nuclear». No se trata de una preocupación aislada, sino que es compartida por [casi la mitad de los expertos en la materia](#expertos-en-ia-sobre-escenarios-catastroficos). Aunque al principio seas escéptico ante estos peligros, esperamos que el nivel de preocupación de los expertos en IA, y lo mucho que está en juego si sus inquietudes son acertadas, deje claro por qué merece la pena debatir seriamente sobre este tema.
 
-Este es un tema en el que debemos sopesar los argumentos en lugar de simplemente seguir nuestra primera intuición. Si las cartas y advertencias son correctas, el mundo se encuentra en una situación increíblemente peligrosa. Dedicaremos el resto del libro a exponer los argumentos y las pruebas que respaldan tales advertencias.
+Es un tema en el que debemos sopesar los argumentos en lugar de simplemente seguir nuestra primera intuición. Si las cartas y advertencias son correctas, el mundo se encuentra en una situación increíblemente peligrosa. Dedicaremos el resto del libro a exponer los argumentos y las pruebas que respaldan tales advertencias.
 
-No creemos que la situación sea desesperada. Hemos escrito este libro con la esperanza de cambiar la trayectoria que parece seguir la humanidad, porque creemos que es posible encontrar una solución.
+No creemos que no haya anda qué hacer. Hemos escrito este libro con la esperanza de cambiar la trayectoria que parece seguir la humanidad, porque creemos que es posible encontrar una solución.
 
-El primer paso para resolver un problema es comprenderlo.
+Pero el primer paso para resolver un problema es comprenderlo.
 
 ### ¿Están sugiriendo que ChatGPT podría matarnos a todos? {#¿están-sugiriendo-que-chatgpt-podría-matarnos-a-todos?}
 
 #### **No. La preocupación se centra en los próximos avances en IA.** {#no.-la-preocupación-se-centra-en-los-próximos-avances-en-ia.}
 
-Una de las razones por las que estás leyendo este libro ahora es que avances como ChatGPT han llevado la IA a los titulares. El mundo está empezando a debatir el progreso de la IA y su impacto en la sociedad. Esto representa una oportunidad natural para hablar sobre una IA más inteligente que los humanos y por qué la situación actual no parece muy alentadora.
+Una de las razones por las que estás leyendo este libro es que avances como ChatGPT han llevado la IA a los titulares. El mundo está empezando a debatir sobre el progreso de la IA y su impacto en la sociedad. Esto representa una oportunidad natural para hablar sobre una IA más inteligente que los humanos y por qué la situación actual no parece muy alentadora.
 
-Los autores de este libro llevamos mucho tiempo trabajando en este campo. Los recientes avances en IA influyen en nuestras opiniones, pero nuestras preocupaciones no surgieron a raíz de ChatGPT, ni de los modelos de lenguaje a gran escala que lo precedieron. Llevamos décadas realizando investigación técnica para intentar garantizar que una IA más inteligente que los humanos opere de forma segura (Soares desde 2013 y Yudkowsky desde 2001). Sin embargo, recientemente hemos visto indicios de que el mundo podría estar listo para tener esta conversación. Una conversación que, con toda probabilidad, *necesitamos* tener ahora; de lo contrario, el mundo podría perder su oportunidad de reaccionar.
+Nosotros, los autores, llevamos mucho tiempo trabajando en este campo. Los recientes avances en IA influyen en nuestras opiniones, pero nuestras preocupaciones no surgieron a raíz de ChatGPT, ni de los modelos de lenguaje a gran escala que lo precedieron. Llevamos décadas realizando investigación técnica para intentar garantizar que una IA más inteligente que los humanos opere de forma segura (Soares desde 2013 y Yudkowsky desde 2001). Sin embargo, recientemente hemos visto indicios de que el mundo podría estar listo para tener esta conversación. Y *tenemos* que empezarla ya; de lo contrario, el mundo podría perder su oportunidad de reaccionar.
 
 El campo de la IA progresa y, con el tiempo (no sabemos cuándo), avanzará hasta el punto de crear una IA más inteligente que los humanos. Ese es el objetivo explícito de las principales empresas de IA:
 
 > Ahora estamos seguros de que sabemos cómo crear una IAG \[inteligencia artificial general\] tal y como la hemos entendido tradicionalmente. \[…\] Estamos empezando a mirar más allá, hacia la superinteligencia en el pleno sentido de la palabra. Nos encantan nuestros productos actuales, pero estamos aquí por el futuro glorioso. Con la superinteligencia, podremos lograr todo lo demás.  
 — [Sam Altman](https://blog.samaltman.com/reflections), director general de OpenAI
 
-> Creo que la \[IA potente\] podría llegar ya en 2026. \[…\] Por IA potente, me refiero a un modelo de IA \[…\] con las siguientes características: en términos de inteligencia pura, es más inteligente que un ganador del Premio Nobel en la mayoría de los campos más relevantes: biología, programación, matemáticas, ingeniería, escritura, etc. Esto significa que puede demostrar teoremas matemáticos sin resolver, escribir novelas extremadamente buenas, escribir códigos difíciles desde cero, etc.  
+> Creo que la \[IA poderosa\] podría llegar ya en 2026. \[…\] Por IA poderosa, me refiero a un modelo de IA \[…\] con las siguientes características: en términos de inteligencia pura, es más inteligente que un ganador del Premio Nobel en la mayoría de los campos más relevantes: biología, programación, matemáticas, ingeniería, escritura, etc. Esto significa que puede demostrar teoremas matemáticos sin resolver, escribir novelas extremadamente buenas, escribir códigos difíciles desde cero, etc.  
 — [Dario Amodei](https://www.darioamodei.com/essay/machines-of-loving-grace), director general de Anthropic
 
 > En general, nos centramos en crear inteligencia general completa. Todas las oportunidades que he comentado hoy son consecuencia de ofrecer inteligencia general y hacerlo de manera eficiente.  
@@ -62,11 +62,11 @@ Nuestra opinión, tras décadas de intentar comprender mejor esta cuestión y re
 
 No sabemos si ese umbral se alcanzará en el futuro cercano o si aún queda una década para ello, etc. La historia demuestra que es mucho más difícil predecir cuándo aparecerán las nuevas tecnologías que predecir que se desarrollarán. Pero creemos que la evidencia del peligro es mucho mayor de lo necesario para justificar una respuesta internacional contundente en la actualidad. Por supuesto, ese argumento se esboza en el libro.
 
-### ¿No es cierto que la gente siempre entra en pánico y sobrerreacciona a las cosas? {#¿no-es-cierto-que-la-gente-siempre-entra-en-pánico-y-sobrerreacciona-a-las-cosas?}
+### ¿No es cierto que la gente siempre entra en pánico y reacciona de manera exagerada a las cosas? {#¿no-es-cierto-que-la-gente-siempre-entra-en-pánico-y-reacciona-de-manera-exagerada-a-las-cosas?}
 
-#### **Sí. Pero eso no significa que nada sea *realmente* peligroso.** {#sí.-pero-eso-no-significa-que-nada-sea-realmente-peligroso.}
+#### **Sí. Pero eso no significa que nunca haya nada que sea *realmente* peligroso.** {#sí.-pero-eso-no-significa-que-nunca-haya-nada-que-sea-realmente-peligroso.}
 
-A veces la gente sobrerreacciona a los problemas. Algunas personas son catastrofistas. Algunos pánicos sociales son infundados. Nada de esto significa que vivamos en un mundo perfectamente seguro.
+A veces la gente reacciona de manera exagerada a los problemas. Algunas personas son catastrofistas. Algunos pánicos sociales son infundados. Pero nada de esto significa que vivamos en un mundo perfectamente seguro.
 
 En 1935, Alemania no era un buen lugar para los judíos, los romaníes ni otros grupos de personas. Algunos vieron las señales de advertencia y se marcharon. Otros descartaron las advertencias por considerarlas alarmistas y murieron.
 
@@ -76,7 +76,7 @@ Los clorofluorocarbonos realmente estaban agujereando la capa de ozono, hasta qu
 
 Algunos peligros de los que se advierte son falsos. Otros son reales.
 
-La humanidad no siempre sobrerreacciona ante los desafíos. Ni reacciona siempre de forma insuficiente. En algunos casos, la humanidad incluso consigue hacer ambas cosas a la vez; por ejemplo, hubo países que construyeron enormes acorazados para utilizarlos en la próxima guerra, cuando en realidad deberían haber construido portaaviones. No existe una solución sencilla como «simplemente ignorar todos los supuestos riesgos tecnológicos» o «simplemente asumir que todos los riesgos tecnológicos son reales». Para averiguar qué es cierto, hay que examinar los detalles de cada caso.
+La humanidad no siempre reacciona de manera exagerada ante los desafíos. Ni reacciona siempre de forma insuficiente. En algunos casos, la humanidad incluso consigue hacer ambas cosas a la vez; por ejemplo, hubo países que construyeron enormes acorazados para utilizarlos en la próxima guerra, cuando en realidad deberían haber construido portaaviones. No existe una solución sencilla como «simplemente ignorar todos los supuestos riesgos tecnológicos» o «simplemente asumir que todos los riesgos tecnológicos son reales». Para averiguar qué es cierto, hay que examinar los detalles de cada caso.
 
 (Para más información sobre este tema, consulta la introducción del libro).
 
@@ -94,15 +94,15 @@ Hay predicciones fáciles y predicciones difíciles. No pretendemos ser capaces 
 
 No saber cuándo llegará la IA no es lo mismo que saber que aún queda mucho tiempo para ello.
 
-En 2021, la comunidad de pronosticadores del sitio web Metaculus [estimó](https://www.metaculus.com/questions/5121/date-of-artificial-general-intelligence/) que la primera «IA verdaderamente general» llegaría en 2049\. Un año después, en 2022, esa predicción conjunta de la comunidad se había reducido en doce años, hasta 2037\. Otro año más tarde, en 2023, se había reducido otros cuatro años, hasta 2033\. [Una vez más](https://x.com/slow_developer/status/1947248501743599705) y [otra vez](https://forecastingresearch.org/near-term-xpt-accuracy), los pronosticadores se han visto sorprendidos por el rápido avance de la IA, y sus estimaciones temporales varían enormemente de un año a otro.
+En 2021, la comunidad de pronosticadores del sitio web Metaculus [estimó](https://www.metaculus.com/questions/5121/date-of-artificial-general-intelligence/) que la primera «IA verdaderamente general» llegaría en 2049\. Un año después, en 2022, esa predicción conjunta de la comunidad había disminuido doce años, a 2037\. Otro año más tarde, en 2023, se había reducido otros cuatro años, hasta 2033\. [Una](https://x.com/slow_developer/status/1947248501743599705) y [otra vez](https://forecastingresearch.org/near-term-xpt-accuracy), los pronosticadores se han visto sorprendidos por el rápido avance de la IA, y sus estimaciones temporales varían enormemente de un año a otro.
 
 Este fenómeno no es exclusivo de Metaculus. Una organización llamada 80.000 Horas [documenta](https://80000hours.org/2025/03/when-do-experts-expect-agi-to-arrive/) otros casos en los que muchos grupos de expertos en pronósticos han acortado rápidamente sus plazos. E incluso los superpronosticadores, que ganan constantemente torneos de pronósticos y a menudo superan a los expertos en la materia en su capacidad para pronosticar el futuro, solo asignaron un [2,3 % de probabilidad](https://forecastingresearch.org/near-term-xpt-accuracy) a que las IA conseguirían la medalla de oro en la Olimpiada Internacional de Matemáticas para el año 2025\. Las IA [consiguieron](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/) la medalla de oro de la Olimpiada Internacional de Matemática en julio de 2025\. 
 
-Intuitivamente, podría parecer que aún faltan décadas para que exista una IA más inteligente que los humanos, pero en 2021 también parecía que faltaban décadas para que existiera una IA del nivel de ChatGPT, y de repente llegó. ¿Quién sabe cuándo llegarán de repente nuevas mejoras cualitativas en la IA? Quizás se necesiten otros diez años. O quizás el avance se produzca mañana mismo. No sabemos cuánto tiempo llevará, pero varios investigadores están cada vez más preocupados por que el tiempo se esté agotando. Sin pretender tener un conocimiento especial en este ámbito, creemos que la humanidad debería reaccionar pronto. No está claro cuántas advertencias adicionales vamos a recibir.
+Intuitivamente, podría parecer que aún faltan décadas para que exista una IA más inteligente que los humanos, pero en 2021 también parecía que faltaban décadas para que existiera una IA del nivel de ChatGPT, y llegó de pronto. ¿Quién sabe cuándo llegarán de repente nuevas mejoras cualitativas en la IA? Quizás se necesiten otros diez años. O quizás el avance se produzca mañana mismo. No sabemos cuánto tiempo llevará, pero varios investigadores están cada vez más preocupados por que el tiempo se esté agotando. Sin pretender tener un conocimiento especial en este ámbito, creemos que la humanidad debería reaccionar pronto. No está claro cuántas advertencias adicionales vayamos a recibir.
 
 Consulta el capítulo 1 para más información sobre las formas en que las capacidades de la IA podrían propagarse con muy poca antelación. Y consulta el capítulo 2 para más información sobre los paradigmas modernos de la IA y si serán o no capaces de llegar «hasta el final».
 
-#### **Desconfía de las afirmaciones de los medios de comunicación sobre lo que puede o no suceder :)en un futuro próximo. (¡Puede que ya haya sucedido!)** {#desconfía-de-las-afirmaciones-de-los-medios-de-comunicación-sobre-lo-que-puede-o-no-suceder-en-un-futuro-próximo-(¡puede-que-ya-haya-sucedido!)}
+#### **Desconfía de las afirmaciones de los medios de comunicación sobre lo que puede o no suceder en un futuro próximo. (¡Puede que ya haya sucedido!)** {#desconfía-de-las-afirmaciones-de-los-medios-de-comunicación-sobre-lo-que-puede-o-no-suceder-en-un-futuro-próximo.-(¡puede-que-ya-haya-sucedido!)}
 
 Dos años después de la [desalentadora predicción](https://www.wright-brothers.org/History_Wing/Wright_Story/Inventing_the_Airplane/Not_Within_A_Thousand_Years/Not_Within_A_Thousand_Years.htm) de Wilbur Wright de que el vuelo a motor tardaría mil años en hacerse realidad, el *New York Times* afirmaba con seguridad que tardaría un millón.[^3] Dos meses y ocho días después, los hermanos Wright alzaron el vuelo.
 
@@ -126,7 +126,7 @@ El gran problema de este método es que, a menudo, lo que realmente queremos sab
 
 Y en el caso de la IA, simplemente no lo sabemos. Es bastante fácil elegir alguna medida de inteligencia artificial que forme una línea recta en un gráfico (como la «perplejidad» [https://en.wikipedia.org/wiki/Perplexity]) y proyectar esa línea hacia afuera. Pero nadie sabe qué nivel futuro de «perplejidad» corresponde a qué nivel de habilidad cualitativa para jugar al ajedrez. No se puede predecir de antemano; solo queda ejecutar la IA y averiguarlo.
 
-Nadie sabe dónde cae en ese gráfico la línea de «ahora tiene la capacidad de matar a todo el mundo». Lo único que pueden hacer es ejecutar la IA y averiguarlo. Por lo tanto, extrapolar la línea recta del gráfico no nos ayuda. (Y eso incluso antes de que el gráfico se vuelva irrelevante por el progreso algorítmico).
+Nadie sabe dónde cae en ese gráfico la línea de «ahora tiene la capacidad de matar a todo el mundo». Lo único que se puede hacer es ejecutar la IA y averiguarlo. Por lo tanto, extrapolar la línea recta del gráfico no nos ayuda. (Y eso incluso antes de que el gráfico se vuelva irrelevante por el progreso algorítmico).
 
 Es por esa razón que no dedicamos tiempo en el libro a extrapolar líneas en gráficos para predecir exactamente en qué momento alguien dedicará 1027 operaciones de coma flotante al entrenamiento de una IA, o qué consecuencias tendría eso. Es una predicción difícil. El libro se centra en lo que nos parece fácil de predecir. Se trata de un abanico reducido de temas, y nuestra capacidad para hacer un pequeño número de predicciones importantes en ese ámbito limitado no justifica hacer pronósticos arbitrarios sobre el futuro.
 
@@ -1790,7 +1790,7 @@ Lo primero es algo llamado «[normalización] (https://en.wikipedia.org/wiki/Nor
 
 Quizás estés pensando: «Vaya, hay mucho preprocesamiento», y tienes razón. De hecho, hemos pasado por alto algunos de los puntos más delicados, por lo que hay aún más de lo que parece, y ahora estamos llegando a la característica más distintiva de los LLM: la capa de «atención».
 
-La «atención» es el motivo de todo el revuelo que ha causado el «transformador» (si tienes suficiente edad como para recordar el revuelo que causó la invención de los transformadores). Los LLM son una especie de «transformadores»; los transformadores se presentaron en un artículo de 2017 titulado «[Attention Is All You Need] (https://arxiv.org/abs/1706.03762)». A este artículo, más que a ningún otro, se le atribuye el éxito de los LLM. Una capa de «atención» funciona así:
+La «atención» es el motivo de todo el revuelo que han causado los «transformadores» (si tienes suficiente edad como para recordar el revuelo que causó su invención). Los LLM son una especie de «transformador»; los transformadores se presentaron en un artículo de 2017 titulado «[Attention Is All You Need] (https://arxiv.org/abs/1706.03762)». A este artículo, más que a ningún otro, se le atribuye el éxito de los LLM. Una capa de «atención» funciona así:
 
 Tomamos cada uno de los 1000 vectores de 16 384 activaciones y transformamos cada vector de 16 384 activaciones:
 
@@ -1808,17 +1808,17 @@ Las capas de atención en un LLM son bastante grandes, con un gran número de pa
 
 Una vez completada la subcapa de atención, y obtenemos una matriz del mismo tamaño que la inicial (en nuestro ejemplo, 16 384 por 1000), realizamos algo que se denomina «conexión residual». Básicamente, se toman los datos de entrada originales de la subcapa (en este caso, la enorme matriz con la que empezamos) y se suma a lo que hayamos obtenido. Esto evita que cualquier subcapa cambie *demasiado* en cualquier paso dado (y tiene otras propiedades técnicas útiles).
 
-A continuación, el resultado se pasa por lo que se denomina una «red prealimentada». La variante utilizada por Llama 3.1 405B se basa en una operación denominada «SwiGLU». SwiGLU fue descubierta por algunos investigadores que probaron entrenar con distintas fórmulas variantes para ver cuáles funcionaban mejor, de las cuales su [artículo original](https://arxiv.org/pdf/2002.05202) decía (como también hemos [señalado en otra parte](#¿de-qué-sirve-el-conocimiento-sobre-los-llms?)):
+A continuación, el resultado se pasa por lo que se denomina una «red de propagación hacia adelante». La variante utilizada por Llama 3.1 405B se basa en una operación denominada «SwiGLU». SwiGLU fue descubierta por algunos investigadores que probaron entrenar con distintas fórmulas variantes para ver cuáles funcionaban mejor, de las cuales su [artículo original](https://arxiv.org/pdf/2002.05202) decía (como también hemos [señalado en otra parte](#¿de-qué-sirve-el-conocimiento-sobre-los-llms?)):
 
 No ofrecemos ninguna explicación de por qué estas arquitecturas parecen funcionar; atribuimos su éxito, como todo lo demás, a la benevolencia divina.
 
-Como todas las redes prealimentada, SwiGLU básicamente expande nuestra matriz de 16 384 por 10 000 a una matriz aún más grande, realiza algunas transformaciones en ella y luego la comprime de nuevo. Concretamente, cada fila pasa de tener 16 384 columnas a 53 248 columnas, y luego regresa a 16 384.
+Como todas las redes de propagación hacia adelante, SwiGLU básicamente expande nuestra matriz de 16 384 por 10 000 a una matriz aún más grande, realiza algunas transformaciones en ella y luego la comprime de nuevo. Concretamente, cada fila pasa de tener 16 384 columnas a 53 248 columnas, y luego regresa a 16 384.
 
-Ahora que hemos terminado con la subcapa prealimentada, volvemos a realizar la conexión residual, sumando lo que teníamos al principio con lo que hayamos obtenido.
+Ahora que hemos terminado con la subcapa de propagación hacia adelante, volvemos a realizar la conexión residual, sumando lo que teníamos al principio con lo que hayamos obtenido.
 
 Ha sido un camino largo, pero ahora hemos transformado muy ligeramente nuestra gigantesca matriz.
 
-Todos esos pasos juntos constituyen una sola «capa». Llama tiene 126 capas, por lo que repetiremos todos estos pasos (normalización, mecanismo de atención, conexión residual, red prealimentada y conexión residual de nuevo) 125 veces.
+Todos esos pasos juntos constituyen una sola «capa». Llama tiene 126 capas, por lo que repetiremos todos estos pasos (normalización, mecanismo de atención, conexión residual, red de propagación hacia adelante y conexión residual de nuevo) 125 veces.
 
 Al final de las 126 capas, obtenemos una matriz del mismo tamaño que la inicial; en nuestro ejemplo, 16 384 por 1000. Cada fila de esta matriz se puede proyectar en un nuevo vector de 128 256 números, uno por cada token del diccionario completo del modelo. Estos números pueden ser positivos o negativos, pero se puede utilizar una práctica función llamada softmaxing para convertirlos todos en probabilidades, cuya suma es uno. Esas probabilidades son la predicción de Llama sobre qué token vendrá a continuación.
 
