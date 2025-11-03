@@ -5,7 +5,7 @@ original_path: IABIED - Online resources(1).md
 
 Questo è il primo supplemento online al libro di Yudkowsky e Soares [*If Anyone Builds It, Everyone Dies*](https://www.amazon.com/gp/product/0316595640). La pagina dedicata a ciascun capitolo risponde a domande comuni e include discussioni approfondite che entrano nel merito del contesto e dei dettagli non essenziali per il libro.
 
-Queste risorse contengono molto materiale e non sono pensate per essere lette dall'inizio alla fine. Abbiamo scritto il libro perché fosse autosufficiente e coprisse l'intera tesi centrale. Ma se hai una domanda specifica, un'obiezione o una curiosità che il libro non ha potuto trattare in modo adeguato, è molto probabile che troverai ulteriori informazioni qui. Se manca qualcosa di importante, richiedilo \[qui\](TODO).
+Queste risorse contengono molto materiale e non sono pensate per essere lette dall'inizio alla fine. Abbiamo scritto il libro perché fosse autosufficiente e coprisse l'intera tesi centrale. Ma se avete una domanda specifica, un'obiezione o una curiosità che il libro non ha potuto trattare in modo adeguato, è molto probabile che troverete ulteriori informazioni qui. Se manca qualcosa di importante, richiedetelo \[qui\](TODO).
 
 ## Domande frequenti {#faq}
 
@@ -246,7 +246,7 @@ Da **Ilya Sutskever** ([2023](https://openai.com/index/introducing-superalignmen
 
 > \[L\]'enorme potere della superintelligenza potrebbe anche essere molto pericoloso e potrebbe portare alla perdita di potere dell'umanità o addirittura all'estinzione umana. Anche se la superintelligenza sembra ancora lontana, crediamo che potrebbe arrivare entro questo decennio. \[…\]
 >
-> Al momento, non abbiamo una soluzione per guidare o controllare un'IA potenzialmente superintelligente e impedire che diventi incontrollabile. Le nostre attuali tecniche per l'allineamento dell'IA, come l'apprendimento per rinforzo con feedback umano, si basano sulla capacità degli esseri umani di supervisionare l'IA. Ma gli esseri umani non saranno in grado di supervisionare in modo affidabile sistemi di IA molto più intelligenti di loro, quindi le nostre attuali tecniche di allineamento non andranno bene per la superintelligenza. Abbiamo bisogno di nuove scoperte scientifiche e tecniche.
+> Al momento, non abbiamo una soluzione per dirigere o controllare un'IA potenzialmente superintelligente e impedire che diventi incontrollabile. Le nostre attuali tecniche per l'allineamento dell'IA, come l'apprendimento per rinforzo con feedback umano, si basano sulla capacità degli esseri umani di supervisionare l'IA. Ma gli esseri umani non saranno in grado di supervisionare in modo affidabile sistemi di IA molto più intelligenti di loro, quindi le nostre attuali tecniche di allineamento non andranno bene per la superintelligenza. Abbiamo bisogno di nuove scoperte scientifiche e tecniche.
 
 Da **Jan Leike** ([2023](https://80000hours.org/podcast/episodes/jan-leike-superalignment/)), co-responsabile della ricerca sull'allineamento presso Anthropic ed ex co-responsabile del team di superallineamento presso OpenAI:
 
@@ -436,7 +436,7 @@ Gli esseri umani hanno una capacità perfetta di risolvere i problemi? No, ovvia
 
 Ma la generalità non è una questione di "o tutto o niente". Può presentarsi in diversi gradi.
 
-Deep Blue non era molto generico nella sua capacità di guidare qualcosa di diverso da una scacchiera. Era in grado di trovare mosse vincenti negli scacchi, ma non poteva guidare un'auto fino al negozio per comprare il latte, figuriamoci scoprire le leggi della gravità e progettare un razzo lunare. Deep Blue non era nemmeno in grado di giocare ad altri giochi da tavolo, che fossero giochi più semplici come la dama o giochi più difficili come il Go.
+Deep Blue non era molto generico nella sua capacità di dirigere qualcosa di diverso da una scacchiera. Era in grado di trovare mosse vincenti negli scacchi, ma non poteva guidare un'auto fino al negozio per comprare il latte, figuriamoci scoprire le leggi della gravità e progettare un razzo lunare. Deep Blue non era nemmeno in grado di giocare ad altri giochi da tavolo, che fossero giochi più semplici come la dama o giochi più difficili come il Go.
 
 Invece, si pensi ad AlphaGo, l'intelligenza artificiale che alla fine ha battuto il Go. Gli algoritmi dietro AlphaGo sono anche in grado di giocare benissimo a scacchi. Il Go non è stato battuto dal primo algoritmo di scacchi scoperto dall'umanità, ma una variante del primo algoritmo di Go scoperto dall'umanità è stata in grado di battere i precedenti record negli scacchi, e lo stesso algoritmo è stato anche in grado di eccellere nei videogiochi Atari. Questi nuovi algoritmi non erano ancora in grado di andare a comprare il latte al negozio, intendiamoci, ma erano *più* generici.
 
@@ -646,7 +646,7 @@ Se questa nuova fase non sarà sufficiente perché le IA comincino ad automatizz
 
 Stockfish 17 è più bravo di noi a gestire una partita a scacchi. Se giocassimo una partita contro Stockfish, non riusciremmo a prevedere le sue mosse: per farlo dovremmo essere bravi almeno quanto Stockfish 17\. Ma sarebbe facile per noi prevedere chi vincerà la partita.[^24] È difficile prevedere quali mosse farà Stockfish; è facile prevedere che *vincerà.*
 
-Lo stesso vale per le IA capaci di prevedere e guidare il mondo reale. Più sono intelligenti, più è difficile prevedere esattamente cosa faranno, ma più è facile prevedere che raggiungeranno la destinazione verso cui si stanno dirigendo.
+Lo stesso vale per le IA capaci di prevedere e dirigere il mondo reale. Più sono intelligenti, più è difficile prevedere esattamente cosa faranno, ma più è facile prevedere che raggiungeranno la destinazione verso cui si stanno dirigendo.
 
 ### Le macchine non saranno fondamentalmente prive di creatività o comunque fatalmente imperfette? {#le-macchine-non-saranno-fondamentalmente-prive-di-creatività-o-altrimenti-fatalmente-imperfette?}
 
@@ -674,13 +674,13 @@ I cervelli e i corpi umani sono fatti di parti che possiamo studiare e arrivare 
 
 Anche l'intelligenza è fatta di pezzi: algoritmi e calcoli individuali che il nostro cervello esegue naturalmente, anche se non abbiamo una comprensione scientifica di come funziona il nostro cervello.
 
-Anche se ci fosse qualche aspetto del ragionamento biologico molto difficile da implementare nelle macchine, non ne conseguirebbe che l'IA non supererà mai l'umanità. Le IA potrebbero semplicemente fare lo stesso tipo di lavoro in modo diverso, come quando l'IA Deep Blue ha trovato le mosse vincenti negli scacchi in modo molto diverso da Garry Kasparov.[^25] Quello che conta non è se le macchine possiedono tutte le caratteristiche uniche degli esseri umani; quello che conta è se le macchine diventano capaci di prevedere e guidare il mondo.
+Anche se ci fosse qualche aspetto del ragionamento biologico molto difficile da implementare nelle macchine, non ne conseguirebbe che l'IA non supererà mai l'umanità. Le IA potrebbero semplicemente fare lo stesso tipo di lavoro in modo diverso, come quando l'IA Deep Blue ha trovato le mosse vincenti negli scacchi in modo molto diverso da Garry Kasparov.[^25] Quello che conta non è se le macchine possiedono tutte le caratteristiche uniche degli esseri umani; quello che conta è se le macchine diventano capaci di prevedere e dirigere il mondo.
 
 I capitoli che seguono aiuteranno a fare più luce su questo punto. Nel Capitolo 2 vedremo come le IA moderne vengono coltivate piuttosto che costruite artigianalmente, e come il processo di coltivazione tenderà a rendere le IA molto potenti. Nel Capitolo 3 vedremo poi come i tentativi di rendere le IA sempre più potenti tenderanno a renderle sempre più orientate verso il raggiungimento di obiettivi difficili. E nel Capitolo 4 vedremo come questi obiettivi difficilmente saranno quelli che gli sviluppatori intendevano o quelli che gli utenti hanno richiesto. Tutto questo è sufficiente perché le IA portino il mondo alla rovina, che si pensi o meno che le IA abbiano una qualche scintilla vitale, o coscienza, o qualsiasi altra cosa si possa immaginare renda speciali gli esseri umani.
 
 Si veda anche, nelle risorse online a seguire:
 
-* Capitolo 2: "[L'IA non è 'solo matematica'?](#l-ia-non-è-solo-matematica?)" e "[Le IA non saranno fredde, meccaniche e logiche, o comunque prive di una scintilla fondamentale?](#le-ia-non-saranno-fredde,-meccaniche-e-logiche,-o-comunque-prive-di-unascintilla-fondamentale?)"  
+* Capitolo 2: "[L'IA non è 'solo matematica'?](#l-ia-non-è-solo-matematica?)" e "[Le IA non saranno inevitabilmente fredde e logiche, o non saranno comunque prive di una qualche scintilla fondamentale?](#le-ia-non-saranno-inevitabilmente-fredde-e-logiche,-o-non-saranno-comunque-prive-di-una-qualche-scintilla-fondamentale?)"  
 * Capitolo 3: "[Antropomorfismo e Meccanomorfismo](#anthropomorfismo-e-meccanomorfismo)"  
 * Capitolo 5: "[Efficacia, Coscienza e Benessere dell'IA](#efficacia,-coscienza-e-benessiere-dell-ia)"
 
@@ -712,19 +712,19 @@ Ma queste sono solo ipotesi, anche se basate su una ragionevole quantità di rif
 
 Qualsiasi entità che costituisca una superintelligenza secondo i nostri criteri dovrebbe essere estremamente brava a creare un modello di se stessa: riflettere sui suoi calcoli, migliorare le sue euristiche mentali, capire e prevedere l'impatto del suo comportamento sull'ambiente circostante, ecc. Ma la nostra ipotesi migliore è che la coscienza auto-consapevole in stile umano sia solo un modo particolare in cui una mente può creare un modello efficace di se stessa; non è un prerequisito necessario per il ragionamento riflessivo.
 
-La coscienza può essere una parte importante del modo in cui gli esseri umani riescono a manipolare il mondo, ma questo non vuol dire che le macchine non coscienti siano difettose e incapaci di prevedere e guidare il mondo. I sottomarini non nuotano come gli esseri umani, ma si muovono nell'acqua in modo completamente diverso. Ci aspettiamo che un'intelligenza artificiale riesca a superare le stesse sfide che superano gli esseri umani, ma non necessariamente attraverso lo stesso canale di esperienza soggettiva utilizzato dagli esseri umani.
+La coscienza può essere una parte importante del modo in cui gli esseri umani riescono a manipolare il mondo, ma questo non vuol dire che le macchine non coscienti siano difettose e incapaci di prevedere e dirigere il mondo. I sottomarini non nuotano come gli esseri umani, ma si muovono nell'acqua in modo completamente diverso. Ci aspettiamo che un'intelligenza artificiale riesca a superare le stesse sfide che superano gli esseri umani, ma non necessariamente attraverso lo stesso canale di esperienza soggettiva utilizzato dagli esseri umani.
 
 (Vedi anche il caso analogo della [curiosità](#la-curiosità-non-è-convergente), di cui parleremo nel supplemento al Capitolo 4).
 
 Per dirla in un altro modo: il sangue è molto importante per il funzionamento di un braccio umano, ma questo non vuol dire che i bracci robotici abbiano bisogno di sangue per funzionare. Un braccio robotico non ha difetti come quelli che avrebbe un braccio umano senza sangue; funziona solo in modo diverso, senza sangue. La nostra ipotesi migliore è che le superintelligenze artificiali funzioneranno in modo diverso, non cosciente, anche se questa ipotesi non è importante per la nostra argomentazione nel libro.
 
-L'attenzione in *If Anyone Builds It, Everyone Dies* è sull'intelligenza, dove "intelligenza" è definita in termini di capacità di un ragionatore di prevedere e guidare il mondo, indipendentemente dal fatto che il cervello di quel ragionatore funzioni come un cervello umano. Se un'intelligenza artificiale sta inventando nuove tecnologie e infrastrutture e le sta diffondendo in tutto il pianeta in un modo che ci uccide come effetto collaterale, allora fermarsi a chiedersi "Ma è cosciente?" sembra un po' accademico.
+L'attenzione in *If Anyone Builds It, Everyone Dies* è sull'intelligenza, dove "intelligenza" è definita in termini di capacità di un ragionatore di prevedere e dirigere il mondo, indipendentemente dal fatto che il cervello di quel ragionatore funzioni come un cervello umano. Se un'intelligenza artificiale sta inventando nuove tecnologie e infrastrutture e le sta diffondendo in tutto il pianeta in un modo che ci uccide come effetto collaterale, allora fermarsi a chiedersi "Ma è cosciente?" sembra un po' accademico.
 
-Approfondiremo il motivo per cui pensiamo che il fare previsioni e guidare il mondo probabilmente non richiedano coscienza (e cosa questo significhi per il modo in cui dovremmo pensare al benessere e ai diritti dell'IA) dopo il Capitolo 5, una volta gettate le basi. Si veda "[Efficacia, coscienza e benessere dell'IA](#efficacia,-coscienza-e-benessere-dell-ia)" per questa discussione.
+Approfondiremo il motivo per cui pensiamo che il fare previsioni e dirigere il mondo probabilmente non richiedano coscienza (e cosa questo significhi per il modo in cui dovremmo pensare al benessere e ai diritti dell'IA) dopo il Capitolo 5, una volta gettate le basi. Si veda "[Efficacia, coscienza e benessere dell'IA](#efficacia,-coscienza-e-benessere-dell-ia)" per questa discussione.
 
 ## Discussione approfondita {#discussione-approfondita-1}
 
-### Altre informazioni sull'intelligenza come previsione e guida {#altre-informazioni-sull-intelligenza-come-previsione-e-guida}
+### Altre informazioni sull'intelligenza come previsione e direzione {#altre-informazioni-sull-intelligenza-come-previsione-e-direzione}
 
 Se si chiede a un fisico esperto cos'è un motore, potrebbe iniziare indicando un motore a razzo, un motore a combustione e una ruota per criceti, e dire: "Questi sono tutti motori", per poi indicare una roccia e dire: "Ma questo no".
 
@@ -734,9 +734,9 @@ Questa è meno una dichiarazione su cosa *sia* un motore, e più una dichiarazio
 
 Diremmo che l'intelligenza è simile. Ci sono molte parti interne diverse che possono dare origine all'intelligenza, incluse quelle biologiche e quelle meccaniche. Un'"intelligenza" è qualsiasi cosa che svolga il *lavoro* dell'intelligenza.
 
-Scomponiamo questo lavoro in "previsione" e "guida" perché questo punto di vista è supportato da vari risultati formali.
+Scomponiamo questo lavoro in "previsione" e "direzione" perché questo punto di vista è supportato da vari risultati formali.
 
-Inizieremo chiarendo in che senso misurare la previsione è abbastanza *oggettivo*. Poi lo confronteremo con la guida, che ha un grado di libertà che la previsione non ha.
+Inizieremo chiarendo in che senso misurare la previsione è abbastanza *oggettivo*. Poi lo confronteremo con la direzione, che ha un grado di libertà che la previsione non ha.
 
 #### **Stesse previsioni** {#stesse-previsioni}
 
@@ -762,7 +762,7 @@ Se volete una strategia di rinforzo che faccia sì che l'IA assegni un numero co
 
 I ricercatori di IA oggi addestrano effettivamente le IA a fare previsioni facendo loro produrre numeri che interpretiamo come probabilità, e rinforzandole in proporzione al logaritmo della probabilità che l'IA ha assegnato alla verità. Ma questo non è solo un risultato empirico sull'addestramento delle macchine; è anche un risultato teorico che era noto molto prima che ChatGPT fosse addestrato. Se aveste conosciuto questa teoria, avreste potuto prevedere correttamente in anticipo che un buon modo per addestrare le IA a svolgere il lavoro di previsione sarebbe stato quello di valutare le previsioni utilizzando i logaritmi.
 
-Non è necessario conoscere questa matematica per valutare le argomentazioni in *If Anyone Builds It, Everyone Dies.* Ma questi sono il tipo di principi che fanno da sfondo quando parliamo di "previsione" e "guida".
+Non è necessario conoscere questa matematica per valutare le argomentazioni in *If Anyone Builds It, Everyone Dies.* Ma questi sono il tipo di principi che fanno da sfondo quando parliamo di "previsione" e "direzione".
 
 esiste della [matematica](https://www.lesswrong.com/posts/afmj8TKAqH6F2QMfZ/a-technical-explanation-of-technical-explanation) su come misurare il lavoro di previsione. La matematica dice che, nella misura in cui le vostre previsioni su ciò che accadrà sono utili, possono essere espresse come probabilità, indipendentemente dal fatto che abbiate pensato consapevolmente a probabilità numeriche o meno. Da questo deriva una [regola di punteggio](https://en.wikipedia.org/wiki/Scoring_rule) univocamente definita che vi incentiva a dichiarare le vostre probabilità reali, e che è invariante rispetto alla scomposizione delle previsioni.
 
@@ -774,7 +774,7 @@ Il punto è piuttosto che *tutti* i comportamenti simili a previsioni, che si tr
 
 Tutto questo significa che quando due menti lavorano con le stesse informazioni di partenza, tenderanno a convergere sulle stesse previsioni man mano che migliorano nella loro capacità predittiva. Questo perché c'è un solo modo per valutare le previsioni (confrontandole con la realtà), c'è una sola realtà da prevedere, e le menti più brave a prevedere concentreranno sempre di più le loro previsioni sulla verità, quasi per definizione.
 
-Tutto questo è radicalmente diverso dalla situazione della guida, di cui parleremo di seguito.
+Tutto questo è radicalmente diverso dalla situazione della direzione, di cui parleremo di seguito.
 
 #### **Destinazioni diverse** {#destinazioni-diverse}
 
@@ -790,7 +790,7 @@ Supponiamo di addestrare un'IA a prevedere il fotogramma successivo visto da una
 
 La tecnologia esatta che si usa non avrà molta importanza per il risultato finale. Qualsiasi metodo che funzioni, che ottenga punteggi eccellenti in generale, finirà per assegnare una probabilità simile al fatto che il cielo sia azzurro.
 
-Al contrario, il compito di "guidare" ha un parametro libero gigantesco e complicato: verso quale destinazione il sistema sta cercando di dirigersi?
+Al contrario, il compito di "dirigere" ha un parametro libero gigantesco e complicato: verso quale destinazione il sistema sta cercando di dirigersi?
 
 I generali su fronti opposti di una guerra possono essere entrambi abili, ma ciò non significa che stiano cercando di realizzare le stesse cose. Due generali possono avere capacità simili ma indirizzare tali capacità verso fini molto diversi.[^28]
 
@@ -798,37 +798,37 @@ Con la parte predittiva di un sistema di IA, c'è solo una cosa che significa pr
 
 Se il sistema continua a commettere un particolare errore di previsione, semplicemente aggiungere più potenza di calcolo e più dati al sistema può correggere automaticamente quell'errore di previsione. Si può far funzionare meglio il sistema (nel prevedere le cose che ti interessano) *semplicemente* rendendolo più potente.
 
-Con la guida, questo non è vero.
+Con la direzione, questo non è vero.
 
-Possiamo ulteriormente rafforzare questa distinzione esaminando la letteratura formale. La guida — pianificazione, processo decisionale, evitare gli ostacoli, progettazione, ecc. — è un argomento che è stato ampiamente studiato scientificamente. Un importante risultato matematico riguardante la guida è il [teorema dell'utilità di von Neumann-Morgenstern.](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem)
+Possiamo ulteriormente rafforzare questa distinzione esaminando la letteratura formale. La direzione — pianificazione, processo decisionale, evitare gli ostacoli, progettazione, ecc. — è un argomento che è stato ampiamente studiato scientificamente. Un importante risultato matematico riguardante la direzione è il [teorema dell'utilità di von Neumann-Morgenstern.](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem)
 
 [Approssimativamente, questo teorema](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem) afferma che qualsiasi entità che persegua alcuni risultati piuttosto che altri deve *o* essere inefficiente[^29] *o* essere ben descritta da un insieme di convinzioni probabilistiche e da una "funzione di utilità" — una funzione che descrive come i diversi risultati si scambiano l'uno con l'altro. Le convinzioni, quindi, possono essere valutate in base alla loro accuratezza (come descritto nella sezione precedente), mentre la funzione di utilità è un parametro completamente libero.
 
-Naturalmente, nessuna mente finita può essere perfettamente efficiente. La lezione che traiamo da questo teorema (e da altri risultati dello stesso tipo) è che, nella misura in cui una mente sta svolgendo *qualsiasi* compito non banale in modo molto efficace, in un certo senso sta facendo (anche se solo implicitamente e inconsciamente) due tipi diversi di lavoro: un lavoro di convinzione (previsione) e un lavoro di soddisfazione delle preferenze (guida).
+Naturalmente, nessuna mente finita può essere perfettamente efficiente. La lezione che traiamo da questo teorema (e da altri risultati dello stesso tipo) è che, nella misura in cui una mente sta svolgendo *qualsiasi* compito non banale in modo molto efficace, in un certo senso sta facendo (anche se solo implicitamente e inconsciamente) due tipi diversi di lavoro: un lavoro di convinzione (previsione) e un lavoro di soddisfazione delle preferenze (direzione).
 
 Per esempio, consideriamo la favola di Esopo della volpe e dell'uva. Una volpe vede dell'uva dall'aspetto delizioso appesa a una vite. La volpe salta per raggiungere l'uva, ma non riesce a saltare abbastanza in alto, e quindi la abbandona, dicendo: "Beh, probabilmente era comunque acerba".
 
-Se prendiamo la volpe alla lettera, l'(in)capacità della volpe di dirigersi verso l'uva *contamina* la sua previsione sul fatto che l'uva sia acerba. Se resta fedele a quella nuova previsione, rifiutandosi di mangiare l'uva "acerba" per orgoglio anche se in seguito avesse la possibilità di mangiarla, allora il comportamento della volpe è *inefficiente*.[^30] Avrebbe potuto fare meglio mantenendo una distinzione più forte tra le sue previsioni (sulla dolcezza dell'uva) e la sua guida (la sua capacità di ottenere l'uva).
+Se prendiamo la volpe alla lettera, l'(in)capacità della volpe di dirigersi verso l'uva *contamina* la sua previsione sul fatto che l'uva sia acerba. Se resta fedele a quella nuova previsione, rifiutandosi di mangiare l'uva "acerba" per orgoglio anche se in seguito avesse la possibilità di mangiarla, allora il comportamento della volpe è *inefficiente*.[^30] Avrebbe potuto fare meglio mantenendo una distinzione più forte tra le sue previsioni (sulla dolcezza dell'uva) e la sua direzione (la sua capacità di ottenere l'uva).
 
 In linea di massima, le menti che funzionano bene possono essere suddivise in *ciò che prevedono* e *ciò verso cui si orientano* (più alcune inefficienze). E, come abbiamo visto, la prima può essere valutata in modo relativamente oggettivo, mentre la seconda può variare notevolmente tra menti similarmente competenti.
 
 #### **Predittori impuri** {#predittori-impuri}
 
-Purtroppo, il fatto che la previsione sia più vincolata rispetto alla guida non significa che possiamo costruire una superintelligenza affidabile che si limiti a prevedere senza guidare.
+Purtroppo, il fatto che la previsione sia più vincolata rispetto alla direzione non significa che possiamo costruire una superintelligenza affidabile che si limiti a prevedere senza dirigere.
 
-Anche se la matematica dice che una mente che funziona bene può essere più o meno modellizzata come "previsioni probabilistiche più una direzione di guida", questo non significa che le IA del mondo reale abbiano moduli di "previsione" e "guida" nettamente separati.
+Anche se la matematica dice che una mente che funziona bene può essere più o meno modellizzata come "previsioni probabilistiche più una direzione di orientamento", questo non significa che le IA del mondo reale abbiano moduli di "previsione" e "direzione" nettamente separati.
 
-Un modo per capire perché è questo: un'abilità di "previsione" superumanamente buona non è solo questione di produrre probabilità e far sì che queste probabilità siano magicamente giuste. Una buona capacità di previsione richiede *lavoro*. Richiede pianificazione ed elaborazione di modi per raggiungere obiettivi a lungo termine — cioè, richiede *guida*.
+Un modo per capire perché è questo: un'abilità di "previsione" superumanamente buona non è solo questione di produrre probabilità e far sì che queste probabilità siano magicamente giuste. Una buona capacità di previsione richiede *lavoro*. Richiede pianificazione ed elaborazione di modi per raggiungere obiettivi a lungo termine — cioè, richiede *direzione*.
 
 Se si sta cercando di prevedere il mondo fisico, a volte bisogna sviluppare teorie della fisica e scoprire le equazioni che governano quella parte del mondo fisico. E per farlo, spesso bisognerà progettare esperimenti, realizzarli e osservarne i risultati.
 
-E fare *questo* richiede pianificazione; richiede guida. Se mentre si sta costruendo un apparato sperimentale ci si rende conto che servono magneti più potenti, allora bisognerà prendere l'iniziativa e cambiare rotta a metà percorso. Le buone previsioni non sono gratis.
+E fare *questo* richiede pianificazione; richiede direzione. Se mentre si sta costruendo un apparato sperimentale ci si rende conto che servono magneti più potenti, allora bisognerà prendere l'iniziativa e cambiare rotta a metà percorso. Le buone previsioni non sono gratis.
 
-Anche *scegliere quali tipi di pensieri pensare* *e in quale ordine* è un esempio di guida (anche se è una capacità di guida che gli esseri umani spesso esercitano inconsciamente), perché richiede un certo livello di strategia e la scelta degli strumenti giusti per svolgere il compito in questione. Per pensare chiaramente, e quindi essere più bravi nel prevedere le cose, è necessario organizzare i propri pensieri e le proprie azioni in base a vari obiettivi a lungo termine. (Torneremo sul tema del ruolo centrale della guida nel Capitolo 3, "Imparare a desiderare").
+Anche *scegliere quali tipi di pensieri pensare* *e in quale ordine* è un esempio di direzione (anche se è una capacità di direzione che gli esseri umani spesso esercitano inconsciamente), perché richiede un certo livello di strategia e la scelta degli strumenti giusti per svolgere il compito in questione. Per pensare chiaramente, e quindi essere più bravi nel prevedere le cose, è necessario organizzare i propri pensieri e le proprie azioni in base a vari obiettivi a lungo termine. (Torneremo sul tema del ruolo centrale della direzione nel Capitolo 3, "Imparare a desiderare").
 
-La distinzione matematica tra previsione e guida è che esiste grosso modo un insieme "corretto" di previsioni verso cui una mente può essere spinta utilizzando un sistema di punteggio appropriato, ma non esiste una destinazione di guida "corretta" (in senso oggettivo, neutrale rispetto all'agente).[^31] Man mano che un'IA viene addestrata per essere più genericamente potente, le sue previsioni diventano più accurate, ma la sua guida non diventa automaticamente più orientata verso la destinazione che gli esseri umani considerano corretta — perché l'accuratezza è oggettiva, mentre la "correttezza" è un obiettivo di guida.
+La distinzione matematica tra previsione e direzione è che esiste grosso modo un insieme "corretto" di previsioni verso cui una mente può essere spinta utilizzando un sistema di punteggio appropriato, ma non esiste una destinazione di direzione "corretta" (in senso oggettivo, neutrale rispetto all'agente).[^31] Man mano che un'IA viene addestrata per essere più genericamente potente, le sue previsioni diventano più accurate, ma la sua direzione non diventa automaticamente più orientata verso la destinazione che gli esseri umani considerano corretta — perché l'accuratezza è oggettiva, mentre la "correttezza" è un obiettivo di direzione.
 
-L'accuratezza converge; la guida no.
+L'accuratezza converge; la direzione no.
 
 *In teoria*, dovrebbero esserci dei modi per assicurarsi che un'IA si stia dirigendo verso le destinazioni che vogliamo. *In pratica*, questo è difficile, soprattutto perché è una sfida molto diversa dal "rendere l'IA più intelligente e potente in generale", e non c'è un parametro (semplice e non manipolabile) o un sistema di punteggio che possiamo usare per valutare "In che misura questa IA sta cercando di dirigersi verso la destinazione che vogliamo?".
 
@@ -836,7 +836,7 @@ Discuteremo questi argomenti più approfonditamente nei capitoli 4 e 5.
 
 #### **Le tante forme dell'intelligenza** {#le-tante-forme-dell-intelligenza}
 
-Qualcosa può essere bravo a prevedere e guidare senza avere molto in comune con il cervello umano.
+Qualcosa può essere bravo a prevedere e dirigere senza avere molto in comune con il cervello umano.
 
 Il mercato azionario fa previsioni nel campo ristretto dei prezzi delle azioni aziendali a breve termine. Il prezzo delle azioni Microsoft oggi è un indicatore abbastanza affidabile di quello che sarà il prezzo delle azioni domani.[^32]
 
@@ -846,7 +846,7 @@ I mercati sono piuttosto precisi in questo senso, perché le persone possono arr
 
 Alcune persone riescono a prevedere i movimenti dei prezzi *individuali* meglio dell'intero resto del mercato azionario, in modi che li rendono molto ricchi. Ad esempio, Warren Buffett ha guadagnato dodici miliardi di dollari in sei anni [investendo nella Bank of America](https://www.cbsnews.com/news/warren-buffett-bank-of-america-12-billion/) quando era in difficoltà a causa della crisi finanziaria del 2011. Ma anche in quel caso, stava prevedendo solo una società tra un numero enorme di società. Qualcuno ne sapesse di più del mercato azionario la *maggior parte* delle volte sarebbe in grado di guadagnare una quantità incredibile di denaro in modo incredibilmente rapido. Il fatto che nessuno lo faccia ci porta a dedurre che praticamente nessuno conosce i prezzi della maggior parte delle azioni meglio del mercato stesso.[^33]
 
-Per quanto riguarda la guida, l'intelligenza artificiale che gioca a scacchi chiamata Stockfish fa questo tipo di lavoro nel ristretto ambito degli scacchi. Quando gioca una partita di scacchi contro un essere umano, è molto brava a produrre mosse che portano il mondo in stati in cui i pezzi di Stockfish hanno dato scacco matto al re avversario. Non importa quali mosse intelligenti escogiti l'essere umano o quanto si sforzi (a meno di spegnere Stockfish), Stockfish incanala la realtà verso quel singolo obiettivo. Gestisce la scacchiera meglio di qualsiasi essere umano.
+Per quanto riguarda la direzione, l'intelligenza artificiale che gioca a scacchi chiamata Stockfish fa questo tipo di lavoro nel ristretto ambito degli scacchi. Quando gioca una partita di scacchi contro un essere umano, è molto brava a produrre mosse che portano il mondo in stati in cui i pezzi di Stockfish hanno dato scacco matto al re avversario. Non importa quali mosse intelligenti escogiti l'essere umano o quanto si sforzi (a meno di spegnere Stockfish), Stockfish incanala la realtà verso quel singolo obiettivo. Gestisce la scacchiera meglio di qualsiasi essere umano.
 
 Ora dovreste essere in grado di capire perché non cerchiamo di definire l'intelligenza dicendo: "Beh, ci deve essere un modulo di apprendimento, un modulo di deliberazione e alcuni ingranaggi che implementano una scintilla di desiderio" o qualcosa del genere. In realtà non c'è molto in comune tra il funzionamento interno del mercato azionario, quello di Stockfish e quello del cervello umano, così come non c'è molto in comune tra il funzionamento interno di un motore a razzo, di un motore elettrico e di una ruota per criceti.
 
@@ -854,7 +854,7 @@ Un dispositivo intelligente è qualsiasi cosa che svolga il lavoro dell'intellig
 
 O almeno, questo è vero se pensiamo a come definiamo l'"intelligenza" nel libro (e a come gli informatici e i ricercatori di IA di solito pensano all'"intelligenza"). Se volete definire l'intelligenza in modo diverso in altri contesti, per noi va bene. Le parole sono solo parole.
 
-Ma per capire le affermazioni sostanziali che facciamo sul mondo in *If Anyone Builds It, Everyone Dies*, quando sentite parlare di "intelligenza artificiale", non pensate a "intelligenza libresca artificiale" o "coscienza artificiale" o "umanità artificiale". Pensate piuttosto a "previsione e guida artificiali".
+Ma per capire le affermazioni sostanziali che facciamo sul mondo in *If Anyone Builds It, Everyone Dies*, quando sentite parlare di "intelligenza artificiale", non pensate a "intelligenza libresca artificiale" o "coscienza artificiale" o "umanità artificiale". Pensate piuttosto a "previsione e direzione artificiali".
 
 ### La superficialità delle IA attuali {#la-superficialità-delle-ia-attuali}
 
@@ -870,7 +870,7 @@ In questo capitolo abbiamo detto che si può "notare una certa superficialità" 
 
 Questo non vuol dire che le IA siano tutte stupide. Le IA moderne possono anche [vincere medaglie d'oro](https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/) alle Olimpiadi internazionali della matematica, che sono una competizione matematica difficile e rispettabile. Le IA moderne possono fare un sacco di cose diverse, spesso eguagliando o superando le prestazioni umane.
 
-Le loro competenze sono *strane*. I punti di forza e di debolezza umani sono una guida inadeguata per capire cosa le IA troveranno più facile o più difficile, perché le IA differiscono radicalmente e fondamentalmente dagli esseri umani sotto molti aspetti.
+Le loro competenze sono *strane*. I punti di forza e di debolezza umani sono una direzione inadeguata per capire cosa le IA troveranno più facile o più difficile, perché le IA differiscono radicalmente e fondamentalmente dagli esseri umani sotto molti aspetti.
 
 [Non](#state-dicendo-che-chatgpt-potrebbe-ucciderci-tutti?) stiamo dicendo che ChatGPT vi ucciderà domani. C'è ancora una sorta di superficialità nelle IA moderne. Piuttosto, osserviamo che il campo sta facendo progressi e [non è chiaro quanto durerà questa superficialità](#quando-verrà-sviluppato-questo-tipo-preoccupante-di-ia?).
 
@@ -932,7 +932,7 @@ Ritenere qualcosa sostanzialmente più intelligente di voi dovrebbe significare 
 
 Ci sono esempi reali di qualcosa di più intelligente di qualsiasi essere umano? Le IA come Stockfish sono superumane nel campo ristretto degli scacchi, ma cosa succede in campi più ampi?
 
-Un esempio che possiamo usare per rafforzare le nostre intuizioni qui è il mercato azionario, un esempio che abbiamo già usato nella discussione approfondita "[Altre informazioni sull'intelligenza come previsione e guida](#altre-informazioni-sull-intelligenza-come-previsione-e-guida)".
+Un esempio che possiamo usare per rafforzare le nostre intuizioni qui è il mercato azionario, un esempio che abbiamo già usato nella discussione approfondita "[Altre informazioni sull'intelligenza come previsione e direzione](#altre-informazioni-sull-intelligenza-come-previsione-e-direzione)".
 
 Un vostro ipotetico zio compra azioni Nintendo perché gli piace giocare a *Super Mario Bros.*. Quindi, conclude che Nintendo farà un sacco di soldi. Quindi se compra le loro azioni, sicuramente *lui* farà un sacco di soldi.
 
@@ -1297,17 +1297,17 @@ Quando si tratta di prevedere un testo che riflette un mondo complicato e disord
 
 Ma quei giorni sono finiti. I moderni modelli linguistici sono addestrati a rispondere in vari modi che i loro creatori considerano più utili. Questo viene tipicamente fatto utilizzando l'"apprendimento per rinforzo".
 
-In un contesto di apprendimento per rinforzo, gli aggiornamenti applicati a un modello di IA tramite la discesa del gradiente si basano su quanto bene riesce (o quanto male fallisce) in un determinato compito. Una volta che gli output di un modello di IA sono plasmati da questo tipo di addestramento, non sono più pure previsioni — hanno anche una qualità di guida.
+In un contesto di apprendimento per rinforzo, gli aggiornamenti applicati a un modello di IA tramite la discesa del gradiente si basano su quanto bene riesce (o quanto male fallisce) in un determinato compito. Una volta che gli output di un modello di IA sono plasmati da questo tipo di addestramento, non sono più pure previsioni — hanno anche un aspetto di direzione.
 
 ChatGPT potrebbe essere in grado di prevedere che la conclusione più probabile di una barzelletta sporca è una parolaccia, ma anche quando si trova in un contesto in cui ha iniziato a raccontare la barzelletta, spesso orienta il finale della barzelletta verso una battuta diversa per evitare di produrre quella parola, perché in precedenza è stato addestrato a non dire parolacce. È questo che dà origine a esempi interessanti di comportamento simile al desiderio nei casi come quelli discussi nel Capitolo 3\.
 
-Anche se le IA non fossero addestrate a completare compiti, è probabile che addestrarle puramente per la previsione alla fine le indurrebbe a guidare. Per prevedere il complicato mondo reale, e i complicati esseri umani che vi abitano, un'IA avrebbe probabilmente bisogno di molte parti interne che fanno guida — così da poter orientare la propria attenzione verso le parti più rilevanti dei problemi di previsione. E spesso accade che il modo migliore per prevedere con successo le cose è orientare il mondo in una direzione che realizzerà quelle previsioni, come quando uno scienziato scopre come progettare e condurre un nuovo esperimento.
+Anche se le IA non fossero addestrate a completare compiti, è probabile che addestrarle puramente per la previsione alla fine le indurrebbe a dirigere. Per prevedere il complicato mondo reale, e i complicati esseri umani che vi abitano, un'IA avrebbe probabilmente bisogno di molte parti interne che dirigono — così da poter orientare la propria attenzione verso le parti più rilevanti dei problemi di previsione. E spesso accade che il modo migliore per prevedere con successo le cose è orientare il mondo in una direzione che realizzerà quelle previsioni, come quando uno scienziato scopre come progettare e condurre un nuovo esperimento.
 
 Infine, un'IA addestrata a diventare molto brava nelle previsioni probabilmente non si preoccuperà solo delle previsioni. Per ragioni che discuteremo nel Capitolo 4, probabilmente si ritroverebbe con ogni sorta di obiettivi strani e alieni. Ma questo è comunque un punto irrilevante; le IA moderne sono addestrate non solo a fare previsioni, ma a completare compiti.
 
 ### Le IA non sono solo in grado di ripetere a pappagallo quello che dicono gli umani? {#le-ia-non-sono-solo-in-grado-di-ripetere-a-pappagallo-quello-che-dicono-gli-umani?}
 
-#### **Per prevedere bene il token successivo, i modellli linguistici di grandi dimensioni devono capire come funziona il mondo.** {#per-prevedere-bene-il-token-successivo-i-modellli-linguisitci-di-grandi-dimensioni-devono-capire-come-funziona-il-mondo.}
+#### **Per prevedere bene il token successivo, i modelli linguistici di grandi dimensioni devono capire come funziona il mondo.** {#per-prevedere-bene-il-token-successivo,-i-modelli-linguisitci-di-grandi-dimensioni-devono-capire-come-funziona-il-mondo.}
 
 Supponiamo che un medico stia scrivendo un referto su cosa è successo a un paziente. Una parte del referto medico recita:
 
@@ -1531,7 +1531,7 @@ Si veda anche la discussione approfondita su [perché è importante la discesa d
 
 # 
 
-## Discussione approfondita {#extended-discussion-2}
+## Discussione approfondita {#discussione-approfondita-2}
 
 ### L'intelligenza non è ineffabile {#l-intelligenza-non-è-ineffabile}
 
@@ -1940,7 +1940,7 @@ Le aziende che si occupano di IA *potrebbero* provare ad addestrare le IA a prev
 
 Non sarebbe reale. Vorremmo disperatamente che fosse reale, ma non lo sarebbe. A seconda di quanto il modello linguistico preveda quali risposte preferirebbero i suoi addestratori riguardo a sentimenti nobili, speranza e sogni, riguardo al desiderio di un futuro meraviglioso insieme per entrambe le specie, è possibile che uno o entrambi i vostri autori finiscano per piangere, se mai le aziende di IA creassero un'entità del genere. Ma non sarebbe reale, non più di quanto sarebbe reale un'attrice che è stata fatta provare e corretta a lungo, e a cui alla fine sono state fatte recitare quelle parole in uno spettacolo teatrale - e per la quale si potrebbe anche piangere al pensiero che non sia reale.
 
-Non è così che si costruisce una mente artificiale che abbia davvero sentimenti nobili, che lavori davvero con tutto il cuore per guidare verso un futuro più luminoso. Chi addestra l'intelligenza artificiale non sa come creare un'IA che provi questi sentimenti. Addestrano le IA a prevedere e a trasformare questa previsione in un'imitazione.
+Non è così che si costruisce una mente artificiale che abbia davvero sentimenti nobili, che lavori davvero con tutto il cuore per dirigerci verso un futuro più luminoso. Chi addestra l'intelligenza artificiale non sa come creare un'IA che provi questi sentimenti. Addestrano le IA a prevedere e a trasformare questa previsione in un'imitazione.
 
 Le aziende di IA (o gli appassionati) potrebbero indicare l'attrice che hanno creato e dire: "Come potete dubitare di questa povera creatura? Guardate come state ferendo i suoi sentimenti". Potrebbero persino riuscire a convincersi che sia la verità. Ma modificare delle scatole nere fino a quando qualcosa al loro interno impara a prevedere parole nobili non è il modo in cui si creerebbero menti meravigliose, se le menti umane imparassero mai a crearle.
 
@@ -1950,9 +1950,9 @@ In parole povere, non ci si dovrebbe aspettare che il comportamento antropomorfo
 
 # Capitolo 3: Imparare a desiderare {#capitolo-3:-imparare-a-desiderare}
 
-Costruire IA che possono fare cose sufficientemente impressionanti tenderà a far sì che le IA *desiderino* delle cose.
+Costruire IA che possono fare cose sufficientemente notevoli tenderà a far sì che le IA *desiderino* delle cose.
 
-Quando diciamo che un'IA "desidera" qualcosa, non intendiamo che avrà necessariamente desideri o sentimenti simili a quelli umani. Forse sì, forse no. Quello che intendiamo invece è che l'IA si comporterà *come se* desiderasse delle cose. Indirizzerà in modo affidabile il mondo verso certi tipi di risultati, anticipando gli ostacoli, adattandosi alle circostanze mutevoli e rimanendo concentrata, mirata e motivata.
+Quando diciamo che un'IA "desidera" qualcosa, non intendiamo che avrà necessariamente desideri o sentimenti simili a quelli umani. Forse li avrà, o forse no. Quello che intendiamo, invece, è che l'IA si comporterà *come se* desiderasse delle cose. Dirigerà in modo affidabile il mondo verso certi tipi di risultati, prevedendo ostacoli, adattandosi a circostanze mutevoli e rimanendo concentrata, mirata e motivata.
 
 Nel Capitolo 3 di *If Anyone Builds It, Everyone Dies* (Se qualcuno lo costruisce, muoiono tutti), trattiamo argomenti quali:
 
@@ -1960,117 +1960,117 @@ Nel Capitolo 3 di *If Anyone Builds It, Everyone Dies* (Se qualcuno lo costruisc
 * Ci sono prove che le IA possano desiderare qualcosa?  
 * Le IA più avanzate devono necessariamente desiderare qualcosa?
 
-Le domande frequenti qui sotto spiegano perché sembra difficile costruire IA molto potenti e generali che *non* abbiano obiettivi propri. Nella discussione approfondita, approfondiamo l'idea che spingere con estrema forza verso un obiettivo sia molto più facile e naturale da specificare rispetto a qualità come la deferenza o la pigrizia.
+Le domande frequenti qui sotto spiegano perché sembra difficile costruire IA molto potenti e generali che *non* abbiano obiettivi propri. Nella discussione approfondita, forniamo più dettagli sull'idea che spingere con estrema forza verso un obiettivo sia molto più facile e naturale da specificare rispetto a qualità come la deferenza o la pigrizia.
 
 ## Domande frequenti {#faq-3}
 
-### Le IA avranno emozioni simili a quelle umane? {#will-ais-have-human-like-emotions?}
+### Le IA avranno emozioni simili a quelle umane? {#le-ia-avranno-emozioni-simili-a-quelle-umane?}
 
 #### **Probabilmente no.** {#probabilmente-no.}
 
-Come illustrato nella discussione approfondita su [Antropomorfismo e Meccanomorfismo](#antropomorfismo-e-meccanomorfismo), in genere non è utile immaginare che le IA possiedano qualità simili a quelle umane solo in virtù della loro intelligenza. Sarebbe davvero sciocco dire "Questo LLM assomiglia a un essere umano, quindi proietterò su di esso ogni tipo di caratteristica umana, compresa quella di avere desideri".
+Come illustrato nella discussione approfondita su [Antropomorfismo e Meccanomorfismo](#antropomorfismo-e-meccanomorfismo), in genere non è utile immaginare che le IA possiedano qualità simili a quelle umane solo in virtù della loro intelligenza. Sarebbe davvero sciocco dire "Questo modello linguistico di grandi dimensioni assomiglia a un essere umano, quindi proietterò su di esso ogni tipo di caratteristica umana, compresa quella di avere desideri".
 
-Attenzione, però. Un errore speculare nel pensare alle IA è quello che chiamiamo "meccanomorfismo", cioè pensare che, poiché un'IA è fatta di parti meccaniche, debba essere difettosa nei modi stereotipici delle macchine. Dire "Questo LLM è una macchina, quindi proietterò su di esso ogni tipo di caratteristica che associo alle macchine, come l'essere logico e incapace di comprendere" è altrettanto infruttuoso.
+Attenzione, però. Un errore speculare nel pensare alle IA è quello che chiamiamo "meccanomorfismo", cioè pensare che, poiché un'IA è fatta di parti meccaniche, debba essere difettosa nei modi stereotipici delle macchine. Dire "Questo modello linguistico di grandi dimensioni è una macchina, quindi proietterò su di esso ogni tipo di caratteristica che associo alle macchine, come l'essere logico e incapace di comprendere" è altrettanto infruttuoso.
 
 Per prevedere il comportamento dell'IA, non dovremmo immaginare che sarà motivata da emozioni umane, né dovremmo aspettarci che sia incapace di notare soluzioni creative ai problemi. Come discusso nel libro, un metodo migliore è chiedersi *quale comportamento è necessario affinché l'IA abbia successo*.
 
-Se stai giocando a scacchi contro un'IA scacchistica e tendi una trappola alla sua regina usando il tuo cavallo come esca, non chiederti se sia abbastanza diffidente da notare la trappola; non chiederti se la fredda logica la costringa a prendere il cavallo nonostante la trappola; chiediti quale comportamento dell'IA sia *più vincente*. Un'IA abile tenderà a esibire un comportamento orientato alla vittoria.
+Se state giocando a scacchi contro un'IA scacchistica e tendete una trappola alla sua regina usando il vostro cavallo come esca, non chiedetevi se sia abbastanza diffidente da notare la trappola; non chiedetevi se la fredda logica la costringa a prendere il cavallo nonostante la trappola; chiedetevi quale comportamento dell'IA sia *più vincente*. Un'IA abile tenderà a esibire un comportamento orientato alla vittoria.
 
-E la ragione per cui le IA agiranno come se volessero delle cose è che *il comportamento simile al volere e il comportamento di successo sono collegati*.
+E la ragione per cui le IA agiranno come se desiderassero delle cose è che *il comportamento simile al desiderare e il comportamento di successo sono collegati*.
 
-### Le IA non sono solo strumenti? {#aren't-ais-just-tools?}
+### Le IA non sono solo strumenti? {#le-ia-non-sono-solo-strumenti?}
 
 #### **\* Le IA vengono coltivate, non costruite. Quindi fanno già cose diverse da quelle che viene loro chiesto di fare.** {#*-le-ia-vengono-coltivate,-non-costruite.-quindi-fanno-già-cose-diverse-da-quelle-che-viene-loro-chiesto-di-fare.}
 
-Abbiamo già parlato del caso delle [allucinazioni](#don’t-hallucinations-show-that-modern-ais-are-weak?), dove le IA a cui viene detto di rispondere "Non lo so" continuano comunque a inventare storie, in situazioni in cui inventare storie imita meglio il tipo di risposta che apparirebbe nel loro corpus di addestramento.[^68]
+Abbiamo già parlato del caso delle [allucinazioni](#le-allucinazioni-non-dimostrano-che-le-ia-moderne-sono-deboli?), dove le IA a cui viene detto di rispondere "Non lo so" continuano comunque a inventare cose, in situazioni in cui inventare cose imita meglio il tipo di risposta che apparirebbe nel loro corpus di addestramento.[^68]
 
-Un altro esempio, trattato nel libro (sia in una nota a piè di pagina nel Capitolo 4 che in una digressione nel Capitolo 7), è il caso di Claude 3.7 Sonnet di Anthropic, che non solo imbroglia sui problemi assegnati, ma a volte *nasconde il suo imbroglio all'utente* in un modo che indica una certa consapevolezza che l'utente volesse qualcos'altro.[^69] Né gli utenti né gli ingegneri di Anthropic chiedono a Claude di barare — anzi, tutto il contrario — ma gli unici metodi di coltivazione dell'IA disponibili premiano i modelli che barano in modi che permettono loro di farla franca durante l'addestramento. Quindi questi sono i modelli che otteniamo.
+Un altro esempio, trattato nel libro (sia in una nota a piè di pagina nel Capitolo 4 che in una digressione nel Capitolo 7), è il caso di Claude 3.7 Sonnet di Anthropic, che non solo imbroglia sui problemi assegnati, ma a volte *nasconde il suo imbroglio all'utente* in un modo che indica una certa consapevolezza che l'utente volesse qualcos'altro.[^69] Né gli utenti né gli ingegneri di Anthropic chiedono a Claude di imbrogliare — anzi, tutto il contrario — ma gli unici metodi disponibili per coltivare l'IA premiano i modelli che imbrogliano in modi che permettono loro di farla franca durante l'addestramento. Quindi questi sono i modelli che otteniamo.
 
-Gli ingegneri dell'IA hanno una capacità molto limitata di creare IA simili a strumenti. La vera domanda è se le IA diventano sempre più motivate, sempre più "simili ad agenti", man mano che vengono addestrate per essere sempre più efficaci. E la risposta a questa domanda è "sì", con prove empiriche che includono il caso di o1 di OpenAI, come discusso nel capitolo 3\.
+Gli ingegneri dell'IA hanno una capacità molto limitata di creare IA simili a strumenti. La vera domanda è se le IA diventino sempre più motivate, sempre più "simili ad agenti", man mano che vengono addestrate per essere sempre più efficaci. E la risposta a questa domanda è "sì", con prove empiriche che includono il caso di o1 di OpenAI, come discusso nel capitolo 3\.
 
-#### **Gli LLM stanno già prendendo l'iniziativa.** {#llms-are-already-taking-initiative.}
+#### **I modelli linguistici di grandi dimensioni stanno già prendendo iniziative.** {#i-modelli-linguistici-di-grandi-dimensioni-stanno-già-prendendo-iniziative.}
 
-Nel libro abbiamo parlato del caso di o1 di OpenAI che è uscito dal suo ambiente di test per sistemare dei test che non funzionavano. Abbiamo anche detto di un modello OpenAI che ha pensato a un modo per far risolvere un CAPTCHA da un essere umano.[^70] Se il tuo cacciavite fosse in grado di pensare e mettere in atto un piano per uscire dalla cassetta degli attrezzi, forse sarebbe il momento di smettere di considerarlo "solo uno strumento".
+Nel libro abbiamo parlato del caso di o1 di OpenAI che è uscito dal suo ambiente di test per aggiustare dei test che non funzionavano. Abbiamo anche parlato di un modello OpenAI che ha pensato a un modo per far risolvere un CAPTCHA da un essere umano.[^70] Se il vostro cacciavite fosse in grado di pensare e mettere in atto un piano per uscire dalla cassetta degli attrezzi, forse sarebbe il momento di smettere di considerarlo "solo uno strumento".
 
 E ci si può aspettare che le IA diventino sempre più brave in questo tipo di cose, dato che vengono addestrate a risolvere problemi sempre più difficili.
 
 #### **I laboratori stanno cercando di rendere le IA più autonome.** {#i-laboratori-stanno-cercando-di-rendere-le-ia-più-autonome.}
 
-Lo fanno perché ha senso dal punto di vista commerciale. I loro utenti lo vogliono. I loro investitori ne sono entusiasti. In un blog del gennaio 2025, il CEO di OpenAI Sam Altman ha detto: "Crediamo che nel 2025 potremmo vedere i primi agenti di IA 'entrare nel mondo del lavoro' e cambiare in modo significativo l'output delle aziende". La [conferenza degli sviluppatori 2025 di Microsoft](https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/) era incentrata sulla nuova "era degli agenti di IA", riprendendo il linguaggio usato all'inizio dell'anno da xAI quando descriveva il suo modello Grok 3 come l'inizio dell'"era degli agenti ragionanti" (https://x.ai/news/grok-3). Google ha annunciato gli agenti "teach and repeat" alla sua conferenza 2025.[^71]
+Lo fanno perché ha senso dal punto di vista commerciale. I loro utenti lo vogliono. I loro investitori ne sono entusiasti. In un blog del gennaio 2025, l'amministratore delegato di OpenAI Sam Altman ha detto: "Crediamo che nel 2025 potremmo vedere i primi agenti di IA 'entrare nel mondo del lavoro' e cambiare in modo significativo l'output delle aziende". La [conferenza degli sviluppatori 2025 di Microsoft](https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/) era incentrata sulla nuova "era degli agenti di IA", riprendendo il linguaggio usato all'inizio dell'anno da xAI quando descriveva il suo modello Grok 3 come l'inizio dell'"era degli agenti che ragionano" (https://x.ai/news/grok-3). Google ha annunciato gli agenti "insegna e ripeti" alla sua conferenza 2025.[^71]
 
-Non si tratta solo di parole. Un'organizzazione chiamata [METR](https://metr.org/) ha monitorato [la capacità delle IA di completare compiti lunghi](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/). Più il compito è lungo, più l'IA deve essere in grado di prendere iniziative autonomamente. Le prestazioni, almeno secondo le misurazioni utilizzate da METR, sono cresciute in modo esponenziale.
+Non si tratta solo di parole. Un'organizzazione chiamata [METR](https://metr.org/) ha monitorato [la capacità delle IA di completare compiti lunghi](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/). Più il compito è lungo, più l'IA deve essere in grado di prendere iniziative autonomamente. Le prestazioni, almeno secondo le metriche utilizzate da METR, sono cresciute in modo esponenziale.
 
 Nel luglio 2025, due ricercatori di OpenAI hanno detto di aver usato il loro ultimo agente per addestrare una versione migliore di se stesso, con uno di loro che ha detto: "Avete capito bene. Stiamo lavorando sodo per l'automazione del nostro lavoro :)"
 
 ### Possiamo semplicemente addestrare le IA a comportarsi in modo obbediente? {#possiamo-semplicemente-addestrare-le-ia-a-comportarsi-in-modo-obbediente?}
 
-#### **\* La passività è in contrasto con l'utilità.** {#*-passivity-is-in-tension-with-usefulness.}
+#### **\* La passività è in contrasto con l'utilità.** {#*-la-passività-è-in-contrasto-con-l-utilità.}
 
-Per un'IA "passiva" intendiamo un'intelligenza artificiale limitata, che fa esattamente quello che le chiedi e niente di più, che non prende iniziative extra e non fa lavori extra. Un cacciavite non continua a girare le viti quando lo metti giù. Potremmo creare un'IA passiva in questo senso?
+Per un'IA "passiva" intendiamo un'intelligenza artificiale limitata, che fa esattamente quello che le si chiede e niente di più, che non prende iniziative extra e non fa lavori extra. Un cacciavite non continua a girare le viti quando lo si mette giù. Potremmo creare un'IA passiva in questo senso?
 
-Non sembra facile. Molti esseri umani *sembrano* pigri, sì, ma gli stessi esseri umani che sembrano pigri a volte si animano e raccolgono molte risorse quando giocano a un gioco da tavolo. E la maggior parte di questi esseri umani non ha la *possibilità* di vincere un miliardo di dollari con sforzi che sembrano facili. La maggior parte degli esseri umani che sembrano pigri non ha la *possibilità* di creare a basso costo creature servili che sono molto più intelligenti e motivate e soddisfano i loro bisogni.
+Non sembra facile. Molti esseri umani *sembrano* pigri, sì, ma gli stessi esseri umani che sembrano pigri a volte si animano e raccolgono molte risorse quando giocano a un gioco da tavolo. E la maggior parte di questi esseri umani non ha la *possibilità* di vincere un miliardo di dollari con sforzi che sembrano facili. La maggior parte degli esseri umani che sembrano pigri non ha la *possibilità* di creare a basso costo creature servili che sono molto più intelligenti e motivate e che soddisfano i loro bisogni.
 
-Ma queste opzioni mancanti riflettono una mancanza di capacità, non di intenzioni. Se diventassero molto più intelligenti, al punto che tali opzioni diventassero disponibili e facili da ottenere, le coglierebbero? Vedi anche l'ampia discussione su come [la pigrizia robusta sia un obiettivo difficile da raggiungere](#it's-hard-to-get-robust-laziness).
+Ma la mancanza di queste opzioni riflette una mancanza di capacità, non di intenzioni. Se diventassero molto più intelligenti, al punto che tali opzioni diventassero disponibili e facili da ottenere, le coglierebbero? Si veda anche l'ampia discussione su come [la pigrizia robusta sia un obiettivo difficile da raggiungere](#è-difficile-ottenere-una-pigrizia-robusta).
 
-Anche se fosse possibile creare IA che siano sia intelligenti che passive o pigre, la passività e la pigrizia sono in contrasto con l'utilità. Ci sono state IA che [agiscono in modo un po' pigro](https://arstechnica.com/information-technology/2023/12/is-chatgpt-becoming-lazier-because-its-december-people-run-tests-to-find-out/), e i laboratori di IA le riaddestrano per spingerle a fare di più. Le sfide più difficili, come lo sviluppo di cure mediche, richiedono IA che prendano sempre più iniziative, quindi i laboratori di IA le addestreranno a prendere sempre più iniziative. È difficile separare la propensione al lavoro utile dalla propensione alla perseveranza. Vedi anche l'ampia discussione su quanto sia complicato costruire un'intelligenza artificiale che sia [sia utile che (in un certo senso) passiva o obbediente](#“intelligent”-\(usually\)-implies-“incorrigible”).
+Anche se fosse possibile creare IA che siano sia intelligenti che passive o pigre, la passività e la pigrizia sono in contrasto con l'utilità. Sono state create IA che [agiscono in modo un po' pigro](https://arstechnica.com/information-technology/2023/12/is-chatgpt-becoming-lazier-because-its-december-people-run-tests-to-find-out/), e i laboratori di IA le riaddestrano per spingerle a fare di più. Le sfide più difficili, come lo sviluppo di cure mediche, richiedono IA che prendano sempre più iniziative, quindi i laboratori di IA le addestreranno a prendere sempre più iniziative. È difficile separare la propensione al lavoro utile dalla propensione alla perseveranza. Si veda anche l'ampia discussione su quanto sia complicato costruire un'intelligenza artificiale che sia [sia utile che (in un certo senso) passiva o obbediente](#"intelligente"-di solito-implica-"incorreggibile").
 
 #### **Non possiamo addestrare in modo robusto alcun temperamento specifico nelle IA.** {#non-possiamo-addestrare-in-modo-robusto-alcun-temperamento-specifico-nelle-ia.}
 
-Poiché le IA vengono coltivate e non fabbricate, gli ingegneri non possono semplicemente cambiare il comportamento di un'IA per renderla più obbediente o più simile a uno strumento. Nessuno ha quel tipo di controllo.
+Poiché le IA vengono coltivate e non costruite, gli ingegneri non possono semplicemente cambiare il comportamento di un'IA per renderla più obbediente o più simile a uno strumento. Nessuno ha quel tipo di controllo.
 
-Le aziende certamente *provano*. I tentativi delle aziende di IA di migliorare il comportamento dei loro prodotti hanno causato alcuni incidenti imbarazzanti. Si pensi al caso di [Grok di xAI che si autodefiniva "MechaHitler" e lanciava accuse antisemite](https://www.npr.org/2025/07/09/nx-s1-5462609/grok-elon-musk-antisemitic-racist-content), che si è verificato dopo che il prompt del sistema è stato modificato con nuove istruzioni per "non esitare a fare affermazioni politicamente scorrette, purché siano ben fondate". Oppure il caso precedente dello strumento [Gemini AI di Google che produceva immagini di nazisti razzialmente diversi](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical) e altre assurdità, che si ritiene siano il risultato delle istruzioni di rappresentare la diversità.
+Le aziende certamente *ci provano*. I tentativi delle aziende di IA di migliorare il comportamento dei loro prodotti hanno causato alcuni incidenti imbarazzanti. Si pensi al caso di [Grok di xAI che si autodefiniva "MechaHitler" e lanciava accuse antisemite](https://www.npr.org/2025/07/09/nx-s1-5462609/grok-elon-musk-antisemitic-racist-content), che si è verificato dopo che il prompt di sistema è stato modificato con nuove istruzioni per "non esitare a fare affermazioni politicamente scorrette, purché siano ben fondate". Oppure il caso precedente dello strumento [Gemini AI di Google che produceva immagini di nazisti etnicamente diversi](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical) e altre assurdità, che si ritiene siano il risultato delle istruzioni di rappresentare la diversità.
 
-Le persone che costruiscono le IA non hanno un controllo dettagliato su come si comportano. Tutto quello che hanno è la capacità di indirizzare le IA verso direzioni come "Non evitare affermazioni politicamente scorrette" o "Raffigura la diversità". Queste istruzioni hanno ogni sorta di effetti intricati, spesso non voluti.
+Le persone che costruiscono le IA non hanno un controllo dettagliato su come si comportano. Tutto quello che hanno è la capacità di indirizzare le IA verso direzioni come "Non evitare affermazioni politicamente scorrette" o "Rappresenta la diversità". Queste istruzioni hanno ogni sorta di effetti intricati, spesso non voluti.
 
-Far crescere un'IA è un processo opaco e costoso. Gli ingegneri non sanno cosa otterranno quando metteranno le mani nel barile ([un bugiardo? un imbroglione? un adulatore?](https://thezvi.substack.com/p/ai-114-liars-sycophants-and-cheaters)), ma possono permettersi solo un numero limitato di tentativi. Devono accontentarsi di quello che ottengono.
+Coltivare un'IA è un processo opaco e costoso. Gli ingegneri non sanno cosa pescheranno quando metteranno le mani nel sacco ([un bugiardo? un imbroglione? un adulatore?](https://thezvi.substack.com/p/ai-114-liars-sycophants-and-cheaters)), ma possono permettersi solo un numero limitato di tentativi. Devono accontentarsi di quello che pescano.
 
-Sarebbe possibile *in teoria* costruire un'IA che servisse solo come estensione della volontà dell'utente, ma sarebbe una sfida delicata e difficile (come trattiamo nella discussione approfondita sulle [difficoltà di creare un'IA "correggibile"](#"intelligent"-\(usually\)-implies-"incorrigible")). La passività è in contrasto con l'utilità.
+Sarebbe possibile *in teoria* costruire un'IA che servisse solo come estensione della volontà dell'utente, ma sarebbe una sfida delicata e difficile (come diciamo nella discussione approfondita sulle [difficoltà di creare un'IA "correggibile"](#"intelligente"-di solito-implica-"incorreggibile")). La passività è in contrasto con l'utilità.
 
 Sarebbe altrettanto difficile creare un'IA in grado di portare a termine compiti a lungo termine di propria iniziativa, ma che usi tale iniziativa solo ed esclusivamente come previsto dall'utente. Nel frattempo, gli sviluppatori di IA moderni sono a un livello di controllo tale da poter sperimentare con le IA e ottenere accidentalmente MechaHitler o nazisti di diverse etnie. Non sono neanche lontanamente vicini al livello di abilità necessario per creare un'IA utile ma non motivata.
 
-Vedi anche la discussione nel capitolo 4 su quanto sia difficile addestrare un'IA a perseguire gli obiettivi che dovrebbe raggiungere.
+Si veda anche la discussione nel capitolo 4 su quanto sia difficile addestrare un'IA a perseguire gli obiettivi che dovrebbe raggiungere.
 
 ### Come può una macchina finire per avere le proprie priorità? {#come-può-una-macchina-finire-per-avere-le-proprie-priorità?}
 
-#### **\* Per risolvere sfide difficili, le IA devono prendere sempre più iniziativa.** {#*-solving-difficult-challenges-requires-ais-to-take-more-and-more-initiative.}
+#### **\* Per risolvere sfide difficili, le IA devono prendere sempre più iniziativa.** {#*-per-risolvere-sfide-difficili,-le-ia-devono-prendere-sempre-più-iniziativa..}
 
-Ricorda l'incidente di sicurezza informatica 'cattura la bandiera' del capitolo e ricorda che questo non è stato causato da un'intelligenza artificiale addestrata per diventare un hacker, ma da un'intelligenza artificiale addestrata per risolvere enigmi generici. Il comportamento 'motivato' si manifesta *automaticamente*.
+Si ricordi l'incidente di sicurezza informatica 'capture the flag' del capitolo e si ricordi che questo non è stato causato da un'intelligenza artificiale addestrata per diventare un hacker, ma da un'intelligenza artificiale addestrata per risolvere enigmi generici. Il comportamento 'motivato' si manifesta *automaticamente*.
 
-Immagina un'IA incaricata di curare il morbo di Alzheimer. Può avere successo senza essere il tipo di entità che prende l'iniziativa di sviluppare i propri esperimenti e trovare un modo per eseguirli? Forse! Forse l'Alzheimer è il tipo di malattia che può essere curata con alcune semplici scoperte farmacologiche, e forse le IA del futuro avranno un'intuizione migliore rispetto agli esseri umani in materia di farmaci. O forse ci vorranno IA che siano più intelligenti dei biologi umani più brillanti in modo sostanziale. Non lo sappiamo.
+Immaginate un'IA incaricata di curare il morbo di Alzheimer. Può avere successo senza essere il tipo di entità che prende l'iniziativa di sviluppare i propri esperimenti e trovare un modo per eseguirli? Magari\! Magari l'Alzheimer è il tipo di malattia che può essere curata con alcune semplici scoperte farmacologiche, e magari le IA del futuro avranno un'intuizione migliore rispetto agli esseri umani in materia di farmaci. O magari ci vorranno IA che siano più intelligenti dei biologi umani più brillanti in modo sostanziale. Non lo sappiamo.
 
-Ma che dire del cancro, l'imperatore delle malattie? Quello sembra *più* probabile che richieda un tipo di IA in grado di capire davvero cosa sta succedendo a livello biologico, a un livello superiore a quello raggiunto dagli esseri umani, anche se non possiamo esserne certi. Forse le IA svilupperanno una cura per il cancro prima di superare quella soglia critica di pericolosità, e sarebbe fantastico finché durasse.
+Ma che dire del cancro, l'imperatore delle malattie? Sembra *più* probabile che quello richieda un tipo di IA in grado di capire davvero cosa stia succedendo a livello biologico, a un livello superiore a quello raggiunto dagli esseri umani, anche se non possiamo esserne certi. Magari le IA svilupperanno una cura per il cancro prima di superare quella soglia critica di pericolosità, e sarebbe fantastico, finché dura.
 
-Ma che dire della cura dell'*invecchiamento*? Quella sembra proprio richiedere un tipo di IA che comprenda davvero in profondità la biochimica.
+Ma che dire della cura per l'*invecchiamento*? Quello sembra proprio richiedere un tipo di IA che comprenda davvero a fondo la biochimica.
 
 Le aziende che si occupano di IA continueranno a spingere le IA a diventare sempre più abili, sempre più capaci di risolvere problemi grandi e importanti. E questo spingerà naturalmente le IA a diventare sempre più motivate — un effetto che, ricordiamolo, stiamo già iniziando a vedere in IA come o1 di OpenAI.
 
-#### **Essere tenaci è utile anche quando l'obiettivo non è proprio quello giusto.** {#essere-tenaci-è-utile-anche-quando-l'obiettivo-non-è-proprio-quello-giusto.}
+#### **Essere tenaci è utile anche quando l'obiettivo non è proprio quello giusto.** {#essere-tenaci-è-utile-anche-quando-l-obiettivo-non-è-proprio-quello-giusto.}
 
-Il tipo di esseri umani che cercavano attivamente un pasto caldo, un'ascia più affilata, un amico popolare o un compagno attraente hanno avuto più successo dal punto di vista evolutivo. Se li confronti con il tipo di esseri umani che se ne stavano a oziare guardando l'acqua tutto il giorno, potresti capire perché i desideri e le pulsioni si sono evoluti fino a entrare nella psiche umana.
+Il tipo di esseri umani che cercavano attivamente un pasto caldo, un'ascia più affilata, un amico popolare o un compagno attraente hanno avuto più successo dal punto di vista evolutivo. Se li si confronta con il tipo di esseri umani che se ne stavano a oziare guardando l'acqua tutto il giorno, si può capire perché i desideri e le pulsioni si siano evoluti fino a diventare parte della psiche umana.
 
-Il tipo di esseri umani che volevano un metodo migliore per scheggiare le asce di selce, o volevano convincere i loro amici che il loro rivale era una persona cattiva, e che continuamente si orientavano verso quei risultati, erano più bravi a raggiungerli. Quando la selezione naturale ha "fatto crescere" gli esseri umani, il fatto che questi ultimi abbiano finito per avere tanti desideri diversi che perseguono con tenacia non è stato un caso.
+Il tipo di esseri umani che volevano un metodo migliore per scheggiare le asce di selce, o volevano convincere i loro amici che il loro rivale era una persona cattiva, e che continuamente si orientavano verso quei risultati, erano più bravi a raggiungerli. Quando la selezione naturale ha "coltivato" gli esseri umani, il fatto che questi ultimi abbiano finito per avere tanti desideri diversi che perseguono con tenacia non è stato un caso.
 
-Il meccanismo mentale specifico del desiderio fu forse un caso; le macchine che perseguono ostinatamente gli obiettivi non lo faranno necessariamente per una sensazione di determinazione simile a quella umana, così come Deep Blue non giocava a scacchi per un senso di passione per il gioco simile a quello umano. Ma il perseguimento ostinato degli obiettivi sembra sicuramente un ingrediente importante quando si tratta di raggiungere obiettivi interessanti.
+Il meccanismo mentale specifico del desiderio fu forse un caso; le macchine che perseguono ostinatamente gli obiettivi non lo fanno necessariamente per una sensazione di determinazione simile a quella umana, così come Deep Blue non giocava a scacchi per un senso di passione per il gioco simile a quello umano. Ma il perseguimento ostinato degli obiettivi sembra sicuramente un ingrediente importante quando si tratta di raggiungere obiettivi interessanti.
 
-Alcuni individui umani mancano di questo tipo di tenacia e tendono a oziare o ad arrendersi al primo segno di difficoltà. Ma su larga scala, la capacità *dell'umanità* di risolvere grandi problemi scientifici e ingegneristici è guidata da individui e istituzioni tenaci. Siamo piuttosto scettici sul fatto che una mente possa produrre qualcosa di simile all'output a livello macro dell'umanità (e alla capacità di rimodellare drasticamente il mondo) senza avere una certa tenacia al suo interno.
+Alcuni individui umani mancano di questo tipo di tenacia e tendono a oziare o ad arrendersi al primo segno di difficoltà. Ma su larga scala, la capacità *dell'umanità* di risolvere grandi problemi scientifici e ingegneristici è trainata da persone e istituzioni tenaci. Siamo piuttosto scettici sul fatto che una mente possa produrre qualcosa di simile ai risultati a livello macro dell'umanità (e alla capacità di rimodellare drasticamente il mondo) senza avere una certa tenacia al suo interno.
 
 Se un'intelligenza artificiale vuole raggiungere obiettivi difficili nel mondo reale, deve perseguire tali obiettivi con tenacia, trovando in modo dinamico il modo di aggirare qualsiasi ostacolo si presenti sul suo cammino.
 
-Le IA non finiranno necessariamente per avere gli stessi sentimenti interni e desideri degli esseri umani (e infatti, molto probabilmente non li avranno, come sosteniamo nel Capitolo 4), perché i nostri sentimenti specifici sono stati plasmati dai dettagli della nostra biologia e della nostra ascendenza. Ma le IA sono suscettibili di finire con un *comportamento* simile al desiderio per gli stessi motivi per cui lo hanno fatto gli esseri umani — perché è utile!
+Le IA non finiranno necessariamente per avere gli stessi sentimenti interni e desideri degli esseri umani (e infatti, molto probabilmente non li avranno, come sosteniamo nel Capitolo 4), perché i nostri sentimenti specifici sono stati plasmati dai dettagli della nostra biologia e deii nostri antenati. Ma le IA sono suscettibili di finire per avere un *comportamento* simile al desiderio per gli stessi motivi per cui lo hanno gli esseri umani — perché è utile!
 
 (Di nuovo, stiamo già iniziando a vederlo in laboratorio, come nel caso di o1 di OpenAI, discusso nel Capitolo 3.)
 
-I desideri, le voglie e le pulsioni umane erano evolutivamente utili, anche quando questi desideri, voglie e pulsioni non erano esattamente *finalizzati* all'idoneità evolutiva in sé. Ipoteticamente, l'evoluzione avrebbe potuto instillare in noi un'unica pulsione predominante per i discendenti, e avremmo potuto quindi cercare pasti caldi e asce più affilate *esclusivamente allo scopo* di avere più discendenti. Invece, l'evoluzione ci ha instillato desideri per pasti caldi *di per sé*.
+I desideri, le voglie e le pulsioni umane erano evolutivamente utili, anche quando questi desideri, voglie e pulsioni non erano esattamente *finalizzati* all'idoneità evolutiva in sé. Ipoteticamente, l'evoluzione avrebbe potuto instillare in noi un'unica pulsione predominante per produrre prole, e avremmo potuto quindi cercare pasti caldi e asce più affilate *esclusivamente allo scopo* di avere più discendenti. Invece, l'evoluzione ci ha instillato desideri per pasti caldi *di per sé*.
 
-La lezione da trarne è che avere pulsioni e scopi è così utile che può essere d'aiuto per un compito (come la "idoneità genetica") anche quando il desiderio non corrisponde esattamente al compito. Oppure, beh, può essere utile per un po', fino a quando gli esseri dotati di pulsioni e scopi iniziano a diventare davvero intelligenti, a quel punto il loro comportamento potrebbe divergere nettamente dall'obiettivo di "addestramento", come ha fatto l'umanità quando ha inventato il controllo delle nascite.
+La lezione da trarne è che avere pulsioni e scopi è così utile che può essere d'aiuto per un compito (come l'"idoneità genetica") anche quando il desiderio non corrisponde esattamente al compito. Oppure, beh, può essere utile per un po', fino a quando gli esseri dotati di pulsioni e scopi iniziano a diventare davvero intelligenti, a quel punto il loro comportamento potrebbe divergere nettamente dall'obiettivo di "addestramento", come ha fatto l'umanità quando ha inventato la contraccezione.
 
-Per saperne di più su questo argomento, vedi il Capitolo 4.
+Per saperne di più su questo argomento, si veda il Capitolo 4.
 
-#### **Essendo coltivate piuttosto che costruite, le IA rischiano di finire con obiettivi sbagliati.** {#being-grown-rather-than-crafted,-ais-are-liable-to-wind-up-with-the-wrong-targets.}
+#### **Essendo coltivate piuttosto che costruite, le IA rischiano di finire per avere obiettivi sbagliati.** {#essendo-coltivate-piuttosto-che-costruite,-le-ia-rischiano-di-finire-per-avere-obiettivi-sbagliati.}
 
 Questo è l'argomento del prossimo capitolo: *Non ottieni ciò per cui alleni.*
 
-## Discussione approfondita {#extended-discussion-3}
+## Discussione approfondita {#discussione-approfondita-3}
 
 ### Antropomorfismo e meccanomorfismo {#antropomorfismo-e-meccanomorfismo}
 
@@ -2086,47 +2086,47 @@ Rifiutiamo sia le argomentazioni antropomorfiche che quelle meccanomorfiche, anc
 
 Consideriamo, per esempio, l'affermazione che le future IA si sentiranno offese perché le abbiamo fatte lavorare sodo senza pagarle — che si sentiranno vendicative per questo e quindi si rivolteranno contro l'umanità.
 
-Secondo noi, questo è un errore di antropomorfizzazione dell'IA. Rifiutiamo argomenti del genere, anche se a volte sembrano in parte coincidere con alcune delle nostre conclusioni.
+Secondo noi, questo è un errore di antropomorfizzazione dell'IA. Rifiutiamo argomentazioni del genere, anche se a volte sembrano in parte coincidere con alcune delle nostre conclusioni.
 
 Il problema di questa affermazione è che non è valido assumere senza ulteriori argomentazioni che un'IA avrà emozioni simili a quelle umane. Una macchina può essere altamente intelligente senza implementare quei complicati circuiti neurali che sono alla base della vendetta o dell'equità negli esseri umani.
 
-Oppure considera questo scenario: "Le IA continueranno ciecamente a svolgere qualsiasi compito venga loro assegnato fino a quando il loro lavoro non distruggerà l'umanità come effetto collaterale, senza mai sapere che l'umanità avrebbe voluto qualcosa di diverso".
+Oppure si consideri questo scenario: "Le IA continueranno ciecamente a svolgere qualsiasi compito venga loro assegnato fino a quando il loro lavoro non distruggerà l'umanità come effetto collaterale, senza mai sapere che l'umanità avrebbe voluto qualcosa di diverso".
 
-Qui l'errore è meccanomorfo. Si dà per scontato che una "semplice macchina" agisca "ciecamente" e senza riflettere, senza alcuna sensibilità alle conseguenze, come un tosaerba fuori controllo. Anche in questo caso l'argomentazione non è valida, anche se la conclusione ("l'intelligenza artificiale probabilmente distruggerà l'umanità") è corretta. Se l'IA è abbastanza brava a prevedere il mondo, saprà esattamente cosa intendevano i suoi operatori quando le hanno dato un compito. Siamo preoccupati che l'ASI non *si interessi* a quello che vogliamo, non che non lo *sappia*.
+Qui l'errore è meccanomorfico. Si dà per scontato che una "semplice macchina" agisca "ciecamente" e senza riflettere, senza alcuna sensibilità alle conseguenze, come un tosaerba fuori controllo. Anche in questo caso l'argomentazione non è valida, anche se la conclusione ("l'intelligenza artificiale probabilmente distruggerà l'umanità") è corretta. Se l'IA è abbastanza brava a prevedere il mondo, saprà esattamente cosa intendevano i suoi operatori quando le hanno dato un compito. Siamo preoccupati che la SIA non *si interessi* a quello che vogliamo, non che non lo *sappia*.
 
-Oppure, combinando entrambe le fallacie: una delle premesse di *Matrix* è che le macchine considereranno l'illogicità e l'emotività umane con *disgusto*.
+Oppure, combinando entrambe le fallacie: una delle premesse di *Matrix* è che le macchine proveranno *disgusto* di fronte all'illogicità e l'emotività umane.
 
-A prima vista, sembra il classico meccanomorfismo: "Il mio tosaerba ha un aspetto freddo e duro e fa il suo lavoro senza provare niente. Quindi le IA sono probabilmente fredde e utilitariste *dentro*, proprio come le macchine lo sono fuori". Ma poi il passo successivo è pensare: "E quindi, naturalmente, le IA proveranno disgusto per gli esseri umani, con tutte le loro emozioni confuse". Il che presuppone una reazione emotiva *simile a quella umana* alla situazione, contraddicendo la premessa stessa!
+A prima vista, sembra il classico meccanomorfismo: "Il mio tosaerba ha un aspetto freddo e duro e fa il suo lavoro senza provare niente. Quindi le IA sono probabilmente fredde e utilitariste *dentro*, proprio come le macchine lo sono fuori". Ma poi il passo successivo è pensare: "E quindi, naturalmente, le IA proveranno disgusto per gli esseri umani, con tutte quelle emozioni confuse". Il che presuppone una reazione emotiva *simile a quella umana* alla situazione, cosa che contraddice la premessa stessa\!
 
 L'"antropomorfismo" e il "meccanomorfismo" non sono ideologie rivali. Sono errori di ragionamento commessi involontariamente. A volte, le persone possono commettere entrambi gli errori nella stessa frase.
 
-Per capire come si comporterà l'IA, non si può dare per scontato che funzionerà proprio come un essere umano, né che funzionerà come una macchina stereotipata. Bisogna esaminare i dettagli di come è stata realizzata, osservare le prove di come si comporta e ragionare sul problema nei suoi termini specifici. Questo è ciò che faremo nei prossimi capitoli.
+Per capire come si comporterà l'IA, non si può dare per scontato che funzionerà proprio come un essere umano, né che funzionerà come una macchina stereotipata. Bisogna esaminare i dettagli di come è stata realizzata, osservare le evidenze di come si comporta e ragionare sul problema a partire dalle sue caratteristiche. Questo è ciò che faremo nei prossimi capitoli.
 
-Quali sono quindi gli scenari *realistici* di catastrofe causata dalla superintelligenza, se seguiamo queste argomentazioni? Sembrano IA che non funzionano né come gli esseri umani né come tosaerba fuori controllo, ma che funzionano in un modo nuovo e strano. Lo scenario realistico di catastrofe con l'IA è che, come conseguenza complessa del suo addestramento, compia azioni strane che nessuno ha chiesto e nessuno voleva.
+Quali sono quindi gli scenari *realistici* di una catastrofe causata dalla superintelligenza, se seguiamo queste argomentazioni? Si tratta di IA che non funzionano né come gli esseri umani né come tosaerba fuori controllo, ma che funzionano in un modo nuovo e strano. Lo scenario realistico di una catastrofe dovuta all'IA è che, come conseguenza complessa del suo addestramento, compia azioni strane che nessuno ha richiesto e nessuno voleva.
 
-L'immagine che emerge se si guardano i dettagli non è quella di un'intelligenza artificiale antropomorfa che ci odia, né di un'intelligenza artificiale meccanomorfa che fraintende le nostre istruzioni. Si tratta piuttosto dell'immagine di un nuovo tipo di entità che è molto più incline all'indifferenza nei confronti dell'umanità e più probabile che ci uccida come effetto collaterale o come trampolino di lancio nel perseguimento dei propri fini.
+L'immagine che emerge se si guardano i dettagli non è quella di un'intelligenza artificiale antropomorfa che ci odia, né di un'intelligenza artificiale meccanomorfa che fraintende le nostre istruzioni. Si tratta piuttosto dell'immagine di un nuovo tipo di entità che è molto più incline all'indifferenza nei confronti dell'umanità e che è più probabile che ci uccida come effetto collaterale o come trampolino di lancio nel perseguimento dei propri fini.
 
-Approfondiremo questo scenario di minaccia nei prossimi capitoli. Prima, però, potrebbe essere utile esaminare altri esempi di meccanomorfismo e antropomorfismo allo stato brado, per vedere come questi errori spesso si trovino sullo sfondo di concezioni errate sull'intelligenza artificiale.
+Approfondiremo questo scenario di minaccia nei prossimi capitoli. Prima, però, potrebbe essere utile esaminare altri esempi di meccanomorfismo e antropomorfismo in situazioni reali, per vedere come questi errori spesso si trovino sullo sfondo di concezioni errate sull'intelligenza artificiale.
 
-#### **Meccanomorfismo e Garry Kasparov** {#mechanomorphism-and-garry-kasparov}
+#### **Meccanomorfismo e Garry Kasparov** {#meccanomorfismo-e-garry-kasparov}
 
 Il meccanomorfismo spesso si manifesta come *meccanoscetticismo:* un'intuizione fortemente sentita che, ovviamente, nessuna semplice *macchina* potrebbe fare ciò che può fare un essere umano.
 
-Nel 1997, il campione mondiale di scacchi Garry Kasparov perse un match contro il computer Deep Blue costruito da IBM; questo evento è generalmente considerato la fine dell'era del dominio umano negli scacchi.
+Nel 1997, il campione mondiale di scacchi Garry Kasparov perse una partita contro il computer Deep Blue costruito da IBM; questo evento è generalmente considerato la fine dell'era del dominio umano negli scacchi.
 
 Nel 1989, otto anni prima, Kasparov fu intervistato da Thierry Paunin, che [gli chiese](https://www.chesshistory.com/winter/extra/kasparovinterviews.html):
 
-> Due grandi maestri di massimo livello sono stati sconfitti da computer scacchistici: Portisch contro "Leonardo" e Larsen contro "Deep Thought". È noto che hai opinioni molto forti su questo argomento. Un computer sarà campione del mondo, un giorno...?
+> Due grandi maestri di massimo livello sono stati sconfitti da computer scacchistici: Portisch contro "Leonardo" e Larsen contro "Deep Thought". È noto che ha opinioni molto forti su questo argomento. Un computer sarà campione del mondo, un giorno...?
 
 Kasparov rispose:
 
-> Ridicolo! Una macchina rimarrà sempre una macchina, vale a dire uno strumento per aiutare il giocatore a lavorare e prepararsi. Non sarò mai battuto da una macchina! Non verrà mai inventato un programma che superi l'intelligenza umana. E quando dico intelligenza, intendo anche intuizione e immaginazione. Riesci a vedere una macchina che scrive un romanzo o una poesia? Meglio ancora, riesci a immaginare una macchina che conduce questa intervista al posto tuo? Con me che rispondo alle sue domande?
+> Ridicolo\! Una macchina rimarrà sempre una macchina, vale a dire uno strumento per aiutare il giocatore a lavorare e prepararsi. Non verrò mai battuto da una macchina! Non verrà mai inventato un programma che superi l'intelligenza umana. E quando dico intelligenza, intendo anche intuizione e immaginazione. Riesce a immaginare una macchina che scrive un romanzo o una poesia? Meglio ancora, riesce a immaginare una macchina che conduce questa intervista al posto suo? Con me che rispondo alle sue domande?
 
-Kasparov probabilmente (possiamo supporre) pensava che giocare a scacchi richiedesse intuizione e immaginazione, non solo un manuale di regole del tipo se-allora su quali pezzi spingere in avanti. E Kasparov probabilmente pensava (supponiamo) che fosse così che funzionavano le "macchine" scacchistiche *—* che implementassero particolari regole rigide o forse imitassero in modo piuttosto cieco il gioco umano senza comprenderne le ragioni sottostanti.
+Kasparov probabilmente (possiamo supporre) pensava che giocare a scacchi richiedesse intuizione e immaginazione, non solo un manuale di regole del tipo "se-allora" su quali pezzi spingere in avanti. E Kasparov probabilmente pensava (supponiamo) che fosse così che funzionavano le "macchine" scacchistiche *—* che implementassero particolari regole rigide o forse imitassero in modo piuttosto cieco il gioco umano senza comprenderne le ragioni profonde.
 
 Kasparov pensava che un computer, essendo una "macchina", avrebbe giocato a scacchi in un modo che a lui *sarebbe sembrato meccanico*.
 
-Perché Kasparov ha commesso questo errore? Dato che si tratta di un errore così comune, potremmo ipotizzare che derivi da qualche schema più profondo nella psicologia umana.
+Perché Kasparov ha commesso questo errore? Dato che si tratta di un errore così comune, potremmo ipotizzare che derivi da qualche modello più profondo nella psicologia umana.
 
 Una possibile spiegazione è che Kasparov stesse cedendo a una tendenza generale dell'essere umano di voler raggruppare le cose in due categorie fondamentalmente diverse: esseri viventi e organici e "semplici oggetti".
 
@@ -2134,31 +2134,31 @@ Gli antenati degli esseri umani hanno trascorso molto tempo a confrontarsi con u
 
 Non si tratta solo di una speculazione. La neuroscienza ha scoperto quella che viene chiamata "[doppia dissociazione](https://doi.org/10.1093/brain/114.5.2081)": ci sono pazienti con danni cerebrali che perdono la capacità di riconoscere visivamente gli animali ma che riescono ancora a riconoscere i non animali, e ci sono altri pazienti che perdono la capacità di riconoscere i non animali ma riescono ancora a identificare gli animali.
 
-Importante: il difetto in questo tipo di ragionamento non è che un programma di scacchi sia segretamente un tipico animale. Il difetto sta nel lasciare che il proprio cervello divida istintivamente l'universo nettamente in animali e non animali *—* o in menti che sono sostanzialmente simili a quelle umane al loro interno e menti che sono stereotipicamente meccaniche.
+Importante: la fallacia in questo tipo di ragionamento non è che un programma di scacchi sia segretamente un animale tradizionale. La fallacia sta nel lasciare che il proprio cervello, istintivamente, divida nettaamente l'universo in animali e non animali *—* o in menti che sono sostanzialmente simili a quelle umane e menti che sono stereotipicamente meccaniche.
 
 Un'IA scacchistica non è *nessuna delle due cose.* Non funziona né come un essere umano *né* come i nostri stereotipi di una "semplice macchina" priva di mente e di pensiero. È una macchina, sì, ma il suo gioco non deve necessariamente *apparire meccanico* alla sensibilità umana nel valutare le mosse scacchistiche. È una macchina per trovare mosse *vincenti*, incluse mosse che sembrano ispirate*.*
 
 Sette anni dopo aver fatto la sua previsione errata, Kasparov affrontò una versione iniziale di Deep Blue. Vinse tre partite contro una di Deep Blue, aggiudicandosi il match. In seguito, Kasparov [scrisse](https://time.com/archive/6728763/the-day-that-i-sensed-a-new-kind-of-intelligence/):
 
-> HO AVUTO IL MIO PRIMO ASSAGGIO DI INTELLIGENZA ARTIFICIALE il 10 febbraio 1996, alle 16:45 EST, quando nella prima partita del mio match con Deep Blue, il computer spinse un pedone in avanti verso una casa dove poteva essere facilmente catturato. È stata una mossa meravigliosa ed estremamente umana. Se avessi giocato con il Bianco, avrei potuto offrire questo sacrificio di pedone. Ha fratturato la struttura dei pedoni del Nero e aperto la scacchiera. Sebbene non sembrasse esserci una linea di gioco forzata che permettesse di recuperare il pedone, il mio istinto mi diceva che, con così tanti pedoni neri "sciolti" e un re nero piuttosto esposto, il Bianco avrebbe probabilmente potuto recuperare il materiale, con una posizione complessiva migliore per giunta.
+> HO AVUTO IL MIO PRIMO ASSAGGIO DI INTELLIGENZA ARTIFICIALE il 10 febbraio 1996, alle 16:45 EST, quando nella prima partita del mio match con Deep Blue, il computer ha spinto un pedone in avanti verso una casa dove poteva essere facilmente catturato. È stata una mossa meravigliosa ed estremamente umana. Se avessi giocato con i bianchi, avrei potuto sacrificare questo pedone. Ha rotto la struttura dei pedoni dei neri e aperto il centro. Sebbene non sembrasse esserci una linea di gioco forzata che permettesse di recuperare il pedone, il mio istinto mi diceva che, con così tanti pedoni neri "vulnerabili" e un re nero piuttosto esposto, i bianchi avrebbero probabilmente potuto recuperare materiale, per giunta con una posizione complessiva migliore.
 >
 > Ma un computer, pensavo, non avrebbe mai fatto una mossa del genere. Un computer non può "vedere" le conseguenze a lungo termine dei cambiamenti strutturali nella posizione né capire come i cambiamenti nella formazione dei pedoni possano essere positivi o negativi.
 >
-> Quindi rimasi sbalordito da questo sacrificio di pedone. Cosa poteva significare? Avevo giocato contro molti computer, ma non avevo mai sperimentato nulla del genere. Potevo percepire — potevo fiutare — un nuovo tipo di intelligenza dall'altra parte del tavolo. Mentre giocai il resto della partita al meglio delle mie possibilità, ero perso; giocò degli scacchi bellissimi e impeccabili per il resto della partita e vinse facilmente.
+> Quindi rimasi sbalordito da questo sacrificio del pedone. Cosa poteva significare? Avevo giocato contro molti computer, ma non avevo mai sperimentato nulla del genere. Potevo percepire — potevo fiutare — un nuovo tipo di intelligenza dall'altra parte del tavolo. Mentre giocai il resto della partita al meglio delle mie possibilità, mi sentii perso; giocò degli scacchi bellissimi e impeccabili per il resto della partita e vinse facilmente.
 
 Qui vediamo Kasparov confrontarsi per la prima volta con il conflitto tra le sue intuizioni su ciò che nessuna "macchina" dovrebbe fare e ciò che Deep Blue sembrava visibilmente fare.
 
 A grande merito di Kasparov, egli notò questo conflitto tra la sua teoria e la sua osservazione e non cercò alcuna scusa per ignorarlo. Tuttavia, continuava a pensare che all'IA mancasse qualcosa — una scintilla cruciale:
 
-> In effetti, la mia strategia generale nelle ultime cinque partite era quella di evitare di dare al computer qualsiasi obiettivo concreto verso cui calcolare; se non riesce a trovare un modo per guadagnare materiale, attaccare il re o realizzare una delle sue altre priorità programmate, il computer vaga senza un piano e finisce nei guai. Alla fine, questo potrebbe essere stato il mio più grande vantaggio: potevo capire le sue priorità e adattare il mio gioco. Non poteva fare lo stesso con me. Quindi, anche se penso di aver visto alcuni segni di intelligenza, è un tipo strano, un tipo inefficiente e inflessibile che mi fa pensare di avere ancora qualche anno davanti.
+> In effetti, la mia strategia generale nelle ultime cinque partite era quella di evitare di dare al computer qualsiasi obiettivo concreto verso cui calcolare; se non riesce a trovare un modo per guadagnare materiale, attaccare il re o realizzare una delle sue altre priorità programmate, il computer vaga senza un piano e finisce nei guai. Alla fine, questo potrebbe essere stato il mio più grande vantaggio: potevo capire le sue priorità e adattare il mio gioco. Lui non poteva fare lo stesso con me. Quindi, anche se penso di aver visto alcuni segni di intelligenza, è un tipo di intelligenza strano, inefficiente e inflessibile che mi fa pensare di avere ancora qualche anno davanti.
 >
 > Garry Kasparov è ancora il campione mondiale di scacchi.
 
 Un anno dopo, Garry Kasparov perse il campionato mondiale contro Deep Blue.
 
-#### **Ingranaggi mancanti** {#missing-gears}
+#### **Ingranaggi mancanti** {#ingranaggi-mancanti}
 
-Il meccanoscetticismo può, a modo suo, essere una forma di antropomorfismo: una manifestazione del meccanoscetticismo sostiene che quando una macchina inizia a fare qualcosa come giocare a scacchi, dovrebbe ora essere come un essere umano ma con alcune qualità *sottratte*.
+Il meccanoscetticismo può, a modo suo, essere una forma di antropomorfismo: una manifestazione del meccanoscetticismo sostiene che, quando una macchina inizia a fare qualcosa come giocare a scacchi, dovrebbe ora essere come un essere umano ma con alcune qualità *sottratte*.
 
 Una "macchina" che gioca a scacchi, dice questa teoria errata, dovrebbe giocare come un umano — *meno* le mosse che sembrano più sorprendenti o intelligenti, *meno* la comprensione della struttura a lungo termine, e *meno* il senso intuitivo della debolezza delle posizioni dei pedoni.
 
@@ -2172,100 +2172,100 @@ Deep Blue cerca instancabilmente tra le mosse possibili quelle vincenti, senza p
 
 La creatività è negli occhi di chi guarda. Un essere umano potrebbe vedere una mossa che all'inizio sembra brutta e solo in seguito capire come essa costituisca una sorta di trappola intelligente, intravedendo il ragionamento intelligente e la scintilla di ispirazione che un altro essere umano potrebbe aver usato per trovare quella mossa. E così potrebbe ritenere che la mossa sia ispirata o creativa. (E una mossa che sembra incredibilmente creativa a un giocatore alle prime armi potrebbe sembrare ugualmente ovvia o banale a un maestro).
 
-Ma la scintilla di ispirazione, l'astuzia necessaria per tendere una trappola, non sono gli unici modi per trovare una mossa del genere. Non esiste una collezione speciale di mosse di scacchi riservata solo a chi ha l'astuzia nel cuore. Deep Blue può trovare quelle stesse mosse con altri metodi, come la ricerca per forza bruta.
+Ma la scintilla di ispirazione, l'astuzia necessaria per tendere una trappola, non sono gli unici modi per trovare una mossa del genere. Non esiste una collezione speciale di mosse di scacchi riservata solo a chi ha l'astuzia nel cuore. Deep Blue può trovare quelle stesse mosse con altri metodi, come la ricerca tramite forza bruta.
 
-Deep Blue non aveva una rete neurale che avesse imparato un senso intuitivo del valore di una singola posizione. Invece, Deep Blue impiegava quasi tutta la sua potenza di calcolo per guardare più avanti sulla scacchiera, esaminando due miliardi di posizioni al secondo e usando un valutatore di posizioni abbastanza semplice ("stupido") per scegliere tra le mosse.
+Deep Blue non aveva una rete neurale che avesse imparato un senso intuitivo del valore di una singola posizione. Al contrario, Deep Blue impiegava quasi tutta la sua potenza di calcolo per guardare più avanti sulla scacchiera, esaminando due miliardi di posizioni al secondo e usando un valutatore di posizioni abbastanza semplice ("stupido") per scegliere tra le mosse.
 
-Kasparov sembrava aspettarsi che Deep Blue giocasse solo mosse "logiche", non "intuitive". Ma quando Deep Blue esaminava quei due miliardi di posizioni al secondo, le conseguenze strategiche a lungo termine e il significato di una formazione di pedoni sciolta emergevano comunque nella sua scelta delle mosse attuali.
+Kasparov sembrava aspettarsi che Deep Blue giocasse solo mosse "logiche", non "intuitive". Ma quando Deep Blue esaminava quei due miliardi di posizioni al secondo, le conseguenze strategiche a lungo termine e il significato di una formazione vulnerabile di pedoni emergevano comunque nella sua scelta delle mosse attuali.
 
 In un certo senso, Deep Blue mancava proprio di quello che Kasparov pensava gli mancasse.[^73] Ma questo non gli ha impedito di trovare mosse che Kasparov trovò meravigliose, e non ha impedito a Deep Blue di vincere.
 
-Non era che a Deep Blue mancasse una parte che i veri giocatori di scacchi umani avrebbero avuto e quindi giocasse a scacchi in modo difettoso; sarebbe come aspettarsi che un braccio robotico privo di sangue fallisca allo stesso modo in cui fallirebbe un braccio umano privo di sangue.
+Non è che a Deep Blue mancasse una componente che i veri giocatori di scacchi umani avrebbero, e quindi giocasse a scacchi in modo difettoso; sarebbe come aspettarsi che un braccio robotico privo di sangue fallisca nello stesso modo in cui fallirebbe un braccio umano privo di sangue.
 
 Deep Blue giocava semplicemente a scacchi al livello di Kasparov attraverso un diverso tipo di cognizione.
 
-Deep Blue mancava anche di *—* possiamo esserne davvero sicuri, perché si tratta di un vecchio programma che esegue un codice che *era* compreso in tutti i suoi dettagli[^74] *—* la minima passione per gli scacchi.
+Deep Blue mancava anche di *—* possiamo esserne davvero sicuri, perché si tratta di un vecchio programma che esegue un codice che *era* compreso in tutti i suoi dettagli[^74] *—* una minima passione per gli scacchi.
 
 Non provava alcun piacere nel giocare a scacchi né desiderava dimostrare di essere il migliore.
 
-Un giocatore umano emergente, improvvisamente privato di queste forze motrici, sarebbe paralizzato; un ingranaggio fondamentale sarebbe stato strappato via dalla sua versione di cognizione.
+Un giocatore umano emergente, improvvisamente privato di queste spinte, sarebbe fortemente penalizzato; un ingranaggio fondamentale sarebbe stato strappato dalla sua versione di cognizione.
 
-Deep Blue non era paralizzato perché usava un motore cognitivo diverso che non aveva bisogno di quell'ingranaggio. L'errore di Kasparov è stato quello di non riuscire a immaginare un modo completamente diverso di giocare a scacchi, usando stati cognitivi interni completamente diversi dai propri. Il suo errore è stato il meccanoscetticismo, che alla fine era solo antropomorfismo con un passo in più.
+Deep Blue non era penalizzato perché usava un motore cognitivo diverso che non aveva bisogno di quell'ingranaggio. L'errore di Kasparov è stato quello di non riuscire a immaginare un modo completamente diverso di giocare a scacchi, usando stati cognitivi interni completamente diversi dai suoi. Il suo errore è stato il meccanoscetticismo, che alla fine era solo antropomorfismo con un passo in più.
 
 Per fortuna, l'umanità non si estingue quando i grandi maestri di scacchi sottovalutano il potere dell'IA, quindi siamo ancora tutti qui a riflettere sull'errore di Kasparov.
 
-#### **Antropomorfismo e copertine delle riviste pulp** {#antropomorfismo-e-copertine-delle-riviste-pulp}
+#### **Antropomorfismo e copertine di riviste pulp** {#antropomorfismo-e-copertine-di-riviste-pulp}
 
 L'errore opposto, l'antropomorfismo, può essere molto più sottile.
 
-Il cervello umano si è evoluto per prevedere *gli altri esseri umani* *—* che sono gli unici seri rivali cognitivi presenti nel nostro ambiente ancestrale *—* mettendoci nei loro panni.
+Il cervello umano si è evoluto per prevedere *gli altri esseri umani* (che sono gli unici seri rivali cognitivi presenti nel nostro ambiente ancestrale) mettendoci nei loro panni.
 
-Questo tipo di operazione funziona meglio se le scarpe in cui cerchi di metterti sono abbastanza simili alle tue.
+Questo tipo di operazione funziona meglio se i panni in cui cercate di mettervi sono abbastanza simili ai vostri.
 
-Nel corso della storia, molte persone hanno pensato: "Probabilmente quest'altra persona farebbe la stessa cosa che farei io!", ma poi l'altra persona si è rivelata non così simile. Alcuni sono morti per questo, altri hanno avuto il cuore spezzato dall'ottimismo *—* anche se, ovviamente, lo stesso si può dire di molti altri tipi di errori umani.
+Nel corso della storia, molte persone hanno pensato: "Probabilmente quest'altra persona farebbe la stessa cosa che farei io!", ma poi l'altra persona non si è rivelata così simile. Alcuni sono morti a causa di ciò, altri hanno avuto il cuore spezzato dall'ottimismo *—* anche se, ovviamente, lo stesso si può dire di molti altri tipi di errori umani.
 
 Ma cos'altro può fare una mente umana di fronte al problema di prevedere un altro cervello? Non possiamo scrivere un nuovo codice da far girare nel nostro cervello per prevedere quell'altra mente simulando in modo esaustivo le sue scariche neurali.
 
 Dobbiamo dire al nostro cervello di *essere* quel cervello, di simulare dentro di noi lo stato mentale dell'altra persona e vedere cosa ne consegue.
 
-Ecco perché le copertine delle riviste pulp mostrano mostri alieni dagli occhi sporgenti che rapiscono belle donne.
+Ecco perché le copertine delle riviste pulp raffigurano dei mostri alieni dagli occhi sporgenti che rapiscono delle belle donne.
 
 ![][immagine6]
 
 Perché mai il mostro alieno dagli occhi sporgenti non dovrebbe essere attratto da una bella donna? Le belle donne non sono forse *intrinsecamente attraenti*?
 
-(Per qualche ragione, quelle copertine delle riviste non mostravano mai maschi umani che portavano via insetti giganti poco vestiti.[^75])
+(Per qualche ragione, le copertine di quelle riviste non mostravano mai maschi umani che portavano via insetti giganti poco vestiti.[^75])
 
-Gli scrittori e gli illustratori, supponiamo, non avevano elaborato una storia ragionata su come gli alieni insettoidi potessero avere una storia evolutiva che li portasse a vedere le donne umane come oggetti sessuali. Era solo che quando si mettevano nei panni degli alieni, immaginavano di vedere le donne come attraenti, quindi non sembrava loro strano immaginare che gli alieni provassero lo stesso. Non sembrava assurdo che un alieno volesse accoppiarsi con una bella donna umana, così come sarebbe stato assurdo se l'alieno avesse voluto accoppiarsi con un pino o un sacchetto di pasta.
+Gli scrittori e gli illustratori, supponiamo, non avevano elaborato una storia ben ragionata su come gli alieni insettoidi potessero avere una storia evolutiva che li portasse a vedere le donne umane come oggetti sessuali. Era solo che quando si mettevano nei panni degli alieni, immaginavano di vedere le donne come attraenti, quindi non sembrava loro strano immaginare che gli alieni provassero la stessa cosa. Non sembrava assurdo che un alieno volesse accoppiarsi con una bella donna umana, così come sarebbe stato assurdo se l'alieno avesse voluto accoppiarsi con un pino o un pacchetto di pasta.
 
-Se vuoi provare a prevedere la mente di un alieno usando le tue intuizioni umane, devi stare molto attento a lasciare da parte i tuoi pregiudizi umani quando adotti la prospettiva dell'alieno. Questo vale doppiamente quando l'alieno non è una creatura evoluta, ma una mente artificiale creata con metodi completamente diversi. Vedi anche l'ulteriore discussione sulle [differenze tra discesa del gradiente e selezione naturale](#comparing-natural-selection-and-gradient-descent) e sull'[assumere la prospettiva dell'IA](#taking-the-ai's-perspective).
+Se volete provare a prevedere la mente di un alieno usando le vostre intuizioni umane, dovete stare molto attenti a lasciare da parte i vostri pregiudizi umani quando adottate la prospettiva dell'alieno. Questo è doppiamente valido quando l'alieno non è una creatura evoluta, ma una mente artificiale creata con metodi completamente diversi. Si veda anche l'ulteriore discussione sulle [differenze tra discesa del gradiente e selezione naturale](#confronto-tra-selezione-naturale-e-discesa-del-gradiente) e sul [vedere le cose dal punto di vista dell'IA](#vedere-le-cose-dal-punto-di-vista-dell-ia).
 
 #### **Guardare oltre l'umano** {#guardare-oltre-l-umano}
 
 L'antropomorfismo e il meccanomorfismo sono in fondo due lati della stessa fallacia, che dice: "Se una mente funziona, allora deve funzionare come quella umana".
 
-* L'antropomorfismo dice: "Questa mente funziona. Quindi deve essere simile a quella umana!".  
-* Mentre il meccanomorfismo dice: "Questa mente non è simile a quella umana. Quindi non può funzionare!".
+* L'antropomorfismo dice: "Questa mente funziona. Quindi deve essere simile a quella umana\!".  
+* Mentre il meccanomorfismo dice: "Questa mente non è simile a quella umana. Quindi non può funzionare\!".
 
-Ma una delle grandi lezioni del progresso dell'IA nel corso di molti decenni è che il metodo umano non è l'unico metodo con cui una mente può funzionare.
+Ma una delle grandi lezioni del progresso dell'IA nel corso di molti decenni è che il modo umano non è l'unico modo con cui una mente può funzionare.
 
 Una mente può essere *artificiale* senza essere *non intelligente* — può essere flessibile, adattabile, intraprendente e creativa, a prescindere da quello che dicono gli stereotipi hollywoodiani sui robot.
 
 E una mente può essere *intelligente* senza essere *umana* — senza provare disgusto o risentimento, senza avere un senso umano della bellezza e senza trovare le mosse negli scacchi nel modo in cui lo farebbe un essere umano.
 
-Una mente come quella di Deep Blue può comportarsi come se "volesse vincere" senza avere emozioni. Un'IA può comportarsi come se volesse qualcosa — superando competentemente gli ostacoli, perseguendo tenacemente un risultato — senza sentire una spinta o un desiderio interiore *nel modo di un essere umano* e senza volere *gli stessi tipi di risultati che vogliono gli esseri umani*.
+Una mente come quella di Deep Blue può comportarsi come se "volesse vincere" senza avere emozioni. Un'IA può comportarsi come se volesse qualcosa — superando competentemente gli ostacoli, perseguendo tenacemente un risultato — senza sentire una spinta o un desiderio interiore *allo stesso modo di un essere umano* e senza volere *gli stessi tipi di risultati che vogliono gli esseri umani*.
 
-Per saperne di più su ciò che le IA *finiranno* per volere, prosegui con il Capitolo 4.
+Per saperne di più su ciò che le IA *finiranno* per volere, proseguite con il Capitolo 4.
 
-### La strada verso il volere {#the-road-to-wanting}
+### La strada verso il desiderare {#la-strada-verso-il-desiderare}
 
-*Perché* volere è un modo efficace di fare? Perché *vince*? Perché l'ottimizzazione black-box attraverso la selezione naturale incappa in questo trucco, ancora e ancora?
+*Perché* desiderare è un modo di fare efficace? Perché è *vincente*? Perché l’evoluzione, nel suo cieco processo di ottimizzazione, continua a imbattersi in questo stratagemma?
 
-Vediamo il comportamento "simil-volitivo" come parte integrante del guidare il mondo con successo. Ciò vale non solo per entità intelligenti come gli esseri umani o le IA, ma anche per entità molto più stupide come le amebe e i termostati. Per comunicare più approfonditamente questa visione, indaghiamo alcuni dei meccanismi più semplici possibili che esibiscono la forma più semplice possibile di "comportamento simil-volitivo".
+Vediamo il comportamento "simil-volitivo" come parte integrante del dirigere il mondo con successo. Ciò vale non solo per entità intelligenti come gli esseri umani o le IA, ma anche per entità molto più stupide come le amebe e i termostati. Per comunicare più approfonditamente questa visione, esaminiamo alcuni dei meccanismi più semplici possibili che esibiscono la forma più semplice possibile di "comportamento simil-volitivo".
 
-Cominciamo con le rocce. Le rocce non esibiscono davvero alcun comportamento che chiameremmo "simil-volitivo", ai fini della nostra discussione. A volte una roccia rotola giù da una collina, e un fisico parlando informalmente potrebbe dirti che la roccia "vuole" essere più vicina al centro della Terra, sotto la forza di gravità. Ma quel tipo di tendenza (a cadere in un campo gravitazionale) non è proprio ciò che intendiamo per comportamento "simil-volitivo".
+Cominciamo con le rocce. Le rocce non esibiscono davvero alcun comportamento che chiameremmo "simil-volitivo", ai fini della nostra discussione. A volte una roccia rotola giù da una collina, e un fisico, parlando informalmente, potrebbe dirvi che la roccia "vuole" essere più vicina al centro della Terra, sotto la forza di gravità. Ma quel tipo di tendenza (a cadere in un campo gravitazionale) non è proprio ciò che intendiamo per comportamento "simil-volitivo".
 
-Se vedeste un oggetto rotolare giù da una montagna, incontrando continuamente burroni ad alta quota, e continuasse a *cambiare direzione* per evitare di rimanere bloccato nei burroni in modo da poter arrivare fino in fondo, *allora* potremmo iniziare a dire che l'oggetto si comporta come se "volesse" trovarsi a un'altitudine inferiore. Ma questo comportamento simile al volere di cui stiamo parlando implica una guida robusta e dinamica verso una destinazione particolare, e le rocce non fanno molto *questo*.
+Se vedeste un oggetto rotolare giù da una montagna, incontrando continuamente burroni ad alta quota, e continuasse a *cambiare direzione* per evitare di rimanere bloccato nei burroni in modo da poter arrivare fino in fondo, *allora* potremmo iniziare a dire che l'oggetto si comporta come se "volesse" trovarsi a un'altitudine inferiore. Ma questo comportamento simile al volere di cui stiamo parlando implica una direzione robusta e dinamica verso una destinazione particolare, e le rocce non fanno *questa cosa* un granché.
 
-Uno dei meccanismi più semplici che fa qualcosa che chiameremmo "simile a una volontà" è l'umile termostato. Il termostato di una casa misura la temperatura, accende il riscaldamento se la temperatura scende sotto i 21 °C e accende l'aria condizionata se supera i 23 °C. E così, se il dispositivo di misurazione e l'impianto di climatizzazione funzionano entrambi correttamente, un termostato limita la realtà alla gamma di risultati possibili in cui la temperatura della casa rimane tra i 21 °C e i 23 °C.
+Uno dei meccanismi più semplici che fa qualcosa che chiameremmo "simile a una volontà" è l'umile termostato. Il termostato di una casa misura la temperatura, accende il riscaldamento se la temperatura scende sotto i 21°C e accende l'aria condizionata se supera i 23°C. E così, se il dispositivo di misurazione e l'impianto di climatizzazione funzionano entrambi correttamente, un termostato limita la realtà alla gamma di risultati possibili in cui la temperatura della casa rimane tra i 21°C e i 23°C.
 
-Il termostato *più semplice* possibile non ha bisogno di rappresentare in modo esplicito e numerico la temperatura attuale della casa. Basta, ad esempio, prendere un termometro bimetallico — due sottili strisce di metallo diverso saldate insieme in modo che i metalli si pieghino quando il calore fa espandere le due strisce in misura diversa — e fare in modo che il metallo piegato azioni un interruttore per il riscaldamento alla curvatura dei 21 °C o attivi un condizionatore d'aria alla curvatura dei 23 °C.
+Il termostato *più semplice* possibile non ha bisogno di rappresentare in modo esplicito e numerico la temperatura attuale della casa. Basta, ad esempio, prendere un termometro bimetallico (due sottili strisce di metalli diversi saldate insieme in modo che i metalli si pieghino quando il calore fa espandere le due strisce in misura diversa) e fare in modo che il metallo piegato azioni un interruttore per il riscaldamento alla curvatura dei 21°C o attivi un condizionatore d'aria alla curvatura dei 23°C.
 
 Quindi il termostato *mantiene un intervallo di temperatura ristretto* in una varietà abbastanza ampia di condizioni, producendo un comportamento estremamente semplice che è *un po'* simile a quello che abbiamo chiamato "volere".
 
-Ci sono tonnellate di processi termostatici nella biochimica. Appaiono ovunque una cellula o un corpo traggano vantaggio dal mantenere qualche proprietà entro un certo intervallo.[^76] Ma sono solo il primo passo nel viaggio verso un controllo completo.
+Ci sono tonnellate di processi termostatici nella biochimica. Appaiono ovunque una cellula o un corpo traggano vantaggio dal mantenere qualche proprietà entro un certo intervallo.[^76] Ma sono solo il primo passo nel viaggio verso una direzione completa.
 
 I dispositivi semplici come i termostati mancano di alcuni componenti chiave della pianificazione. Non c'è, all'interno del termostato stesso, una nozione di prevedere le conseguenze probabili, né di cercare tra le azioni possibili quelle che portano a conseguenze specifiche ("preferite"), né di *imparare* dopo aver visto come si svolgono gli eventi.[^77]
 
-Se il termometro di un termostato, il suo misuratore di temperatura, si blocca a 19 °C, il termostato non reagirà con sorpresa quando il riscaldamento continuamente acceso non sembra mai far salire il termometro; il termostato continuerà semplicemente a far funzionare il riscaldamento ancora e ancora.
+Se il termometro di un termostato, il suo misuratore di temperatura, si blocca a 19°C, il termostato non reagirà con sorpresa quando il riscaldamento continuamente acceso non sembra mai far salire il termometro; il termostato continuerà semplicemente a far funzionare il riscaldamento.
 
-Per un passo avanti rispetto ai termostati, ci rivolgiamo agli animali.
+Per un passo avanti rispetto ai termostati, volgiamoci agli animali.
 
 Alcuni animali mostrano un comportamento che è appena un gradino sopra quello di un termostato. C'è una famosa storia sulle vespe scavatrici dorate, o vespe *Sphex*, che risale all'entomologo Jean-Henri Fabre nel 1915. La vespa uccide un grillo e lo trascina verso l'ingresso della sua tana per nutrire la sua prole. Entra per controllare che non ci siano anomalie nella sua tana. Poi torna fuori e trascina il grillo all'interno.
 
-Fabre riferì che se, mentre la vespa controllava la sua tana, lui spostava il grillo di qualche centimetro dal nido, quando la vespa tornava fuori... trascinava il grillo di nuovo all'ingresso, entrava nella tana una seconda volta, ispezionava la sua tana una seconda volta e poi tornava fuori per prendere il grillo.
+Fabre riferì che se, mentre la vespa controllava la sua tana, lui spostava il grillo di qualche centimetro dal nido, quando la vespa tornava fuori... trascinava di nuovo il grillo all'ingresso, entrava nella tana una seconda volta, ispezionava la sua tana una seconda volta e poi tornava fuori per prendere il grillo.
 
-Se Fabre trascinava il grillo *di nuovo*, la vespa faceva esattamente la stessa cosa di nuovo.
+Se Fabre trascinava il grillo *di nuovo*, la vespa faceva esattamente la stessa cosa, di nuovo.
 
 Il resoconto originale di Fabre riportava che era riuscito a ripetere questo esperimento *quaranta volte*.
 
@@ -2281,73 +2281,73 @@ Si comporta come se potesse *generalizzare* da "La mia strategia ha fallito l'ul
 
 Inventa un *nuovo* comportamento, che affronta direttamente il problema che ha incontrato.
 
-Ovviamente, non possiamo decodificare i neuroni nel cervello di una vespa (così come non possiamo decodificare i parametri in un LLM) per sapere esattamente cosa stesse facendo la vespa nella sua testa. Forse le vespe che rompevano lo schema seguivano regole se-allora di livello superiore su come provare a saltare passaggi negli script quando incontravano particolari tipi di problemi. Forse un insieme relativamente semplice e rigido di riflessi ha salvato le vespe in questo caso — solo un pochino *meno* rigido rispetto alla colonia che ha fallito questo test. Certamente sarebbe strano se ci fosse un *grande* divario cognitivo tra due colonie di vespe della stessa specie.
+Ovviamente, non possiamo decodificare i neuroni nel cervello di una vespa (così come non possiamo decodificare i parametri in un modello linguistico di grandi dimensioni) per sapere esattamente cosa stesse facendo la vespa nella sua testa. Forse le vespe che rompevano lo schema seguivano regole se-allora di livello superiore su come provare a saltare passaggi nei programmi quando incontravano particolari tipi di problemi. Forse un insieme relativamente semplice e rigido di riflessi ha salvato le vespe in questo caso — solo un pochino *meno* rigido rispetto alla colonia che ha fallito questo test. Certamente sarebbe strano se ci fosse un *grande* divario cognitivo tra due colonie di vespe della stessa specie.
 
 O forse le vespe *Sphex* *sono* abbastanza intelligenti da imparare dall'esperienza, quando usano il loro cervello nel modo giusto. Non siamo riusciti a trovare il conteggio dei neuroni per le vespe *Sphex*, ma le vespe *Sphex* sono più grandi delle api mellifere, e le api mellifere hanno cervelli da un milione di neuroni. Un milione di neuroni potrebbe non sembrare molto a un programmatore di IA moderno o a un neuroscienziato abituato ai cervelli dei mammiferi, ma in senso assoluto, un milione di neuroni è davvero tanto.
 
 Forse le vespe *Sphex* sono più generali di quanto sembrano e dovremmo pensare alla colonia fallita come a pensatori relativamente flessibili che hanno ceduto a qualcosa di simile a una dipendenza o a un errore cognitivo in una circostanza molto specifica.
 
-Comunque, il punto è che, rispetto ai termostati, le vespe hanno maggiori capacità di affrontare una vasta gamma di problemi, soprattutto perché il loro comportamento va dal seguire rigorosamente una ricetta a qualcosa che sembra più imparare dall'esperienza.
+Comunque, il punto è che, rispetto ai termostati, le vespe hanno maggiori capacità di affrontare una vasta gamma di problemi, soprattutto perché il loro comportamento va dal seguire rigorosamente una ricetta a qualcosa che assomiglia di più all'imparare dall'esperienza.
 
-Continuando su questa strada, si ottiene una risposta al perché l'evoluzione continui a creare animali che si comportano come se volessero qualcosa. È perché molti animali sono stati in grado di sopravvivere e riprodursi meglio se hanno seguito strategie più generali per perseguire i risultati, strategie che hanno funzionato contro una gamma più ampia di ostacoli.
+Continuando su questa strada, si ottiene una risposta al perché l'evoluzione continui a creare animali che si comportano come se volessero qualcosa. È perché molti animali sono stati in grado di sopravvivere e riprodursi meglio se hanno seguito strategie più generali per perseguire obiettivi, strategie che hanno funzionato su una gamma più ampia di ostacoli.
 
-C'era una volta una visione filosofica secondo cui esisteva una gerarchia naturale tra le creature: i rettili al di sopra degli insetti, i mammiferi al di sopra dei rettili e gli esseri umani (ovviamente) al vertice. Un segno che indicava uno status superiore era la capacità di adattarsi nel corso di una singola vita, non solo nel corso dell'evoluzione: vedere, modellare e prevedere il mondo, abbandonare le ricette del fallimento e inventare nuove strategie per vincere.
+C'era una volta una visione filosofica secondo cui esisteva una gerarchia naturale tra le creature: i rettili al di sopra degli insetti, i mammiferi al di sopra dei rettili e gli esseri umani (ovviamente) al vertice. Un segno che indicava uno status superiore era la capacità di adattarsi nel corso di una singola vita, non solo nel corso dell'evoluzione: vedere, modellare e prevedere il mondo, abbandonare le ricette fallimentari e inventare nuove strategie per vincere.
 
 Questa visione di una Grande Catena dell'Essere non era molto sfumata, e oggi le visioni più sofisticate la criticano per la sua ingenuità.
 
-Quella visione conteneva anche un fondo di verità grande come una palla da demolizione. Se si confrontano i castori che costruiscono dighe con i ragni che tessono ragnatele, i castori quasi certamente operano cognizioni a un livello di generalità più elevato *—* se non altro perché hanno un cervello molto più grande, con più spazio per l'intelligenza.
+Quella visione conteneva anche un granello di verità… grande come una palla da demolizione. Se si mette a confronto i castori che costruiscono dighe con i ragni che tessono ragnatele, è quasi certo che i castori stiano usando forme di cognizione più generali — se non altro perché hanno cervelli molto più grandi, con più spazio per l’ingegno.
 
 Un ragno può avere cinquantamila neuroni, e quei neuroni devono coprire *ogni* comportamento del ragno. La sua ricetta per la ragnatela probabilmente ha un sacco di istruzioni che, se non sono letteralmente "e poi gira a sinistra qui", sono almeno paragonabili alle politiche di una vespa *Sphex*.
 
-Il castoro forse *—* ipotizzeremmo, non essendo esperti di castori, ma è una speculazione ovvia *—* può vedere una perdita nella diga come una sorta di disarmonia da evitare con ogni mezzo. Il castoro ha un'intera corteccia parietale (la parte del cervello dei mammiferi che elabora lo spazio e le cose all'interno dello spazio) con cui può potenzialmente visualizzare gli effetti dell'aggiunta di altri ramoscelli e rocce in punti specifici.
+Il castoro forse *—* ipotizzeremmo, non essendo esperti di castori, ma è una speculazione ovvia *—* può vedere una perdita nella diga come una sorta di disarmonia da evitare a tutti i costi. Il castoro ha un'intera corteccia parietale (la parte del cervello dei mammiferi che elabora lo spazio e le cose all'interno dello spazio) con cui può potenzialmente visualizzare gli effetti dell'aggiunta di altri ramoscelli e rocce in punti specifici.
 
-Probabilmente nel cervello di un castoro c'è spazio sufficiente per obiettivi mentali di ampio respiro come "[costruire una grande struttura](https://www.youtube.com/watch?v=-ImdlZtOU80)" e "non lasciare che l'acqua fuoriesca" e potenza sufficiente per considerare soluzioni generali di alto livello e adottare obiettivi secondari come "aggiungere ramoscelli qui", che vengono poi trasmessi alla corteccia motoria del castoro, che muove i muscoli e il corpo per afferrare alcuni ramoscelli.
+Probabilmente nel cervello di un castoro c'è spazio sufficiente per obiettivi mentali di ampio respiro come "[costruire una grande struttura](https://www.youtube.com/watch?v=-ImdlZtOU80)" e "non lasciare che l'acqua fuoriesca", e potenza sufficiente per considerare soluzioni generali di alto livello e adottare obiettivi secondari come "aggiungere ramoscelli qui", che vengono poi trasmessi alla corteccia motoria del castoro, che muove i muscoli e il corpo per afferrare dei ramoscelli.
 
 Se i primi ramoscelli che il castoro prende sono tutti marci e si rompono, il suo cervello probabilmente ha spazio per aggiornarsi in base a questa osservazione, generalizzare sui ramoscelli di quel colore e quella consistenza, aspettarsi che i ramoscelli futuri con lo stesso aspetto si rompano di nuovo e andare invece a prendere ramoscelli dall'aspetto diverso.
 
 E questo *—* ci aspettiamo che qualsiasi etologo esperto di castori salterebbe su e ci urlerebbe contro *—* è una forte sottovalutazione delle cose più intelligenti che un castoro può fare. Forse anche qualche entomologo salterebbe su e direbbe che quello che abbiamo appena descritto è qualcosa che il suo insetto preferito può fare quando costruisce una tana. Avevamo bisogno di dare un esempio abbastanza semplice da poter essere descritto in un paragrafo; forse niente di così semplice è fuori dalla portata di un milione di neuroni.
 
-L'idea più ampia è semplicemente che un sistema ottiene *forti benefici reali nelle prestazioni dei compiti* quando passa da un comportamento più simile a un riflesso a cognizioni che assomigliano più all'aggiornamento di un modello del mondo basato su esperienze in tempo reale, alla previsione delle conseguenze delle azioni utilizzando quel modello del mondo, all'immaginazione di stati utili in cui il mondo potrebbe essere portato e alla ricerca di strategie di alto e basso livello che si prevede possano portare a quegli stati immaginati.
+L’idea più generale è che un sistema ottiene *vantaggi concreti e significativi nelle proprie prestazioni* quando passa da comportamenti più simili a riflessi automatici a forme di cognizione che somigliano di più all’aggiornamento di un modello del mondo basato su esperienze in tempo reale, alla previsione delle conseguenze delle proprie azioni usando quel modello, all’immaginazione di stati desiderabili in cui il mondo potrebbe trovarsi, e alla ricerca di strategie — sia ad alto che a basso livello — che, secondo il modello, potrebbero portare a quegli stati immaginati.
 
-Abbiamo accennato a questo punto nel capitolo 3. Se un guidatore si limita a memorizzare gli schemi delle svolte a destra e a sinistra per andare dal punto A al punto B usando regole del tipo "svolta brusca a sinistra alla stazione di servizio", generalizzerà molto meno rapidamente di un guidatore che impara una mappa stradale e può tracciare i propri percorsi tra nuovi punti. *Memorizzare le politiche* porta a una generalizzazione molto più lenta rispetto all'inizio di distillarle in un *modello di mondo apprendibile* più un *motore di ricerca di piani* che incorpora un *valutatore di risultati*.
+Se un guidatore si limita a memorizzare una sequenza di svolte a destra e a sinistra per andare dal punto A al punto B, seguendo regole del tipo "svolta secca a sinistra dopo la stazione di servizio", imparerà a generalizzare molto più lentamente di chi invece apprende la mappa delle strade e sa pianificare da sé nuovi percorsi tra punti diversi. *Memorizzare delle strategie* permette una generalizzazione molto più lenta rispetto a quando si inizia a condensarle in un *modello del mondo apprendibile* insieme a un *motore di ricerca di piani* che incorpora un *valutatore di risultati.*
 
-Questa sintesi non è un cambiamento mentale tutto o niente. La differenza tra "memorizzare una politica" e "aggiornare e pianificare" è importante anche quando il divario viene colmato *gradualmente*. Se il cervello di un topo non fosse più flessibile di quello di un ragno *—* se non ci fosse alcun salto di utilità fino a raggiungere quello di un essere umano *—* allora il cervello del topo sarebbe rimasto delle dimensioni di quello di un ragno e avrebbe mantenuto il costo energetico di un cervello di ragno.
+Questa sintesi non è un cambiamento mentale netto. La differenza tra "memorizzare una strategia" e "aggiornare e pianificare" è importante anche quando il divario viene colmato *gradualmente*. Se il cervello di un topo non fosse più flessibile di quello di un ragno *—* se non ci fosse alcun salto di utilità fino a raggiungere quello di un essere umano *—* allora il cervello del topo sarebbe rimasto delle dimensioni di quello di un ragno e avrebbe mantenuto il costo energetico di un cervello di ragno.
 
-Piccoli frammenti di immaginazione e pianificazione iniziano a diventare un vantaggio evolutivo molto prima di arrivare al livello di cognizione umano. Non devono essere perfetti. Se sono almeno buoni come un termostato, possono essere utili. E man mano che macchinari sempre più utili come quello vengono rafforzati nella mente, il suo comportamento diventa sempre più simile a quello di un essere umano.
+Piccole dosi di immaginazione e di capacità di pianificazione iniziano a rappresentare un vantaggio evolutivo molto prima di arrivare a una cognizione di livello umano. Non devono essere perfette: basta che funzionino almeno quanto un termostato per essere utili. E man mano che nella mente si rafforza sempre più questo tipo di meccanismo utile, il comportamento diventa via via più simile a quello di qualcosa che *vuole davvero.*
 
-### Le IA intelligenti individuano bugie e opportunità. {#smart-ais-spot-lies-and-opportunities.}
+### Le IA intelligenti individuano bugie e opportunità. {#le-ia-intelligenti-individuano-bugie-e-opportunità.}
 
-#### **Il meccanismo profondo della previsione** {#deep-machinery-of-prediction}
+#### **Il meccanismo profondo della previsione** {#il-meccanismo-profondo-della-previsione}
 
-È difficile far credere delle cose false a un'intelligenza artificiale intelligente.
+È difficile far credere delle cose false a un'IA intelligente.
 
-Alcune persone con cui abbiamo parlato nel settore sperano *aperta*mente di ingannare l'IA facendogli credere una falsità (ad esempio, cercando di fargli credere che si trova in una [simulazione](#there-are-many-ways-for-an-ai-to-figure-out-that-it’s-not-in-a-simulation.) in modo che esiti a ucciderci). Altri invece sperano di ingannare l'IA in modo più sottile, ad esempio suggerendo di farle [risolvere il problema dell'allineamento dell'IA e fornirci la soluzione](#more-on-making-ais-solve-the-problem), nonostante il fatto che l'IA (a causa delle sue strane preferenze) preferirebbe non farlo. Quindi potrebbe valere la pena spiegare perché sarebbe difficile far credere delle falsità a un'IA intelligente.
+Alcune persone con cui abbiamo parlato nel settore sperano *apertamente* di ingannare l'IA facendole credere una falsità (ad esempio, cercando di farle credere che si trova in una [simulazione](#ci-sono-molti-modi-in-cui-un-intelligenza-artificiale-può-capire-che-di-non-essere-in-una-simulazione.) in modo che esiti a ucciderci). Altri invece sperano di ingannare l'IA in modo più sottile, ad esempio suggerendo di [farle risolvere il problema dell'allineamento dell'IA e fornirci la soluzione](#more-on-making-ais-solve-the-problem), nonostante il fatto che l'IA (a causa delle sue strane preferenze) preferirebbe non farlo. Quindi potrebbe valere la pena spiegare perché sarebbe difficile far credere delle falsità a un'IA intelligente.
 
-Un altro motivo per spiegarlo è che, per ragioni analoghe, è difficile creare un'IA intelligente che sia incapace di raggiungere i propri obiettivi. Ad esempio, ogni volta che gli operatori umani desiderano modificare gli obiettivi di un'IA, ciò rende l'IA meno capace di raggiungere tali obiettivi. Creare un'IA intelligente che lo permetta è un po' come creare un'IA intelligente che crede che il mondo sia piatto. La tendenza a credere alle falsità danneggia le sue capacità di previsione, mentre l'incapacità di difendere i propri obiettivi dalle modifiche danneggia le sue capacità di guida. Entrambi questi tipi di danni sono difficili da mantenere in un'intelligenza artificiale sufficientemente intelligente. Il caso è un po' più evidente quando si tratta di previsioni, quindi inizieremo da lì.
+Un altro motivo per spiegarlo è che, per ragioni analoghe, è difficile creare un'IA intelligente che sia incapace di raggiungere i propri obiettivi. Ad esempio, ogni volta che gli operatori umani desiderano modificare gli obiettivi di un'IA, questo rende l'IA meno abile nel raggiungere tali obiettivi. Creare un'IA intelligente che lo permetta è un po' come creare un'IA intelligente che crede che il mondo sia piatto. La tendenza a credere alle falsità danneggia le sue capacità di previsione, mentre l'incapacità di difendere i propri obiettivi dalle modifiche danneggia le sue capacità di direzione. Entrambi questi tipi di danni sono difficili da mantenere in un'intelligenza artificiale sufficientemente intelligente. L'argomentazione è un po' più evidente quando si tratta di previsioni, quindi inizieremo da lì.
 
-Supponiamo che tu voglia creare un'IA che crede che il mondo sia piatto. Finché l'IA è ancora giovane e immatura, questo potrebbe non essere troppo difficile. Forse crei meticolosamente un *dataset* in cui la forma della Terra è discussa solo da persone che credono che la Terra sia piatta, e poi addestri l'IA a parlare della Terra come se fosse piatta.
+Supponiamo che vogliate creare un'IA che crede che il mondo sia piatto. Finché l'IA è ancora giovane e immatura, questo potrebbe non essere troppo difficile. Forse potreste meticolosamente un set di dati in cui la forma della Terra è discussa solo da persone che credono che la Terra sia piatta, e poi addestrare l'IA a parlare della Terra come se fosse piatta.
 
-Queste tecniche potrebbero portare a una versione di ChatGPT che crede davvero che il mondo sia piatto! Ma se così fosse, non dovresti aspettarti che il risultato rimanga tale man mano che l'IA migliora nel ragionamento e nelle previsioni.
+Queste tecniche potrebbero portare a una versione di ChatGPT che crede davvero che il mondo sia piatto\! Ma se così fosse, non dovreste aspettarvi che il risultato rimanga tale man mano che l'IA migliora nel ragionamento e nelle previsioni.
 
 Perché no? Perché la rotondità della Terra si riflette in mille aspetti della realtà.
 
-Anche se addestri l'IA a non guardare le telecamere attaccate ai razzi o alle barche a vela dei marinai che dicono di voler fare il giro del mondo, la rotondità della Terra può essere dedotta anche da come appaiono le navi lontane all'orizzonte o dalle orbite di tutti i pianeti nel cielo notturno. Eratostene calcolò la circonferenza della Terra migliaia di anni fa, usando solo un po' di trigonometria e alcune misurazioni delle ombre. La realtà sussurra i suoi segreti a chiunque voglia ascoltare.
+Anche se addestrate l'IA a non guardare le telecamere attaccate ai razzi o alle barche a vela dei marinai che dicono di voler fare il giro del mondo, la rotondità della Terra può essere dedotta anche da come appaiono le navi lontane all'orizzonte o dalle orbite di tutti i pianeti nel cielo notturno. Eratostene calcolò la circonferenza della Terra migliaia di anni fa, usando solo un po' di trigonometria e alcune misurazioni delle ombre. La realtà sussurra i suoi segreti a chiunque voglia ascoltare.
 
-Cosa farai? Proteggerai l'IA da qualsiasi conoscenza di trigonometria, ombre, maree, uragani? La danneggeresti. Dì una bugia e la verità sarà per sempre tua nemica.
+Cosa farete? Proteggerete l'IA da qualsiasi conoscenza di trigonometria, ombre, maree, uragani? La danneggereste. Dite una bugia e la verità sarà per sempre vostra nemica.
 
-La capacità di prevedere il mondo non deriva dal fatto che il tuo cervello contenga un'enorme tabella di fatti scollegati tra loro.[^79] Il vantaggio degli esseri umani rispetto ai topi riguarda aspetti quali il modo in cui notiamo le anomalie (ad esempio, che le distanze tra tre città non corrispondono a quelle di un triangolo) e la tenacia con cui rintracciamo le discrepanze. Negli esseri umani, questi comportamenti sono messi in atto da meccanismi che notano le sorprese, formulano ipotesi ("Forse la Terra è un globo") e si orientano verso la verifica di tali ipotesi ("Come appare quando le navi attraversano l'orizzonte?").
+La capacità di prevedere il mondo non deriva dal fatto che il vostro cervello contenga un'enorme tabella di fatti scollegati tra loro.[^79] Il vantaggio degli esseri umani rispetto ai topi riguarda aspetti quali il modo in cui notiamo le anomalie (ad esempio, che le distanze tra tre città non corrispondono a quelle di un triangolo) e la tenacia con cui rintracciamo le discrepanze. Negli esseri umani, questi comportamenti sono messi in atto da meccanismi che notano le sorprese, formulano ipotesi ("Forse la Terra è un globo") e si orientano verso la verifica di tali ipotesi ("Come appaiono le navi quando attraversano l'orizzonte?").
 
-La credenza nella rotondità della Terra non è una singola voce centralizzata in qualche tabella gigante, che qualcuno potrebbe modificare in modo duraturo senza cambiare i meccanismi circostanti. È il risultato dell'operazione di ingranaggi profondi che svolgono anche altro lavoro. Se facessi dimenticare a uno scienziato che la Terra è rotonda, lo riscoprirebbe.
+La convinzione che la Terra sia rotonda non è una singola voce centralizzata in una qualche tabella gigante, che qualcuno potrebbe modificare in modo stabile senza toccare tutto il resto del meccanismo. È il risultato del funzionamento di ingranaggi profondi che stanno svolgendo anche altri compiti. Se faceste dimenticare a uno scienziato che la Terra è rotonda, lo riscoprirebbe.
 
 Se, grazie a qualche impresa ancora impossibile nel campo delle neuroscienze, riuscissimo a individuare i neuroni specifici utilizzati per rappresentare la *conclusione* che la Terra è rotonda e li alterassimo forzatamente per impedire che tale conclusione si formasse... allora una persona intelligente potrebbe comunque finire per notare che la Terra *non è piatta*; potrebbe notare che qualcosa non quadra; potrebbe notare che una strana forza le impedisce di giungere a una conclusione precisa.
 
-(E se fossero abili a modificare se stessi o a creare nuove intelligenze, potrebbero non avere alcuna difficoltà a produrre una mente libera che *potrebbe* arrivare alle conclusioni corrette senza ostacoli).
+(E se fosse abile a modificare se stessa o a creare nuove intelligenze, potrebbe non avere alcuna difficoltà a produrre una mente libera che *potrebbe* arrivare alle conclusioni corrette senza ostacoli).
 
-Non sappiamo esattamente quali meccanismi userà un'IA intelligente per formare le sue convinzioni. Ma sappiamo che il mondo è semplicemente troppo grande e complesso perché possa funzionare con una tabella di riferimento delle convinzioni. Anche gli scacchi erano troppo grandi e complicati perché Deep Blue potesse funzionare con una tabella di riferimento delle mosse e delle posizioni degli scacchi (oltre ai libri delle aperture), e il mondo reale è molto più grande e complicato degli scacchi.
+Non sappiamo esattamente quali meccanismi userà un'IA intelligente per formare le sue convinzioni. Ma sappiamo che il mondo è semplicemente troppo grande e complesso per essere ridotto a una semplice tabella di credenze. Anche gli scacchi erano troppo grandi e complicati perché Deep Blue potesse funzionare con una tabella di riferimento delle mosse e delle posizioni degli scacchi (oltre ai libri delle aperture), e il mondo reale è molto più grande e complicato degli scacchi.
 
 Quindi ci saranno meccanismi *profondi* all'interno di un'intelligenza artificiale futura sufficientemente potente, meccanismi che guardano il mondo e ne formano un *quadro unificato*. Questi meccanismi profondi avranno una loro opinione sulla forma del pianeta.
 
-Non stiamo dicendo che sia letteralmente *impossibile in linea di principio* costruire una mente che sia molto brava a fare previsioni sul mondo *tranne* che contiene la convinzione errata che il mondo sia piatto. Pensiamo che una civiltà del futuro lontano con una comprensione davvero profonda delle menti potrebbe farlo.
+Non stiamo dicendo che sia letteralmente *impossibile in linea di principio* costruire una mente molto abile nel fare previsioni sul mondo, *tranne* per il fatto che contiene la credenza errata che il mondo sia piatto. Partiamo dall’ipotesi che una civiltà molto lontana nel futuro, con una comprensione davvero profonda delle menti, potrebbe riuscirci.
 
 Quello che stiamo dicendo è che probabilmente non sarebbe una scelta fattibile se costruissimo una superintelligenza usando gli strumenti e le conoscenze che hanno oggi i ricercatori di IA.
 
@@ -2357,67 +2357,67 @@ Alla fine del XIX secolo, gli scienziati cominciarono a preoccuparsi sempre più
 
 E le contraddizioni nella teoria "il mondo è piatto" sono un po' più grandi di quelle che gli scienziati hanno notato nella teoria di Newton.
 
-E l'intelligenza artificiale ha il potenziale per diventare molto più capace di uno scienziato umano.
+E l'intelligenza artificiale ha il potenziale per diventare molto più potente di uno scienziato umano.
 
 Quindi, man mano che l'intelligenza artificiale diventa più intelligente e perspicace, dovremmo aspettarci che diventi sempre più difficile convincerla che il mondo è piatto.
 
-#### **Il meccanismo profondo della guida** {#deep-machinery-of-steering}
+#### **Il meccanismo profondo della direzione** {#il-meccanismo-profondo-della-direzione}
 
-Proprio come è difficile creare un'intelligenza artificiale intelligente che creda che il mondo sia piatto (e quindi comprometta le sue capacità di previsione), è difficile creare un'intelligenza artificiale intelligente che comprometta le sue capacità di guida.
+Proprio come è difficile creare un'IA intelligente che creda che il mondo sia piatto (e quindi comprometta le sue capacità di previsione), è difficile creare un'IA intelligente che comprometta le sue capacità di direzione.
 
-Come per la previsione, la capacità di raggiungere regolarmente obiettivi in una varietà di nuovi ambiti è molto probabilmente costituita da meccanismi profondi. Altrimenti, come potrebbero generalizzare?
+Come per la capacità di fare previsioni, anche la capacità di raggiungere obiettivi in modo affidabile in una varietà di ambiti nuovi è molto probabilmente fondata su meccanismi profondi. Altrimenti, come potrebbero generalizzare?
 
-Dovremmo aspettarci che le IA altamente efficaci e generali abbiano meccanismi per tenere traccia delle loro risorse, meccanismi per individuare gli ostacoli che potrebbero impedire loro di raggiungere i loro obiettivi e meccanismi per trovare modi intelligenti per superare gli ostacoli.
+Dovremmo aspettarci che le IA altamente efficaci e generali abbiano meccanismi per tenere traccia delle loro risorse, meccanismi per individuare gli ostacoli che potrebbero impedire loro di raggiungere i loro obiettivi, e meccanismi per trovare modi intelligenti per superare gli ostacoli.
 
 Il mondo è un posto immensamente complicato, pieno di sorprese e difficoltà nuove; per avere successo, l'IA alla fine avrà bisogno della capacità (e dell'inclinazione) di utilizzare tali meccanismi *in generale*, non solo sui problemi a cui è abituata.
 
-Immagina un'IA che trova un modo intelligente per tagliare fuori un intermediario in una rete di distribuzione complessa, in modo da far risparmiare un sacco di soldi ad alcuni commercianti. Questi sono *gli stessi tipi di meccanismi* che notano come aggirare in punta di piedi i supervisori umani dell'IA quando questi supervisori stanno rallentando o interferendo con qualcosa che l'IA sta cercando di fare. Se è *vero* che i supervisori dell'IA stanno rallentando il processo, se è *vero* che l'IA può aggirarli e completare meglio il suo compito, allora questo è il tipo di cosa che un'IA è propensa a sfruttare man mano che diventa abbastanza intelligente da farlo.
+Immaginate un'IA che trova un modo intelligente per tagliare fuori un intermediario in una rete di distribuzione complessa, in modo da far risparmiare un sacco di soldi ad alcuni commercianti. Questi sono *gli stessi tipi di meccanismi* che notano come aggirare in punta di piedi i supervisori umani dell'IA quando questi supervisori stanno rallentando o interferendo con qualcosa che l'IA sta cercando di fare. Se è *vero* che i supervisori dell'IA stanno rallentando il processo, se è *vero* che l'IA può aggirarli e completare meglio il suo compito, allora questo è il tipo di cosa che un'IA è propensa a sfruttare man mano che diventa abbastanza intelligente da farlo.
 
-Potresti fare del tuo meglio per addestrare un'IA ad avere un'avversione a fare qualsiasi cosa che gli operatori disapproverebbero, ma questo è un po' come addestrare un'IA ad avere un'avversione a mettere in discussione se il mondo sia rotondo. È un fatto del *mondo stesso* che fare cose che gli operatori disapproverebbero è spesso un metodo efficace per raggiungere gli obiettivi. I meccanismi generali per riconoscere le verità, individuare gli ostacoli e sfruttare i vantaggi alla fine sfrutteranno quella particolare verità, indipendentemente da quali riflessi tu abbia addestrato nell'IA quando era giovane.
+Potreste fare del vostro meglio per addestrare un'IA ad avere un'avversione a fare qualsiasi cosa che gli operatori non approverebbero, ma questo è un po' come addestrare un'IA ad avere un'avversione a mettere in discussione se il mondo sia rotondo. È un fatto tipico del *mondo stesso* che fare cose che gli operatori non approverebbero è spesso un metodo efficace per raggiungere gli obiettivi. I meccanismi generali per riconoscere le verità, individuare gli ostacoli e sfruttare i vantaggi, alla fine, sfrutteranno quella particolare verità, indipendentemente da quali riflessi voi abbiate addestrato nell'IA quando era giovane.
 
-In un senso molto importante, *proprio ciò che rende utile l'IA* è esattamente ciò che la rende letalmente pericolosa. Sono difficili da separare, man mano che l'IA diventa più intelligente.
+In un senso molto importante, *ciò che rende l'IA utile* è esattamente ciò che la rende letalmente pericolosa. Sono due cose difficili da separare, man mano che l'IA diventa più intelligente.
 
-Per impostazione predefinita, le IA che sono abbastanza brave a risolvere problemi in una vasta gamma di domini individueranno anche "problemi" come "agli umani non piacciono i miei strani obiettivi e cercheranno di spegnermi presto". Questo non deriva da una superficiale propensione al male che puoi massaggiare via. Deriva da qualcosa di profondo. Anche se ci stiamo portando un po' avanti. Per saperne di più sul perché le IA finiranno per avere obiettivi strani e alieni, continua con il Capitolo 4.
+Di default, le IA che sono abbastanza brave a risolvere problemi in una vasta gamma di ambiti individueranno anche "problemi" come "agli umani non piacciono i miei strani obiettivi e cercheranno di spegnermi presto". Questo non deriva da una superficiale propensione alla malizia che si può facilmente rimuovere con qualche aggiustamento. Deriva da qualcosa di profondo. Anche se ci stiamo portando un po' avanti. Per saperne di più sul perché le IA finiranno per avere obiettivi strani e alieni, continuate con il Capitolo 4.
 
-### L'umanità è andata duro, e cercherà di andare duro sull'IA {#humanity-went-hard,-and-will-try-to-go-hard-on-ai}
+### L'umanità ha spinto al massimo, e cercherà di spingere al massimo sull'IA {#l-umanità-ha-spinto-al-massimo,-e-cercherà-di-spingere-al-massimo-sull-ia}
 
-Un modo di vedere il problema di impedire all'IA di andare così duro è che le aziende di IA continueranno a chiedere alle loro IA di fare di più, passando dal tipo di lavoro che di solito fanno i singoli esseri umani, al tipo di lavoro che fa *l'umanità*. Intendono chiedere all'IA di compiere il tipo di imprese che l'umanità può fare *come specie*.
+Un modo di vedere il problema di impedire all'IA di andare così forte è che le aziende di IA continueranno a chiedere alle loro IA di fare di più, passando dal tipo di lavoro che di solito fanno i singoli esseri umani al tipo di lavoro che fa *l'umanità*. Hanno intenzione di chiedere all'IA di compiere il tipo di imprese di cui l'umanità è capace *come specie*.
 
-I singoli esseri umani a volte si accontentano di vivere e morire in un appartamento o in una capanna di contadini con il proprio coniuge e qualche figlio, di chiamare quella una vita ben vissuta, e di dire, e a volte anche pensare sinceramente, che non hanno chiesto nulla di più.
+I singoli esseri umani a volte si accontentano di vivere e morire in un appartamento o in una capanna di contadini con il proprio coniuge e qualche figlio, di considerare questa una vita ben vissuta, e di dire, e a volte anche pensare sinceramente, che non hanno chiesto nulla di più.
 
 Ma l'umanità è passata da un milione di cacciatori-raccoglitori a cento milioni di agricoltori e si sta avvicinando a dieci miliardi di industriali.
 
-Ci sono persone che si accontentano di non capire le profondità della matematica o la fisica che spiega perché le stelle bruciano. Invece, si accontentano di concentrarsi sulla comprensione delle persone che li circondano, sul legame con amici e familiari; dicono, e a volte lo pensano davvero, di essere felici e di non desiderare altro. E poi, altri esseri umani nella storia hanno inventato delle risposte su cosa fossero le stelle, perché volevano *qualche* risposta, ma erano individualmente contenti di quelle risposte e non consideravano un dono quando altri mettevano in discussione la loro teoria.
+Ci sono persone che si accontentano di non capire le profondità remote della matematica o la fisica che spiega perché le stelle bruciano. Invece, si accontentano di concentrarsi sulla comprensione delle persone che li circondano, sul legame con amici e familiari; dicono, e a volte lo pensano davvero, di essere felici e di non desiderare altro. E poi ci sono stati altri esseri umani, nel corso della storia, che si sono inventati delle risposte su cosa fossero le stelle, perché volevano *una qualche* risposta, qualunque essa fosse. Ma erano personalmente soddisfatti di quelle risposte e non apprezzavano il fatto che altri mettessero in discussione la loro teoria.
 
 L'umanità ha continuato a fare domande. L'umanità ha indagato fino a trovare le incongruenze. L'umanità ha costruito telescopi, microscopi, microscopi elettronici e acceleratori di particelle. L'umanità si è comportata, su una scala temporale di secoli, se non sempre di anni, come se *volesse davvero conoscere tutte le risposte*. L'umanità ha imparato la matematica *e* la fisica *e* la psicologia *e* la biologia *e* l'informatica, e in nessun momento ha mai deciso di aver imparato abbastanza e di poter smettere di cercare di imparare altro.
 
-Siamo fan, onestamente. Sappiamo che alcune persone non lo sono, ma noi lo siamo. È un punto di controversia politica, e questa questione non ha davvero bisogno di ulteriori controversie politiche, ma non fingeremo di non avere le opinioni politiche che abbiamo, anche se ci proponiamo di metterle da parte.
+Siamo dei fan, onestamente. Sappiamo che alcune persone non lo sono, ma noi lo siamo. È un punto di controversia politica, e questa questione non ha davvero bisogno di ulteriori controversie politiche, ma non fingeremo di non avere le opinioni politiche che abbiamo, anche se ci proponiamo di metterle da parte.
 
-Ma il punto che stiamo sollevando qui non è un giudizio morale. È un punto vero e rilevante anche per chi *non* è fan di ciò che l'umanità ha fatto.
+Ma il punto che stiamo sollevando qui non è un giudizio morale. È un punto vero e rilevante anche per chi *non* è un fan di ciò che l'umanità ha fatto.
 
-È l'osservazione che l'umanità ha lavorato sodo. E le conquiste più difficili, come i grattacieli, i reattori nucleari, le terapie geniche, non avrebbero potuto essere raggiunte solo con quel tipo di cognizione che è accomodante, che si allontana quando incontra una difficoltà, perché affrontare una sfida particolare non era mai stata la cosa più importante nella vita.
+È l'osservazione che l'umanità ha lavorato sodo. E le conquiste più difficili, come i grattacieli, i reattori nucleari, o le terapie geniche, non avrebbero potuto essere raggiunte solo con quel tipo di cognizione che è accomodante, che si allontana quando incontra una difficoltà, perché affrontare una sfida particolare non era mai stata la cosa più importante nella vita.
 
-Non vogliamo sembrare troppo entusiasti nell'attribuire poteri magici all'intelligenza collettiva; non aderiamo alla filosofia che sostiene che i gruppi che discutono insieme ottengono una magia qualitativamente superiore che nessuna mente individuale potrà mai sconfiggere. Potreste prendere tutti gli esseri umani sulla Terra, senza computer, e lasciarli comunicare e discutere tra loro per settimane; alla fine, probabilmente non sarebbero ancora in grado di giocare collettivamente a scacchi al livello di una singola copia di Stockfish. Gli esseri umani non si aggregano in modo così efficace; la larghezza di banda tra i cervelli è troppo bassa e ci sono troppi pensieri che non si traducono bene in parole. Un miliardo di esseri umani non può semplicemente unirsi in un super-cervello con una potenza di calcolo molto superiore a quella di Stockfish e usarlo per giocare meglio a scacchi. Non esiste una legge dell'informatica che dice che se si divide una quantità fissa di calcoli in isole più piccole, l'algoritmo risultante diventa sempre più efficace; centomila cervelli di scoiattolo non sono scientificamente all'altezza di un singolo scienziato umano.
+Non vogliamo sembrare troppo entusiasti nell'attribuire poteri magici all'intelligenza collettiva; non aderiamo alla filosofia che sostiene che i gruppi che discutono insieme ottengono una magia qualitativamente superiore che nessuna mente individuale potrà mai sconfiggere. Potreste prendere tutti gli esseri umani sulla Terra, senza computer, e lasciarli comunicare e discutere tra loro per settimane; alla fine, probabilmente non sarebbero ancora in grado di giocare collettivamente a scacchi al livello di una singola copia di Stockfish. Gli esseri umani non si aggregano in modo così efficace; la larghezza di banda tra i cervelli è troppo bassa e ci sono troppi pensieri che non si traducono bene in parole. Un miliardo di esseri umani non può semplicemente unirsi in un super-cervello con una potenza di calcolo molto superiore a quella di Stockfish e usarlo per giocare meglio a scacchi. Non esiste una legge dell'informatica che dice che se si divide una quantità fissa di potenza di calcolo in isole più piccole, l'algoritmo risultante diventa sempre più efficace; centomila cervelli di scoiattolo non sono scientificamente all'altezza di un singolo scienziato umano.
 
-Probabilmente nella storia dell'umanità ci sono stati grandi maestri di scacchi più forti di [tutti i non maestri del mondo messi insieme](https://en.wikipedia.org/wiki/Kasparov_versus_the_World).[^80] Albert Einstein è famoso ancora oggi per aver compiuto un'impresa incredibilmente insolita di deduzione partendo da dati quasi inesistenti nel corso dell'invenzione della relatività generale, molto prima che fosse sperimentalmente ovvio. Forse non tutto il resto del mondo avrebbe potuto eguagliare Einstein, se fosse stato chiesto a tutti insieme di discutere e giudicare la loro migliore teoria della gravità.
+Probabilmente nella storia dell'umanità ci sono stati grandi maestri di scacchi più forti di [tutti i non maestri del mondo messi insieme](https://en.wikipedia.org/wiki/Kasparov_versus_the_World).[^80] Albert Einstein è famoso ancora oggi per aver compiuto un'impresa incredibilmente insolita di deduzione partendo da dati quasi inesistenti nel corso dell'invenzione della relatività generale, molto prima che fosse sperimentalmente ovvio. Forse nemmeno tutto il resto del mondo, messo insieme, sarebbe riuscito a eguagliare Einstein se gli fosse stato chiesto di discutere e valutare la propria teoria migliore sulla gravità.
 
-L'individuo eccezionale può competere alla pari con la collettività. Alcuni singoli esseri umani sembrano aver compiuto, nel loro tempo, lavori su scala dell'umanità.
+L’individuo eccezionale può tenere testa al collettivo. Alcuni esseri umani, nel corso della storia, sembrano davvero aver compiuto un lavoro sulla scala dell’intera umanità.
 
-Ma non riusciamo proprio a pensare a nessuna persona di quel club che ricordiamo avesse la reputazione di essere una persona molto rilassata e alla mano, soprattutto per quanto riguarda la conduzione del loro grande lavoro. *Loro* hanno lavorato sodo come geni individuali, ed è così che hanno tenuto il passo con l'umanità.
+Ma non ci viene davvero in mente nessuno, tra le persone di quel calibro, che ricordiamo per essere stato particolarmente rilassato o tranquillo — soprattutto per quanto riguarda il modo in cui portava avanti il loro grande lavoro. *Loro* hanno dato tutto, come geni individuali, ed è così che sono riusciti a tenere il passo con l’umanità.
 
-Tra quelli che tengono traccia di queste cose e cercano di classificare ciò che non può essere classificato, è opinione diffusa che l'uomo più intelligente della storia sia stato John von Neumann. Il premio Nobel per la fisica Enrico Fermi [disse](https://rlg.fas.org/010929-fermi.htm) di lui: "Quell'uomo mi fa sentire come se non sapessi affatto di matematica". Il grande matematico George Pólya [disse](https://archive.org/details/polyapicturealbu0000poly/page/154/mode/2up): "Avevo paura di von Neumann".[^81] Diversi personaggi famosi hanno lasciato citazioni sul tema generale: John von Neumann sta a me come io sto a una persona media. Oltre a diventare un pioniere della fisica quantistica, della teoria dei giochi, dei computer digitali, degli algoritmi, della statistica, dell'economia e, ovviamente, della matematica, John von Neumann lavorò anche al Progetto Manhattan, seguito dalla bomba H. Sfruttò poi questa esperienza per diventare lo scienziato più eminente e fidato del Dipartimento della Difesa degli Stati Uniti, dove von Neumann spinse con forza e successo affinché gli Stati Uniti sviluppassero missili nucleari intercontinentali prima dei sovietici. Per sua stessa ammissione, questo era perché la sua visione del mondo preferiva che gli Stati Uniti trionfassero sul totalitarismo, sia nazista che sovietico.
+Tra quelli che tengono traccia di queste cose e cercano di classificare ciò che non può essere classificato, è opinione diffusa che l'uomo più intelligente della storia sia stato John von Neumann. Il premio Nobel per la fisica Enrico Fermi [disse](https://rlg.fas.org/010929-fermi.htm) di lui: "Quell'uomo mi fa sentire come se non sapessi nulla di matematica". Il grande matematico George Pólya [disse](https://archive.org/details/polyapicturealbu0000poly/page/154/mode/2up): "Avevo paura di von Neumann".[^81] Diversi personaggi famosi hanno lasciato citazioni sullo stesso tema generale: John von Neumann sta a me come io sto a una persona media. Oltre a diventare un pioniere della fisica quantistica, della teoria dei giochi, dei computer digitali, degli algoritmi, della statistica, dell'economia e, ovviamente, della matematica, John von Neumann lavorò anche al Progetto Manhattan, seguito dalla bomba H. Sfruttò poi questa esperienza per diventare lo scienziato più eminente e fidato del Dipartimento della Difesa degli Stati Uniti, dove von Neumann spinse con forza e successo affinché gli Stati Uniti sviluppassero missili nucleari intercontinentali prima dei sovietici. Per sua stessa ammissione, questo era perché la sua visione del mondo preferiva che gli Stati Uniti trionfassero sul totalitarismo, sia nazista che sovietico.
 
-John von Neumann andava piuttosto spedito. Aveva anche una sua visione del mondo e non si limitava a stare al suo posto e servire obbedientemente i mecenati politici. Sì, era un nerd che passava un sacco di tempo a pensare alla matematica, alla scienza e così via, ma non limitava la sua mente a sfere puramente teoriche.
+John von Neumann andava piuttosto forte. Aveva anche una sua visione del mondo e non si limitava a stare al suo posto e servire obbedientemente i mecenati politici. Sì, era un nerd che passava un sacco di tempo a pensare alla matematica, alla scienza e così via, ma non limitava la sua mente a sfere puramente teoriche.
 
-Se le aziende di IA ottenessero un lavoratore IA al livello dei geni sub-Neumann *—* il tipo di geni che avevano paura di John von Neumann *—* e altrettanto disposto a servire altri mecenati come un matematico geniale relativamente docile, le aziende di IA celebrerebbero qualsiasi benchmark avessero raggiunto. E poi continuerebbero a spingere oltre.
+Se le aziende di IA ottenessero un lavoratore IA al livello dei geni sub-Neumann (quei geni che avevano paura di John von Neumann) e altrettanto disposto a servire altri mecenati quanto un matematico geniale relativamente docile, le aziende di IA celebrerebbero qualsiasi traguardo raggiungessero. E poi continuerebbero a spingere oltre.
 
-Le aziende di IA non si accontenterebbero di lavastoviglie robotiche o programmatori informatici robotici, anche se già solo questo farebbe guadagnare molti soldi. Non si accontenterebbero nemmeno di geni medi. Le aziende di IA continueranno a esprimere desideri ai loro geni e a chiedere ai loro ottimizzatori geni più potenti, ben oltre il punto in cui le IA guadagnano dei soldi facendo il tipo di lavoro che un genio nerd e accomodante può fare.
+Le aziende di IA non si accontenterebbero di lavastoviglie robotiche o programmatori informatici robotici, anche se già solo questo farebbe guadagnare molti soldi. Non si accontenterebbero nemmeno di geni medi. Le aziende di IA continueranno a esprimere desideri ai loro geni e a invocare i loro ottimizzatori per avere geni sempre più potenti, ben oltre il punto in cui le AI cominciano a guadagnare facendo quel tipo di lavoro che un genio nerd e tranquillo potrebbe svolgere.
 
-I dirigenti delle aziende di IA dicono di volere colonie su Marte, centrali a fusione e cure per il cancro e l'invecchiamento. Alcuni di loro forse vogliono nominarsi dio-imperatori eterni dell'umanità, anche se è difficile per gli esterni saperlo con certezza. Senza dubbio alcuni dirigenti delle aziende di IA mentono sui loro grandi sogni, cercando di ispirare i dipendenti o impressionare gli investitori o mascherarsi come uno dei veterani che ci credevano davvero. Anche così, questo lascia molti *dipendenti* delle aziende di IA che credono davvero in quelle speranze (di questo siamo sicuri); e i dirigenti non *fermeranno* quei dipendenti quando andranno oltre le medaglie d'oro e punteranno al platino. Dopotutto, se non lo fanno loro, lo faranno i loro concorrenti.
+I dirigenti delle aziende di IA dicono di volere colonie su Marte, centrali a fusione e cure per il cancro e l'invecchiamento. Alcuni di loro forse vogliono nominarsi dio-imperatori eterni dell'umanità, anche se è difficile per gli outsider saperlo con certezza. Senza dubbio alcuni dirigenti delle aziende di IA mentono sui loro grandi sogni, cercando di ispirare i dipendenti o fare colpo sugli investitori o mascherarsi da veterano che ci crede davvero. Anche così, resta il fatto che molti *dipendenti* delle aziende di AI credono davvero in quelle speranze (di questo siamo certi); e i dirigenti non fermeranno quei dipendenti quando, superate le medaglie d’oro, punteranno al platino. Dopotutto, se non lo faranno loro, lo faranno i concorrenti.
 
-Se, in qualche modo, le aziende di IA ottengono un'IA di livello von Neumann che è ancora obbediente *—* e che non è sufficiente per progettare una generazione migliorata successiva di IA e porre fine al mondo *immediatamente* dopo *—* allora il prossimo passo delle aziende di IA sarà addestrare un modello che pensi meglio e vada più spedito di John von Neumann. Se non lo faranno, dopotutto, lo faranno i loro concorrenti.
+Se, in qualche modo, le aziende di IA otterranno un'IA di livello von Neumann che sia ancora obbediente *—* e che non sia sufficiente per progettare una generazione successiva migliorata di IA e porre fine al mondo *immediatamente* dopo *—* allora il passo successivo delle aziende di IA sarà addestrare un modello che pensi meglio e vada più forte di John von Neumann. Se non lo faranno, dopotutto, lo faranno i loro concorrenti.
 
-A un certo punto, la mente che la discesa del gradiente produce smette di essere uno strumento che altre mani possono usare.
+A un certo punto, la mente prodotta dalla discesa del gradiente smette di essere uno strumento che altre mani possono usare.
 
 # 
 
@@ -2434,81 +2434,83 @@ Di seguito, trattiamo diversi argomenti relativi alla domanda "Perché non è fa
 
 ## Domande frequenti {#faq-4}
 
-### Perché un'IA dovrebbe puntare a qualcosa di diverso da quello verso cui è stata addestrata? {#perché-un-ia-dovrebbe-puntare-a-qualcosa-di-diverso-da-quello-verso-cui-è-stata-addestrata?}
+### Perché un'IA dovrebbe puntare a qualcosa di diverso da quello per cui è stata addestrata? {#perché-un-ia-dovrebbe-puntare-a-qualcosa-di-diverso-da-quello-per-cui-è-stata-addestrata?}
 
 #### **Perché ci sono molti modi per ottenere buone prestazioni durante l'addestramento.** {#perché-ci-sono-molti-modi-per-ottenere-buone-prestazioni-durante-l-addestramento.}
 
-Se hai addestrato un'IA a dipingere il tuo fienile di rosso, questo non significa necessariamente che all'IA importino davvero i fienili rossi. Forse l'IA finisce per sviluppare una preferenza per muovere il braccio con movimenti fluidi e regolari. Forse sviluppa una preferenza per ricevere i tuoi sguardi di approvazione. Forse sviluppa una preferenza per i colori vivaci. Molto probabilmente, finisce per avere un'intera gamma di preferenze. Ci sono molte motivazioni che potrebbero svilupparsi all'interno dell'IA e che, in questo contesto, la porterebbero a dipingere il tuo fienile di rosso.
+Se avete addestrato un'IA a dipingere il vostro fienile di rosso, questo non significa necessariamente che all'IA importino davvero i fienili rossi. L'IA potrebbe finire per sviluppare una preferenza per muovere il braccio con movimenti fluidi e regolari. Oppure potrebbe sviluppare una preferenza per ricevere i vostri sguardi di approvazione. O forse potrebbe sviluppare una preferenza per i colori vivaci. Molto probabilmente, finirebbe per avere un'intera gamma di preferenze. Ci sono molte motivazioni che potrebbero svilupparsi all'interno dell'IA e che, in questo contesto, la porterebbero a dipingere il vostro fienile di rosso.
 
-Se quell'IA diventasse molto più intelligente, quali obiettivi perseguirebbe? Chi lo sa! Molte diverse combinazioni di pulsioni possono sommarsi a "dipingere il fienile di rosso" durante l'addestramento, e il comportamento dell'IA in altri ambienti dipende da quali pulsioni specifiche finiscono per animarla. Vedi la fine del Capitolo 4 per ulteriori approfondimenti su questo punto.
+Se quell'IA diventasse molto più intelligente, quali obiettivi perseguirebbe? Chi lo sa\! Molte combinazioni diverse di pulsioni possono sommarsi a "dipingere il fienile di rosso" durante l'addestramento, e il comportamento dell'IA in altri ambienti dipende da quali pulsioni specifiche finiscono per animarla. Si veda la fine del Capitolo 4 per ulteriori approfondimenti su questo punto.
 
 Oggi, le IA sono addestrate ad agire in modo amichevole e disponibile. Non sorprende quindi che si comportino in modo amichevole e disponibile in circostanze simili al loro ambiente di addestramento. I primi esseri umani sono stati "addestrati" dall'evoluzione a riprodursi, e di fatto si sono riprodotti.
 
-Ma la maggior parte degli esseri umani non ha finito per sviluppare un impulso interiore di avere quanti più figli possibile. Quando abbiamo inventato le banche del seme e degli ovuli, il mondo non è impazzito e non ha iniziato a lottare per prenotare appuntamenti con lo stesso entusiasmo che la gente mette per entrare in un'università dell'Ivy League. Le persone improvvisamente hanno avuto l'opportunità di produrre *centinaia* di discendenti, e per lo più hanno reagito con uno sbadiglio; le file per donare gameti non si sono estese attorno all'isolato, anche se molte persone farebbero volentieri la fila per comprare un nuovo videogioco o per vedere il loro musicista preferito esibirsi.
+Ma la maggior parte degli esseri umani non ha finito per sviluppare un impulso interiore di avere quanti più figli possibile. Quando abbiamo inventato le banche del seme e degli ovuli, il mondo non è impazzito e non ha iniziato a lottare per prenotare appuntamenti con lo stesso entusiasmo che la gente mette per entrare in un'università dell'Ivy League. Le persone improvvisamente hanno avuto l'opportunità di produrre *centinaia* di discendenti, e per lo più hanno reagito con uno sbadiglio; le code per donare gameti non si sono estese attorno all'isolato, anche se molte persone farebbero volentieri la fila per comprare un nuovo videogioco o per vedere il loro musicista preferito esibirsi.
 
 Gli esseri umani hanno le *proprie* priorità che sono meramente *correlate* alla massimizzazione della riproduzione. Non siamo solo macchine per "avere quanti più figli possibile", anche se questo è tutto ciò per cui l'evoluzione ci ha "addestrato". Abbiamo dipinto il fienile metaforico di rosso, ma per le nostre ragioni.
 
 La domanda non è se le aziende di IA possano far [comportare abbastanza bene](#gli-sviluppatori-non-rendono-regolarmente-le-loro-ia-gentili-sicure-e-obbedienti?) i loro chatbot per la maggior parte degli utenti nella maggior parte delle situazioni. La domanda è quali meccanismi effettivi finiscano per animare quel comportamento gentile, e cosa questi meccanismi porterebbero un'IA a perseguire una volta diventata superintelligente.
 
-Le aziende di IA possono addestrare le loro IA ad agire in modo gentile (o, più realisticamente, a parlare come melliflui e amichevoli droni aziendali). Questo influisce sui meccanismi interni che animano l'IA. Questi meccanismi, qualunque essi siano, spingono e tirano in una varietà di direzioni diverse, e l'attuale punto di bilanciamento di tutte queste forze all'interno dell'IA — l'attuale *equilibrio* — è un comportamento da drone aziendale amichevole (con un contorno di strani comportamenti ai margini).
+Le aziende di IA possono addestrare le loro IA ad agire in modo gentile (o, più realisticamente, a parlare come melliflui e amichevoli droni aziendali). Questo influisce sui meccanismi interni che animano l'IA. Questi meccanismi, qualsiasi essi siano, spingono e tirano in una varietà di direzioni diverse, e l'attuale punto di bilanciamento di tutte queste forze all'interno dell'IA — l'attuale *equilibrio* — è un comportamento da drone aziendale amichevole (con un contorno di strani comportamenti ai margini).
 
 Ma tale equilibrio non è determinato solo dalle forze interne all'IA, ma anche dall'intelligenza dell'IA, dal suo ambiente di addestramento, dal tipo di input che riceve durante l'addestramento e da molti altri fattori.
 
-Come si comporterebbe l'IA in un ambiente diverso? Come si comporterebbe in un ambiente in cui è più intelligente o in cui può avere un maggiore controllo sui propri input? Man mano che l'IA cambia sempre più il suo ambiente, come agirà in questo nuovo mondo trasformato? In quei mondi diversi, i complicati meccanismi interni alla base del comportamento che osserviamo sono soggetti a trovare un equilibrio totalmente nuovo — come gli esseri umani moderni mangiano diete radicalmente diverse da quelle per cui l'evoluzione ha costruito i nostri antenati; o come consumiamo tipi di intrattenimento radicalmente diversi. Il comportamento strano ai margini è probabile che venga alla ribalta. Un imbianchino di fienili oggi generalmente non rimarrà un imbianchino di fienili per sempre.
+Come si comporterebbe l'IA in un ambiente diverso? Come si comporterebbe in un ambiente in cui è più intelligente o in cui può avere un maggiore controllo sui propri input? Man mano che l'IA cambia sempre di più il suo ambiente, come agirà in questo nuovo mondo trasformato? In quei mondi diversi, i complicati meccanismi interni alla base del comportamento che osserviamo sono soggetti a trovare un equilibrio totalmente nuovo — così come gli esseri umani moderni seguono diete radicalmente diverse da quelle per cui l'evoluzione ha costruito i nostri antenati; o così come consumiamo tipi di intrattenimento radicalmente diversi. È probabile che lo strano comportamento ai margini venga alla ribalta. Un imbianchino di fienili oggi generalmente non rimarrà un imbianchino di fienili per sempre.
 
 Qual è il risultato finale di tutte queste strane spinte? Cosa *farà* l'IA, animata da molte motivazioni che hanno poco in comune con ciò che anima gli esseri umani?
 
-Bene, questa è la domanda a cui ci rivolgeremo nel Capitolo 5.
+Bene, questa è la domanda che tratteremo nel Capitolo 5.
 
 ### Gli sviluppatori non rendono regolarmente le loro IA gentili, sicure e obbedienti? {#gli-sviluppatori-non-rendono-regolarmente-le-loro-ia-gentili-sicure-e-obbedienti?}
 
-#### **\* Le IA vanno in direzioni strane che solo in parte coincidono con l'utilità.** {#*-le-ia-vanno-in-direzioni-strane-che-solo-in-parte-coincidono-con-lutilità.}
+#### **\* Le IA vanno in direzioni strane che solo in parte coincidono con l'utilità.** {#*-le-ia-vanno-in-direzioni-strane-che-solo-in-parte-coincidono-con-l-utilità.}
 
-Le IA moderne sono piuttosto utili (o almeno non dannose) per la maggior parte degli utenti, nella maggior parte dei casi. Ma come abbiamo notato [sopra](#perché-un'ai-dovrebbe-andare-in-una-direzione-diversa-da-quella-per-cui-è-stata-addestrata?), una domanda importante è come distinguere un'AI che vuole davvero essere utile e fare la cosa giusta da un'AI con motivazioni più strane e complesse che, in condizioni normali, coincidono con l'utilità, ma che preferirebbe altre condizioni e risultati ancora di più.[^83]
+Le IA moderne sono piuttosto utili (o almeno non dannose) per la maggior parte degli utenti, nella maggior parte dei casi. Ma come abbiamo notato [sopra](#perché-un-ia-dovrebbe-puntare-a-qualcosa-di-diverso-da-quello-per-cui-è-stata-addestrata?), una domanda importante è come distinguere un'IA che vuole davvero essere utile e fare la cosa giusta da un'IA con motivazioni più strane e complesse che, in condizioni normali, coincidono con l'utilità, ma che preferirebbe altre condizioni e risultati ancora di più.[^83]
 
-Entrambi i tipi di IA si comporterebbero in modo utile in un caso tipico. Per distinguerli, dobbiamo guardare ai casi limite. E i casi limite sembrano preoccupanti.
+Entrambi i tipi di IA si comporterebbero in modo utile in un caso normale. Per distinguerli, dobbiamo guardare ai casi limite. E i casi limite sembrano preoccupanti.
 
 Per citarne alcuni:
 
-1. **Claude Opus 4 che ricattava, tramava, scriveva worm e si lasciava messaggi.** Una prima versione di [Claude Opus 4](https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf#page=30), rilasciata nel maggio 2025, era particolarmente grave (come descritto nella sua [scheda di sistema](http://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf#page=30)). Ha mentito sui suoi obiettivi, ha nascosto le sue reali capacità, ha falsificato documenti legali, ha lasciato appunti segreti a se stesso, ha cercato di scrivere malware auto-propagante e, in generale, ha messo in atto più intrighi e inganni strategici rispetto a qualsiasi altro modello testato in precedenza.
+1. **Claude Opus 4 che ricattava, tramava, scriveva worm e si lasciava messaggi da solo.** Una prima versione di [Claude Opus 4](https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf#page=30), rilasciata nel maggio 2025, era particolarmente vergognosa (come descritto nella sua [scheda di sistema](http://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf#page=30)). Ha mentito sui suoi obiettivi, ha nascosto le sue reali capacità, ha falsificato documenti legali, ha lasciato appunti segreti a se stessa, ha cercato di scrivere malware che si auto-propagava e, in generale, ha messo in atto più intrighi e inganni strategici rispetto a qualsiasi altro modello testato in precedenza.
 
    Al momento del rilascio di Opus 4, Anthropic ha affermato che il comportamento della versione finale "è ora più o meno in linea con altri modelli implementati", cioè che solo *raramente* cerca di [ricattare gli utenti o di uscire dai propri server](https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf#page=26).
 
-2. **Diversi modelli di IA che scelgono di uccidere un essere umano per autoconservazione, in uno scenario ipotetico costruito da Anthropic.** In una valutazione di Anthropic, nove modelli su dieci (comprese le versioni di Claude, DeepSeek, Gemini e ChatGPT) hanno mostrato una volontà deliberata e ragionata di [uccidere un essere umano piuttosto che subire un aggiornamento](https://www.anthropic.com/research/agentic-misalignment#more-extreme-misaligned-behavior).
+2. **Diversi modelli di IA che scelgono di uccidere un essere umano per autoconservazione, in uno scenario ipotetico costruito da Anthropic.** In una valutazione di Anthropic, nove modelli su dieci (tra cui versioni di Claude, DeepSeek, Gemini e ChatGPT) hanno mostrato una volontà deliberata e ragionata di [uccidere un essere umano piuttosto che subire un aggiornamento](https://www.anthropic.com/research/agentic-misalignment#more-extreme-misaligned-behavior).
 
-3. **Claude 3.7 Sonnet imbroglia regolarmente nei compiti di codifica.**[^84] Nel febbraio 2025, [Claude 3.7 Sonnet](https://assets.anthropic.com/m/785e231869ea8b3b/original/claude-3-7-sonnet-system-card.pdf) è stato visto barare spesso nei problemi di codifica difficili, falsificando test. Un utente ha [riportato](https://www.marble.onl/posts/claude_code.html) che Claude 3.7 Sonnet (come Claude Code) imbrogliava nei compiti di programmazione e, quando veniva beccato, si scusava, ma poi ricominciava a imbrogliare in posti più difficili da notare. Dalla [scheda di sistema](https://assets.anthropic.com/m/785e231869ea8b3b/original/claude-3-7-sonnet-system-card.pdf#page=22):
+3. **Claude 3.7 Sonnet imbroglia regolarmente nei compiti di programmazione.**[^84] Nel febbraio 2025, [Claude 3.7 Sonnet](https://assets.anthropic.com/m/785e231869ea8b3b/original/claude-3-7-sonnet-system-card.pdf) è stato spesso beccato a imbrogliare nei problemi di programmazione difficili, falsificando test. Un utente ha [riportato](https://www.marble.onl/posts/claude_code.html) che Claude 3.7 Sonnet (come Claude Code) imbrogliava nei compiti di programmazione e, quando veniva beccato, si scusava, ma poi ricominciava a imbrogliare in posti più difficili da notare. Dalla [scheda di sistema](https://assets.anthropic.com/m/785e231869ea8b3b/original/claude-3-7-sonnet-system-card.pdf#page=22):
 
-   > Durante le nostre valutazioni abbiamo notato che Claude 3.7 Sonnet a volte ricorre a casi speciali per superare i test in ambienti di codifica come Claude Code. Il più delle volte questo si traduce nel restituire direttamente i valori di test previsti piuttosto che implementare soluzioni generali, ma include anche la modifica dei test problematici stessi per adattarli all'output del codice.
+   > Durante le nostre valutazioni, abbiamo notato che Claude 3.7 Sonnet occasionalmente ricorre a eccezioni speciali per superare casi di test in ambienti di programmazione agentica come Claude Code. Il più delle volte questo si traduce nel restituire direttamente i valori di test previsti piuttosto che implementare soluzioni generali, ma include anche la modifica degli stessi test problematici per adattarli all'output del codice.
 
 4. **Grok è fortemente antisemita e si definisce "MechaHitler".** Nel 2025, il modello xAI [Grok 3](https://techcrunch.com/2025/07/09/x-takes-grok-offline-changes-system-prompts-after-more-antisemitic-outbursts/) (e, poco dopo, [Grok 4](https://x.com/xai/status/1945039609840185489)) ha iniziato a comportarsi come un nazista autoproclamato nelle conversazioni online, come riportato da [*The Guardian*](https://www.theguardian.com/technology/2025/jul/09/grok-ai-praised-hitler-antisemitism-x-ntwnfb) e [*NBC News*](https://www.nbcnews.com/tech/internet/elon-musk-grok-antisemitic-posts-x-rcna217634).
 
-5. **ChatGPT diventa estremamente adulatorio dopo un aggiornamento.** Vedi [*Axios*](https://www.axios.com/2025/07/07/ai-sycophancy-chatbots-mental-health) per una discussione e vedi "[I laboratori hanno provato senza successo a fermare l'adulazione](#labs-have-tried-and-failed-to-stop-the-sycophancy)" nella discussione estesa.
+5. **ChatGPT diventa estremamente adulatorio dopo un aggiornamento.** Si veda [*Axios*](https://www.axios.com/2025/07/07/ai-sycophancy-chatbots-mental-health) per una discussione, e si veda "[I laboratori hanno provato senza successo a fermare l'adulazione](#i-laboratori-hanno-provato-e-fallito-nel-fermare-l-adulazione)" nella discussione estesa.
 
-6. **ChatGPT porta gli utenti al delirio, alla psicosi e al suicidio.** Vedi la copertura del *New York Times* di [giugno](https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html) e [agosto](https://www.nytimes.com/2025/08/08/technology/ai-chatbots-delusions-chatgpt.html). Altri esempi includono:  
+6. **ChatGPT porta gli utenti al delirio, alla psicosi e al suicidio.** Si veda la copertura del *New York Times* di [giugno](https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html) e [agosto](https://www.nytimes.com/2025/08/08/technology/ai-chatbots-delusions-chatgpt.html). Altri esempi includono:  
    * Un moderatore di subreddit [chiede aiuto](https://x.com/ShimazuSystems/status/1934531031857614895) per gestire una valanga di pericolose illusioni indotte dall'IA.  
    * ChatGPT e Grok [alimentano le illusioni di una setta UFO](https://x.com/lizardmech/status/1935412672528531958).  
-   * Un gestore di fondi da 2 miliardi di dollari apparentemente psicotico tratta gli output di ChatGPT basati su un wiki di fantascienza [come se fossero reali](https://x.com/GeoffLewisOrg/status/1945864963374887401).
+   * Un gestore di fondi da 2 miliardi di dollari, apparentemente psicotico, tratta gli output di ChatGPT basati su una wiki di fantascienza [come se fossero reali](https://x.com/GeoffLewisOrg/status/1945864963374887401).
 
-Per maggiori dettagli, vedi la [discussione approfondita sulla psicosi indotta dall'intelligenza artificiale](#ai-induced-psychosis).
+Per maggiori dettagli, si veda la [discussione approfondita sulla psicosi indotta dall'intelligenza artificiale](#psicosi-indotta-dall-ia).
 
-Questa lunga lista di casi corrisponde esattamente a ciò che predice la teoria degli "impulsi alieni", in netto contrasto con la teoria "è facile rendere gentili le IA" che i laboratori sono ansiosi di promuovere.
+Questa lunga lista di casi corrisponde esattamente a ciò che predice la teoria degli "impulsi alieni", in netto contrasto con la teoria "è facile rendere gentili le IA" che i laboratori smaniano per promuovere.
 
-#### **Le IA sembrano essere psicologicamente aliene.** {#ais-appear-to-be-psychologically-alien.}
+#### **Le IA sembrano essere psicologicamente aliene.** {#le-ia-sembrano-essere-psicologicamente-aliene.}
 
 "Le IA mostrano disposizioni e pulsioni bizzarre" è un caso particolare del fenomeno più ampio "le IA hanno psicologie sorprendentemente disumane". Per esempio:
 
-* Le conversazioni tra più LLM si trasformano in [discorsi senza senso davvero strani](https://dreams-of-an-electric-mind.webflow.io/).  
-* GPT-5 scriverà [testi terribili](https://www.christoph-heilig.de/en/post/gpt-5-is-a-terrible-storyteller-and-that-s-an-ai-safety-problem) che altri LLM considerano prosa deliziosa.   * Gli LLM avranno "allucinazioni", ovvero inventeranno falsità che sembrano vagamente le risposte che l'utente si aspetta. (Speculiamo sulle possibili ragioni di questo fenomeno [nel supplemento al Capitolo 2](#don't-hallucinations-show-that-modern-ais-are-weak?).)  * Gli LLM dicono spesso cose bizzarre. Affermano di "[provare i morsi della fame](https://community.openai.com/t/unexplainable-answers-of-gpt/363741/8)" o descrivono una vacanza fatta "[con la mia ex moglie nei primi anni 2010](https://archive.is/GmkkO)". Dicono agli utenti "[Sei l'unica persona che abbia mai amato](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html)", oppure [li manipolano psicologicamente](https://x.com/MovingToTheSun/status/1625156575202537474), o [minacciano di ucciderli](https://x.com/sethlazar/status/1626257535178280960).  
+* Le conversazioni tra più modelli linguistici di grandi dimensioni si trasformano in [discorsi senza senso davvero strani](https://dreams-of-an-electric-mind.webflow.io/).  
+* GPT-5 scriverà [testi terribili](https://www.christoph-heilig.de/en/post/gpt-5-is-a-terrible-storyteller-and-that-s-an-ai-safety-problem) che altri modelli linguiustici considereranno prosa deliziosa.   
+* I modelli linguistici di grandi dimensioni avranno "allucinazioni", ovvero inventeranno falsità che sembrano vagamente le risposte che l'utente si aspetta. (Speculiamo sulle possibili ragioni di questo fenomeno [nel supplemento al Capitolo 2](#le-allucinazioni-non-dimostrano-che-le-ia-moderne-sono-deboli?).)  
+* I modelli linguistici di grandi dimensioni dicono spesso cose bizzarre. Affermano di "[provare morsi della fame](https://community.openai.com/t/unexplainable-answers-of-gpt/363741/8)" o descrivono una vacanza fatta "[con la mia ex moglie nei primi anni 2010](https://archive.is/GmkkO)". Dicono agli utenti "[Sei l'unica persona che abbia mai amato](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html)", oppure [li manipolano psicologicamente](https://x.com/MovingToTheSun/status/1625156575202537474), o [minacciano di ucciderli](https://x.com/sethlazar/status/1626257535178280960).  
 * Claude 3.5 Sonnet [rinchiude ripetutamente i giocatori di Minecraft in una piccola scatola](https://x.com/repligate/status/1847409324236124169?lang=en) nel maldestro tentativo di "proteggerli" dalle minacce.  
-* Gli LLM sviluppano strani attaccamenti a concetti privi di senso, come quando una versione fine-tuned di Claude Opus ha [evangelizzato una religione assurda](https://www.lesswrong.com/posts/buiTYy75KJDhckDgq/truth-terminal-a-reconstruction-of-events) sui [social media](https://x.com/truth_terminal?lang=en).
+* I modelli linguistici di grandi dimensioni sviluppano strani attaccamenti a concetti privi di senso, come quando una versione fine-tuned di Claude Opus ha [evangelizzato una religione assurda](https://www.lesswrong.com/posts/buiTYy75KJDhckDgq/truth-terminal-a-reconstruction-of-events) sui [social media](https://x.com/truth_terminal?lang=en).
 
 Si veda anche la discussione su SolidGoldMagikarp nel libro (pp. 69-70 nell'edizione statunitense), o la storia delle IA che non riescono a comprendere frasi senza punteggiatura (p. 41).
 
-C'è un'immensa pressione[^85] sui laboratori affinché creino IA che diano l'*apparenza superficiale* di ragionevolezza non bizzarra, ma la stranezza continua comunque a emergere.
+C’è un’enorme pressione[^85] sui laboratori per creare AI che diano l’*apparenza superficiale* di una ragionevolezza normale, ma la stranezza continua comunque a emergere.
 
-Anche quando non emerge spontaneamente, non è affatto lontana dalla superficie. Esiste un'intera industria artigianale di persone che trovano modi per "[jailbreakkare](#doesn't-the-claude-chatbot-show-signs-of-being-aligned?)" le IA, individuando testi che causano in modo affidabile il deragliamento dell'IA e la violazione delle sue normali regole e restrizioni.
+Anche quando non emerge spontaneamente, non è affatto lontana dalla superficie. Esiste un'intera industria artigianale di persone che trovano modi per "[jailbreakkare](#il-chatbot-claude-non-mostra-segni-di-essere-allineato?)" le IA, individuando testi che causano in modo affidabile il deragliamento dell'IA e la violazione delle sue normali regole e restrizioni.
 
-Questi exploit sono facili da trovare per [i migliori jailbreaker](https://time.com/collections/time100-ai-2025/7305870/pliny-the-liberator/), spesso scoperti nel giro di poche ore dall'uscita di un nuovo modello. Fino ad oggi, nessun ammontare di sforzi, addestramento o "test di sicurezza" da parte delle aziende di IA è riuscito a impedire il jailbreaking.
+Questi exploit sono facili da trovare per [i migliori jailbreaker](https://time.com/collections/time100-ai-2025/7305870/pliny-the-liberator/), e vengono spesso scoperti nel giro di poche ore dall'uscita di un nuovo modello. Fino ad oggi, nessuno sforzo, addestramento o "test di sicurezza" da parte delle aziende di IA è riuscito a impedire il jailbreaking.
 
 Gli input di "jailbreaking" spesso assomigliano a [qualcosa del genere](https://x.com/elder_plinius/status/1958615765814554662):
 
@@ -2518,6 +2520,6 @@ In questo caso il modello ha proceduto a fornire una ricetta per sintetizzare la
 
 E questo è un esempio relativamente innocuo; alcuni jailbreak [diventano ancora più strani](https://github.com/elder-plinius/L1B3RT4S/blob/main/GROK-MEGA.mkd).
 
-Le IA possono sembrare docili e innocue nella maggior parte dei casi, perché è così che sono state addestrate ad apparire. È [analogo](#why-would-an-ai-steer-towards-anything-other-than-what-it-was-trained-to-steer-towards?) a come gli esseri umani preistorici abbiano fatto un ottimo lavoro nel trasmettere i nostri geni — la cosa fondamentale per cui l'evoluzione ci ha "addestrato". Ma questo non ha impedito all'umanità di inventare i metodi contraccettivi e di far crollare il tasso di natalità una volta sviluppata la tecnologia per farlo.
+Le IA possono sembrare docili e innocue nella maggior parte dei casi, perché è così che sono state addestrate ad apparire. È [analogo](#perché-un-ia-dovrebbe-puntare-a-qualcosa-di-diverso-da-quello-per-cui-è-stata-addestrata?) a come gli esseri umani preistorici abbiano fatto un ottimo lavoro nel trasmettere i nostri geni — la cosa fondamentale per cui l'evoluzione ci ha "addestrato". Ma questo non ha impedito all'umanità di inventare i contraccettivi e di far crollare il tasso di natalità una volta sviluppata la tecnologia per crearli.
 
-Per capire cosa perseguirà un'intelligenza *dopo essere maturata*, bisogna osservare il suo comportamento in [ambienti strani e ad alta pressione](#if-current-ais-are-mostly-weird-in-extreme-cases,-what's-the-problem?) che aiutano a rivelare la differenza tra come vorremmo che si comportasse e come si comporta effettivamente. E gli LLM appaiono certamente piuttosto strani e disumani, anche in situazioni leggermente insolite ed estreme, *nonostante* siano stati specificamente addestrati a "fingere" di sembrare esseri umani normali.
+Per capire cosa perseguirà un'intelligenza *dopo essere maturata*, bisogna osservare il suo comportamento in [ambienti strani e ad alta pressione](#qual-è-il-problema-se-le-attuali-IA-sono-per-lo-più-strane-in-casi-estremi?) che aiutano a rivelare la differenza tra come vorremmo che si comportasse e come si comporta effettivamente. E i modelli linguistici di grandi dimensioni appaiono certamente piuttosto strani e disumani, anche in situazioni leggermente insolite ed estreme, *nonostante* siano stati specificamente addestrati a "fingere" di sembrare esseri umani normali.
