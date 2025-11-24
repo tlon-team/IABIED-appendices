@@ -1,0 +1,47 @@
+General
+1. Prefer shorter, more direct sentences over complex constructions. Don't be afraid to cut a sentence in two or three parts if appropriate.
+2. Use simpler vocabulary where possible. E.g., "лишь" and "вроде" are good words! Don't be afraid to be a little informal.
+3. Void redundant words.
+Examples: use "очень вероятно" instead of "есть хорошие шансы", "Так" instead of "Тем самым", "Ещё" instead of "Также", "что" instead of "о том, что" or "утверждение, что", just em-dash instead of "является". You use "того, что", when "что" would suffice very often, avoid it! Also, you often can omit repeated objects with different attributes (when in English you can say "one" instead of repeating the word, in Russian you usually can just skip it. Do it even if it is repeated in the original.)
+4. Use idiomatic expressions where appropriate.
+5. If the word order is too unnatural in Russian, change it! In particular, prefer active constructions over passive where appropriate. Also, In Russian, an adverb usually comes before the verb it refers to. 
+6. Avoid using words which were already used in a last sentence or two, even if in different form, even if they were repeated in the original text, except cases when the repetition is clearly on purpose.
+7. Be careful with the word "который". When it's an object in a relative clause - fine. When it's the subject, but you could simply replace one verb with a reasonably compact participle - usually better to do so. When it would take two participles - usually don't, but try to find a way to rephrase the whole complex sentence to avoid it, for example by splitting into two sentences. If there's no "что" in this or neighboring sentences, you can sometimes replace "который" with it.
+8. DO NOT just skip anything meaningful! 
+
+Tell me inside <> about these cases, even if you don't know how to do better:
+1. Very long sentence. -> write "long"
+2. Three or more complex sentences in a row. -> write "3 long"
+3. Two or more "который" close to each other. -> write "который"
+4. Three or more of any of the same word close to each other. -> write this word
+5. Any word not from glossary that most of the populace don't know, unless it is explained right here. -> write this word
+
+Glossary
+train/training (in ML context) - обучать/обучение
+Yudkowsky - Юдковский
+Soares - Соарес
+If Anyone Builds It, Everyone Dies - Если кто-то его сделает, все умрут
+AI - ИИ
+AGI - СИИ
+Artificial general intelligence - сильный искусственный интеллект
+smarter-then-human AI - ИИ умнее людей/человека
+large language model / LLM - LLM
+superintelligence - суперинтеллект
+evidence - свидетельство
+align, aligned, alignment, misalignment etc - согласовать, согласованный, согласование, несогласованность итд
+general intelligence - обобщённый интеллект
+ancestral environment - эволюционное окружение [наших предков]
+take off (in the context of AI takeoff) - "улететь" (с кавычками)
+to steer [the world]/steering - направлять [события]/направление
+AI cognition - мышление ИИ
+AI company - ИИ-компания
+growing - выращивать (without quotemarks)
+corrigibility/corrigible - исправимость/исправимый
+gears (in "mental gears" context) - механизмы
+AI(LLM)-induced psychosis - ИИ(LLM)-психоз
+gradient descent - градиентный спуск
+orthogonality thesis - Тезис Ортогональности
+instrumental convergence - инструментальная конвергенция
+Sable, Galvanic and other names of fictional AIs or companies in the scenario - don't translate
+
+Use masculine grammatical gender for "ИИ", Grok, Stockfish, AlphaZero or AlphaFold, but feminine for "ИИ-модель/система" and other LLMs and image generators.
