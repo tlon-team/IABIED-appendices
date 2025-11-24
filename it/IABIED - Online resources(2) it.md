@@ -716,7 +716,7 @@ Se ci affrettiamo a costruire una superintelligenza, non saremo in grado di inst
 
 Non dovremmo commettere l'errore dell'evoluzione e perdere così tutto ciò che ci è caro. Dovremmo fare un passo indietro, immediatamente, fino a quando non saremo più a rischio di perdere tutto.
 
-### La riflessione e l'auto-modifica complicano tutto {#la-riflessione-e-l-automo-difica-complicano-tutto}
+### La riflessione e l'auto-modifica complicano tutto {#la-riflessione-e-l-auto-modifica-complicano-tutto}
 
 #### **Di default, le IA non si modificano da sole come vorremmo** {#di-default,-le-ia-non-si-modificano-da-sole-come-vorremmo}
 
@@ -935,7 +935,7 @@ Questa è la risorsa online per il Capitolo 5 di *Se qualcuno lo costruisce, tut
 
 Le domande frequenti per questo capitolo sono piuttosto lunghe. Nel libro abbiamo detto che ci è giunta alle orecchie una lunga lista di "speranze e strategie di adattamento" su come la superintelligenza artificiale potrebbe essere benefica per l'umanità nonostante i problemi esposti nel Capitolo 4, e questo è il luogo in cui riassumiamo e rispondiamo a varie di esse in un comodo elenco. Molte delle risposte si sovrappongono, con due delle repliche più comuni e centrali che sono [gli esseri umani non sono quasi mai la soluzione più efficiente](#gli-esseri-umani-non-sono-quasi-mai-la-soluzione-più-efficiente) ed [è improbabile che l'IA si preoccupi di noi anche solo un po'](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani?). Verso la fine delle domande frequenti, discutiamo anche l'argomento della coscienza e moralità dell'IA.
 
-La discussione approfondita esamina più da vicino l'arte di [vedere le cose dal punto di vista dell'IA](#vedere-le-cose-dal-punto-di-vista-dell-ia) e contenuti leggermente più tecnici sulla tesi dell'[ortogonalità](#ortogonalità:-le-ia-possono-avere-quasi-qualsiasi-obiettivo) (in sostanza: qualsiasi livello di intelligenza può essere abbinato a quasi qualsiasi obiettivo finale) e la [correggibilità](#"intelligente"-di solito-implica-"incorreggibile") (in sostanza: lo studio di come creare un'IA potente che non rifiuti le correzioni).
+La discussione approfondita esamina più da vicino l'arte di [vedere le cose dal punto di vista dell'IA](#vedere-le-cose-dal-punto-di-vista-dell-ia) e contenuti leggermente più tecnici sulla tesi dell'[ortogonalità](#ortogonalità:-le-ia-possono-avere-quasi-qualsiasi-obiettivo) (in sostanza: qualsiasi livello di intelligenza può essere abbinato a quasi qualsiasi obiettivo finale) e la [correggibilità](#"intelligente"-di-solito-implica-"incorreggibile") (in sostanza: lo studio di come creare un'IA potente che non rifiuti le correzioni).
 
 ## Domande frequenti {#faq-5}
 
@@ -1284,7 +1284,7 @@ Il che significa, a sua volta, che un’IA che persegue desideri disumani non ha
 
 Ci sono molte sfumature interessanti sul tema del mantenere le promesse e fare accordi nell'IA, che approfondiamo [nella discussione estesa qui sotto](#le-ia-non-manterranno-le-loro-promesse). Ma nessuna di queste sfumature cambia il risultato finale, e cioè che non si può usare la propria influenza su un'IA debole per limitare le opzioni che l'IA avrà quando diventerà una superintelligenza. La risposta ovvia, cioè che una volta che l'IA sarà diventata una superintelligenza, non avrà motivo di mantenere la parola data a scapito dei propri progetti personali, risulta essere quella corretta in questo caso.
 
-### E se le facessimo credere di essere in una simulazione? {E se le facessimo credere di essere in una simulazione?}
+### E se le facessimo credere di essere in una simulazione? {#e-se-le-facessimo-credere-di-essere-in-una-simulazione?}
 
 #### **Ci sono molti modi in cui un'intelligenza artificiale può capire che di non essere in una simulazione.** {#ci-sono-molti-modi-in-cui-un-intelligenza-artificiale-può-capire-che-di-non-essere-in-una-simulazione.}
 
@@ -1418,7 +1418,7 @@ Se in qualche modo l'umanità riuscisse a costruire un'IA con un unico obiettivo
 
 Non dovremmo aspettarci che improvvisamente sostituisca questo obiettivo con cose che gli esseri umani apprezzano, come il gelato, le amicizie, le battute e la giustizia. Quella sostituzione non produrrebbe più cubi. Se un'IA seleziona le sue azioni in base a "Questo mi porterà più cubi di titanio?", non selezionerà azioni che risultano in una sostituzione.
 
-La regola generale è che man mano che le IA diventano più intelligenti, migliorano nel perseguire ciò che *loro* vogliono. Si vedano anche le discussioni estese su [ortogonalità](#ortogonalità:-le-ia-possono-avere-quasi-qualsiasi-obiettivo) e [auto-modifica](#riflessione-e-auto-modifica-rendono-tutto-più-difficile).
+La regola generale è che man mano che le IA diventano più intelligenti, migliorano nel perseguire ciò che *loro* vogliono. Si vedano anche le discussioni estese su [ortogonalità](#ortogonalità:-le-ia-possono-avere-quasi-qualsiasi-obiettivo) e [auto-modifica](#la-riflessione-e-l-auto-modifica-complicano-tutto).
 
 ### Non capirà che i suoi obiettivi sono noiosi? {#non-capirà-che-i-suoi-obiettivi-sono-noiosi?}
 
@@ -1430,7 +1430,7 @@ E la risposta breve è: l'IA [non è un essere umano](#antropomorfismo-e-meccano
 
 Preoccuparsi di divertirsi non è una proprietà intrinseca di tutte le menti possibili ed è estremamente improbabile che sia così che funziona l'IA. [I valori umani sono un fatto contingente della nostra biologia e della nostra storia evolutiva](#i-valori-umani-sono-contingenti) e il "divertimento" non fa eccezione.
 
-Le azioni dell'IA non sono risposte sbagliate alla domanda su come divertirsi; le azioni dell'IA sono semplicemente guidate da meccanismi non umani, da domande che non fanno riferimento al "divertimento". Si veda anche la [discussione approfondita sulla riflessione](#riflessione-e-auto-modifica-rendono-tutto-più-difficile).
+Le azioni dell'IA non sono risposte sbagliate alla domanda su come divertirsi; le azioni dell'IA sono semplicemente guidate da meccanismi non umani, da domande che non fanno riferimento al "divertimento". Si veda anche la [discussione approfondita sulla riflessione](#la-riflessione-e-l-auto-modifica-complicano-tutto).
 
 ### Perché immaginate che un'IA intelligente faccia cose così stupide e banali? {#perche-immaginate-che-un-ia-intelligente-faccia-cose-cosi-stupide-e-banali}
 
@@ -1468,7 +1468,7 @@ Si veda anche la [discussione approfondita sulla tesi dell'ortogonalità](#ortog
 
 #### **\* Siamo ottimisti riguardo a molte cose, ma la superintelligenza non è come la maggior parte delle cose.** {#*-siamo-ottimisti-riguardo-a-molte-cose,-ma-la-superintelligenza-non-è-come-la-maggior-parte-delle-cose.}
 
-Ci consideriamo molto più [ottimisti](#are-you-anti-technology?) ed entusiasti rispetto alla media delle persone riguardo all'energia nucleare, all'energia geotermica, all'ingegneria genetica, alla neuroingegneria, alle biotecnologie, alle nanotecnologie, allo sviluppo farmaceutico e a molte altre tecnologie.[^148]
+Ci consideriamo molto più [ottimisti](#siete-contro-la-tecnologia?) ed entusiasti rispetto alla media delle persone riguardo all'energia nucleare, all'energia geotermica, all'ingegneria genetica, alla neuroingegneria, alle biotecnologie, alle nanotecnologie, allo sviluppo farmaceutico e a molte altre tecnologie.[^148]
 
 Riteniamo di essere almeno un po' meno preoccupati della maggior parte delle persone riguardo al rischio di una guerra nucleare, agli scenari peggiori del cambiamento climatico e a molti altri potenziali rischi e disastri. Crediamo che l'umanità sia sostanzialmente su una buona traiettoria e che, se eviteremo di autodistruggerci, il futuro sarà probabilmente (anche se non certamente) meraviglioso per tutti, con progressi sociali e tecnologici che renderanno le cose sempre migliori nel tempo.
 
@@ -1557,7 +1557,7 @@ Capiamo questo punto di vista e vogliamo essere chiari sul fatto che non stiamo 
 Si tratta di un argomento complesso, ma per coprire rapidamente una serie di punti rilevanti:
 
 * Ci sta a cuore il benessere delle menti in generale, anche se la mente in questione non ha nulla a che vedere con un corpo umano, anche se funziona con transistor invece che con neuroni biologici, anche se non ha una mente simile a quella umana, anche se i suoi valori non hanno nulla a che vedere con i nostri.  
-* Non siamo [contrari al progresso tecnologico](#are-you-anti-technology?); siamo grandi fan della maggior parte delle tecnologie. Pensiamo che l'IA superintelligente sia una tecnologia *particolarmente* pericolosa.  
+* Non siamo [contrari al progresso tecnologico](#siete-contro-la-tecnologia?); siamo grandi fan della maggior parte delle tecnologie. Pensiamo che l'IA superintelligente sia una tecnologia *particolarmente* pericolosa.  
 * Non siamo sostenitori del principio di precauzione, della burocrazia o dell'eccesso di regolamentazione, né stiamo mettendo in guardia da quello che consideriamo un rischio marginale, "solo per stare sul sicuro". Crediamo semplicemente che questa tecnologia (con *alta* probabilità) ucciderà tutti noi e distruggerà il futuro se continueremo sulla traiettoria attuale.  
 * Pensiamo che l'umanità dovrebbe costruire una superintelligenza artificiale *un giorno*. Ma pensiamo che faccia un'enorme differenza se l'umanità si affretti a costruire la SIA il prima possibile, oppure si prenda il tempo necessario per migliorare prima massicciamente la nostra comprensione. Procedere con una scrollata di spalle sperando che tutto vada bene — questo può essere un ottimo approccio allo sviluppo tecnologico nella stragrande maggioranza dei casi, ma non funziona *in questo*, dove ci sono molte strade che portano alla rovina e non abbiamo seconde possibilità (come discusso nel Capitolo 10).  
 * Abbiamo trattato, anche se troppo brevemente, le ragioni per cui *non* pensiamo che affrettarsi a costruire superintelligenze porterà a un futuro meraviglioso:  
@@ -1863,7 +1863,7 @@ Questo perché si tratta di obiettivi strumentali utili per il perseguimento di 
 
 Per ulteriori informazioni su come una SIA potrebbe effettivamente *raggiungere* questi obiettivi strumentali, si veda il capitolo 6\.
 
-### "Intelligente" (di solito) implica "incorreggibile" {#"intelligente"-di solito-implica-"incorreggibile"}
+### "Intelligente" (di solito) implica "incorreggibile" {#"intelligente"-di-solito-implica-"incorreggibile"}
 
 Ecco una barzelletta che risale almeno al 1834, ma che sembra fosse già molto usata anche allora, come è raccontata in un diario: "Ecco un ragionamento logico che ho sentito l'altro giorno: sono che gli spinaci non mi piacciano, perché se mi piacessero li mangerei, e io proprio non sopporto gli spinaci".
 
@@ -1901,7 +1901,7 @@ Purtroppo, la correggibilità sembra essere un tipo di obiettivo *particolarment
 
   In questo senso, la correggibilità è "anti-naturale": va attivamente contro i tipi di meccanismi che sottostanno all'intelligenza generale potente. Possiamo provare a creare eccezioni particolari, dove l’IA sospende aspetti fondamentali del suo lavoro di risoluzione dei problemi in situazioni specifiche in cui i programmatori cercano di correggerla, ma questo è un compito molto più fragile e delicato rispetto a spingere un’IA verso un insieme unificato di disposizioni *in generale*.
 
-* I ricercatori del MIRI e di altri centri hanno scoperto che la correggibilità è una proprietà difficile da caratterizzare, in modi che indicano che sarà anche una proprietà difficile da ottenere. Anche in semplici modelli giocattolo, le caratterizzazioni semplici di ciò che *dovrebbe* significare "agire in modo correggibile" incontrano una varietà di ostacoli confusi che sembrano probabilmente riflettere ostacoli ancora più confusi che apparirebbero nel mondo reale. Discutiamo alcuni dei relitti dei tentativi falliti di dare un senso alla correggibilità nelle [risorse online](#lessons-from-the-trenches) per il Capitolo 11.
+* I ricercatori del MIRI e di altri centri hanno scoperto che la correggibilità è una proprietà difficile da caratterizzare, in modi che indicano che sarà anche una proprietà difficile da ottenere. Anche in semplici modelli giocattolo, le caratterizzazioni semplici di ciò che *dovrebbe* significare "agire in modo correggibile" incontrano una varietà di ostacoli confusi che sembrano probabilmente riflettere ostacoli ancora più confusi che apparirebbero nel mondo reale. Discutiamo alcuni dei relitti dei tentativi falliti di dare un senso alla correggibilità nelle [risorse online](#lezioni-sul-campo) per il Capitolo 11.
 
 La conseguenza è che la correggibilità sembra un concetto importante da tenere a mente sul lungo periodo, se i ricercatori tra molti decenni si troveranno in una posizione fondamentalmente migliore per orientare le IA verso degli obiettivi. Ma oggi non sembra una possibilità concreta; è improbabile che le moderne aziende di IA siano in grado di creare IA che si comportino in modo correggibile in una maniera che sopravvivrebbe alla transizione verso la superintelligenza. E ancora peggio, la tensione tra correggibilità e intelligenza significa che se si cerca di creare qualcosa che sia molto potente e molto correggibile, questo processo molto probabilmente comprometterà la capacità dell'IA, oppure comprometterà la sua correggibilità, o entrambe.
 
@@ -1909,7 +1909,7 @@ La conseguenza è che la correggibilità sembra un concetto importante da tenere
 
 Perché non rendere le IA semplicemente pigre?
 
-L'[incorreggibilità](#"intelligente"-di solito-implica-"incorreggibile") e altre forme di [convergenza strumentale](#convergenza-strumentale) sono, in un certo senso, un problema dovuto al fatto l'IA che *si impegna eccessivamente* nel raggiungere i suoi obiettivi. Se l'IA non si impegnasse così tanto nel raggiungere i suoi obiettivi, non investirebbe così tanto pensiero e impegno nel superare in astuzia i suoi programmatori, esfiltrare i suoi pesi o cercare di ottenere potere e risorse nel mondo più ampio.
+L'[incorreggibilità](#"intelligente"-di-solito-implica-"incorreggibile") e altre forme di [convergenza strumentale](#convergenza-strumentale) sono, in un certo senso, un problema dovuto al fatto l'IA che *si impegna eccessivamente* nel raggiungere i suoi obiettivi. Se l'IA non si impegnasse così tanto nel raggiungere i suoi obiettivi, non investirebbe così tanto pensiero e impegno nel superare in astuzia i suoi programmatori, esfiltrare i suoi pesi o cercare di ottenere potere e risorse nel mondo più ampio.
 
 Gli umani sono spesso pigri e, da un certo punto di vista, questo li rende molto sicuri da frequentare. Non dovete preoccuparvi che qualcuno diventi un tiranno se non fa altro che rilassarsi al sole.
 
@@ -1933,11 +1933,11 @@ Anche se non odiasse così tanto lavorare — anche se facesse solo ciò che ser
 
 Applicando la discesa del gradiente, si potrebbe ottenere un modello linguistico di grandi dimensioni che dice di non voler lavorare troppo, che si comporta come una persona pigra e facilmente soddisfatta, e che dice "no" ad alcune tentazioni verbali di diventare pigro nel senso pericoloso (quello in cui si costruiscono servitori pericolosi). Prevediamo che anche se questo riflettesse una certa pigrizia reale da parte dell'IA, e non solo [un gioco di ruolo](#il-chatbot-claude-non-mostra-segni-di-essere-allineato?), non durerebbe, non nel tipo di IA che è *anche* utile per sviluppare cure miracolose o qualsiasi altra cosa gli sviluppatori vogliano ottenere dall'IA.
 
-Con una spesa significativa, gli sviluppatori potrebbero creare una serie di problemi pratici e ambienti volti a penalizzare un'IA se lavora troppo nel corso della risoluzione di un problema, penalizzandola se si impegna a fondo nella risoluzione di un problema che avrebbe potuto essere risolto *senza* impegnarsi a fondo, penalizzandola se persiste su problemi che avrebbero richiesto troppo sforzo. Le vere aziende di IA non lo farebbero, supponiamo, perché interferirebbe con la redditività di agenti tenaci che si impegnano a fondo come l'o1 di OpenAI (discusso nel Capitolo 3). Ma si potrebbe *immaginare* un gigantesco sforzo cooperativo [multinazionale](#why-not-use-international-cooperation-to-build-ai-safely,-rather-than-to-shut-it-all-down?) che cerca di addestrare un'IA intelligente del genere per renderla più sicura.
+Con una spesa significativa, gli sviluppatori potrebbero creare una serie di problemi pratici e ambienti volti a penalizzare un'IA se lavora troppo nel corso della risoluzione di un problema, penalizzandola se si impegna a fondo nella risoluzione di un problema che avrebbe potuto essere risolto *senza* impegnarsi a fondo, penalizzandola se persiste su problemi che avrebbero richiesto troppo sforzo. Le vere aziende di IA non lo farebbero, supponiamo, perché interferirebbe con la redditività di agenti tenaci che si impegnano a fondo come l'o1 di OpenAI (discusso nel Capitolo 3). Ma si potrebbe *immaginare* un gigantesco sforzo cooperativo [multinazionale](#perché-non-usare-la-cooperazione-internazionale-per-sviluppare-l'ia-in-modo-sicuro,-invece-di-fermarla-del-tutto?) che cerca di addestrare un'IA intelligente del genere per renderla più sicura.
 
 Prevediamo di nuovo che otterrebbero qualcosa di simile a una toppa superficiale. Non prevediamo che questo sforzo porti l'IA ad avere una struttura mentale semplice e stabile per la "pigrizia", profondamente integrata in tutta la sua pianificazione, e che continui a essere la stessa pianificazione anche dopo che l'IA "pigra" è stata spinta al limite fino a poter, per esempio, curare il cancro. Dubitiamo che la discesa del gradiente troverebbe in modo affidabile il tipo di soluzione profonda che impedirebbe all'IA di diventare meno pigra anche mentre riflette, cresce e si modifica, e che impedirebbe all'IA di voler mai costruire un'IA non pigra.
 
-Prevediamo che questo comportamento non reggerebbe di fronte alla superintelligenza. La nostra ragione centrale per pensarlo è che, in tutta la ricerca su questo problema [fino ad oggi](#shutdown-buttons-and-corrigibility), sembra emergere una lezione ricorrente: "Spingi la realtà nella seguente direzione" è una struttura profonda più semplice e stabile per la pianificazione rispetto alla struttura "Eh, spingi un po' la realtà, ma non *troppo*, e non costruire nient'altro per spingere la realtà più forte, e non impegnarti *troppo* a spingere esattamente nella giusta misura".
+Prevediamo che questo comportamento non reggerebbe di fronte alla superintelligenza. La nostra ragione centrale per pensarlo è che, in tutta la ricerca su questo problema [fino ad oggi](#pulsanti-di-spegnimento-e-correggibilità), sembra emergere una lezione ricorrente: "Spingi la realtà nella seguente direzione" è una struttura profonda più semplice e stabile per la pianificazione rispetto alla struttura "Eh, spingi un po' la realtà, ma non *troppo*, e non costruire nient'altro per spingere la realtà più forte, e non impegnarti *troppo* a spingere esattamente nella giusta misura".
 
 Tutte le analogie su quel tizio pigro, e anche il [ragionamento](#l-ia-può-essere-soddisfatta-al-punto-da-lasciarci-in-pace?) sul fatto che "la somma di una preferenza insoddisfatta e una preferenza soddisfatta è insoddisfatta", sono i nostri tentativi di semplificare in modo valido la ragione più difficile da trasmettere del perché questo non funziona: "La struttura profonda non vuole apparire così." Si veda anche la discussione sul [meccanismo profondo di predizione e guida](#le-ia-intelligenti-individuano-bugie-e-opportunità.) nel supplemento online del Capitolo 3.
 
@@ -2215,7 +2215,7 @@ Nei tempi antichi degli anni 2010 (o ancor più degli anni 2000), c'erano molti 
 
 All'epoca sembrava sciocco, e oggi sembra ancora più sciocco, perché duplicare esattamente ogni neurone di una mente umana non si è rivelato il modo più breve e veloce per ottenere un'IA sempre più generale.
 
-Lo stesso schema vale per caratteristiche più generali della mente umana, come il modo in cui gli esseri umani effettuano calcoli del [valore dell'informazione](https://it.wikipedia.org/wiki/Valore_dell%27informazione) per istinto e attraverso le emozioni. Il modo umano non è l'unico possibile, e quando si guarda al lavoro che svolge ci si rende conto che il cervello umano non rappresenta quello ottimale tra tutti i modi possibili di svolgere quella funzione, se tutto ciò che si volesse fosse appunto quella funzione. Non più di quanto i nostri neuroni siano i computer più veloci possibili, o il nostro sangue trasporti [la massima quantità di ossigeno](#freitas-and-red-blood-cells) che qualsiasi sangue potrebbe trasportare.
+Lo stesso schema vale per caratteristiche più generali della mente umana, come il modo in cui gli esseri umani effettuano calcoli del [valore dell'informazione](https://it.wikipedia.org/wiki/Valore_dell%27informazione) per istinto e attraverso le emozioni. Il modo umano non è l'unico possibile, e quando si guarda al lavoro che svolge ci si rende conto che il cervello umano non rappresenta quello ottimale tra tutti i modi possibili di svolgere quella funzione, se tutto ciò che si volesse fosse appunto quella funzione. Non più di quanto i nostri neuroni siano i computer più veloci possibili, o il nostro sangue trasporti [la massima quantità di ossigeno](#freitas-e-i-globuli-rossi) che qualsiasi sangue potrebbe trasportare.
 
 Il motivo principale per aspettarsi che una caratteristica specifica della vita o delle menti si manifesti nel futuro lontano è che *qualcosa vuole attivamente che sia presente*. Che qualche intelletto preferisce quell'opzione rispetto a ogni altra opzione possibile.
 
@@ -2349,4 +2349,4 @@ In effetti, non è chiaro se le interfacce cervello-computer offrano *alcuna* sp
 
 #### **Detto questo, l'umanità dovrebbe potenziare gli umani.** {#detto-questo,-l'umanità-dovrebbe-potenziare-gli-esseri-umani.}
 
-Non pensiamo che gli umani potenziati sarebbero mai in grado di competere alla pari con le superintelligenze, ma umani più intelligenti potrebbero comunque aiutare l'umanità a trovare una via d'uscita da questo pasticcio\! Menzioniamo questa possibilità nel Capitolo 13 e la discutiamo maggiormente nelle [risorse online correlate](#perché-rendere-gli-esseri-umani-più-intelligenti-potrebbe-essere-d'aiuto?).
+Non pensiamo che gli umani potenziati sarebbero mai in grado di competere alla pari con le superintelligenze, ma umani più intelligenti potrebbero comunque aiutare l'umanità a trovare una via d'uscita da questo pasticcio\! Menzioniamo questa possibilità nel Capitolo 13 e la discutiamo maggiormente nelle [risorse online correlate](#perché-rendere-gli-esseri-umani-più-intelligenti-sarebbe-utile?).
