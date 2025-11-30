@@ -1529,7 +1529,7 @@ Abogamos en contra de construir máquinas que nos maten a todos y arruinen el fu
 * ¿Qué hace a los humanos tan especiales o tan dignos de protección?  
 * ¿No sería mejor que los humanos fueran sustituidos por alguna especie más inteligente y avanzada?
 
-La mayoría de la gente no tiene estas objeciones. Lo más habitual es que la gente simplemente no quiera que ellos mismos, sus familias o sus amigos sean asesinados por una superinteligencia sin escrúpulos.
+La mayoría de la gente no tiene estas objeciones. Lo más habitual es que la gente simplemente no quiera que ellos mismos, sus familias o sus amigos sean asesinados por una superinteligencia fuera de control.
 
 Otros, entre los que se incluyen algunos de los principales investigadores y ejecutivos del campo de la IA, afirman que el mundo podría ser mejor sin nosotros. Richard Sutton, un investigador muy respetado que fue pionero en el uso del aprendizaje por refuerzo en la IA, [ha dicho lo siguiente:](https://www.youtube.com/watch?v=3l2frDNINog&amp;t=1851s):
 
