@@ -41,7 +41,7 @@ Ma la situazione non è così negativa come l'analogia del negozio di alimentari
 * A volte si può trovare un modo per costruire altri dispositivi che eseguono gli esperimenti molto più velocemente. Ad esempio, invece di inviare molte richieste diverse a un laboratorio biologico per far sintetizzare farmaci, non si può trovare un modo per inviare *una sola* richiesta a un laboratorio biologico, che risulterà nella sintesi di un *singolo batterio* contenente il codice genetico per produrre tutti i farmaci che si desidera sintetizzare? Allo stesso modo, non si può creare un batterio sensibile ai segnali radio che risponda rapidamente alle istruzioni di un'IA veloce — molto più rapidamente degli umani terribilmente lenti che corrono avanti e indietro seguendo delle istruzioni?  
 * E a volte si può semplicemente prendere le proprie dieci ipotesi migliori, capire cosa si farebbe in ciascuno di quei casi, costruire un dispositivo complesso che funzionerà indipendentemente da come si rivelerà essere la realtà e saltare completamente i test.
 
-Una civiltà piena di copie di Steve Jobs, Marie Curie, John von Neumann e alcuni dei più grandi lavoratori e programmatori del mondo (che funzionassero a una velocità 10 000 volte superiore alla nostra), *noterebbe* che il principale ostacolo è l'attesa dei risultati sperimentali e potrebbe *lavorare su tale ostacolo* per ridurlo.
+Una civiltà piena di copie di Steve Jobs, Marie Curie, John von Neumann e alcuni dei più grandi lavoratori e programmatori del mondo (che funzionassero a una velocità 10.000 volte superiore alla nostra), *noterebbe* che il principale ostacolo è l'attesa dei risultati sperimentali e potrebbe *lavorare su tale ostacolo* per ridurlo.
 
 La storia del [Progetto Genoma Umano](https://biology.mit.edu/the-human-genome-project-turns-20-heres-how-it-altered-the-world/) è un buon esempio di cosa succede quando esseri umani intelligenti notano continuamente i colli di bottiglia in un enorme progetto di ricerca e lavorano per risolverli. Quello che si prevedeva avrebbe richiesto quindici anni e 3 miliardi di dollari è stato completato con due anni di anticipo e 300 milioni di dollari sotto budget; la maggior parte del genoma è stata mappata negli ultimi due anni utilizzando metodi e attrezzature migliorati.
 
@@ -103,7 +103,7 @@ Una delle frontiere tecnologiche che l'intelligenza artificiale più intelligent
 
 Pensare agli organismi biologici come a meraviglie dell'ingegneria su scala nanometrica può aiutare a formulare ipotesi su ciò che le IA più intelligenti degli umani potrebbero essere in grado di realizzare con una scienza e una tecnologia più avanzate di quelle che possediamo oggi.
 
-(C'è poi la questione di quanto tempo ci vorrebbe per inventare e sviluppare una tecnologia del genere. Per saperne di più, date un'occhiata al capitolo 1 del libro, dove si parla di come le superintelligenze artificiali potrebbero pensare almeno 10 000 volte più velocemente degli esseri umani con l'hardware dei computer di oggi. Si veda anche la nostra discussione approfondita su come [le IA dovrebbero dedicare un po' di tempo all'esecuzione di test fisici ed esperimenti, ma il rallentamento complessivo probabilmente non costituirebbe un ostacolo significativo per una superintelligenza](#le-ia-non-saranno-limitate-dalla-loro-capacità-di-progettare-e-condurre-esperimenti?).)
+(C'è poi la questione di quanto tempo ci vorrebbe per inventare e sviluppare una tecnologia del genere. Per saperne di più, date un'occhiata al capitolo 1 del libro, dove si parla di come le superintelligenze artificiali potrebbero pensare almeno 10.000 volte più velocemente degli esseri umani con l'hardware dei computer di oggi. Si veda anche la nostra discussione approfondita su come [le IA dovrebbero dedicare un po' di tempo all'esecuzione di test fisici ed esperimenti, ma il rallentamento complessivo probabilmente non costituirebbe un ostacolo significativo per una superintelligenza](#le-ia-non-saranno-limitate-dalla-loro-capacità-di-progettare-e-condurre-esperimenti?).)
 
 Considerando le imprese degli ingegneri umani di oggi, può sembrare difficile credere che, ad esempio, un'intelligenza artificiale con capacità superumane che gestisce un laboratorio biologico possa mai costruire fabbriche microscopiche che usano la luce solare per autoreplicarsi continuamente. Potrebbe sembrare ancora più fantastico immaginare microfabbriche universali, fabbriche in grado di accettare istruzioni per costruire praticamente qualsiasi macchina con le risorse disponibili.
 
@@ -127,7 +127,7 @@ Richard Feynman, un fisico pionieristico, ha dimostrato la potenza di questo app
 
 Oggi, le osservazioni di Feynman suonano straordinariamente profetiche. Feynman nota che i computer potrebbero probabilmente fare molto di più se contenessero un numero maggiore di componenti, ma che l'ostacolo a ciò è quanto grandi dovrebbero diventare. Bisogna miniaturizzarli\!
 
-Feynman calcola che ci vorrebbe circa un petabit (1 000 000 000 000 000 di bit) per memorizzare tutti i libri scritti dall'umanità:
+Feynman calcola che ci vorrebbe circa un petabit (1.000.000.000.000.000 di bit) per memorizzare tutti i libri scritti dall'umanità:
 
 > Per ogni bit concedo 100 atomi. E si scopre che tutte le informazioni che l'uomo ha accuratamente accumulato in tutti i libri del mondo possono essere scritte in questa forma in un cubo di materiale largo un duecentesimo di pollice — che è il più piccolo granello di polvere che può essere distinto dall'occhio umano. Quindi c'è molto spazio in basso\! Non parlatemi di microfilm\!
 
@@ -193,9 +193,9 @@ Nei pesci, questo design aveva senso perché la loro versione del nervo laringeo
 
 L'evoluzione produce design fantastici, se ha abbastanza tempo. Ma gli esseri umani e le IA possono inventare una gamma di design molto più varia e flessibile, e possono farlo molto velocemente.
 
-I primi organismi multicellulari con cellule differenziate e specializzate sembrano essersi evoluti circa 800 milioni di anni fa. In termini umani, sembra un'eternità. Ma l'evoluzione funziona molto più lentamente della civiltà umana.
+I primi organismi multicellulari con cellule differenziate e specializzate sembrano essersi evoluti circa 800 milioni di anni fa. In termini umani, sembra un'eternità. Ma l'evoluzione funziona molto più lentamente della civiltà umana.[^179]
 
-Un gene appena mutato che dà un vantaggio del 3 % nella capacità riproduttiva (che è un sacco per una mutazione\!) ci metterà in media 768 generazioni per diffondersi in una popolazione di 100 000 organismi che si riproducono tra loro. Se la popolazione è di 1 000 000 di individui (la stima della popolazione umana ai tempi dei cacciatori-raccoglitori), ci vorranno 2 763 generazioni. E la probabilità che la mutazione si diffonda fino a diventare fissa, invece di scomparire casualmente, è solo del 6 %.
+Un gene appena mutato che dà un vantaggio del 3 % nella capacità riproduttiva (che è un sacco per una mutazione\!) ci metterà in media 768 generazioni per diffondersi in una popolazione di 100.000 organismi che si riproducono tra loro. Se la popolazione è di 1.000.000 di individui (la stima della popolazione umana ai tempi dei cacciatori-raccoglitori), ci vorranno 2.763 generazioni. E la probabilità che la mutazione si diffonda fino a diventare fissa, invece di scomparire casualmente, è solo del 6%.[^180]
 
 Nella genetica delle popolazioni, la regola generale è "una mutazione, una morte". Se gli errori di copia del DNA introducono dieci copie di una mutazione dannosa in ogni nuova generazione, allora dieci portatori di quella mutazione devono morire o non riuscire a riprodursi, per generazione, al fine di controbilanciare la pressione del semplice rumore genetico.
 
@@ -211,7 +211,7 @@ Essere in grado di individuare un cattivo design non significa necessariamente c
 
 La capacità della selezione naturale di "progettare" una giraffa migliore è ostacolata dal fatto che opera attraverso mutazioni e ricombinazioni. Ha difficoltà ad accedere a qualunque parte dello spazio dei progetti che non sia raggiungibile attraverso una serie di singole mutazioni — ciascuna delle quali deve essere, individualmente, vantaggiosa — oppure tramite la combinazione di mutazioni che, prese singolarmente, erano già abbastanza vantaggiose da essere presenti in una parte consistente del patrimonio genetico prima di combinarsi.
 
-Un complesso genetico composto da cinque geni, ciascuno con una prevalenza indipendente del 10 % nella popolazione, ha solo una probabilità su 100 000 di assemblarsi all'interno di ciascun organismo. E un complesso genetico che rappresenta un enorme vantaggio, ma solo una volta su 100 000, non ha quasi nessuna possibilità di evolversi fino a fissarsi.
+Un complesso genetico composto da cinque geni, ciascuno con una prevalenza indipendente del 10 % nella popolazione, ha solo una probabilità su 100.000 di assemblarsi all'interno di ciascun organismo. E un complesso genetico che rappresenta un enorme vantaggio, ma solo una volta su 100.000, non ha quasi nessuna possibilità di evolversi fino a fissarsi.
 
 Questo non vuol dire che la selezione naturale non possa creare macchine complesse, ma solo che il suo percorso verso macchinari complessi deve passare attraverso fasi incrementali vantaggiose. Per reindirizzare il nervo della giraffa sarebbero necessari una manciata di cambiamenti simultanei al genoma della giraffa, e ciascuno di questi cambiamenti sarebbe individualmente inutile senza gli altri. Quindi l'anatomia della giraffa rimane così com'è.
 
@@ -328,13 +328,13 @@ Questo offre in parte la motivazione per esplorare una terza via per costruire o
 
 \[gif: [https://chem.beloit.edu/classes/nanotech/nanorex/a8\_qm\_animation5.gif](https://chem.beloit.edu/classes/nanotech/nanorex/a8_qm_animation5.gif) da [https://chem.beloit.edu/classes/nanotech/nanorex/index.html](https://chem.beloit.edu/classes/nanotech/nanorex/index.html)\]
 
-L'emoglobina è composta da circa 10 000 atomi, che non è molto lontano dall'ingranaggio di Drexler. E alcune proteine riescono a essere molto più semplici. L'insulina è composta da soli cinquantuno aminoacidi, ovvero circa 800 atomi in totale.
+L'emoglobina è composta da circa 10.000 atomi, che non è molto lontano dall'ingranaggio di Drexler. E alcune proteine riescono a essere molto più semplici. L'insulina è composta da soli cinquantuno aminoacidi, ovvero circa 800 atomi in totale.
 
-I progetti di Drexler, tuttavia, rappresentano un notevole ridimensionamento rispetto alle macchine più complesse che osserviamo nel corpo. I ribosomi e l'ATP sintasi, per esempio, sono composti da più di 100 000 atomi, e il motore di un flagello batterico ha oltre un milione di atomi.
+I progetti di Drexler, tuttavia, rappresentano un notevole ridimensionamento rispetto alle macchine più complesse che osserviamo nel corpo. I ribosomi e l'ATP sintasi, per esempio, sono composti da più di 100.000 atomi, e il motore di un flagello batterico ha oltre un milione di atomi.
 
 *Nanosystems* non tenta ancora di esplorare i limiti di ciò che è tecnologicamente possibile. Ma concentrandosi su casi che sono relativamente facili da analizzare oggi, dimostra che la meccanosintesi permetterebbe una tecnologia che supera quella che vediamo nel mondo biologico odierno.
 
-I calcoli in *Nanosystems* sono intenzionalmente conservativi. Drexler, per esempio, considera computer costruiti con vere e proprie aste di diamante in movimento — non perché questo fosse il limite finale della tecnologia, ma perché nel 1992 era più facile da analizzare rispetto ai calcoli basati sull'elettricità. Questo, a sua volta, ha contribuito a ispirare l'analisi dei globuli rossi di Freitas. Quattro anni dopo, Eric Drexler e Ralph Merkle (più ampiamente conosciuto come l'inventore dell'hashing crittografico e co-inventore della crittografia a chiave pubblica) hanno tentato di [analizzare](https://www.zyvex.com/nanotech/helical/helical.html) un sistema leggermente più vicino ai limiti di possibilità per la [computazione reversibile](https://it.wikipedia.org/wiki/Computazione_reversibile), e hanno calcolato 10 000 volte meno calore dissipato per operazione rispetto a quanto *Nanosystems* aveva stimato — sebbene la nuova stima fosse basata su un'analisi meno attentamente conservativa.
+I calcoli in *Nanosystems* sono intenzionalmente conservativi. Drexler, per esempio, considera computer costruiti con vere e proprie aste di diamante in movimento — non perché questo fosse il limite finale della tecnologia, ma perché nel 1992 era più facile da analizzare rispetto ai calcoli basati sull'elettricità. Questo, a sua volta, ha contribuito a ispirare l'analisi dei globuli rossi di Freitas. Quattro anni dopo, Eric Drexler e Ralph Merkle (più ampiamente conosciuto come l'inventore dell'hashing crittografico e co-inventore della crittografia a chiave pubblica) hanno tentato di [analizzare](https://www.zyvex.com/nanotech/helical/helical.html) un sistema leggermente più vicino ai limiti di possibilità per la [computazione reversibile](https://it.wikipedia.org/wiki/Computazione_reversibile), e hanno calcolato 10.000 volte meno calore dissipato per operazione rispetto a quanto *Nanosystems* aveva stimato — sebbene la nuova stima fosse basata su un'analisi meno attentamente conservativa.
 
 In un'altra parte di *Nanosystems*, c'è uno schizzo approssimativo per un braccio manipolatore a sei gradi di libertà che avrebbe richiesto milioni di atomi. Un tentativo successivo di progettare una macchina come questa atomo per atomo ha rivelato che ne servivano solo 2 596.
 
@@ -494,7 +494,7 @@ Anche se Galvanic (o qualche attore governativo) riuscisse a tenere le redini pi
 
 Finché nessuno saprà creare una superintelligenza che persegua *davvero, in modo robusto* un futuro meraviglioso invece di una serie di cose strane, è un *dato di fatto* che sovvertire gli esseri umani permetterebbe all'IA di ottenere di più di ciò che sta perseguendo. Il problema non è che l'IA abbia un temperamento petulante che può essere eliminato; una volta che sarà abbastanza intelligente, riconoscerà quella verità.
 
-Se l'umanità continua a creare IA sempre più intelligenti senza essere in grado di allinearle, e se l'umanità continua a dare loro il potere di influenzare il mondo, alla fine scopriranno come influenzare il mondo in modi che servono i loro fini piuttosto che i nostri. Come diciamo [altrove](#it-wouldn't-work-if-they-did.), non esistono strumenti che possano essere utilizzati solo per scopi positivi.
+Se l'umanità continua a creare IA sempre più intelligenti senza essere in grado di allinearle, e se l'umanità continua a dare loro il potere di influenzare il mondo, alla fine scopriranno come influenzare il mondo in modi che servono i loro fini piuttosto che i nostri. Come diciamo [altrove](#non-funzionerebbe-se-lo-facessero.), non esistono strumenti che possano essere utilizzati solo per scopi positivi.
 
 Si vedano anche i Capitoli 10 e 11 per una discussione su come risolvere il problema dell'allineamento sia difficile e l'umanità non sia sulla strada giusta per riuscirci.
 
@@ -893,9 +893,9 @@ Il 1942 non sarebbe stato l'anno migliore per frequentare l'Università di Chica
 
 Ma Fermi sapeva già tutto questo, quindi era tutto a posto. Quando Fermi ordinò di estrarre una barra di controllo (una tavola di legno con un foglio di cadmio inchiodato sopra) di altri trenta centimetri il 2 dicembre 1942, annunciò in anticipo che questa sarebbe stata l'estrazione che avrebbe fatto "salire e continuare a salire" i livelli di radioattività misurati, "senza stabilizzarsi".
 
-Poi la radioattività raddoppiò nei due minuti successivi e raddoppiò ancora, finché non lasciarono che la reazione continuasse e raddoppiasse ogni due minuti per un totale di ventotto minuti, aumentando di circa 16 000 volte.
+Poi la radioattività raddoppiò nei due minuti successivi e raddoppiò ancora, finché non lasciarono che la reazione continuasse e raddoppiasse ogni due minuti per un totale di ventotto minuti, aumentando di circa 16.000 volte.
 
-Un aumento di 16 000 volte della radioattività era il comportamento atteso del reattore, previsto correttamente e compreso in dettaglio in anticipo. Non fu una sorpresa inaspettata, capitata a qualcuno a cui era stato ordinato di accumulare dieci volte più mattoni di uranio rispetto all'ultima volta per vedere se succedesse qualcosa di interessante e redditizio.
+Un aumento di 16.000 volte della radioattività era il comportamento atteso del reattore, previsto correttamente e compreso in dettaglio in anticipo. Non fu una sorpresa inaspettata, capitata a qualcuno a cui era stato ordinato di accumulare dieci volte più mattoni di uranio rispetto all'ultima volta per vedere se succedesse qualcosa di interessante e redditizio.
 
 Come discusso nel libro, c'è un margine molto stretto tra un reattore nucleare e un'esplosione nucleare. Un margine di poco più dello 0,5 %, per essere precisi. Questa è la differenza tra un reattore che produce una quantità di energia utile a livello industriale e un reattore che esplode.
 
@@ -905,7 +905,7 @@ Questo è il tipo di problema che la realtà può presentare. Succede.
 
 Ma Fermi, [Szilard](#heading=h.dr1wxb2y1r2s) e il loro team avevano previsto tutte queste regole prima di scoprirle con l'esperienza. Sapevano dei neutroni ritardati e di quelli istantanei. (Si veda il capitolo 10 per saperne di più su questa parte della storia.) Quindi, una volta che Fermi ha portato il fattore di moltiplicazione dei neutroni al 100,06%, Fermi *non* ha ordinato di estrarre ulteriormente la barra di controllo per vedere cosa sarebbe successo con un cumulo ancora più potente. Arrivò solo alla criticità, non allo 0,65 % in più per raggiungere la criticità immediata. Fermi ottenne il risultato che aveva previsto e *sapeva* cosa sarebbe successo se fosse andato oltre. Quindi non andò oltre.
 
-Ventotto minuti dopo, con la radioattività che raddoppiava ogni due minuti fino a un aumento di 16 000 volte, Fermi spense il primo reattore nucleare al mondo: i mattoni di uranio accatastati sotto le tribune di uno stadio universitario all'interno di una grande città.
+Ventotto minuti dopo, con la radioattività che raddoppiava ogni due minuti fino a un aumento di 16.000 volte, Fermi spense il primo reattore nucleare al mondo: i mattoni di uranio accatastati sotto le tribune di uno stadio universitario all'interno di una grande città.
 
 Per essere chiari, non affermeremmo che Fermi stesse agendo in modo completamente responsabile solo perché aveva un modello apparentemente coerente della fisica dei reattori a bassa energia. Fermi avrebbe potuto sbagliarsi. L'umanità ha avuto alcune sorprese nel corso dello sviluppo dell'ingegneria nucleare.
 
@@ -1375,7 +1375,7 @@ Le aziende di IA stanno affrontando un problema straordinariamente difficile, in
 
 Possiamo confrontare le aziende di IA con un gruppo di persone che *stanno* gestendo in modo competente i rischi di loro competenza: i controllori del traffico aereo.
 
-La Federal Aviation Administration degli Stati Uniti [gestisce](https://www.faa.gov/air_traffic/by_the_numbers) più di tre milioni di passeggeri su oltre 44 000 voli ogni giorno. Negli ultimi vent'anni, c'è stato in media circa un incidente mortale all'anno, ovvero circa un incidente ogni [venti milioni di ore di volo](https://www.ntsb.gov/safety/Pages/research.aspx).
+La Federal Aviation Administration degli Stati Uniti [gestisce](https://www.faa.gov/air_traffic/by_the_numbers) più di tre milioni di passeggeri su oltre 44.000 voli ogni giorno. Negli ultimi vent'anni, c'è stato in media circa un incidente mortale all'anno, ovvero circa un incidente ogni [venti milioni di ore di volo](https://www.ntsb.gov/safety/Pages/research.aspx).
 
 I rapporti post-mortem su tali incidenti, come [questo del 2019](https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR2105.pdf) o [questo del 2018](https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1903.pdf), contengono quasi duecento pagine di dati, test, esami e dettagli investigativi. Catalogano le specifiche tecniche di progettazione dei sottosistemi rilevanti dell'aereo, la storia lavorativa di piloti e assistenti di volo, dettagli sulla compagnia aerea e sull'aeroporto, trascrizioni vocali dalla cabina di pilotaggio e dati meteorologici precisi su giorno, ora e minuto dell'incidente.
 
@@ -1383,7 +1383,7 @@ Sono necessarie venti pagine solo per riassumere l'analisi tecnica effettuata pe
 
 > La pala n. 13 della ventola nel motore sinistro si è distaccata a causa di una cricca da fatica a basso numero di cicli originatasi nella coda di rondine della radice della pala, all'esterno del rivestimento. L'esame metallurgico della pala ha rilevato che la sua composizione materiale e la sua microstruttura erano coerenti con la lega di titanio specificata e che non sono state osservate anomalie superficiali o difetti del materiale nell'area di origine della frattura. La superficie di frattura presentava cricche da fatica originatesi in prossimità della zona in cui, secondo le previsioni, si concentrano le maggiori sollecitazioni operative e, quindi, la maggiore probabilità di innesco di cricche.
 >
-> La pala della ventola coinvolta nell'incidente si è rotta dopo 32 636 cicli dall'inizio. Allo stesso modo, la pala della ventola fratturatasi nell'incidente PNS dell'agosto 2016 (vedi sezione 1.10.1), così come le altre sei pale della ventola criccate del motore coinvolto nell'incidente PNS, si sono rotte dopo 38 152 cicli dall'inizio. Inoltre, tra maggio 2017 e agosto 2019 sono state individuate altre 15 pale della ventola incrinate sui motori CFM56-7B, che al momento del rilevamento delle incrinature avevano accumulato in media circa 33 000 cicli dall'inizio della loro vita utile.
+> La pala della ventola coinvolta nell'incidente si è rotta dopo 32 636 cicli dall'inizio. Allo stesso modo, la pala della ventola fratturatasi nell'incidente PNS dell'agosto 2016 (vedi sezione 1.10.1), così come le altre sei pale della ventola criccate del motore coinvolto nell'incidente PNS, si sono rotte dopo 38 152 cicli dall'inizio. Inoltre, tra maggio 2017 e agosto 2019 sono state individuate altre 15 pale della ventola incrinate sui motori CFM56-7B, che al momento del rilevamento delle incrinature avevano accumulato in media circa 33.000 cicli dall'inizio della loro vita utile.
 
 Ecco cosa succede quando una professione tecnica prende sul serio la sfida di evitare un disastro.[^201]
 
@@ -1575,7 +1575,7 @@ Non importa quanto siano buone le loro intenzioni e quanto dicano di essere prud
 
 Torneremo su questo punto nell'ultimo capitolo del libro.
 
-Le cose cambiano. Cambiano soprattutto quando c'è un bisogno disperato, urgente e riconosciuto. Il principale ostacolo per fermare tutto questo è il mancato riconoscimento del pericolo da parte dei leader mondiali. E questo processo è [già iniziato](#will-elected-officials-recognize-this-as-a-real-threat?).
+Le cose cambiano. Cambiano soprattutto quando c'è un bisogno disperato, urgente e riconosciuto. Il principale ostacolo per fermare tutto questo è il mancato riconoscimento del pericolo da parte dei leader mondiali. E questo processo è [già iniziato](#i-rappresentanti-eletti-riconosceranno-questa-come-una-vera-minaccia?).
 
 ### Perché non usare la cooperazione internazionale per sviluppare l'IA in modo sicuro, invece di fermarla del tutto? {#perché-non-usare-la-cooperazione-internazionale-per-sviluppare-l'ia-in-modo-sicuro,-invece-di-fermarla-del-tutto?}
 
@@ -1729,7 +1729,7 @@ Ma l'allineamento della superintelligenza non è gratis. Se ci affrettiamo a cer
 
 Io (Yudkowsky) sono stato per diversi anni un accelerazionista che sperava di creare l'IA il più velocemente possibile, prima di riconoscere che l'allineamento dell'IA non viene gratis. Entrambi noi autori sogniamo fantastici futuri transumanisti. Ma non ci arriveremo correndo avanti con la superintelligenza.
 
-La scelta non è tra scommettere sui benefici dell'IA adesso (per quanto piccola sia la possibilità) e non avere mai accesso a quei benefici. La vera scelta è tra correre avanti sconsideratamente e uccidere tutti, oppure prendersi il tempo necessario per fare il lavoro correttamente.
+La scelta non è tra scommettere sui benefici dell'IA adesso (per quanto piccola sia la possibilità) e non avere mai accesso a quei benefici. La vera scelta è tra correre avanti sconsideratamente e uccidere tutti, oppure prendersi il tempo necessario per fare il lavoro correttamente.[^212]
 
 "Ora o mai più" è una falsa dicotomia.
 
@@ -1787,7 +1787,7 @@ Ma se i governi si rifiutano di agire finché le prove non sono *inequivocabili*
 
 ...se i governi aspettano fino a quel punto, allora gran parte della speranza che resta al mondo sarà perduta. Molto probabilmente non possiamo permetterci di aspettare un campanello assordante che potrebbe non suonare mai.
 
-Torneremo su questo argomento nel [supplemento online al capitolo 13](https://docs.google.com/document/d/1NuKBdCVePZpcKqjycXm8zV1hBrgJQBrvPhb6TO6BAfE/edit?tab=t.k1kf1fy9gx5i#heading=h.8w9bv5q9g19q).
+Torneremo su questo argomento nel [supplemento online al capitolo 13](#ci-saranno-segnali-di-avvertimento?).
 
 ### I piani praticabili richiederanno di dire "no" alle aziende di IA. {#i-piani-praticabili-richiederanno-di-dire-no-alle-aziende-di-ia.}
 
@@ -1893,7 +1893,7 @@ In una recente intervista, l'amministratore delegato di Anthropic Dario Amodei [
 
 Questo ci sembra un caso estremo di [insensibilità alla portata](https://en.wikipedia.org/wiki/Scope_neglect), con tutte le caratteristiche di una cultura ingegneristica disfunzionale. Possiamo paragonare questo modo di pensare, ad esempio, agli standard a cui si attengono gli ingegneri strutturali.
 
-Gli ingegneri dei ponti, in genere, mirano a costruire ponti in modo tale che la probabilità di gravi cedimenti strutturali in un arco di tempo di cinquant'anni sia inferiore a 1 su 100 000. Gli ingegneri che operano in discipline tecniche mature e consolidate ritengono che sia loro responsabilità mantenere il rischio a un livello eccezionalmente basso.
+Gli ingegneri dei ponti, in genere, mirano a costruire ponti in modo tale che la probabilità di gravi cedimenti strutturali in un arco di tempo di cinquant'anni sia inferiore a 1 su 100.000. Gli ingegneri che operano in discipline tecniche mature e consolidate ritengono che sia loro responsabilità mantenere il rischio a un livello eccezionalmente basso.
 
 Se la previsione della probabilità che un ponte causi la morte di una sola persona fosse tra il 10 e il 25 %, qualsiasi ingegnere strutturale sano di mente nel mondo considererebbe ciò inaccettabile, più simile a un omicidio che alla normale pratica ingegneristica. I governi chiuderebbero immediatamente il ponte al traffico.
 
@@ -2099,7 +2099,7 @@ O forse questa è una visione troppo cinica; speriamo che l'umanità reagisca in
 
 Non possiamo rimandare i preparativi fino a quando una superintelligenza non starà già cercando di ucciderci, perché a quel punto sarebbe troppo tardi. Dobbiamo iniziare a mobilitare una risposta a questo problema il prima possibile, in modo da essere pronti a sfruttare qualsiasi segnale di avvertimento che arrivi.
 
-#### **L'umanità non è molto brava a reagire agli shock.** {#l'umanità-non-è-molto-brava-a-reagire-agli-shock.}
+#### **L'umanità non è molto brava a reagire agli shock.** {#l-umanità-non-è-molto-brava-a-reagire-agli-shock.}
 
 L'idea che, dopo aver ricevuto uno shock abbastanza grande, il mondo improvvisamente torni in sé e si rimetta a posto ci sembra una fantasia. La risposta collettiva della nostra specie ai segnali di avvertimento esistenti sull'IA sembra più una "mancanza di risposta" che una "cattiva risposta". Ma in un mondo in cui *ricevessimo* davvero un avvertimento forte, spaventoso e più o meno inequivocabile, non ci sorprenderebbe vedere l'umanità reagire in modo minimale, poco serio, o in un modo che finirebbe per ritorcersi contro di noi in modo disastroso.
 
@@ -2235,7 +2235,7 @@ Se l'umanità decidesse oggi di fermare la ricerca e lo sviluppo dell'IA, il div
 
 Forse tra dieci anni sarà possibile fare sviluppo di IA significativo su un laptop di consumo, *se* l'umanità permetterà ulteriori miglioramenti ai chip per computer e ulteriori ricerche sugli algoritmi di intelligenza artificiale. Ma l'umanità non ha bisogno di permettere che questo accada. I governi che limitano la ricerca e lo sviluppo dell'IA non devono essere più invasivi nella vita della persona media rispetto ai governi che controllano la diffusione della tecnologia delle armi nucleari — a patto che il mondo si renda conto della situazione in cui ci troviamo e fermi tutto *adesso*.
 
-### Alcune nazioni non rifiuterebbero il divieto? {#alcune-nazioni-rifiuterebbero-il-divieto?}
+### Alcune nazioni non rifiuterebbero il divieto? {#alcune-nazioni-non-rifiuterebbero-il-divieto?}
 
 #### **\* Non se capiscono la minaccia.** {#*-non-se-capiscono-la-minaccia.}
 

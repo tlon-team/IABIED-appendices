@@ -15,7 +15,7 @@ Queste risorse contengono molto materiale e non sono pensate per essere lette da
 
 Se si esamina attentamente un certo argomento, a volte si può riuscire a prevedere un colpo di scena della storia.
 
-Nel 1933, un fisico di nome Leo Szilard fu il primo a capire che le reazioni nucleari a catena fossero possibili. In questo modo, riuscì a prevedere un colpo di scena della storia prima di chiunque altro.
+Nel 1933, un fisico di nome Leo Szilard fu il primo a capire che le reazioni nucleari a catena fossero possibili.[^1] In questo modo, riuscì a prevedere un colpo di scena della storia prima di chiunque altro.
 
 Pensiamo che se, oggi, si guarda l'intelligenza artificiale dal punto di vista giusto, si possa prevedere un colpo di scena della storia. E pensiamo che le cose andranno male se l'umanità non cambia rotta.
 
@@ -139,7 +139,7 @@ Per questo motivo, nel libro non ci mettiamo a estrapolare linee sui grafici per
 
 Noi (Soares e Yudkowsky) prendiamo lo stipendio dal Machine Intelligence Research Institute (MIRI), che è finanziato dalle donazioni di persone che pensano che questi temi siano importanti. Forse il libro stimolerà le donazioni.
 
-Detto questo, abbiamo altre possibilità di guadagnare e non scriviamo libri per soldi. L'anticipo che abbiamo ricevuto per questo libro è stato interamente utilizzato per la pubblicità del libro stesso, e i diritti d'autore andranno interamente al MIRI per ripagare il tempo e l'impegno investiti dal personale.
+Detto questo, abbiamo altre possibilità di guadagnare e non scriviamo libri per soldi. L'anticipo che abbiamo ricevuto per questo libro è stato interamente utilizzato per la pubblicità del libro stesso, e i diritti d'autore andranno interamente al MIRI per ripagare il tempo e l'impegno investiti dal personale.[^5]
 
 E, ovviamente, entrambi gli autori sarebbero entusiasti di concludere che la nostra civiltà non è in pericolo. Ci piacerebbe semplicemente andare in pensione o fare soldi altrove.
 
@@ -234,7 +234,7 @@ In un sondaggio del 2022 su 738 partecipanti alle conferenze accademiche sull'in
 
 Di seguito abbiamo raccolto i commenti di eminenti scienziati e ingegneri specializzati in IA sui risultati catastrofici dell'IA. Alcuni di questi scienziati forniscono la loro "p(catastrofe)", ovvero la probabilità che l'IA causi l'estinzione umana o risultati altrettanto disastrosi.[^9]
 
-Da **Geoffrey Hinton** ([2024](https://youtu.be/PTF5Up1hMhw?t=2285)), che ha vinto il Premio Nobel e il Premio Turing per aver dato il via alla rivoluzione dell'apprendimento profondo nell'IA, mentre parlava delle sue stime personali:
+Da **Geoffrey Hinton** ([2024](https://youtu.be/PTF5Up1hMhw?t=2285)), che ha vinto il Premio Nobel e il Premio Turing per aver dato il via alla rivoluzione dell'apprendimento profondo nell'IA, mentre parlava delle sue stime personali:[^10]
 
 > In realtà penso che il rischio \[della minaccia esistenziale\] sia superiore al cinquanta per cento.
 
@@ -296,7 +296,7 @@ Tra gli altri ricercatori di spicco che hanno firmato la dichiarazione ci sono: 
 
 ### Quando Leo Szilard vide il futuro {#quando-leo-szilard-vide-il-futuro}
 
-Nel settembre del 1933, un fisico di nome Leo Szilard stava attraversando l'incrocio dove Southampton Row passa per Russell Square quando gli venne in mente l'idea di una reazione nucleare a catena, il concetto chiave alla base delle bombe atomiche.
+Nel settembre del 1933, un fisico di nome Leo Szilard stava attraversando l'incrocio[^11] dove Southampton Row passa per Russell Square quando gli venne in mente l'idea di una reazione nucleare a catena, il concetto chiave alla base delle bombe atomiche.
 
 Da lì iniziò tutta un'avventura, in cui Szilard cercava di capire cosa fare con questa idea monumentale. Si rivolse al fisico più prestigioso Isidor Rabi, e Rabi si rivolse all'ancora più prestigioso Enrico Fermi. Rabi chiese a Fermi se pensasse che le reazioni nucleari a catena fossero davvero possibili, e Fermi rispose:
 
@@ -634,7 +634,7 @@ Forse sì. Forse servono più intuizioni architettoniche, come quelle dietro ad 
 
 Ma se ci sono ancora degli ostacoli, i ricercatori del settore probabilmente li supereranno. Sono piuttosto bravi in questo, e ora ci sono molti più ricercatori che lavorano a questo problema rispetto al 2012.[^22]
 
-A luglio 2025, le IA faticano a svolgere compiti che richiedono memoria a lungo termine e pianificazione coerente, come giocare al videogioco Pokémon. Si potrebbe essere tentati di unirsi agli scettici e ridere degli ultimi fallimenti delle IA: come possono delle IA che faticano con semplici videogiochi avvicinarsi alla superintelligenza?
+A luglio 2025, le IA faticano a svolgere compiti che richiedono memoria a lungo termine e pianificazione coerente, come giocare al videogioco Pokémon.[^23] Si potrebbe essere tentati di unirsi agli scettici e ridere degli ultimi fallimenti delle IA: come possono delle IA che faticano con semplici videogiochi avvicinarsi alla superintelligenza?
 
 Allo stesso modo, nel 2019 le IA facevano davvero fatica a parlare in modo coerente. Ma questo non significava che il successo fosse lontano vent'anni. I laboratori stanno lavorando sodo per capire cosa impedisce alle IA di fare bene in certi tipi di compiti e probabilmente stanno trovando nuove architetture che funzionano meglio con la memoria a lungo termine e la pianificazione. Nessuno sa cosa saranno in grado di fare queste IA.
 
@@ -906,7 +906,7 @@ Non c'è una parola standard in italiano che si riferisca *solo* alla competenza
 
 Il cattivo intelligente *davvero* spaventoso sarebbe un personaggio in cui, se tutti gli spettatori riuscissero a vedere il difetto evidente in un piano, *anche il cattivo lo vedrebbe.*
 
-Nel film Avengers: Age of Ultron, un'intelligenza artificiale presumibilmente brillante chiamata Ultron riceve la direttiva di promuovere la "pace nel mondo" dal suo presumibilmente geniale creatore, Tony Stark. Ultron, ovviamente, capisce subito che l'assenza di guerre può essere garantita in modo più affidabile dall'assenza degli esseri umani. Quindi l'IA decide di sterminare tutta la vita sulla Terra...
+Nel film Avengers: Age of Ultron, un'intelligenza artificiale presumibilmente brillante chiamata Ultron riceve la direttiva di promuovere la "pace nel mondo" dal suo presumibilmente geniale creatore, Tony Stark.[^34] Ultron, ovviamente, capisce subito che l'assenza di guerre può essere garantita in modo più affidabile dall'assenza degli esseri umani. Quindi l'IA decide di sterminare tutta la vita sulla Terra...
 
 ...attaccando dei razzi a una città e sollevandola nello spazio con l'intenzione di farla cadere come una meteora... e proteggendola con robot umanoidi volanti che devono essere sconfitti prendendoli a pugni.
 
@@ -1131,7 +1131,7 @@ All'inizio del 2025, questa area di ricerca riceve, secondo le nostre stime, cir
 
 I ricercatori che si occupano di interpretabilità sono i biochimici dell'IA, quelli che cercano di smontare il sistema impensabilmente complesso, imperscrutabile e non documentato costruito da un ottimizzatore non umano, e si chiedono: "C'è qualcosa che l'umanità può capire di ciò che accade lì dentro?"
 
-Siamo dei fan di questo campo. Dieci anni fa, abbiamo detto a un'importante fondazione filantropica che se avessero trovato il modo di spendere un miliardo di dollari nella ricerca sull'interpretabilità, avrebbero assolutamente dovuto farlo. L'interpretabilità sembrava essere il tipo di lavoro che persone esterne potevano far crescere molto più facilmente rispetto al nostro — il tipo in cui un finanziatore poteva capire molto più facilmente se qualcuno aveva fatto una buona o una cattiva ricerca — e sembrava un'area di ricerca in cui ricercatori esistenti e affermati potevano facilmente inserirsi e fare un buon lavoro, se qualcuno li pagava abbastanza.
+Siamo dei fan di questo campo. Dieci anni fa, abbiamo detto a un'importante fondazione filantropica che se avessero trovato il modo di spendere un miliardo di dollari nella ricerca sull'interpretabilità, avrebbero assolutamente dovuto farlo. L'interpretabilità sembrava essere il tipo di lavoro che persone esterne potevano far crescere molto più facilmente rispetto al nostro — il tipo in cui un finanziatore poteva capire molto più facilmente se qualcuno aveva fatto una buona o una cattiva ricerca — e sembrava un'area di ricerca in cui ricercatori esistenti e affermati potevano facilmente inserirsi e fare un buon lavoro, se qualcuno li pagava abbastanza.[^42]
 
 Quella fondazione non ha speso il miliardo di dollari, ma noi abbiamo sostenuto la causa. Siamo dei fan dell'interpretabilità\! Ancora oggi sosterremmo l'idea di spendere quel miliardo di dollari\!
 
@@ -1351,7 +1351,7 @@ Ma il dominio di AlphaGo era tecnicamente solo *indicativo* del fatto che le IA 
 
 Questo non si adatterebbe molto bene al caso degli scacchi al computer (dove i maestri di scacchi umani imparano molte strategie e intuizioni dai motori di scacchi al computer che li superano di gran lunga). Ma sulla scia di AlphaGo, c'era chi sosteneva che l'IA avesse battuto Lee Sedol solo perché era stata addestrata su enormi quantità di dati umani.[^46]
 
-Anche quelli di DeepMind hanno visto queste obiezioni. Nel corso del successivo anno e mezzo, hanno creato un'intelligenza artificiale chiamata AlphaGo Zero, rilasciata nel 2017. Non è stata addestrata con nessun dato umano. Ha imparato il gioco solo giocando da sola. Ha superato i migliori giocatori umani dopo solo tre giorni.
+Anche quelli di DeepMind hanno visto queste obiezioni. Nel corso del successivo anno e mezzo, hanno creato un'intelligenza artificiale chiamata AlphaGo Zero, rilasciata nel 2017. Non è stata addestrata con nessun dato umano. Ha imparato il gioco solo giocando da sola. Ha superato i migliori giocatori umani dopo solo tre giorni.[^47]
 
 Si potrebbe ancora obiettare che il Go è molto più semplice del mondo reale e che è molto più facile imparare il Go da zero che imparare (ad esempio) la scienza, la fisica e l'ingegneria da zero. Ed è vero\! Ma non è esattamente quello che dicevano i detrattori *prima* che i computer diventassero bravi a giocare a Go.
 
@@ -1395,7 +1395,7 @@ Le IA come ChatGPT sono addestrate per prevedere accuratamente i loro dati di ad
 
 Ma consideriamo un'IA addestrata solo a prevedere testi generati dagli esseri umani. Deve necessariamente diventare simile a un essere umano?
 
-Supponiamo di prendere un'eccellente attrice e di farle imparare a prevedere il comportamento di tutti gli ubriachi in un bar. Non "imparare a interpretare un ubriaco stereotipato medio", ma piuttosto "imparare a conoscere tutti gli ubriachi di questo specifico bar come *individui*". I modelli linguistici di grandi dimensioni non sono addestrati a *imitare la media*; sono addestrati a *prevedere le singole parole successive* usando tutto il contesto delle parole precedenti.
+Supponiamo di prendere un'eccellente attrice[^48] e di farle imparare a prevedere il comportamento di tutti gli ubriachi in un bar. Non "imparare a interpretare un ubriaco stereotipato medio", ma piuttosto "imparare a conoscere tutti gli ubriachi di questo specifico bar come *individui*". I modelli linguistici di grandi dimensioni non sono addestrati a *imitare la media*; sono addestrati a *prevedere le singole parole successive* usando tutto il contesto delle parole precedenti.
 
 Sarebbe sciocco aspettarsi che questa attrice *diventi perennemente ubriaca* nel processo di apprendimento per prevedere cosa dirà ogni persona ubriaca. Potrebbe sviluppare parti del suo cervello particolarmente abili nel recitare da ubriaca, ma non diventerebbe *lei stessa* ubriaca.
 
@@ -1644,7 +1644,7 @@ La questione è importante soprattutto quando si tratta di decidere cosa fare *d
 
 Ed è importante il fatto che l'intelligenza probabilmente *può* essere compresa, il che significa che probabilmente, *in linea di principio*, delle persone intelligenti potrebbero sviluppare un campo maturo di intelligenza e trovare una soluzione al problema dell'allineamento dell'IA.
 
-È *anche* importante che l'umanità moderna non sia neanche lontanamente vicina a tale impresa, ovviamente. Ma il fatto che l'impresa sia possibile in linea di principio ha delle implicazioni su come l'umanità dovrebbe uscire da questa situazione, come vedremo più avanti, nella [discussione approfondita](#what-would-it-take-to-shut-down-global-ai-development?) del capitolo 10\.
+È *anche* importante che l'umanità moderna non sia neanche lontanamente vicina a tale impresa, ovviamente. Ma il fatto che l'impresa sia possibile in linea di principio ha delle implicazioni su come l'umanità dovrebbe uscire da questa situazione, come vedremo più avanti, nella [discussione approfondita](#cosa-servirebbe-per-arrestare-lo-sviluppo-globale-dell-ia?) del capitolo 10\.
 
 ### Le intuizioni "ovvie" richiedono tempo {#le-"intuizioni-ovvie"-richiedono-tempo}
 
@@ -1908,7 +1908,7 @@ Le IA come ChatGPT sono addestrate per prevedere con precisione i loro dati di a
 
 Ma consideriamo un'IA addestrata solo a prevedere testo generato dall'uomo. Deve necessariamente diventare simile all'uomo?
 
-Supponiamo di prendere un'eccellente attrice e di farle imparare a prevedere il comportamento di tutti gli ubriachi in un bar. Non "imparare a interpretare un ubriaco stereotipato medio", ma piuttosto "imparare a conoscere tutti gli ubriachi di questo specifico bar come *individui*". I modelli linguistici di grandi dimensioni non sono addestrati a *imitare la media*; sono addestrati a *prevedere le singole parole successive* usando tutto il contesto delle parole precedenti.
+Supponiamo di prendere un'eccellente attrice[^66] e di farle imparare a prevedere il comportamento di tutti gli ubriachi in un bar. Non "imparare a interpretare un ubriaco stereotipato medio", ma piuttosto "imparare a conoscere tutti gli ubriachi di questo specifico bar come *individui*". I modelli linguistici di grandi dimensioni non sono addestrati a *imitare la media*; sono addestrati a *prevedere le singole parole successive* usando tutto il contesto delle parole precedenti.
 
 Sarebbe sciocco aspettarsi che questa attrice *diventi perennemente ubriaca* nel processo di apprendimento per prevedere cosa dirà ogni persona ubriaca. Potrebbe sviluppare parti del suo cervello particolarmente abili nel recitare da ubriaca, ma non diventerebbe *lei stessa* ubriaca.
 
@@ -2446,7 +2446,7 @@ Oggi, le IA sono addestrate ad agire in modo amichevole e disponibile. Non sorpr
 
 Ma la maggior parte degli esseri umani non ha finito per sviluppare un impulso interiore di avere quanti più figli possibile. Quando abbiamo inventato le banche del seme e degli ovuli, il mondo non è impazzito e non ha iniziato a lottare per prenotare appuntamenti con lo stesso entusiasmo che la gente mette per entrare in un'università dell'Ivy League. Le persone improvvisamente hanno avuto l'opportunità di produrre *centinaia* di discendenti, e per lo più hanno reagito con uno sbadiglio; le code per donare gameti non si sono estese attorno all'isolato, anche se molte persone farebbero volentieri la fila per comprare un nuovo videogioco o per vedere il loro musicista preferito esibirsi.
 
-Gli esseri umani hanno le *proprie* priorità che sono meramente *correlate* alla massimizzazione della riproduzione. Non siamo solo macchine per "avere quanti più figli possibile", anche se questo è tutto ciò per cui l'evoluzione ci ha "addestrato". Abbiamo dipinto il fienile metaforico di rosso, ma per le nostre ragioni.
+Gli esseri umani hanno le *proprie* priorità che sono meramente *correlate* alla massimizzazione della riproduzione.[^82] Non siamo solo macchine per "avere quanti più figli possibile", anche se questo è tutto ciò per cui l'evoluzione ci ha "addestrato". Abbiamo dipinto il fienile metaforico di rosso, ma per le nostre ragioni.
 
 La domanda non è se le aziende di IA possano far [comportare abbastanza bene](#gli-sviluppatori-non-rendono-regolarmente-le-loro-ia-gentili-sicure-e-obbedienti?) i loro chatbot per la maggior parte degli utenti nella maggior parte delle situazioni. La domanda è quali meccanismi effettivi finiscano per animare quel comportamento gentile, e cosa questi meccanismi porterebbero un'IA a perseguire una volta diventata superintelligente.
 
