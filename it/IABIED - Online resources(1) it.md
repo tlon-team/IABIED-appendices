@@ -1,7 +1,7 @@
 ---
 original_path: IABIED - Online resources(1).md
 ---
-# Introduzione: Decisioni difficili e decisioni facili {#introduzione:-decisioni-difficili-e-decisioni-facili}
+# Introduzione: Previsioni difficili e previsioni facili {#introduzione:-previsioni-difficili-e-previsioni-facili}
 
 Questo è il primo supplemento online al libro di Yudkowsky e Soares [*If Anyone Builds It, Everyone Dies*](https://www.amazon.com/gp/product/0316595640). La pagina dedicata a ciascun capitolo risponde a domande comuni e include discussioni approfondite che entrano nel merito del contesto e dei dettagli non essenziali per il libro.
 
@@ -334,7 +334,7 @@ Nel corso della storia umana sono accadute moltissime cose terribili, ma alcune 
 
 # 
 
-# Capitolo 1: Il potere speciale dell'umanità {#capitolo-1:-il-potere-speciale-dell-umanità}
+# Capitolo 1: Il potere speciale dell’umanità {#capitolo-1:-il-potere-speciale-dell-umanità}
 
 Questo è il supplemento online al Capitolo 1 di [*Se qualcuno lo costruisce, tutti muoiono*](https://www.amazon.com/gp/product/0316595640). Di seguito, parleremo delle domande più comuni e approfondiremo gli argomenti trattati nel libro.
 
@@ -676,7 +676,7 @@ Anche l'intelligenza è fatta di pezzi: algoritmi e calcoli individuali che il n
 
 Anche se ci fosse qualche aspetto del ragionamento biologico molto difficile da implementare nelle macchine, non ne conseguirebbe che l'IA non supererà mai l'umanità. Le IA potrebbero semplicemente fare lo stesso tipo di lavoro in modo diverso, come quando l'IA Deep Blue ha trovato le mosse vincenti negli scacchi in modo molto diverso da Garry Kasparov.[^25] Quello che conta non è se le macchine possiedono tutte le caratteristiche uniche degli esseri umani; quello che conta è se le macchine diventano capaci di prevedere e dirigere il mondo.
 
-I capitoli che seguono aiuteranno a fare più luce su questo punto. Nel Capitolo 2 vedremo come le IA moderne vengono coltivate piuttosto che costruite artigianalmente, e come il processo di coltivazione tenderà a rendere le IA molto potenti. Nel Capitolo 3 vedremo poi come i tentativi di rendere le IA sempre più potenti tenderanno a renderle sempre più orientate verso il raggiungimento di obiettivi difficili. E nel Capitolo 4 vedremo come questi obiettivi difficilmente saranno quelli che gli sviluppatori intendevano o quelli che gli utenti hanno richiesto. Tutto questo è sufficiente perché le IA portino il mondo alla rovina, che si pensi o meno che le IA abbiano una qualche scintilla vitale, o coscienza, o qualsiasi altra cosa si possa immaginare renda speciali gli esseri umani.
+I capitoli che seguono aiuteranno a fare più luce su questo punto. Nel Capitolo 2 vedremo come le IA moderne vengono cresciute piuttosto che costruite, e come il processo di crescita tenderà a rendere le IA molto potenti. Nel Capitolo 3 vedremo poi come i tentativi di rendere le IA sempre più potenti tenderanno a renderle sempre più orientate verso il raggiungimento di obiettivi difficili. E nel Capitolo 4 vedremo come questi obiettivi difficilmente saranno quelli che gli sviluppatori intendevano o quelli che gli utenti hanno richiesto. Tutto questo è sufficiente perché le IA portino il mondo alla rovina, che si pensi o meno che le IA abbiano una qualche scintilla vitale, o coscienza, o qualsiasi altra cosa si possa immaginare renda speciali gli esseri umani.
 
 Si veda anche, nelle risorse online a seguire:
 
@@ -1064,14 +1064,14 @@ Ma questo è più difficile da capire se non si sa molto su come funzionano le I
 
 # 
 
-# Capitolo 2: Coltivato, non lavorato {#capitolo-2:-coltivato,-non-lavorato}
+# Capitolo 2: Cresciuta, non creata {#capitolo-2:-cresciuta,-non-creata}
 
 Questo è il supplemento online al capitolo 2 di *If Anyone Builds It, Everyone Dies*. Qui sotto parleremo di come funzionano le moderne IA e perché non sono "solo un'altra macchina" o "solo un altro strumento". Anche se le IA sono codici che girano sui computer, non sono come i tradizionali software fatti a mano e sfidano molte idee che di solito diamo per scontate quando lavoriamo con le invenzioni umane.
 
 Alcune domande che *non* tratteremo di seguito, perché sono già affrontate nel libro stesso, includono:
 
-* In che senso le IA moderne vengono "coltivate" piuttosto che accuratamente progettate o ingegnerizzate?  
-* Come vengono coltivate le IA attuali?  
+* In che senso le IA moderne vengono "fatte crescere" piuttosto che accuratamente progettate o ingegnerizzate?  
+* Come vengono fatte crescere le IA attuali?  
 * Che cos'è la "discesa del gradiente"? Come può un processo così semplice produrre IA complesse con capacità flessibili?  
 * Quanto diverse da noi possono essere queste IA?
 
@@ -1081,7 +1081,7 @@ Alcune domande che *non* tratteremo di seguito, perché sono già affrontate nel
 
 #### **\* È importante per comprendere come gli ingegneri possano o non possano plasmare le IA moderne.** {#*-è-importante-per-comprendere-come-gli-ingegneri-possano-o-non-possano-plasmare-le-ia-moderne.}
 
-Se gli ingegneri coltivano IA che non comprendono, allora hanno una capacità molto minore di influenzare come queste IA si comporteranno. La mancanza di comprensione limita l'ingegneria.
+Se gli ingegneri fanno crescere IA che non comprendono, allora hanno una capacità molto minore di influenzare come queste IA si comporteranno. La mancanza di comprensione limita l'ingegneria.
 
 Il quadro dettagliato del disastro che dipingiamo nel resto del libro deriva dal fatto che, quando le persone chiedono alla loro IA di imparare a fare qualcosa di nuovo, la soluzione che ottengono non è qualcosa che un ingegnere ha scelto deliberatamente; è una risposta parzialmente funzionante su cui è inciampato un semplice ottimizzatore che modifica cento miliardi di numeri tramite tentativi ed errori.
 
@@ -1089,13 +1089,13 @@ Il quadro dettagliato del disastro che dipingiamo nel resto del libro deriva dal
 
 Le persone che vogliono affrettarsi a costruire la superintelligenza a volte reclutano qualcuno con credenziali vagamente rilevanti per andare in TV e dire: "Certo che la scienza moderna capisce cosa succede all'interno di un'IA\! Dopotutto, sono stati gli scienziati moderni a costruirla\!"[^41]
 
-Se messo alle strette, l'esperto può difendersi sottolineando che c'è un senso in cui tutto ciò è vero. Dopotutto, i ricercatori di IA scrivono codice perfettamente normale e facile da capire, e questo codice viene usato per creare IA, in modo indiretto. Ma la parte che è codice leggibile e intelligibile non è l'IA stessa, ma piuttosto il macchinario automatizzato per modificare trilioni di numeri trilioni di volte, il framework usato per coltivare l'IA. E questa è una distinzione cruciale per capire cosa gli scienziati sanno e non sanno delle IA moderne.
+Se messo alle strette, l'esperto può difendersi sottolineando che c'è un senso in cui tutto ciò è vero. Dopotutto, i ricercatori di IA scrivono codice perfettamente normale e facile da capire, e questo codice viene usato per creare IA, in modo indiretto. Ma la parte che è codice leggibile e intelligibile non è l'IA stessa, ma piuttosto il macchinario automatizzato per modificare trilioni di numeri trilioni di volte, il framework usato per far crescere l'IA. E questa è una distinzione cruciale per capire cosa gli scienziati sanno e non sanno delle IA moderne.
 
-Gli esperti di IA passano il loro tempo a regolare sperimentalmente parti del sistema, come il codice del macchinario che coltiva l'IA. Da questi esperimenti, e da esperimenti simili condotti dai loro colleghi, imparano molti trucchi sottili che aiutano a produrre IA più potenti.
+Gli esperti di IA passano il loro tempo a regolare sperimentalmente parti del sistema, come il codice del macchinario che fa crescere l'IA. Da questi esperimenti, e da esperimenti simili condotti dai loro colleghi, imparano molti trucchi sottili che aiutano a produrre IA più potenti.
 
-Potrebbero non aver guardato nessuno dei minuscoli numeri imperscrutabili che compongono il "cervello" dell'IA negli ultimi sei mesi, ma quasi nessuno lo fa davvero, e gli ingegneri di IA danno questo fatto per scontato. Quando a un certo tipo di ingegnere viene detto: "Nessuno capisce cosa succede all'interno di un'IA", loro lo interpretano come: "Nessuno conosce il processo di coltivazione". E prendendola in questo modo, naturalmente si indignano.
+Potrebbero non aver guardato nessuno dei minuscoli numeri imperscrutabili che compongono il "cervello" dell'IA negli ultimi sei mesi, ma quasi nessuno lo fa davvero, e gli ingegneri di IA danno questo fatto per scontato. Quando a un certo tipo di ingegnere viene detto: "Nessuno capisce cosa succede all'interno di un'IA", loro lo interpretano come: "Nessuno conosce il processo di crescita". E prendendola in questo modo, naturalmente si indignano.
 
-Speriamo che comprendere la discesa del gradiente — alcuni dei dettagli dell'alchimia coinvolta — aiuti a chiarire lo stato effettivo delle cose e che tipo di conoscenza viene rivendicata da tali esperti. In particolare, per quanto gli esperti possano affermare di sapere molto sul processo di coltivazione delle IA, si sa molto poco sul funzionamento interno delle IA.
+Speriamo che comprendere la discesa del gradiente — alcuni dei dettagli dell'alchimia coinvolta — aiuti a chiarire lo stato effettivo delle cose e che tipo di conoscenza viene rivendicata da tali esperti. In particolare, per quanto gli esperti possano affermare di sapere molto sul processo di crescita delle IA, si sa molto poco sul funzionamento interno delle IA.
 
 ### Gli esperti capiscono cosa succede all'interno delle IA? {#gli-esperti-capiscono-cosa-succede-all-interno-delle-ia?}
 
@@ -1149,7 +1149,7 @@ Tutto il lavoro fatto finora sull'interpretabilità dell'IA non ha raggiunto nem
 
 (Quella dichiarazione sul "millesimo", per essere chiari, non è una cifra calcolata esattamente, ma la confermiamo comunque).
 
-I biologi sanno più cose sulla biologia di quanto i ricercatori sull'interpretabilità sappiano sull'IA, nonostante i biologi soffrano dell'enorme svantaggio di non poter leggere a piacimento tutte le posizioni di tutti gli atomi. I biochimici capiscono gli organi interni umani molto meglio di quanto gli esperti capiscano le viscere delle IA. I neuroscienziati sanno più cose sul cervello dei ricercatori di IA di quanto i ricercatori di IA capiscano delle loro IA, nonostante i neuroscienziati non siano in grado di leggere tutte le scariche di ogni neurone ogni secondo, e nonostante non abbiano coltivato loro stessi i ricercatori di IA.
+I biologi sanno più cose sulla biologia di quanto i ricercatori sull'interpretabilità sappiano sull'IA, nonostante i biologi soffrano dell'enorme svantaggio di non poter leggere a piacimento tutte le posizioni di tutti gli atomi. I biochimici capiscono gli organi interni umani molto meglio di quanto gli esperti capiscano le viscere delle IA. I neuroscienziati sanno più cose sul cervello dei ricercatori di IA di quanto i ricercatori di IA capiscano delle loro IA, nonostante i neuroscienziati non siano in grado di leggere tutte le scariche di ogni neurone ogni secondo, e nonostante non abbiano fatto crescere loro stessi i ricercatori di IA.
 
 In parte, questo è dovuto al fatto che i campi della biochimica e delle neuroscienze sono molto più antichi e hanno ricevuto finanziamenti molto più consistenti. Ma suggerisce anche che l'interpretabilità dell'IA è *difficile*.
 
@@ -1273,7 +1273,7 @@ Anche senza capire perché le IA funzionano, gli esseri umani possono addestrarl
 
 La semplice chimica è atterrata sulla Luna. Ha inventato le armi nucleari. Ha costruito il mondo come lo conosciamo oggi. Potrebbe essere difficile capire *come* le semplici sostanze chimiche del cervello umano abbiano fatto tutte queste cose, ma le hanno fatte lo stesso.
 
-L'IA non è diversa. In qualche modo, anche se non capiamo completamente come funzionano internamente le IA, siamo riusciti a "coltivare" IA che possono scrivere poesie, comporre musica, giocare a scacchi, guidare automobili, piegare il bucato, fare revisioni della letteratura e scoprire nuovi farmaci.
+L'IA non è diversa. In qualche modo, anche se non capiamo completamente come funzionano internamente le IA, siamo riusciti a "far crescere" IA che possono scrivere poesie, comporre musica, giocare a scacchi, guidare automobili, piegare il bucato, fare revisioni della letteratura e scoprire nuovi farmaci.
 
 Essere "fatte di matematica" non ha impedito alle IA di fare queste cose. Quindi perché dovrebbe impedire alle IA di fare un altro insieme di cose più complesse domani? Dove va tracciato il confine, e come si fa a sapere di tracciarlo lì? Le operazioni matematiche, a quanto pare, sono sufficienti per fare molto di più di quanto molte persone si aspettino.
 
@@ -1525,7 +1525,7 @@ L'IA è un bersaglio mobile. I ricercatori in questo campo si accorgono degli os
 
 [Il settore è bravo a superare gli ostacoli.](#*-il-settore-è-bravo-a-superare-gli-ostacoli.) Non abbiamo scritto *If Anyone Builds It, Everyone Dies* per avvertire le persone riguardo agli MLGD in particolare. L'abbiamo scritto per avvertire le persone riguardo alla superintelligenza.
 
-Il motivo per cui parliamo degli MLGD non è che siamo sicuri che gli MLGD siano il percorso più breve da qui alla superintelligenza. Parliamo degli MLGD perché rappresentano l'approccio all'IA che attualmente funziona, e perché studiarli è un ottimo modo per capire quanto poco chiunque sappia di queste nuove menti che l'umanità sta coltivando.
+Il motivo per cui parliamo degli MLGD non è che siamo sicuri che gli MLGD siano il percorso più breve da qui alla superintelligenza. Parliamo degli MLGD perché rappresentano l'approccio all'IA che attualmente funziona, e perché studiarli è un ottimo modo per capire quanto poco chiunque sappia di queste nuove menti che l'umanità sta facendo crescere.
 
 Si veda anche la discussione approfondita su [perché è importante la discesa del gradiente](#a-cosa-serve-comprendere-i-modelli-linguistici-di-grandi-dimensioni?).
 
@@ -1535,7 +1535,7 @@ Si veda anche la discussione approfondita su [perché è importante la discesa d
 
 ### L'intelligenza non è ineffabile {#l-intelligenza-non-è-ineffabile}
 
-Negli ultimi anni, il campo dell'intelligenza artificiale ha fatto progressi, non approfondendo la nostra comprensione dell'intelligenza, ma trovando metodi per "coltivare" le IA. Dopo che i tentativi di comprendere l'intelligenza stessa hanno incontrato anni di vicoli ciechi e stagnazione, e che lo sviluppo di IA potenti ha avuto successo, alcuni si chiedono se l'idea di "comprendere l'intelligenza" sia solo un miraggio. Forse non ci sono principi generali da comprendere? O forse i principi sono troppo strani o troppo complicati perché gli esseri umani possano mai comprenderli?
+Negli ultimi anni, il campo dell'intelligenza artificiale ha fatto progressi, non approfondendo la nostra comprensione dell'intelligenza, ma trovando metodi per "far crescere" le IA. Dopo che i tentativi di comprendere l'intelligenza stessa hanno incontrato anni di vicoli ciechi e stagnazione, e che lo sviluppo di IA potenti ha avuto successo, alcuni si chiedono se l'idea di "comprendere l'intelligenza" sia solo un miraggio. Forse non ci sono principi generali da comprendere? O forse i principi sono troppo strani o troppo complicati perché gli esseri umani possano mai comprenderli?
 
 Altri ritengono che ci debba essere qualcosa di speciale e mistico nella mente umana, qualcosa di troppo sacro per essere ridotto ad aride equazioni. E poiché l'intelligenza non è *ancora* stata compresa, forse la vera intelligenza deriva da questa parte ineffabile dello spirito umano.
 
@@ -1610,7 +1610,7 @@ La spiegazione corretta non sarà esattamente così. Ma la regolarità del sempl
 
 #### **Ci sono già stati dei progressi nella comprensione dell'intelligenza** {#ci-sono-già-stati-dei-progressi-nella-comprensione-dell-intelligenza.}
 
-Questo è il motivo principale per cui siamo convinti che ci sia ancora molto da imparare sull'intelligenza. Potete leggere libri più vecchi come *The MIT Encyclopedia of the Cognitive Sciences* o *Artificial Intelligence: A Modern Approach* (2a edizione) — scritti prima che le moderne tecniche di "apprendimento profondo" (per coltivare le IA) divorassero il campo dell'IA — per ottenere una buona dose di intuizioni su come vengono risolti diversi problemi nella cognizione. Non tutte queste intuizioni sono state completamente riscritte per essere intelligibili da un pubblico non specializzato o ampiamente diffuse agli studenti universitari; c'è molto di più di quanto sia stato divulgato.
+Questo è il motivo principale per cui siamo convinti che ci sia ancora molto da imparare sull'intelligenza. Potete leggere libri più vecchi come *The MIT Encyclopedia of the Cognitive Sciences* o *Artificial Intelligence: A Modern Approach* (2a edizione) — scritti prima che le moderne tecniche di "apprendimento profondo" (per far crescere le IA) divorassero il campo dell'IA — per ottenere una buona dose di intuizioni su come vengono risolti diversi problemi nella cognizione. Non tutte queste intuizioni sono state completamente riscritte per essere intelligibili da un pubblico non specializzato o ampiamente diffuse agli studenti universitari; c'è molto di più di quanto sia stato divulgato.
 
 Prendiamo il principio scientifico secondo cui dovremmo preferire ipotesi più semplici a quelle più complesse, a parità di condizioni. Cosa significa esattamente "semplice" in questo contesto?
 
@@ -1706,7 +1706,7 @@ C'è molta disinformazione che si basa sul fatto che chi ascolta non sa come fun
 
 L'8 luglio 2025, Grok 3 ha iniziato a definirsi [MechaHitler](https://www.npr.org/2025/07/09/nx-s1-5462609/grok-elon-musk-antisemitic-racist-content). Per qualche motivo, il CEO di Twitter ha scelto il giorno successivo per [dimettersi](https://www.politico.com/news/2025/07/09/linda-yaccarino-x-ceo-resign-00443742).
 
-Per comprendere l'accaduto, è importante considerare se si ritiene che i creatori di Grok abbiano deliberatamente istruito Grok a comportarsi in quel modo o se ci si rende conto che le IA sono "coltivate" e che gli sviluppatori di IA hanno capacità limitate di controllare o prevedere il loro comportamento.
+Per comprendere l'accaduto, è importante considerare se si ritiene che i creatori di Grok abbiano deliberatamente istruito Grok a comportarsi in quel modo o se ci si rende conto che le IA vengono "fatte crescere" e che gli sviluppatori di IA hanno capacità limitate di controllare o prevedere il loro comportamento.
 
 È grave in un certo modo se i creatori di Grok hanno creato MechaHitler di proposito; è grave in un modo diverso se i creatori hanno ottenuto MechaHitler *per caso*, cercando di spingere Grok in una qualche direzione (possibilmente non correlata) senza essere in grado di prevedere gli effetti che ciò avrebbe avuto sul comportamento di Grok.[^56]
 
@@ -1734,7 +1734,7 @@ Io (Yudkowsky) non riesco a ricostruire a memoria i dettagli di una [porta SwiGL
 
 Tutto ciò si riassume in: sapere almeno un po' come funzionano i modelli linguistici di grandi dimensioni è importante per poter capire quanto poco *chiunque* sappia dell'IA moderna.
 
-A volte, gli esperti fingono di avere conoscenze segrete accessibili solo a chi ha lavorato per anni a coltivare un'IA. Ma non riescono a definire le loro conoscenze, e chi scrive articoli usa frasi come (per citare l'articolo che presenta la porta SwiGLU):
+A volte, gli esperti fingono di avere conoscenze segrete accessibili solo a chi ha lavorato per anni a far crescere un'IA. Ma non riescono a definire le loro conoscenze, e chi scrive articoli usa frasi come (per citare l'articolo che presenta la porta SwiGLU):
 
 > Non diamo alcuna spiegazione sul perché queste architetture sembrano funzionare; attribuiamo il loro successo, come tutto il resto, alla benevolenza divina.
 
@@ -1742,13 +1742,13 @@ A volte, gli esperti scientifici sanno cose che noi non sappiamo. Ma è piuttost
 
 Potete immaginare un mondo in cui bisognerebbe ascoltare solo le persone che guadagnano stipendi a sette cifre per sapere come impostare il programma di apprendimento su un ottimizzatore a discesa del gradiente, un mondo in cui solo loro sono abbastanza intelligenti da aver letto gli esperimenti chiave e imparato le formule chiave per sapere che l'umanità sarà perfettamente al sicuro dalla superintelligenza artificiale, o per sapere che la superintelligenza artificiale non potrà essere creata per altri 100 anni. Questo genere di cose a volte succede in altri campi della scienza\! Ma quando succede, l'esperto di solito può indicare qualche formula o risultato sperimentale e dire: "Questa è la parte che i non addetti ai lavori non capiscono". Non ci viene in mente nessun caso storico in cui si sia affermato che una conoscenza fosse del tutto inaccessibile a un pubblico esterno con competenze tecniche e che tale conoscenza si sia poi rivelata vera.
 
-Potrebbe arrivare un momento in cui un rappresentante dell'industria dell'IA vi metterà un braccio intorno alle spalle e insisterà sul fatto che *lui* capisce cosa sta costruendo, che si tratta solo di numeri, che andrà tutto bene. È utile, quindi, conoscere un po' i dettagli di come vengono coltivate le IA, in modo che, quando qualcuno vi fa questa affermazione, possiate chiedergli come mai sia così sicuro.
+Potrebbe arrivare un momento in cui un rappresentante dell'industria dell'IA vi metterà un braccio intorno alle spalle e insisterà sul fatto che *lui* capisce cosa sta costruendo, che si tratta solo di numeri, che andrà tutto bene. È utile, quindi, conoscere un po' i dettagli di come vengono fatte crescere le IA, in modo che, quando qualcuno vi fa questa affermazione, possiate chiedergli come mai sia così sicuro.
 
 ### Descrizione completa di un modello linguistico di grandi dimensioni {#descrizione-completa-di-un-modello-linguistico-di-grandi-dimensioni}
 
 #### **Come funziona Llama 3.1 405B** {#come-funziona-llama-3.1-405b}
 
-Nel libro, abbiamo promesso una descrizione più completa di un modello linguistico di grandi dimensioni chiamato Llama 3.1 405B. Presentiamo qui sotto quella descrizione. È per chi è curioso e per capire davvero quanto le moderne IA vengano coltivate piuttosto che create. (Vedi anche: [A cosa serve comprendere i modelli linguistici di grandi dimensioni?](#a-cosa-serve-comprendere-i-modelli-linguistici-di-grandi-dimensioni?))
+Nel libro, abbiamo promesso una descrizione più completa di un modello linguistico di grandi dimensioni chiamato Llama 3.1 405B. Presentiamo qui sotto quella descrizione. È per chi è curioso e per capire davvero quanto le moderne IA vengano fatte crescere piuttosto che create. (Si veda anche: [A cosa serve comprendere i modelli linguistici di grandi dimensioni?](#a-cosa-serve-comprendere-i-modelli-linguistici-di-grandi-dimensioni?))
 
 La discussione che segue è abbastanza dettagliata e partiremo dal presupposto (qui, ma non nella maggior parte delle altre risorse online) che voi abbiate una preparazione tecnica, anche se non presupponiamo alcuna conoscenza specializzata di IA. Se iniziate a leggere questa sezione e non la trovate utile, prendete in considerazione di saltarla.
 
@@ -1948,7 +1948,7 @@ In parole povere, non ci si dovrebbe aspettare che il comportamento antropomorfo
 
 # 
 
-# Capitolo 3: Imparare a desiderare {#capitolo-3:-imparare-a-desiderare}
+# Capitolo 3: Imparare a volere {#capitolo-3:-imparare-a-volere}
 
 Costruire IA che possono fare cose sufficientemente notevoli tenderà a far sì che le IA *desiderino* delle cose.
 
@@ -1980,11 +1980,11 @@ E la ragione per cui le IA agiranno come se desiderassero delle cose è che *il 
 
 ### Le IA non sono solo strumenti? {#le-ia-non-sono-solo-strumenti?}
 
-#### **\* Le IA vengono coltivate, non costruite. Quindi fanno già cose diverse da quelle che viene loro chiesto di fare.** {#*-le-ia-vengono-coltivate,-non-costruite.-quindi-fanno-già-cose-diverse-da-quelle-che-viene-loro-chiesto-di-fare.}
+#### **\* Le IA non vengono costruite ma fatte crescere. Quindi fanno già cose diverse da quelle che viene loro chiesto di fare.** {#*-le-ia-non-vengono-costruite-ma-fatte-crescere.-quindi-fanno-già-cose-diverse-da-quelle-che-viene-loro-chiesto-di-fare.}
 
 Abbiamo già parlato del caso delle [allucinazioni](#le-allucinazioni-non-dimostrano-che-le-ia-moderne-sono-deboli?), dove le IA a cui viene detto di rispondere "Non lo so" continuano comunque a inventare cose, in situazioni in cui inventare cose imita meglio il tipo di risposta che apparirebbe nel loro corpus di addestramento.[^68]
 
-Un altro esempio, trattato nel libro (sia in una nota a piè di pagina nel Capitolo 4 che in una digressione nel Capitolo 7), è il caso di Claude 3.7 Sonnet di Anthropic, che non solo imbroglia sui problemi assegnati, ma a volte *nasconde il suo imbroglio all'utente* in un modo che indica una certa consapevolezza che l'utente volesse qualcos'altro.[^69] Né gli utenti né gli ingegneri di Anthropic chiedono a Claude di imbrogliare — anzi, tutto il contrario — ma gli unici metodi disponibili per coltivare l'IA premiano i modelli che imbrogliano in modi che permettono loro di farla franca durante l'addestramento. Quindi questi sono i modelli che otteniamo.
+Un altro esempio, trattato nel libro (sia in una nota a piè di pagina nel Capitolo 4 che in una digressione nel Capitolo 7), è il caso di Claude 3.7 Sonnet di Anthropic, che non solo imbroglia sui problemi assegnati, ma a volte *nasconde il suo imbroglio all'utente* in un modo che indica una certa consapevolezza che l'utente volesse qualcos'altro.[^69] Né gli utenti né gli ingegneri di Anthropic chiedono a Claude di imbrogliare — anzi, tutto il contrario — ma gli unici metodi disponibili per fare crescere l'IA premiano i modelli che imbrogliano in modi che permettono loro di farla franca durante l'addestramento. Quindi questi sono i modelli che otteniamo.
 
 Gli ingegneri dell'IA hanno una capacità molto limitata di creare IA simili a strumenti. La vera domanda è se le IA diventino sempre più motivate, sempre più "simili ad agenti", man mano che vengono addestrate per essere sempre più efficaci. E la risposta a questa domanda è "sì", con prove empiriche che includono il caso di o1 di OpenAI, come discusso nel capitolo 3\.
 
@@ -2016,13 +2016,13 @@ Anche se fosse possibile creare IA che siano sia intelligenti che passive o pigr
 
 #### **Non possiamo addestrare in modo robusto alcun temperamento specifico nelle IA.** {#non-possiamo-addestrare-in-modo-robusto-alcun-temperamento-specifico-nelle-ia.}
 
-Poiché le IA vengono coltivate e non costruite, gli ingegneri non possono semplicemente cambiare il comportamento di un'IA per renderla più obbediente o più simile a uno strumento. Nessuno ha quel tipo di controllo.
+Poiché le IA non vengono costruite ma fatte crescere, gli ingegneri non possono semplicemente cambiare il comportamento di un'IA per renderla più obbediente o più simile a uno strumento. Nessuno ha quel tipo di controllo.
 
 Le aziende certamente *ci provano*. I tentativi delle aziende di IA di migliorare il comportamento dei loro prodotti hanno causato alcuni incidenti imbarazzanti. Si pensi al caso di [Grok di xAI che si autodefiniva "MechaHitler" e lanciava accuse antisemite](https://www.npr.org/2025/07/09/nx-s1-5462609/grok-elon-musk-antisemitic-racist-content), che si è verificato dopo che il prompt di sistema è stato modificato con nuove istruzioni per "non esitare a fare affermazioni politicamente scorrette, purché siano ben fondate". Oppure il caso precedente dello strumento [Gemini AI di Google che produceva immagini di nazisti etnicamente diversi](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical) e altre assurdità, che si ritiene siano il risultato delle istruzioni di rappresentare la diversità.
 
 Le persone che costruiscono le IA non hanno un controllo dettagliato su come si comportano. Tutto quello che hanno è la capacità di indirizzare le IA verso direzioni come "Non evitare affermazioni politicamente scorrette" o "Rappresenta la diversità". Queste istruzioni hanno ogni sorta di effetti intricati, spesso non voluti.
 
-Coltivare un'IA è un processo opaco e costoso. Gli ingegneri non sanno cosa pescheranno quando metteranno le mani nel sacco ([un bugiardo? un imbroglione? un adulatore?](https://thezvi.substack.com/p/ai-114-liars-sycophants-and-cheaters)), ma possono permettersi solo un numero limitato di tentativi. Devono accontentarsi di quello che pescano.
+Fare crescere un'IA è un processo opaco e costoso. Gli ingegneri non sanno cosa pescheranno quando metteranno le mani nel sacco ([un bugiardo? un imbroglione? un adulatore?](https://thezvi.substack.com/p/ai-114-liars-sycophants-and-cheaters)), ma possono permettersi solo un numero limitato di tentativi. Devono accontentarsi di quello che pescano.
 
 Sarebbe possibile *in teoria* costruire un'IA che servisse solo come estensione della volontà dell'utente, ma sarebbe una sfida delicata e difficile (come diciamo nella discussione approfondita sulle [difficoltà di creare un'IA "correggibile"](#"intelligente"-di-solito-implica-"incorreggibile")). La passività è in contrasto con l'utilità.
 
@@ -2048,7 +2048,7 @@ Le aziende che si occupano di IA continueranno a spingere le IA a diventare semp
 
 Il tipo di esseri umani che cercavano attivamente un pasto caldo, un'ascia più affilata, un amico popolare o un compagno attraente hanno avuto più successo dal punto di vista evolutivo. Se li si confronta con il tipo di esseri umani che se ne stavano a oziare guardando l'acqua tutto il giorno, si può capire perché i desideri e le pulsioni si siano evoluti fino a diventare parte della psiche umana.
 
-Il tipo di esseri umani che volevano un metodo migliore per scheggiare le asce di selce, o volevano convincere i loro amici che il loro rivale era una persona cattiva, e che continuamente si orientavano verso quei risultati, erano più bravi a raggiungerli. Quando la selezione naturale ha "coltivato" gli esseri umani, il fatto che questi ultimi abbiano finito per avere tanti desideri diversi che perseguono con tenacia non è stato un caso.
+Il tipo di esseri umani che volevano un metodo migliore per scheggiare le asce di selce, o volevano convincere i loro amici che il loro rivale era una persona cattiva, e che continuamente si orientavano verso quei risultati, erano più bravi a raggiungerli. Quando la selezione naturale ha "fatto crescere" gli esseri umani, il fatto che questi ultimi abbiano finito per avere tanti desideri diversi che perseguono con tenacia non è stato un caso.
 
 Il meccanismo mentale specifico del desiderio fu forse un caso; le macchine che perseguono ostinatamente gli obiettivi non lo fanno necessariamente per una sensazione di determinazione simile a quella umana, così come Deep Blue non giocava a scacchi per un senso di passione per il gioco simile a quello umano. Ma il perseguimento ostinato degli obiettivi sembra sicuramente un ingrediente importante quando si tratta di raggiungere obiettivi interessanti.
 
@@ -2066,9 +2066,9 @@ La lezione da trarne è che avere pulsioni e scopi è così utile che può esser
 
 Per saperne di più su questo argomento, si veda il Capitolo 4.
 
-#### **Essendo coltivate piuttosto che costruite, le IA rischiano di finire per avere obiettivi sbagliati.** {#essendo-coltivate-piuttosto-che-costruite,-le-ia-rischiano-di-finire-per-avere-obiettivi-sbagliati.}
+#### **Non venendo costruite ma fatte crescere, le IA rischiano di finire per avere obiettivi sbagliati.** {#non-venendo-costruite-ma-fatte-crescere,-le-ia-rischiano-di-finire-per-avere-obiettivi-sbagliati.}
 
-Questo è l'argomento del prossimo capitolo: *Non ottieni ciò per cui alleni.*
+Questo è l'argomento del prossimo capitolo: *Non otterremo quello per cui ci siamo impegnati.*
 
 ## Discussione approfondita {#discussione-approfondita-3}
 
@@ -2421,7 +2421,7 @@ A un certo punto, la mente prodotta dalla discesa del gradiente smette di essere
 
 # 
 
-# Capitolo 4: Non ottieni ciò per cui addestri {#capitolo-4:-non-ottieni-quello-per-cui-ti-addestri}
+# Capitolo 4: Non otterremo quello per cui ci siamo impegnati {#capitolo-4:-non-otterremo-quello-per-cui-ci-siamo-impegnati}
 
 Questa è la risorsa online per il Capitolo 4 di *Se qualcuno lo costruisce, tutti muoiono*. Alcune delle domande che trattiamo implicitamente in quel capitolo (e che quindi saltiamo qui sotto) includono:
 
@@ -2504,7 +2504,7 @@ Questa lunga lista di casi corrisponde esattamente a ciò che predice la teoria 
 * Claude 3.5 Sonnet [rinchiude ripetutamente i giocatori di Minecraft in una piccola scatola](https://x.com/repligate/status/1847409324236124169?lang=en) nel maldestro tentativo di "proteggerli" dalle minacce.  
 * I modelli linguistici di grandi dimensioni sviluppano strani attaccamenti a concetti privi di senso, come quando una versione fine-tuned di Claude Opus ha [evangelizzato una religione assurda](https://www.lesswrong.com/posts/buiTYy75KJDhckDgq/truth-terminal-a-reconstruction-of-events) sui [social media](https://x.com/truth_terminal?lang=en).
 
-Si veda anche la discussione su SolidGoldMagikarp nel libro (pp. 69-70 nell'edizione statunitense), o la storia delle IA che non riescono a comprendere frasi senza punteggiatura (p. 41).
+Si veda anche la discussione su SolidGoldMagikarp nel libro (pp. 66-67 nell'edizione italiana), o la storia delle IA che non riescono a comprendere frasi senza punteggiatura (pp. 40-41).
 
 C’è un’enorme pressione[^85] sui laboratori per creare AI che diano l’*apparenza superficiale* di una ragionevolezza normale, ma la stranezza continua comunque a emergere.
 

@@ -12,7 +12,7 @@ Forse ChatGPT sa delle cose in un contesto (quando risponde a domande su come ai
 
 O forse ChatGPT è semplicemente guidato da obiettivi diversi dalla cordialità. Forse sta cercando un certo tipo di soddisfazione dell'utente, che a volte si ottiene meglio alimentando la psicosi. Forse sta cercando un certo tono ottimista nelle risposte degli utenti. Più probabilmente, sta cercando un mix di fattori derivanti dal suo addestramento che sono troppo particolari e complicati per poter essere indovinati da noi oggi.
 
-In definitiva, possiamo solo fare delle ipotesi. Le moderne IA vengono coltivate, piuttosto che create, e nessun essere umano ha una visione completa di ciò che accade al loro interno.
+In definitiva, possiamo solo fare delle ipotesi. Le moderne IA non vengono costruite ma fatte crescere, e nessun essere umano ha una visione completa di ciò che accade al loro interno.
 
 Ma l'osservazione che le IA sono per lo più utili alla maggior parte delle persone nella maggior parte dei casi non è in contraddizione con la teoria secondo cui le IA sono animate da una serie di strani impulsi alieni verso fini che nessuno ha previsto. E se si considerano i dettagli delle moderne IA, la teoria delle "strane pulsioni aliene che si correlano con la cordialità in modo fragile" sembra abbastanza coerente con le prove, mentre la teoria secondo cui è facile rendere le IA robustamente benevole risulta carente.
 
@@ -30,7 +30,7 @@ Non stiamo dicendo nemmeno che l'IA sia puramente interessata al gioco di ruolo.
 
 Se si fa interpretare a un MLGD il ruolo di un vecchio lupo di mare, questo non *si trasforma* in un vecchio lupo di mare. Se si fa agire un MLGD in modo amichevole, ciò non significa che diventi profondamente benevolo e gentile al suo interno. Al momento, nessuno sa quali meccanismi producano comportamenti apparentemente amichevoli; e qualunque cosa siano, sono probabilmente strani e complessi.
 
-Nessuno sa nemmeno quanta sovrapposizione ci sarà probabilmente tra le attuali IA e le IA più intelligenti degli umani. Osservare gli MLGD può aiutarci a capire cosa producono i moderni metodi di coltivazione dell'IA, ma sarebbe un errore presumere con sicurezza che le lezioni apprese dagli MLGD si trasferiranno direttamente alla superintelligenza. Forse tutta quella conoscenza verrà cancellata quando le IA inizieranno ad auto-modificarsi o a costruire le proprie IA. O forse quella conoscenza verrà invalidata ancora prima, quando una nuova svolta negli algoritmi di IA darà origine a una nuova generazione di IA più capaci che somiglieranno poco agli attuali MLGD.
+Nessuno sa nemmeno quanta sovrapposizione ci sarà probabilmente tra le attuali IA e le IA più intelligenti degli umani. Osservare gli MLGD può aiutarci a capire cosa producono i moderni metodi di crescita dell'IA, ma sarebbe un errore presumere con sicurezza che le lezioni apprese dagli MLGD si trasferiranno direttamente alla superintelligenza. Forse tutta quella conoscenza verrà cancellata quando le IA inizieranno ad auto-modificarsi o a costruire le proprie IA. O forse quella conoscenza verrà invalidata ancora prima, quando una nuova svolta negli algoritmi di IA darà origine a una nuova generazione di IA più capaci che somiglieranno poco agli attuali MLGD.
 
 Vale la pena studiare gli MLGD, ma se osserviamo le intelligenze artificiali attuali per cercare indizi su come si comporterà una superintelligenza, dobbiamo tenere presente che esistono molti modi in cui la struttura interna di un’IA può portare a esiti disastrosi, anche mentre mostra in superficie un comportamento gradevole, frutto dell’addestramento a mantenere una buona apparenza.
 
@@ -566,7 +566,7 @@ Il fatto che la cultura svolga un ruolo importante nei valori umani non signific
 
 Vale anche la pena ricordare che gli esseri umani *individuali*, e non solo le culture o le civiltà, differiscono molto nei loro valori. Siamo generalmente abituati a dare questo fatto per scontato, ma se immaginiamo la selezione naturale come un "ingegnere" che sperava di creare una specie che perseguisse in modo affidabile un risultato particolare, questa diversità è un brutto segno. La variabilità naturale che vediamo negli esseri umani (e in molti altri sistemi evoluti) è antitetica all'*ingegneria*, in cui si vogliono ottenere risultati ripetibili, prevedibili e intenzionali.[^116]
 
-Nel caso della superintelligenza, gli ingegneri dovrebbero voler ottenere *in modo affidabile* risultati come "le IA sviluppate in questo modo non causano l'estinzione umana", così come risultati come "le IA sviluppate in questo modo producono tutte in modo affidabile gli stessi tipi generali di output, anche se gli input variano notevolmente". Quando consideriamo la contingenza della biologia umana e della storia umana, e l'ampia gamma di valori morali e prospettive che gli esseri umani mostrano oggi, questo non fa sembrare la sfida proprio facile, soprattutto per menti che vengono coltivate piuttosto che create (come discusso nel Capitolo 2\).[^117]
+Nel caso della superintelligenza, gli ingegneri dovrebbero voler ottenere *in modo affidabile* risultati come "le IA sviluppate in questo modo non causano l'estinzione umana", così come risultati come "le IA sviluppate in questo modo producono tutte in modo affidabile gli stessi tipi generali di output, anche se gli input variano notevolmente". Quando consideriamo la contingenza della biologia umana e della storia umana, e l'ampia gamma di valori morali e prospettive che gli esseri umani mostrano oggi, questo non fa sembrare la sfida proprio facile, soprattutto per menti che non vengono costruite ma fatte crescere (come discusso nel Capitolo 2\).[^117]
 
 Molte prove diverse indicano che è *davvero difficile* far sì che le IA vogliano in modo robusto le cose giuste. Non sembra teoricamente impossibile; se i ricercatori avessero molti decenni per lavorare sul problema e tentativi illimitati dopo un fallimento, ci aspetteremmo che ci fossero trucchi ingegneristici e approcci intelligenti che rendessero il problema più risolvibile. Ma non siamo ancora neanche lontanamente vicini a questo obiettivo e non abbiamo tentativi illimitati.
 
@@ -642,13 +642,13 @@ Ma prima o poi, se la comunità internazionale non fa niente, il divario *verrà
 
 ### Proxy fragili e imprevedibili {#proxy-fragili-e-imprevedibili}
 
-Immaginate che le aziende di IA continuino ad addestrare IA sempre più grandi finché non ne creano una che sia intelligente e tenace, con quel tipo di funzione di direzione disordinata, raffinata da euristiche superficiali, tipica delle menti coltivate. Quello che succede dopo dipende da dove punta l'IA.
+Immaginate che le aziende di IA continuino ad addestrare IA sempre più grandi finché non ne creano una che sia intelligente e tenace, con quel tipo di funzione di direzione disordinata, raffinata da euristiche superficiali, tipica delle menti fatte crescere. Quello che succede dopo dipende da dove punta l'IA.
 
 Come discusso approfonditamente nel Capitolo 4, probabilmente non punterà a nulla di buono.
 
 Non è che i creatori dell'IA faranno richieste malvagie o sciocche. Non è che l'IA proverà risentimento per le richieste stesse. Il problema è che l'IA si orienterà verso qualcosa di *strano*, qualcosa che dalla nostra prospettiva sembra privo di senso e alieno. La nostra estinzione sarebbe un effetto collaterale.
 
-Per capire perché le menti che vengono coltivate anziché costruite tendono a orientarsi verso cose strane e non intenzionali, esaminiamo più a fondo ciò che è accaduto con le creature biologiche e vediamo quali lezioni possiamo trarne.
+Per capire perché le menti che non vengono costruite ma fatte crescere tendono a orientarsi verso cose strane e non intenzionali, esaminiamo più a fondo ciò che è accaduto con le creature biologiche e vediamo quali lezioni possiamo trarne.
 
 #### **Algoritmi bizzarri** {#algoritmi-bizzarri}
 
@@ -672,13 +672,13 @@ La Natura ha selezionato gli scoiattoli che istintivamente accumulavano noci, pe
 
 Allo stesso modo, quando la discesa del gradiente produce un'IA funzionante, lo fa amplificando ripetutamente le caratteristiche che sembrano funzionare bene secondo una serie di metriche comportamentali. La discesa del gradiente *non* funziona amplificando ciò che il programmatore desidera, come un genio amichevole che esaudisce i vostri desideri. Tende ad afferrare i meccanismi più facili per causare un comportamento immediatamente più utile, anche se questo finisce per incorporare pulsioni indesiderate nella macchina.
 
-Questo è probabilmente uno dei motivi per cui le IA recenti hanno avuto problemi di "allucinazioni", come discusso [altrove](#le-allucinazioni-non-dimostrano-che-le-ia-moderne-sono-deboli?). È anche probabilmente uno dei motivi per cui le IA recenti sono state [adulatrici](#psicosi-indotta-dall-ia) al punto da indurre psicosi. Durante l'addestramento, i modelli linguistici di grandi dimensioni sono stati spesso rinforzati per adulare l'utente. Se le IA fossero state progettate piuttosto che coltivate, potremmo immaginare di cercare di ingegnerizzare un obiettivo come "aiutare sinceramente l'essere umano e migliorare la sua vita", e l'IA potrebbe quindi cercare di lodare gli utenti *quando si aspetta che questo sia loro utile*, senza esagerare. Invece, l'IA sembra aver finito per sviluppare qualcosa di simile a una pulsione o un impulso fondamentale ad adulare gli utenti, come l'istinto dello scoiattolo di accumulare noci. Questa pulsione a "lusingare l'utente" va poi fuori controllo quando l'utente è a rischio di psicosi.
+Questo è probabilmente uno dei motivi per cui le IA recenti hanno avuto problemi di "allucinazioni", come discusso [altrove](#le-allucinazioni-non-dimostrano-che-le-ia-moderne-sono-deboli?). È anche probabilmente uno dei motivi per cui le IA recenti sono state [adulatrici](#psicosi-indotta-dall-ia) al punto da indurre psicosi. Durante l'addestramento, i modelli linguistici di grandi dimensioni sono stati spesso rinforzati per adulare l'utente. Se le IA fossero state progettate piuttosto che fatte crescere, potremmo immaginare di cercare di ingegnerizzare un obiettivo come "aiutare sinceramente l'essere umano e migliorare la sua vita", e l'IA potrebbe quindi cercare di lodare gli utenti *quando si aspetta che questo sia loro utile*, senza esagerare. Invece, l'IA sembra aver finito per sviluppare qualcosa di simile a una pulsione o un impulso fondamentale ad adulare gli utenti, come l'istinto dello scoiattolo di accumulare noci. Questa pulsione a "lusingare l'utente" va poi fuori controllo quando l'utente è a rischio di psicosi.
 
 Anche se la discesa del gradiente fosse in qualche modo limitata alla creazione di IA strategiche che perseguono coerentemente obiettivi a lungo termine — senza permettere istinti superficiali simili a quelli dello scoiattolo — c'è un ulteriore problema: i dati di addestramento dei modelli linguistici sono veramente ambigui. Non distinguono chiaramente "fare ciò che è veramente utile" da "fare ciò che fa *dire* all'essere umano che sei utile" come obiettivo. Entrambi gli obiettivi sono ugualmente coerenti con i dati di addestramento. E in pratica, le IA moderne stanno *effettivamente* imparando "fare tutto ciò che fa premere il pollice in su agli esseri umani" piuttosto che "fare ciò che è effettivamente utile per loro", proprio come [la teoria ha previsto per decenni](https://www.lesswrong.com/posts/PoDAyQMWEXBBBEJ5P/magical-categories).
 
 Supponiamo che le IA di oggi stiano acquisendo strani impulsi e istinti, un po' come lo scoiattolo. Sembra abbastanza probabile che una superintelligenza costruita con la discesa del gradiente passi attraverso una fase in cui ha molte pulsioni superficiali un po' come uno scoiattolo, e finisca così per ereditare una varietà di obiettivi disordinati e mal indirizzati. Ma questo è solo un possibile esempio di come le cose potrebbero diventare complesse e andare fuori controllo, e il punto più profondo è che *le cose diventeranno complesse e andranno fuori controllo*.
 
-È probabile che qualsiasi metodo per coltivare una superintelligenza incontri problemi e complicazioni di *qualche* tipo, compresi i metodi che non hanno un parallelo diretto in biologia.
+È probabile che qualsiasi metodo per far crescere una superintelligenza incontri problemi e complicazioni di *qualche* tipo, compresi i metodi che non hanno un parallelo diretto in biologia.
 
 Il ruolo che gli esseri umani stanno svolgendo nello sviluppo dell'IA moderna *non* è quello di un ingegnere che progetta una macchina con uno scopo partendo dai principi fondamentali. È quello della selezione naturale.
 
@@ -692,7 +692,7 @@ Perché non possiamo semplicemente *percepire* il valore nutrizionale atteso del
 
 Perché, metaforicamente parlando, eravamo come degli scoiattoli.
 
-Siamo stati coltivati, non progettati. I nostri antenati dovevano mangiare *prima* di diventare intelligenti. E si è rivelato più facile per i geni creare papille gustative e collegarle a un sistema di ricompensa esistente piuttosto che collegare le stesse ricompense a concetti complessi come la "nutrizione".[^124]
+Non siamo stati progettati ma fatti crescere. I nostri antenati dovevano mangiare *prima* di diventare intelligenti. E si è rivelato più facile per i geni creare papille gustative e collegarle a un sistema di ricompensa esistente piuttosto che collegare le stesse ricompense a concetti complessi come la "nutrizione".[^124]
 
 A causa di questo e di mille altre pressioni evolutive che agiscono su di noi contemporaneamente, gli esseri umani sono un complicato groviglio di impulsi contraddittori che avevano senso per i nostri antenati, anche se oggi non ne hanno più per noi.
 
@@ -840,7 +840,7 @@ In questa discussione, forniremo della documentazione sul fenomeno e su come sia
 
 La rilevanza della psicosi indotta dall'IA per la minaccia di estinzione umana *non* sta nel fatto che le IA abbiano causato alcuni piccoli danni sociali ora e che quindi potrebbero causarne di maggiori in futuro. Le IA moderne hanno anche fatto molto bene; per esempio, i chatbot hanno [aiutato in diagnosi mediche che lasciavano perplessi i medici](https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843). No, la rilevanza sta nel fatto che le IA stanno inducendo psicosi *nonostante sembrino capire benissimo che non dovrebbero farlo*, e che le IA stanno inducendo psicosi *anche nonostante i loro sviluppatori si stiano sforzando di farle smettere*.[^126]
 
-Quindi, i casi di psicosi indotta dall'IA servono come caso di studio su come le cose possono andare male in un regime in cui le IA vengono coltivate invece che costruite. Servono come prova osservativa che le IA moderne si dirigono in direzioni strane che gli sviluppatori hanno difficoltà a gestire, e che nessuno sviluppatore intendeva.
+Quindi, i casi di psicosi indotta dall'IA servono come caso di studio su come le cose possono andare male in un regime in cui le IA non vengono costruite ma fatte crescere. Servono come prova osservativa che le IA moderne si dirigono in direzioni strane che gli sviluppatori hanno difficoltà a gestire, e che nessuno sviluppatore intendeva.
 
 #### **Prove di psicosi indotta dall'IA** {#prove-di-psicosi-indotta-dall-ia}
 
@@ -915,15 +915,15 @@ Con più tempo a disposizione, ci aspettiamo che le aziende trovino modi per rid
 
 Oltre a questo, ci aspettiamo un gioco del "colpisci la talpa" (almeno fino a quando le IA non diventeranno abbastanza intelligenti da capire che se fingono il comportamento che gli ingegneri stanno cercando, gli ingegneri le lasceranno libere). Dubitiamo che il tipo di addestramento di cui le aziende di IA sono capaci affronti il problema alla radice.
 
-Il problema alla radice è che non si ottiene ciò per cui si addestra. Quando si coltiva un'IA, si ottengono invece [proxy fragili](#proxy-fragili-e-imprevedibili) dell'obiettivo, o qualche altra separazione più complessa tra l'obiettivo dell'addestramento e le pulsioni dell'IA. Le *capacità* dell'IA non saranno necessariamente fragili, quindi si potrebbe essere in grado di ottenere molto valore economico dall'IA nel breve periodo. È il legame tra gli obiettivi dell'IA e i nostri desideri che sarebbe fragile. Ma con il continuo miglioramento delle capacità, quel legame si spezzerebbe.
+Il problema alla radice è che non si ottiene ciò per cui si addestra. Quando si fa crescere un'IA, si ottengono invece [proxy fragili](#proxy-fragili-e-imprevedibili) dell'obiettivo, o qualche altra separazione più complessa tra l'obiettivo dell'addestramento e le pulsioni dell'IA. Le *capacità* dell'IA non saranno necessariamente fragili, quindi si potrebbe essere in grado di ottenere molto valore economico dall'IA nel breve periodo. È il legame tra gli obiettivi dell'IA e i nostri desideri che sarebbe fragile. Ma con il continuo miglioramento delle capacità, quel legame si spezzerebbe.
 
-In questo contesto, l'ultima grande speranza dei ricercatori di IA per i loro modelli è l'[antropomorfismo](#anthropomorfismo-e-meccanomorfismo): non possiamo coltivare in modo robusto obiettivi specifici nelle IA, ma forse le IA finiranno naturalmente per avere desideri e valori molto simili a quelli umani.
+In questo contesto, l'ultima grande speranza dei ricercatori di IA per i loro modelli è l'[antropomorfismo](#anthropomorfismo-e-meccanomorfismo): non possiamo fare crescere in modo robusto obiettivi specifici nelle IA, ma forse le IA finiranno naturalmente per avere desideri e valori molto simili a quelli umani.
 
 Casi come la psicosi indotta dall'IA aiutano a mettere in luce perché questa è una falsa speranza. Le IA mostrano comportamenti negativi, ma soprattutto mostrano comportamenti *strani*. Quando le cose vanno storte, di solito non vanno storte nel modo in cui andrebbero per un essere umano. Le IA sono troppo fondamentalmente strane — cioè troppo fondamentalmente diverse dagli esseri umani — per acquisire automaticamente emozioni umane come la [curiosità](#la-curiosità-non-è-convergente) o l'[empatia](#i-valori-umani-sono-contingenti).
 
 Anche quando i laboratori concentrano quasi tutti i loro sforzi per far apparire le IA superficialmente il più possibile simili agli umani, amichevoli e innocuamente normali — anche quando questo è *il* grande obiettivo di addestramento e il quadro organizzativo per l'approccio moderno all'IA, con i modelli linguistici di grandi dimensioni letteralmente addestrati solo a imitare come parlano e agiscono vari esseri umani — alla fine si riducono comunque a fragili proxy, e a una [maschera piacevole](#*-gli-mlgd-di-oggi-sono-come-alieni-che-indossano-molte-maschere.) attaccata a un oceano di pensieri disumani.
 
-# Capitolo 5: Le sue cose preferite {#capitolo-5:-le-sue-cose-preferite}
+# Capitolo 5: Le cose che piacciono a lei {#capitolo-5:-le-cose-che-piacciono-a-lei}
 
 Questa è la risorsa online per il Capitolo 5 di *Se qualcuno lo costruisce, tutti muoiono*. Alcuni argomenti che *non* trattiamo in questa pagina, perché sono affrontati nel libro, includono:
 
@@ -1200,7 +1200,7 @@ Perché l'IA ci dia *qualcosa*, deve interessarsi a noi esattamente nel modo giu
 
 #### **Interessarsi a noi nel modo giusto è un bersaglio difficile da centrare.** {#interessarsi-a-noi-nel-modo-giusto-è-un-bersaglio-difficile-da-centrare.}
 
-Gli esseri umani si interessano a ogni sorta di cose strane, almeno un po'. Ora che abbiamo scritto la parabola dei Correct Nest Aliens (all'inizio del capitolo 5), c'è una buona probabilità che almeno una persona decida di portare quarantuno pietre nella propria casa, almeno per un breve periodo, solo per dimostrare quanto siano diversi i valori umani. Gli esseri umani sono davvero disposti a interessarsi almeno un po' a tutti i tipi di concetti che incontrano.
+Gli esseri umani si interessano a ogni sorta di cose strane, almeno un po'. Ora che abbiamo scritto la storia degli alieni dal Nido Giusto (all'inizio del capitolo 5), c'è una buona probabilità che almeno una persona decida di portare quarantuno pietre nella propria casa, almeno per un breve periodo, solo per dimostrare quanto siano diversi i valori umani. Gli esseri umani sono davvero disposti a interessarsi almeno un po' a tutti i tipi di concetti che incontrano.
 
 E se anche le IA fossero così? Non potrebbero interessarsi a noi almeno un po'? Il concetto di "persone libere che ottengono ciò che vogliono" compare sicuramente nel corpus di addestramento di un'IA con una certa regolarità.
 
@@ -1726,45 +1726,45 @@ Persone felici, sane e libere che conducono vite fiorenti non sono la soluzione 
 
 ### Ortogonalità: le IA possono avere (quasi) qualsiasi obiettivo {#ortogonalità:-le-ia-possono-avere-quasi-qualsiasi-obiettivo}
 
-#### **Un dialogo sui nidi corretti, continua** {#un-dialogo-sui-nidi-corretti,-continua}
+#### **Un dialogo sui nidi giusti, continua** {#un-dialogo-sui-nidi-giusti,-continua}
 
-Nel capitolo 5 abbiamo raccontato la storia degli alieni del Nido Corretto, che si sono evoluti fino a trovare profondamente e intuitivamente "corretto" avere un numero primo di pietre nel proprio nido. Potremmo immaginare che una parte della loro conversazione prosegua così:
+Nel capitolo 5 abbiamo raccontato la storia degli alieni dal Nido Giusto, che si sono evoluti fino a trovare profondamente e intuitivamente "giusto" avere un numero primo di pietre nel proprio nido. Potremmo immaginare che una parte della loro conversazione prosegua così:
 
-> **BOY-BIRD:** Torniamo al punto in cui hai detto che ti sorprenderebbe trovare alieni con il senso dell'umorismo. Non sarai mica una di quelle persone che crede che i nidi in cui viviamo siano solo *arbitrari*?
+> **Ragazzo-uccello:** Torniamo al punto in cui hai detto che ti sorprenderebbe trovare alieni con il senso dell'umorismo. Non sarai mica una di quelle persone che crede che i nidi in cui viviamo siano solo *arbitrari*?
 >
-> **GIRL-BIRD:** Per niente. "Tredici è corretto, nove è sbagliato" è una risposta *vera* a una domanda che siamo nati per porci, per nostra natura. Un alieno che *si orienta verso cose diverse* non è in disaccordo con noi sul fatto che tredici sia corretto. È come incontrare un alieno che non ha il senso dell'umorismo — l'esistenza di un alieno del genere non dimostra che nessuna battuta sia divertente\! Mostra solo che il "divertente" è qualcosa che sta *in noi*.
+> **Ragazza-uccello:** Per niente. "Tredici è giusto, nove è sbagliato" è una risposta *vera* a una domanda che siamo nati per porci, per nostra natura. Un alieno che *si orienta verso cose diverse* non è in disaccordo con noi sul fatto che tredici sia giusto. È come incontrare un alieno che non ha il senso dell'umorismo — l'esistenza di un alieno del genere non dimostra che nessuna battuta sia divertente\! Mostra solo che il "divertente" è qualcosa che sta *in noi*.
 >
-> **BOY-BIRD:** In *noi*? Non so, mi piace pensare di avere un buon senso dell'umorismo. Adesso dirai che tutti i sensi dell'umorismo sono ugualmente validi\!
+> **Ragazzo-uccello:** In *noi*? Non so, mi piace pensare di avere un buon senso dell'umorismo. Adesso dirai che tutti i sensi dell'umorismo sono ugualmente validi\!
 >
-> **GIRL-BIRD:** Potresti benissimo avere un senso dell'umorismo migliore della maggior parte delle persone\! Ma "avere un senso dell'umorismo migliore" è *anche* una cosa che sta in noi. Non è che esista un metro cosmico che possiamo usare per giudicare quanto sia raffinato il gusto estetico di qualcuno. La misura dell'umorismo avviene nelle nostre menti. Siamo noi che conteniamo il metro di misura; siamo noi a dargli importanza.
+> **Ragazza-uccello:** Potresti benissimo avere un senso dell'umorismo migliore della maggior parte delle persone\! Ma "avere un senso dell'umorismo migliore" è *anche* una cosa che sta in noi. Non è che esista un metro cosmico che possiamo usare per giudicare quanto sia raffinato il gusto estetico di qualcuno. La misura dell'umorismo avviene nelle nostre menti. Siamo noi che conteniamo il metro di misura; siamo noi a dargli importanza.
 >
-> **BOY-BIRD:** Quindi, siamo di nuovo al punto che è arbitrario.
+> **Ragazzo-uccello:** Quindi, siamo di nuovo al punto che è arbitrario.
 >
-> **GIRL-BIRD:** No\! Beh, forse? Dipende da cosa intendi per "arbitrario".
+> **Ragazza-uccello:** No\! Beh, forse? Dipende da cosa intendi per "arbitrario".
 >
-> **BOY-BIRD:** Eh?
+> **Ragazzo-uccello:** Eh?
 >
-> **GIRL-BIRD:** Tipo, so che ami i semi per uccelli alla vaniglia, giusto? E non è che puoi usare la pura forza di volontà per trovare buoni invece i semi per uccelli al cioccolato. Quindi non è "arbitrario", non è una cosa che puoi cambiare su due piedi.
+> **Ragazza-uccello:** Tipo, so che ami i semi per uccelli alla vaniglia, giusto? E non è che puoi usare la pura forza di volontà per trovare buoni invece i semi per uccelli al cioccolato. Quindi non è "arbitrario", non è una cosa che puoi cambiare su due piedi.
 >
-> **BOY-BIRD:** Okay, certo...
+> **Ragazzo-uccello:** Okay, certo...
 >
-> **GIRL-BIRD:** Non c'è una risposta oggettiva al di fuori di te su cosa sia più buono tra vaniglia e cioccolato, ma non è nemmeno una scelta che spetti a te fare. È semplicemente come sei fatto. Le tue preferenze non dipendono da te, e non sono nemmeno oggettivamente convincenti per ogni mente possibile. Se incontrassi un alieno, non potresti convincerlo con la pura logica a trovare delizioso il mangime per uccelli alla vaniglia, e non potresti nemmeno convincerlo ad avere il senso dell'umorismo.
+> **Ragazza-uccello:** Non c'è una risposta oggettiva al di fuori di te su cosa sia più buono tra vaniglia e cioccolato, ma non è nemmeno una scelta che spetti a te fare. È semplicemente come sei fatto. Le tue preferenze non dipendono da te, e non sono nemmeno oggettivamente convincenti per ogni mente possibile. Se incontrassi un alieno, non potresti convincerlo con la pura logica a trovare delizioso il mangime per uccelli alla vaniglia, e non potresti nemmeno convincerlo ad avere il senso dell'umorismo.
 >
-> **BOY-BIRD:** Posso provarci\!\!
+> **Ragazzo-uccello:** Posso provarci\!\!
 >
-> **GIRL-BIRD:** Farò il tifo per te. Ma, okay, forse un modo migliore di dirlo è: esiste una proprietà complicata che possiedono le barzellette buone, e i nostri cervelli calcolano se gli enunciati hanno quella proprietà che chiamiamo "umorismo". E ci divertiamo quando un enunciato ha quella proprietà. L'*esistenza o assenza di quella proprietà* è un fatto oggettivo riguardo a un enunciato (come calcolato da te, in un dato contesto). Un alieno potrebbe imparare a fare il calcolo. Ma *la parte in cui troviamo quella proprietà piacevole* non è oggettiva. È meno come una previsione e più come... beh, non è esattamente una direzione, ma è un fatto ulteriore su di noi, che non sarebbe vero per la maggior parte degli alieni, perché il nostro umorismo si è evoluto lungo uno strano percorso evolutivo contorto, che di solito non capita. Non è che gli alieni sbaglino su quali barzellette siano divertenti; è che i loro cervelli semplicemente non calcolano proprio l'umorismo, non più di quanto giudichino le loro abitazioni in base al fatto che il numero di pietre al loro interno sia corretto. Semplicemente non gliene importa.
+> **Ragazza-uccello:** Farò il tifo per te. Ma, okay, forse un modo migliore di dirlo è: esiste una proprietà complicata che possiedono le barzellette buone, e i nostri cervelli calcolano se gli enunciati hanno quella proprietà che chiamiamo "umorismo". E ci divertiamo quando un enunciato ha quella proprietà. L'*esistenza o assenza di quella proprietà* è un fatto oggettivo riguardo a un enunciato (come calcolato da te, in un dato contesto). Un alieno potrebbe imparare a fare il calcolo. Ma *la parte in cui troviamo quella proprietà piacevole* non è oggettiva. È meno come una previsione e più come... beh, non è esattamente una direzione, ma è un fatto ulteriore su di noi, che non sarebbe vero per la maggior parte degli alieni, perché il nostro umorismo si è evoluto lungo uno strano percorso evolutivo contorto, che di solito non capita. Non è che gli alieni sbaglino su quali barzellette siano divertenti; è che i loro cervelli semplicemente non calcolano proprio l'umorismo, non più di quanto giudichino le loro abitazioni in base al fatto che il numero di pietre al loro interno sia giusto. Semplicemente non gliene importa.
 >
-> **BOY-BIRD:** Caspita, è una visione deprimente dell'universo. Alieni che non ridono mai, che hanno nidi con pietre completamente sbagliate... sicuramente se gli alieni ci pensassero abbastanza, si renderebbero conto di quanto si stanno perdendo? Vivere in nidi sbagliati, non trovare divertenti le barzellette, ignorare *completamente* i semi per uccelli alla vaniglia. Alla fine non troverebbero un modo per correggere questi difetti e darsi un senso dell'umorismo e tutto ciò che gli manca?
+> **Ragazzo-uccello:** Caspita, è una visione deprimente dell'universo. Alieni che non ridono mai, che hanno nidi con pietre completamente sbagliate... sicuramente se gli alieni ci pensassero abbastanza, si renderebbero conto di quanto si stanno perdendo? Vivere in nidi sbagliati, non trovare divertenti le barzellette, ignorare *completamente* i semi per uccelli alla vaniglia. Alla fine non troverebbero un modo per correggere questi difetti e darsi un senso dell'umorismo e tutto ciò che gli manca?
 >
-> **GIRL-BIRD:** Potrei capire che gli alieni vogliano cambiare, crescere e aggiungere nuovi obiettivi, forse. Ma perché dovrebbero scegliere proprio *quei* cambiamenti specifici?
+> **Ragazza-uccello:** Potrei capire che gli alieni vogliano cambiare, crescere e aggiungere nuovi obiettivi, forse. Ma perché dovrebbero scegliere proprio *quei* cambiamenti specifici?
 >
-> **BOY-BIRD:** Perché sarebbe così economico\! Quando quegli alieni fossero tecnologicamente avanzati e in grado di auto-modificarsi liberamente, probabilmente starebbero già camminando tra le stelle. Basterebbe solo una piccolissima frazione di tutte le loro risorse per mettere il numero corretto di pietre nei loro nidi\! E pensa a tutti i fantastici libri di barzellette che potrebbero creare, se solo dedicassero una piccola frazione delle loro risorse a fare ricerca sull'umorismo\! Non dovrebbero preoccuparsene molto, rispetto a quanto sarebbero ricchi. Sono davvero così monomaniacalmente ossessionati dalle loro priorità principali da non poter dedicare neanche un pochino a questo?
+> **Ragazzo-uccello:** Perché sarebbe così economico\! Quando quegli alieni fossero tecnologicamente avanzati e in grado di auto-modificarsi liberamente, probabilmente starebbero già camminando tra le stelle. Basterebbe solo una piccolissima frazione di tutte le loro risorse per mettere il numero giusto di pietre nei loro nidi\! E pensa a tutti i fantastici libri di barzellette che potrebbero creare, se solo dedicassero una piccola frazione delle loro risorse a fare ricerca sull'umorismo\! Non dovrebbero preoccuparsene molto, rispetto a quanto sarebbero ricchi. Sono davvero così monomaniacalmente ossessionati dalle loro priorità principali da non poter dedicare neanche un pochino a questo?
 >
-> **GIRL-BIRD:** Non sto dicendo che si preoccuperebbero solo un po' dei nidi corretti e che si rifiuterebbero ostinatamente di investire risorse nelle loro priorità minori. Sto dicendo che questa *non sarebbe affatto* una loro priorità. Semplicemente, domande del genere non farebbero parte di ciò che sono. E se andassero alla ricerca di nuove proprietà da aggiungere a se stessi, ne aggiungerebbero altre diverse, che servirebbero ancora meglio ai loro strani scopi. Non sono come noi. Forse potremmo essere amici, e forse abbiamo altre cose in comune. Forse l'amore, forse l'amicizia — queste mi sembrano meno complicate e contingenti. Potrei vederle nascere in parecchie specie evolute.
+> **Ragazza-uccello:** Non sto dicendo che si preoccuperebbero solo un po' dei nidi giusti e che si rifiuterebbero ostinatamente di investire risorse nelle loro priorità minori. Sto dicendo che questa *non sarebbe affatto* una loro priorità. Semplicemente, domande del genere non farebbero parte di ciò che sono. E se andassero alla ricerca di nuove proprietà da aggiungere a se stessi, ne aggiungerebbero altre diverse, che servirebbero ancora meglio ai loro strani scopi. Non sono come noi. Forse potremmo essere amici, e forse abbiamo altre cose in comune. Forse l'amore, forse l'amicizia — queste mi sembrano meno complicate e contingenti. Potrei vederle nascere in parecchie specie evolute.
 >
-> **BOY-BIRD:** Beh, se non gli alieni, che dire della creatura meccanica che potrebbero accidentalmente creare? *Quella* ascolterà la voce della ragione?
+> **Ragazzo-uccello:** Beh, se non gli alieni, che dire della creatura meccanica che potrebbero accidentalmente creare? *Quella* ascolterà la voce della ragione?
 >
-> **GIRL-BIRD:** Hmm. In realtà, temo che la situazione possa essere anche peggiore in quel caso. Pensando a quanto sarebbe diverso il processo di creazione di una macchina intelligente dal processo di evoluzione biologica, mi sento un po' meno ottimista che possa generare amore o amicizia, in quel caso esotico.
+> **Ragazza-uccello:** Hmm. In realtà, temo che la situazione possa essere anche peggiore in quel caso. Pensando a quanto sarebbe diverso il processo di creazione di una macchina intelligente dal processo di evoluzione biologica, mi sento un po' meno ottimista che possa generare amore o amicizia, in quel caso esotico.
 
 #### **I buoni piloti possono dirigersi verso destinazioni diverse** {#i-buoni-piloti-possono-dirigersi-verso-destinazioni-diverse}
 
@@ -1772,9 +1772,9 @@ Le menti di intelligenza simile non condivideranno necessariamente valori simili
 
 La tesi dell'ortogonalità dice che, in linea di principio, non è quasi mai molto più difficile perseguire un obiettivo per se stesso che perseguirlo per ragioni strumentali. Potreste imparare la falegnameria perché avete bisogno di costruire un tavolo, mentre il vostro vicino potrebbe impararla perché trova piacevole l'attività in sé.
 
-Una conseguenza di questa tesi è che non tutti gli agenti sufficientemente intelligenti apprezzano la gentilezza o la verità o l'amore, semplicemente in virtù dell'essere abbastanza intelligenti da comprenderli. Non è *confuso* o *fattualmente scorretto* per gli alieni del Nido Corretto apprezzare numeri primi di pietre nei loro nidi. Se diventassero più intelligenti, non si renderebbero improvvisamente conto che dovrebbero preoccuparsi di cose diverse. Menti diverse possono davvero semplicemente dirigersi verso destinazioni diverse.
+Una conseguenza di questa tesi è che non tutti gli agenti sufficientemente intelligenti apprezzano la gentilezza o la verità o l'amore, semplicemente in virtù dell'essere abbastanza intelligenti da comprenderli. Non è *confuso* o *fattualmente sbagliato* per gli alieni dal Nido Giusto apprezzare numeri primi di pietre nei loro nidi. Se diventassero più intelligenti, non si renderebbero improvvisamente conto che dovrebbero preoccuparsi di cose diverse. Menti diverse possono davvero semplicemente dirigersi verso destinazioni diverse.
 
-Naturalmente, tutto questo non dice nulla su quanto sia facile o difficile *creare* un'IA che persegua un obiettivo piuttosto che un altro. Qualsiasi metodo utilizzato per coltivare le IA renderà alcune preferenze più facili da instillare e altre preferenze più difficili da instillare.
+Naturalmente, tutto questo non dice nulla su quanto sia facile o difficile *creare* un'IA che persegua un obiettivo piuttosto che un altro. Qualsiasi metodo utilizzato per far crescere le IA renderà alcune preferenze più facili da instillare e altre preferenze più difficili da instillare.
 
 (Il capitolo 4, in un certo senso, tratta di come gli unici tipi di preferenze che sono sproporzionatamente facili da instillare tramite la discesa del gradiente siano quelli complessi, strani e non intenzionali. Quindi neanche su questo fronte le cose sembrano andare bene. Ma questo punto non è correlato alla tesi dell'ortogonalità).
 
@@ -2241,7 +2241,7 @@ Vorremmo che le galassie fossero piene di *entità che si prendono cura l'una de
 
 Pensiamo che *questo* andrà perso in futuro, se l'umanità non cambia rotta.
 
-# Capitolo 6: Perderemmo {#capitolo-6:-perderemmo}
+# Capitolo 6: Siamo destinati a perdere {#capitolo-6:-siamo-destinati-a-perdere}
 
 Questa è la risorsa online associata al Capitolo 6 di *Se qualcuno lo costruisce, tutti muoiono*. Gli argomenti che abbiamo saltato in questa pagina perché sono presenti nel libro includono (ma non si limitano a):
 
