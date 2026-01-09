@@ -402,7 +402,7 @@ Infine, alcuni [esperimenti in corso](https://neurosciencenews.com/optical-illus
 
 # Parte II: La nostra possibile estinzione {#parte-ii:-la-nostra-possibile-estinzione}
 
-Lo scenario che descriviamo nella Parte II non è una previsione. Il futuro potrebbe prendere molte altre direzioni, e una versione più lunga di *Se qualcuno lo costruisce, tutti muoiono* avrebbe esplorato diversi scenari possibili. Qui sotto spieghiamo alcune delle ragioni per cui abbiamo scelto di presentare lo scenario in quel modo, e descriviamo vari problemi che emergono quando si cerca di delineare uno scenario di questo tipo.
+Lo scenario che descriviamo nella Parte II non è una previsione. Il futuro potrebbe prendere molte altre direzioni, e una versione più lunga di *If Anyone Builds It, Everyone Dies* avrebbe esplorato diversi scenari possibili. Qui sotto spieghiamo alcune delle ragioni per cui abbiamo scelto di presentare lo scenario in quel modo, e descriviamo vari problemi che emergono quando si cerca di delineare uno scenario di questo tipo.
 
 Le storie possono essere avvincenti in modi che il ragionamento astratto non può eguagliare, e crediamo che abbia valore cercare di immaginare in modo concreto come potrebbe andare il futuro. Ma pensiamo anche che sia importante non fissarsi troppo su una particolare narrazione. Ogni decisione che prendiamo nello scenario può sembrare plausibile se considerata da sola, ma bastano poche scelte perché la probabilità complessiva di un determinato percorso diventi molto bassa. È questo che significa avere un futuro pieno di decisioni difficili.
 
@@ -1431,7 +1431,7 @@ Questo solleva una domanda ovvia: un'IA intelligente *permetterebbe* al proprio 
 
 In breve: no, non di default, come abbiamo discusso ne "[Il meccanismo profondo della direzione](#il-meccanismo-profondo-della-direzione)". Ma sarebbe possibile progettare un’IA più disposta a lasciarsi modificare dai suoi sviluppatori, e a permettere che correggano i loro errori, anche quando l’IA stessa [non li considererebbe errori](#ortogonalità:-le-ia-possono-avere-quasi-qualsiasi-obiettivo)?
 
-Per rispondere a questa domanda, dobbiamo fare un salto indietro nella storia della ricerca sul problema dell'allineamento dell'IA. Nel farlo, parleremo di uno degli ostacoli più profondi dell'allineamento che non abbiamo avuto spazio di affrontare in *Se qualcuno la costruisce, tutti muoiono*.
+Per rispondere a questa domanda, dobbiamo fare un salto indietro nella storia della ricerca sul problema dell'allineamento dell'IA. Nel farlo, parleremo di uno degli ostacoli più profondi dell'allineamento che non abbiamo avuto spazio di affrontare in *If Anyone Builds It, Everyone Dies*.
 
 Per cominciare:
 
@@ -1507,7 +1507,7 @@ Abbiamo chiamato questo ampio problema di ricerca "correggibilità" nel [documen
 
 # Capitolo 12: «Non voglio essere allarmista» {#capitolo-12:-«non-voglio-essere-allarmista»}
 
-Questa è la risorsa online per il capitolo 12 di *Se qualcuno lo costruisce, tutti muoiono*. Alcuni argomenti trattati nel libro, e non qui, includono:
+Questa è la risorsa online per il capitolo 12 di *If Anyone Builds It, Everyone Dies*. Alcuni argomenti trattati nel libro, e non qui, includono:
 
 * In che modo scienziati e ingegneri parlano attualmente di questo problema?  
 * In che modo i decisori politici ne parlano (o non ne parlano)?  
@@ -2030,7 +2030,7 @@ Considerando quello che abbiamo detto nei capitoli precedenti, pensiamo che l'un
 
 Di seguito, affrontiamo le obiezioni alla nostra proposta e rispondiamo ad altre domande sul perché pensiamo che non ci siano altre buone opzioni. Approfondiamo anche la questione di cosa l'umanità potrebbe fare del tempo (alla fine limitato) che guadagneremmo fermando la ricerca e lo sviluppo dell'IA il più a lungo possibile.
 
-Questa è l'ultima delle pagine di domande frequenti e discussioni approfondite su *Se qualcuno lo costruisce, moriamo tutti*. Il capitolo finale, il capitolo 14, tratterà domande come:
+Questa è l'ultima delle pagine di domande frequenti e discussioni approfondite su *If Anyone Builds It, Everyone Dies*. Il capitolo finale, il capitolo 14, tratterà domande come:
 
 * È troppo tardi? O l'umanità può davvero cambiare rotta?  
 * Cosa posso fare per aiutare?

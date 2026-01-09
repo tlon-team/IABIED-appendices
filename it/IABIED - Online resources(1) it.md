@@ -336,7 +336,7 @@ Nel corso della storia umana sono accadute moltissime cose terribili, ma alcune 
 
 # Capitolo 1: Il potere speciale dell’umanità {#capitolo-1:-il-potere-speciale-dell-umanità}
 
-Questo è il supplemento online al Capitolo 1 di [*Se qualcuno lo costruisce, tutti muoiono*](https://www.amazon.com/gp/product/0316595640). Di seguito, parleremo delle domande più comuni e approfondiremo gli argomenti trattati nel libro.
+Questo è il supplemento online al Capitolo 1 di [*If Anyone Builds It, Everyone Dies*](https://www.amazon.com/gp/product/0316595640). Di seguito, parleremo delle domande più comuni e approfondiremo gli argomenti trattati nel libro.
 
 Alcuni argomenti non trattati di seguito, perché sono trattati nel Capitolo 1 del libro, includono:
 
@@ -1710,7 +1710,7 @@ Per comprendere l'accaduto, è importante considerare se si ritiene che i creato
 
 È grave in un certo modo se i creatori di Grok hanno creato MechaHitler di proposito; è grave in un modo diverso se i creatori hanno ottenuto MechaHitler *per caso*, cercando di spingere Grok in una qualche direzione (possibilmente non correlata) senza essere in grado di prevedere gli effetti che ciò avrebbe avuto sul comportamento di Grok.[^56]
 
-Speriamo che le informazioni fornite in *Se qualcuno lo costruisce, muoiono tutti* costituiscano un utile baluardo contro idee sbagliate comuni e disinformazione. Per i lettori interessati a maggiori dettagli, forniamo una spiegazione più completa di come funziona un modello linguistico di grandi dimensioni specifico [qui sotto](#descrizione-completa-di-un-modello-linguistico-di-grandi-dimensioni).
+Speriamo che le informazioni fornite in *If Anyone Builds It, Everyone Dies* costituiscano un utile baluardo contro idee sbagliate comuni e disinformazione. Per i lettori interessati a maggiori dettagli, forniamo una spiegazione più completa di come funziona un modello linguistico di grandi dimensioni specifico [qui sotto](#descrizione-completa-di-un-modello-linguistico-di-grandi-dimensioni).
 
 Sarà abbastanza? Alcune persone sostengono che solo chi si trova all'avanguardia assoluta della ricerca attuale possa sapere se le IA (simili ai modelli linguistici di grandi dimensioni o meno) siano destinate a distruggere l'umanità.
 
@@ -1954,7 +1954,7 @@ Costruire IA che possono fare cose sufficientemente notevoli tenderà a far sì 
 
 Quando diciamo che un'IA "desidera" qualcosa, non intendiamo che avrà necessariamente desideri o sentimenti simili a quelli umani. Forse li avrà, o forse no. Quello che intendiamo, invece, è che l'IA si comporterà *come se* desiderasse delle cose. Dirigerà in modo affidabile il mondo verso certi tipi di risultati, prevedendo ostacoli, adattandosi a circostanze mutevoli e rimanendo concentrata, mirata e motivata.
 
-Nel Capitolo 3 di *If Anyone Builds It, Everyone Dies* (Se qualcuno lo costruisce, muoiono tutti), trattiamo argomenti quali:
+Nel Capitolo 3 di *If Anyone Builds It, Everyone Dies*, trattiamo argomenti quali:
 
 * Come potrebbe una macchina acquisire la capacità di "desiderare" le cose, nel senso rilevante?  
 * Ci sono prove che le IA possano desiderare qualcosa?  
@@ -2423,7 +2423,7 @@ A un certo punto, la mente prodotta dalla discesa del gradiente smette di essere
 
 # Capitolo 4: Non otterremo quello per cui ci siamo impegnati {#capitolo-4:-non-otterremo-quello-per-cui-ci-siamo-impegnati}
 
-Questa è la risorsa online per il Capitolo 4 di *Se qualcuno lo costruisce, tutti muoiono*. Alcune delle domande che trattiamo implicitamente in quel capitolo (e che quindi saltiamo qui sotto) includono:
+Questa è la risorsa online per il Capitolo 4 di *If Anyone Builds It, Everyone Dies*. Alcune delle domande che trattiamo implicitamente in quel capitolo (e che quindi saltiamo qui sotto) includono:
 
 * Cosa vorranno le IA?  
 * Perché un'IA addestrata per essere utile dovrebbe finire per volere le cose "sbagliate"? Non sarebbe uno svantaggio che verrebbe eliminato durante l'addestramento?  

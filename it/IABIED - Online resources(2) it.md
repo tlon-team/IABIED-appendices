@@ -925,7 +925,7 @@ Anche quando i laboratori concentrano quasi tutti i loro sforzi per far apparire
 
 # Capitolo 5: Le cose che piacciono a lei {#capitolo-5:-le-cose-che-piacciono-a-lei}
 
-Questa è la risorsa online per il Capitolo 5 di *Se qualcuno lo costruisce, tutti muoiono*. Alcuni argomenti che *non* trattiamo in questa pagina, perché sono affrontati nel libro, includono:
+Questa è la risorsa online per il Capitolo 5 di *If Anyone Builds It, Everyone Dies*. Alcuni argomenti che *non* trattiamo in questa pagina, perché sono affrontati nel libro, includono:
 
 * Quale motivazione avrebbe l'IA per spazzarci via?  
 * Le IA sufficientemente intelligenti non scopriranno che la cosa giusta da fare è aiutarci a prosperare tutti insieme?  
@@ -2243,7 +2243,7 @@ Pensiamo che *questo* andrà perso in futuro, se l'umanità non cambia rotta.
 
 # Capitolo 6: Siamo destinati a perdere {#capitolo-6:-siamo-destinati-a-perdere}
 
-Questa è la risorsa online associata al Capitolo 6 di *Se qualcuno lo costruisce, tutti muoiono*. Gli argomenti che abbiamo saltato in questa pagina perché sono presenti nel libro includono (ma non si limitano a):
+Questa è la risorsa online associata al Capitolo 6 di *If Anyone Builds It, Everyone Dies*. Gli argomenti che abbiamo saltato in questa pagina perché sono presenti nel libro includono (ma non si limitano a):
 
 * Come potrebbe l'IA battere l'umanità in uno scontro?  
 * In che modo l'IA può minacciarci se è bloccata dentro un computer?  
