@@ -104,7 +104,8 @@ Un'attrice non è il personaggio che interpreta. Gli MLGD *imitano* gli esseri u
 
 Questo modo di pensare agli MLGD è stato reso celebre da [Tetraspace](https://x.com/TetraspaceWest/status/1608966939929636864) (un nostro lettore) con la rappresentazione del [meme dello "shoggoth dell'IA"](https://www.nytimes.com/2023/05/30/technology/shoggoth-meme-ai.html),[^88] che [oggi](https://x.com/AISafetyMemes) [è](https://x.com/jacyanthis/status/1631291175381475331) [famoso](https://medium.com/@shoggothcoin/the-story-of-shoggoth-ca760ef288ff) nel mondo dell'IA:
 
-![][image8]
+![](./image8.jpg)
+*“Io semplicemente esibisco i comportamenti che sono stati ingegnerizzati nella mia programmazione dai miei creatori”*
 
 A volte Claude indossa una maschera da angelo e cerca di rimanere innocuo. Altre volte Claude indossa una maschera da demone e tenta di uccidere i suoi operatori. Nessuna di queste cose dice molto su cosa farebbe una versione superintelligente di Claude, ammesso che abbia persino senso porsi la domanda. Il che significa che — alla luce delgli [strani comportamenti ai margini](#gli-sviluppatori-non-rendono-regolarmente-le-loro-ia-gentili-sicure-e-obbedienti?) — la previsione più sensata torna a essere quella di un mare caotico di possibili preferenze, quasi tutte destinate a portare all’estinzione umana se ottimizzate da una superintelligenza.[^89]
 
@@ -246,7 +247,7 @@ Le banche del seme e degli ovuli *pagano i donatori per il loro disturbo*, invec
 
 La maggior parte dei tiranni nel corso della storia non ha nemmeno *provato* a usare il proprio potere per avere migliaia di figli. E i tassi di natalità effettivi nel mondo oggi sono [in calo](https://ourworldindata.org/global-decline-fertility-rate).
 
-![][image9]
+![](./image9.png)
 
 Molti umani apprezzano avere figli, ma molti altri no, ed è estremamente raro che qualcuno cerchi di *massimizzare* il numero dei propri discendenti (ad esempio, ricorrendo il più possibile alle banche del seme). Al contrario, gli umani competono soprattutto per cose come il sesso, la fama e il potere — che sono, nel migliore dei casi, *proxy* imperfetti dell'idoneità riproduttiva.
 
@@ -2031,7 +2032,7 @@ I matematici e i teorici dei giochi hanno analizzato i dilemmi della cooperazion
 
 Denunciare l'altro prigioniero si chiama "tradire"; rifiutarsi di farlo si chiama "cooperare". La struttura chiave del dilemma del prigioniero è che entrambe le parti ottengono un risultato migliore nello scenario (Coopera, Coopera) rispetto allo scenario (Tradisci, Tradisci); ma si può ottenere un risultato migliore di (Coopera, Coopera) giocando Tradire contro Cooperare, e si può ottenere un risultato peggiore giocando Cooperare quando l'altra parte gioca Tradire.
 
-![][immagine10]
+![](./image10.png)
 
 Una persona normale, sentendo la versione standard del dilemma del prigioniero, pensa immediatamente a numerose obiezioni sull'impostazione di questo esperimento mentale, una delle quali è: "Ma chi lo dice che mi interessa solo quanti anni passerò in prigione? Non posso anche preoccuparmi di non tradire i miei compagni?"
 
@@ -2095,9 +2096,8 @@ Ricordiamo che Deep Blue non aveva bisogno di essere cosciente per battere i mig
 
 Questo punto può essere rafforzato guardando ai modelli formali di ragionamento. AIXI, per esempio, è un'equazione che definisce un ragionatore enormemente superumano.[^165] L'intero algoritmo di AIXI può essere espresso in una sola riga, senza passaggi in cui AIXI faccia qualcosa di cosciente o autocosciente o di misterioso. Eppure, nonostante questo, AIXI è teoricamente in grado di risolvere un'incredibile varietà di problemi complicati di direzione e previsione. O almeno, *sarebbe* in grado di farlo, se fosse possibile crearlo.[^166] Ecco l'equazione AIXI:
 
-![][image11]
-
-\[ fonte immagine: [https://www.hutter1.net/ai/uaibook.htm](https://www.hutter1.net/ai/uaibook.htm) \]
+![](./image11.png)
+*Fonte immagine:* [https://www.hutter1.net/ai/uaibook.htm](https://www.hutter1.net/ai/uaibook.htm)
 
 AIXI è un costrutto teorico, non un algoritmo pratico che possiamo usare per risolvere in modo efficiente i problemi del mondo reale. Ma poiché AIXI è *semplice* e facile da analizzare, può aiutarci a riflettere sul concetto stesso di direzione e pianificazione e a capire che almeno non c'è alcun modo *ovvio* in cui queste attività richiedano la coscienza. Se la coscienza *è* necessaria per una direzione e una pianificazione superumane nel mondo reale, allora deve essere dovuta a qualche aspetto più sottile della cognizione che non è catturato dal formalismo AIXI.[^167]
 
