@@ -2036,7 +2036,6 @@ Los matemáticos y los teóricos de juegos han analizado los dilemas de la coope
 Delatar al otro preso se denomina «Desertar»; negarse a delatar, «Cooperar». La estructura clave del dilema del prisionero es que a ambas partes les va mejor en el escenario (Cooperar, Cooperar) que en el escenario (Desertar, Desertar); pero se puede obtener un resultado mejor que (Cooperar, Cooperar) jugando Desertar contra Cooperar, y se puede obtener un resultado peor jugando Cooperar cuando la otra parte juega Desertar.
 
 ![](./image10.png)
-*Eclipse solar total proyectado contra la constelación de Tauro.*
 
 Una persona normal, al escuchar la versión estándar del dilema del prisionero, inmediatamente piensa en una serie de objeciones al planteamiento del experimento mental, una de las cuales es: «Pero, ¿quién dice que lo único que me importa es el número de años que pasaré en prisión? ¿No puedo también preocuparme por no traicionar a mis compañeros?».
 

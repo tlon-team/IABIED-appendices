@@ -56,7 +56,7 @@ Como caso de estudio: la [teoría de la relatividad general](http://eotvos.dm.un
 Pero esa espera de ocho años no impidió ningún progreso científico real.
 
 ![](./image12.png)
-*Fuente de la imagen:* [https://en.wikipedia.org/wiki/Eddington\_experiment](https://en.wikipedia.org/wiki/Eddington_experiment)
+*Eclipse solar total proyectado contra la constelación de Tauro. Fuente de la imagen:* [https://en.wikipedia.org/wiki/Eddington\_experiment](https://en.wikipedia.org/wiki/Eddington_experiment)
 
 Una de las razones es que la teoría de Einstein era claramente correcta: ya había sido validada con datos como el movimiento del perihelio de Mercurio, que la teoría de Newton había predicho de forma inexacta y la de Einstein, con precisión. Los científicos no consideraron esta predicción como un acierto porque los datos se habían recopilado antes de que Einstein planteara su teoría, y querían validar las predicciones que su teoría hacía antes de ver los datos. Pero este es el tipo de muleta que necesita una civilización cuando tiene graves problemas con el [sesgo retrospectivo](https://www.lesswrong.com/posts/WnheMGAka4fL99eae/hindsight-devalues-science), el [sesgo de confirmación](https://en.wikipedia.org/wiki/Confirmation_bias) y científicos que hacen trampa para [exagerar la evidencia de sus hipótesis](https://www.lesswrong.com/posts/afmj8TKAqH6F2QMfZ/a-technical-explanation-of-technical-explanation). Ninguna de estas características es necesaria para un buen razonamiento. De hecho, los pensadores atentos pudieron determinar si la teoría de Einstein era correcta mucho antes del experimento de Eddington, utilizando la evidencia de la que ya disponían.
 

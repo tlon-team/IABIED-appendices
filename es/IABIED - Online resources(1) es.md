@@ -2210,7 +2210,7 @@ Tenemos que decirle a nuestro propio cerebro que *sea* ese cerebro, que nosotros
 Por eso las portadas de las revistas *pulp* muestran monstruos alienígenas con ojos saltones que se llevan a mujeres hermosas.
 
 ![](./image6.png)
-*Portada de un número de* Planet Stories*, revista de ciencia ficción que se publicó de 1939 a 1955 y contó con colaboradores de la talla de Ray Bradburry e Isaac Asimov.*
+*Portada de un número de Planet Stories, revista de ciencia ficción que se publicó de 1939 a 1955 y contó con colaboradores de la talla de Ray Bradburry e Isaac Asimov.*
 
 ¿Por qué no iba a sentirse atraído por una mujer hermosa un monstruo alienígena con ojos saltones? ¿Acaso las mujeres hermosas no son inherentemente atractivas?
 
