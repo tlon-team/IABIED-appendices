@@ -107,7 +107,8 @@ Una actriz no es el personaje que interpreta. Los LLM *imitan* a los humanos, pe
 
 Esta forma de pensar sobre los LLM fue descrita por [Tetraspace](https://x.com/TetraspaceWest/status/1608966939929636864) (uno de nuestros lectores) en el [meme «AI shoggoth»](https://www.nytimes.com/2023/05/30/technology/shoggoth-meme-ai.html),[^88] que [es](https://x.com/AISafetyMemes) [ahora](https://x.com/jacyanthis/status/1631291175381475331) [popular](https://medium.com/@shoggothcoin/the-story-of-shoggoth-ca760ef288ff) en el ámbito de la IA:
 
-![][image8]
+![](./image8.jpg)
+*«No hago más que manifestar los comportamientos que mis creadores integraron en mi programación».*
 
 A veces Claude se pone una máscara de ángel e intenta preservar su inocuidad. A veces Claude se pone una máscara de demonio e intenta matar a sus operadores. Ninguna de estas cosas dice mucho sobre lo que haría una versión superinteligente de Claude, si es que tiene sentido plantearse la pregunta. Lo que significa que, a la luz del [extraño comportamiento en los márgenes](#¿no-hacen-los-desarrolladores-regularmente-que-sus-ia-sean-buenas,-seguras-y-obedientes?), la mejor predicción se reduce a un mar predeterminado de preferencias posibles que parecen caóticas, casi todas las cuales significarían la extinción humana si fueran optimizadas por una superinteligencia.[^89]
 
@@ -249,7 +250,7 @@ Los bancos de esperma y óvulos *les pagan a los donantes por las molestias*, en
 
 La mayoría de los tiranos a lo largo de la historia ni siquiera *intentaron* usar su poder para tener miles de hijos. Y las tasas de natalidad reales en el mundo actual están [disminuyendo](https://ourworldindata.org/global-decline-fertility-rate).
 
-![][image9]
+![](./image9.png)
 
 Muchos humanos valoran tener hijos, pero muchos otros no, y es extremadamente raro que alguien intente *maximizar* su número de descendientes (por ejemplo, acudiendo a bancos de esperma tanto como sea posible). En cambio, los humanos compiten en gran medida por cosas como el sexo, la fama y el poder, cosas que son, en el mejor de los casos, *sustitutos* imperfectos de la aptitud reproductiva.
 
@@ -2034,7 +2035,8 @@ Los matemáticos y los teóricos de juegos han analizado los dilemas de la coope
 
 Delatar al otro preso se denomina «Desertar»; negarse a delatar, «Cooperar». La estructura clave del dilema del prisionero es que a ambas partes les va mejor en el escenario (Cooperar, Cooperar) que en el escenario (Desertar, Desertar); pero se puede obtener un resultado mejor que (Cooperar, Cooperar) jugando Desertar contra Cooperar, y se puede obtener un resultado peor jugando Cooperar cuando la otra parte juega Desertar.
 
-![][image10]
+![](./image10.png)
+*Eclipse solar total proyectado contra la constelación de Tauro.*
 
 Una persona normal, al escuchar la versión estándar del dilema del prisionero, inmediatamente piensa en una serie de objeciones al planteamiento del experimento mental, una de las cuales es: «Pero, ¿quién dice que lo único que me importa es el número de años que pasaré en prisión? ¿No puedo también preocuparme por no traicionar a mis compañeros?».
 
@@ -2098,9 +2100,8 @@ Recordemos que Deep Blue no necesitaba ser consciente para superar a los mejores
 
 Este punto puede reforzarse observando los modelos formales de razonamiento. AIXI, por ejemplo, es una ecuación que define un razonador ampliamente superhumano.[^165] Todo el algoritmo de AIXI puede expresarse en una sola línea, sin pasos en el algoritmo en los que AIXI haga nada consciente o autoconsciente o en absoluto misterioso. Sin embargo, a pesar de ello, AIXI es teóricamente capaz de resolver una increíble variedad de complicados problemas de dirección y predicción. O, al menos, *sería* capaz de hacerlo, si fuera posible crearlo.[^166] Esta es la ecuación de AIXI:
 
-![][image11]
-
-\[ image source: [https://www.hutter1.net/ai/uaibook.htm](https://www.hutter1.net/ai/uaibook.htm) \]
+![](./image11.png)
+*Fuente de la imagen:* [https://www.hutter1.net/ai/uaibook.htm](https://www.hutter1.net/ai/uaibook.htm)
 
 AIXI es un constructo teórico, no un algoritmo práctico que podamos ejecutar para resolver problemas de manera eficiente en el mundo real. Pero como AIXI es *simple* y fácil de analizar, puede ayudarnos a reflexionar sobre el concepto mismo de dirección y planificación y ver que, al menos, no hay ninguna forma *obvia* en la que estas actividades requieran conciencia. Si la conciencia *es* necesaria para la dirección y la planificación sobrehumanas en el mundo real, entonces debe deberse a algún aspecto más sutil de la cognición que no se capta en el formalismo de AIXI.[^167]
 

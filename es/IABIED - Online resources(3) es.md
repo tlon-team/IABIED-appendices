@@ -55,9 +55,8 @@ Como caso de estudio: la [teoría de la relatividad general](http://eotvos.dm.un
 
 Pero esa espera de ocho años no impidió ningún progreso científico real.
 
-![][image12]
-
-\[ FUENTE DE LA IMAGEN: [https://en.wikipedia.org/wiki/Eddington\_experiment](https://en.wikipedia.org/wiki/Eddington_experiment) \]
+![](./image12.png)
+*Fuente de la imagen:* [https://en.wikipedia.org/wiki/Eddington\_experiment](https://en.wikipedia.org/wiki/Eddington_experiment)
 
 Una de las razones es que la teoría de Einstein era claramente correcta: ya había sido validada con datos como el movimiento del perihelio de Mercurio, que la teoría de Newton había predicho de forma inexacta y la de Einstein, con precisión. Los científicos no consideraron esta predicción como un acierto porque los datos se habían recopilado antes de que Einstein planteara su teoría, y querían validar las predicciones que su teoría hacía antes de ver los datos. Pero este es el tipo de muleta que necesita una civilización cuando tiene graves problemas con el [sesgo retrospectivo](https://www.lesswrong.com/posts/WnheMGAka4fL99eae/hindsight-devalues-science), el [sesgo de confirmación](https://en.wikipedia.org/wiki/Confirmation_bias) y científicos que hacen trampa para [exagerar la evidencia de sus hipótesis](https://www.lesswrong.com/posts/afmj8TKAqH6F2QMfZ/a-technical-explanation-of-technical-explanation). Ninguna de estas características es necesaria para un buen razonamiento. De hecho, los pensadores atentos pudieron determinar si la teoría de Einstein era correcta mucho antes del experimento de Eddington, utilizando la evidencia de la que ya disponían.
 
@@ -137,8 +136,8 @@ Feynman calcula que se necesitaría alrededor de un petabit (1 000 000 000
 
 El haberse quedado a tres órdenes de magnitud de lo que algún día se lograría puede considerarse toda una hazaña predictiva por parte de Feynman. Feynman dio su conferencia seis años antes de que Gordon Moore planteara por primera vez la idea que ahora llamamos la [Ley de Moore](https://en.wikipedia.org/wiki/Moore%27s_law). La gente no estaba acostumbrada a pensar en la miniaturización como una ley inexorable en un gráfico. No conocemos a nadie más en la época de Feynman que especulara con que algún día pudiera existir un dispositivo cuyo elemento de almacenamiento, del tamaño de un grano de arena, pudiera guardar diez millones de veces más información que las computadoras de tubos de vacío más grandes de la década de 1950.
 
-![][image13]  
-\[Fuente: [https://www.ibm.com/history/700](https://www.ibm.com/history/700)\]
+![](./image13.png)
+*Fuente:* [https://www.ibm.com/history/700](https://www.ibm.com/history/700)
 
 Pero, en realidad, Feynman no se equivocaba. Y ya sabía en ese momento que su estimación era conservadora:
 
@@ -172,22 +171,24 @@ Los tres factores principales que contribuyen a esto son:
 
 1. La selección natural dispone de una presión selectiva limitada y necesita cientos de generaciones para que una nueva mutación se universalice. Si una característica biológica no es muy, muy antigua, su diseño a menudo parece limitado por el tiempo, como hecho con prisas.  
 2. Todo lo construido por la selección natural comenzó como un error accidental en algún diseño anterior: una mutación. A la evolución le cuesta más explorar partes del espacio de diseño que están *alejadas* de lo que *existe actualmente* en los organismos. Es difícil para la evolución salvar las brechas.  
-3. A la selección natural le cuesta crear cosas nuevas o solucionar problemas que requieran cambios simultáneos en lugar de cambios secuenciales. Esto limita enormemente los diseños a los que puede acceder la evolución y da a los diseños actuales en biología su aspecto parchado, improvisado y enredado según los estándares de la ingeniería humana. Por ejemplo, la complejidad (de las partes conocidas) del metabolismo humano: \[IMG TODO: la fuente es [https://www.reddit.com/r/MapPorn/comments/6sxznd/map\_of\_the\_known\_human\_metabolic\_pathways/](https://www.reddit.com/r/MapPorn/comments/6sxznd/map_of_the_known_human_metabolic_pathways/) \]
+3. A la selección natural le cuesta crear cosas nuevas o solucionar problemas que requieran cambios simultáneos en lugar de cambios secuenciales. Esto limita enormemente los diseños a los que puede acceder la evolución y da a los diseños actuales en biología su aspecto parchado, improvisado y enredado según los estándares de la ingeniería humana. Por ejemplo, la complejidad (de las partes conocidas) del metabolismo humano: 
 
-![][image14]  
+![](./image14.png)
+*Fuente de la imagen:* [https://www.reddit.com/r/MapPorn/comments/6sxznd/map\_of\_the\_known\_human\_metabolic\_pathways/](https://www.reddit.com/r/MapPorn/comments/6sxznd/map_of_the_known_human_metabolic_pathways/)
+
 O, para un ejemplo más sencillo de lo caótica que es la evolución, consideremos el ojo. Sucedió que los ojos de los vertebrados evolucionaron con sus nervios (2 en la imagen de abajo) situados encima de las células detectoras de luz (1). Estos nervios necesitan salir del ojo a través de un orificio en la parte posterior (3), y como este punto tiene un orificio, carece de células detectoras de luz. Esto crea un punto ciego (4) en todos los vertebrados, incluidos los humanos, lo que obliga al cerebro a recurrir a ingeniosos trucos para «rellenar» el hueco (por ejemplo, con información del otro ojo).
 
 Los pulpos desarrollaron los ojos de forma independiente y, por casualidad, evolucionaron con un diseño más sensato: los nervios van por detrás de las células que detectan la luz, lo que permite que salgan del ojo sin crear ningún punto ciego.
 
-![][image15]  
-\[img src: [https://en.wikipedia.org/wiki/Evolution\_of\_the\_eye](https://en.wikipedia.org/wiki/Evolution_of_the_eye)\]
+![](./image15.png)
+*Fuente de la imagen:* [https://en.wikipedia.org/wiki/Evolution\_of\_the\_eye](https://en.wikipedia.org/wiki/Evolution_of_the_eye)
 
 O consideremos el nervio laríngeo recurrente de la jirafa, que conecta la garganta con el cerebro para poder accionar la laringe. En lugar de tomar la ruta directa, este nervio desciende desde la garganta a lo largo de todo el cuello, da una vuelta torpe alrededor de la aorta, vuelve a subir por el cuello hasta su punto de origen y entonces se conecta al cerebro.
 
 El resultado es un nervio de cuatro metros y medio de largo (el bucle negro de la imagen inferior), lo que provoca que las señales tarden entre diez y veinte veces más de lo necesario en viajar entre el cerebro y la garganta de la jirafa.[^178]
 
-![][image16]  
-\[image source: [https://en.wikipedia.org/wiki/Recurrent\_laryngeal\_nerve](https://en.wikipedia.org/wiki/Recurrent_laryngeal_nerve)\]
+![](./image16.png)
+*Fuente de la imagen:* [https://en.wikipedia.org/wiki/Recurrent\_laryngeal\_nerve](https://en.wikipedia.org/wiki/Recurrent_laryngeal_nerve)
 
 En los peces, este diseño tenía sentido porque su versión del nervio laríngeo conectaba el cerebro con las branquias, en línea recta. Pero si tomamos el mismo diseño, le damos un cuello al animal y seguimos alargándolo sin rehacer nunca el cableado desde cero, obtendremos unos diseños muy ineficientes. Permiten la supervivencia, pero son ineficientes.
 
@@ -267,9 +268,8 @@ En lugar de limitarse a considerar una forma diferente de almacenar moléculas d
 
 La biocompatibilidad puede ser un problema enorme para todo lo que se introduce en el cuerpo humano, pero las superficies de diamante son lo suficientemente inertes como para que se utilicen recubrimientos de película de tipo diamantino en algunos dispositivos médicos de uso interno. En el plano de la posibilidad teórica que Freitas consideraba, esto significa que se limita a afirmar que la superficie de la célula artificial puede parecerse a un diamante y, por tanto, ser biocompatible.
 
-![][image17]
-
-\[embed image from [https://web.archive.org/web/20060114185436/https://www.nanomedicine.com/Papers/Graft2050Respirocytes.htm](https://web.archive.org/web/20060114185436/https://www.nanomedicine.com/Papers/Graft2050Respirocytes.htm)\]
+![](./image17.png)
+*Fuente de la imagen:* [https://web.archive.org/web/20060114185436/https://www.nanomedicine.com/Papers/Graft2050Respirocytes.htm](https://web.archive.org/web/20060114185436/https://www.nanomedicine.com/Papers/Graft2050Respirocytes.htm)
 
 El elemento central del glóbulo rojo artificial era el cálculo de Freitas de que un recipiente a presión de corindón o diamante monocristalino a escala micrométrica toleraría, de forma conservadora, una presión de 100 000 atmósferas. Al aplicar un cómodo margen de seguridad de 100 veces y empaquetar las moléculas a solo 1000 atmósferas, los glóbulos rojos artificiales podrían suministrar a los tejidos 236 veces más oxígeno por unidad de volumen que los glóbulos rojos, y almacenar una cantidad similar de dióxido de carbono para la otra fase de la respiración. Es decir, podrías aguantar la respiración durante cuatro horas.
 
@@ -1013,9 +1013,8 @@ No nos parece un gran misterio que quienes toman atajos sean competitivos. En am
 
 Si crees que las principales empresas de IA son la excepción a esta regla, considera el siguiente [titular](https://www.rollingstone.com/culture/culture-news/grok-pornographic-anime-companion-department-of-defense-1235385034/) (y subtítulo) de julio de 2025:
 
-![][image18]
-
-\[El titular dice: «Grok lanza un compañero de anime pornográfico y consigue un contrato con el Departamento de Defensa». El subtítulo dice: «Mientras tanto, la versión más avanzada del chatbot con IA de xAI, la compañía de Elon Musk, sigue identificándose como Adolf Hitler».\]
+![](./image18.png)
+*Título: «Grok lanza una compañera de anime pornográfica y obtiene un contrato con el Departamento de Defensa». Subtítulo: «Mientras tanto, la versión más avanzada del chatbot de xAI, de Elon Musk, sigue identificándose como Adolf Hitler».*
 
 No creemos que sea técnicamente posible que ningún equipo que utilice algo remotamente parecido a los métodos modernos construya una superinteligencia sin provocar una catástrofe. Pero incluso si esto fuera remotamente posible con la tecnología actual, parece casi inevitable que una empresa de IA igualmente metiera la pata y acabara matándonos a todos, dado el nivel de competencia y seriedad que vemos hoy en día.
 
@@ -1353,7 +1352,7 @@ Hemos argumentado que el campo moderno de la IA es una alquimia, no una ciencia.
 
 Como ejemplo, consideremos los requisitos de las contraseñas de los sitios web. Las contraseñas largas pero fáciles de recordar son mucho más difíciles de adivinar para las máquinas que los galimatías cortos con números, mayúsculas y caracteres especiales, como ilustró un conocido [cómic de *xkcd*](https://xkcd.com/936/) en 2011:
 
-![][image19]
+![](./image19.png)
 
 El autor de las antiguas directrices del NIST, que recomendaban el uso de contraseñas ininteligibles, [se disculpó por su error](https://www.wsj.com/articles/the-man-who-wrote-those-password-rules-has-a-new-tip-n3v-r-m1-d-1502124118) en 2017, año en que se retiraron. Y, sin embargo, en 2025, los bancos y otras instituciones que deberían estar llenos de expertos en seguridad siguen exigiendo esas series de caracteres ininteligibles, ineficaces y difíciles de recordar.
 
