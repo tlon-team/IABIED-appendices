@@ -1,2 +1,0 @@
-Translate the text from English into Russian. Follow the instructions in guidelines. Try to make the translation easy to read. 
-After each paragraph, without exceptions, immediately skip one line, reread your translation and check that you followed the guidelines. Write what is wrong inside angle brackets. If you think that you followed everything, point to one place where you think the translation could be better. If you think everything is right and couldn't be better, just write "<>". Don't waste the space to tell how good your translation is.
