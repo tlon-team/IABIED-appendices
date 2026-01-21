@@ -56,7 +56,7 @@ Come caso di studio: ci sono voluti otto anni perché la [teoria della relativit
 Ma quell'attesa di otto anni non bloccò alcun reale progresso scientifico.
 
 ![](./image12.png)
-*Eclissi solare totale con la costellazione del Toro sullo sfondo. Fonte immagine:* [https://en.wikipedia.org/wiki/Eddington\_experiment](https://en.wikipedia.org/wiki/Eddington_experiment)
+*Eclissi solare totale con la costellazione del Toro sullo sfondo. Fonte immagine:* [Wikipedia](https://en.wikipedia.org/wiki/Eddington_experiment)
 
 Una delle ragioni è che la teoria di Einstein era chiaramente corretta: era già stata validata su dati come il moto del perielio di Mercurio — previsto in modo impreciso dalla teoria di Newton e in modo accurato da quella di Einstein. Gli scienziati umani non consideravano questa previsione un successo perché i dati erano stati raccolti prima che Einstein formulasse la sua teoria, e volevano validare previsioni che la sua teoria faceva prima di vedere i dati. Ma questo è il tipo di stampella di cui una civiltà ha bisogno quando ha seri problemi con il [bias del senno di poi](https://www.lesswrong.com/posts/WnheMGAka4fL99eae/hindsight-devalues-science), il [bias di conferma](https://it.wikipedia.org/wiki/Bias_di_conferma), e scienziati che barano per [gonfiare le prove a sostegno delle loro ipotesi](https://www.lesswrong.com/posts/afmj8TKAqH6F2QMfZ/a-technical-explanation-of-technical-explanation). Nessuna di queste è una caratteristica necessaria del buon ragionamento. E infatti, i pensatori attenti riuscirono a capire che la teoria di Einstein era corretta ben prima dell'esperimento di Eddington, usando le prove già disponibili.
 
@@ -137,7 +137,7 @@ Forse Feynman si sbagliava sui limiti ultimi dell'ingegneria in senso pratico? N
 E arrivare a un risultato entro tre ordini di grandezza da ciò che un giorno sarebbe stato effettivamente raggiunto può essere considerato un notevole colpo di previsione da parte di Feynman. Feynman tenne la sua conferenza sei anni prima che Gordon Moore formulasse per la prima volta l'idea che oggi chiamiamo [Legge di Moore](https://it.wikipedia.org/wiki/Legge_di_Moore). La gente non era abituata a pensare alla miniaturizzazione come a una legge ineluttabile su un grafico. Non sappiamo di nessun altro ai tempi di Feynman che abbia ipotizzato che un giorno potesse esistere un dispositivo il cui elemento di memoria, grande come un granello di sabbia, potesse contenere dieci milioni di volte più informazioni dei più grandi computer a valvole degli anni '50.
 
 ![](./image13.png)
-*Fonte immagine:* [https://www.ibm.com/history/700](https://www.ibm.com/history/700)
+*Fonte immagine:* [IBM](https://www.ibm.com/history/700)
 
 Ma in realtà Feynman non si sbagliava. E Feynman sapeva già allora che la sua stima era sicura:
 
@@ -174,21 +174,21 @@ I tre fattori principali che vediamo contribuire a questo sono:
 3. La selezione naturale ha difficoltà a costruire cose nuove o a risolvere problemi che richiederebbero cambiamenti simultanei anziché sequenziali. Questo limita drasticamente i progetti che l'evoluzione può realizzare e conferisce ai progetti attuali in biologia il loro aspetto frammentario, approssimativo ed estremamente intricato secondo gli standard dell'ingegneria umana. Ad esempio, la complessità (delle parti conosciute) del metabolismo umano:
 
 ![](./image14.png)
-*Fonte immagine:* [https://www.reddit.com/r/MapPorn/comments/6sxznd/map\_of\_the\_known\_human\_metabolic\_pathways/](https://www.reddit.com/r/MapPorn/comments/6sxznd/map_of_the_known_human_metabolic_pathways/)
+*Fonte immagine:* [Reddit](https://www.reddit.com/r/MapPorn/comments/6sxznd/map_of_the_known_human_metabolic_pathways/)
 
 Oppure, per un esempio più semplice della confusione evolutiva, consideriamo l'occhio. Gli occhi dei vertebrati si sono evoluti casualmente con i nervi (2 nell'immagine sotto) posizionati sopra le cellule fotosensibili (1). Questi nervi devono uscire dall'occhio attraverso un foro nella parte posteriore (3) e, dato che questo punto presenta un foro, deve necessariamente essere privo di cellule fotosensibili. Questo crea un punto cieco (4) per tutti i vertebrati, compresi gli esseri umani, costringendo il cervello a escogitare trucchi intelligenti per "riempire" il vuoto (ad esempio, utilizzando le informazioni dell'altro occhio).
 
 I polpi hanno evoluto gli occhi in modo indipendente e, casualmente, sono arrivati al design più ragionevole — i nervi passano dietro le cellule fotosensibili. Questo permette a questi collegamenti di uscire dall'occhio senza creare alcun punto cieco.
 
 ![](./image15.png)
-*Fonte immagine:* [https://en.wikipedia.org/wiki/Evolution\_of\_the\_eye](https://en.wikipedia.org/wiki/Evolution_of_the_eye)
+*Fonte immagine:* [Wikipedia](https://en.wikipedia.org/wiki/Evolution_of_the_eye)
 
 Oppure consideriamo il nervo laringeo ricorrente della giraffa, che deve collegare la gola della giraffa al suo cervello per azionare la laringe. Anziché prendere il percorso diretto, questo nervo parte dalla gola, scende per tutta la lunghezza del collo della giraffa, fa un giro goffo intorno all'aorta della giraffa, risale per tutto il collo fino a tornare al punto di partenza, e poi si collega al cervello.
 
 Il risultato è un nervo lungo quattro metri e mezzo (l'anello nero nell'immagine sotto), che fa sì che i segnali impieghino da dieci a venti volte più tempo del necessario per viaggiare tra il cervello della giraffa e la sua gola.[^178]
 
 ![](./image16.png)
-*Fonte immagine: [https://en.wikipedia.org/wiki/Recurrent\_laryngeal\_nerve](https://en.wikipedia.org/wiki/Recurrent_laryngeal_nerve)*
+*Fonte immagine: [Wikipedia](https://en.wikipedia.org/wiki/Recurrent_laryngeal_nerve)*
 
 Nei pesci, questo design aveva senso perché la loro versione del nervo laringeo collegava il cervello alle branchie — un collegamento diretto. Se si prende lo stesso design e si dà all'animale un collo, continuando però ad allungare il collo senza mai rifare il cablaggio da capo, si ottengono design molto inefficienti. Compatibili con la sopravvivenza, ma inefficienti.
 
@@ -269,7 +269,7 @@ Invece di limitarsi a pensare a un modo diverso per immagazzinare le molecole di
 La biocompatibilità può essere un problema enorme per qualsiasi cosa che vada all'interno il corpo umano, ma le superfici di diamante sono abbastanza inerti da permettere l'uso di rivestimenti simili al diamante per alcuni dispositivi medici che vanno all'interno il corpo umano. A livello di possibilità teorica, Freitas stava pensando che la superficie della cellula artificiale potesse assomigliare a un diamante e quindi essere biocompatibile.
 
 ![](./image17.png)
-*Fonte immagine:* [https://web.archive.org/web/20060114185436/https://www.nanomedicine.com/Papers/Graft2050Respirocytes.htm](https://web.archive.org/web/20060114185436/https://www.nanomedicine.com/Papers/Graft2050Respirocytes.htm)
+*Fonte immagine:* [Nanomedicine](https://web.archive.org/web/20060114185436/https://www.nanomedicine.com/Papers/Graft2050Respirocytes.htm)
 
 Il fulcro del globulo rosso artificiale era il calcolo di Freitas secondo cui un serbatoio a pressione in corindone o diamante monocristallino, su scala micrometrica, avrebbe potuto sopportare, in modo conservativo, fino a 100.000 atmosfere di pressione. Con un confortevole margine di sicurezza di 100 volte e impacchettando le molecole a “sole” 1.000 atmosfere, i globuli rossi artificiali potrebbero fornire ai tessuti 236 volte più ossigeno per unità di volume rispetto ai globuli rossi naturali, e immagazzinare una quantità simile di anidride carbonica per bilanciare l’altro lato della respirazione. In pratica: potreste trattenere il respiro per quattro ore.
 
