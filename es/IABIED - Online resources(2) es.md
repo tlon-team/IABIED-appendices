@@ -341,7 +341,7 @@ Del mismo modo, el objetivo instrumental de mantenerse con vida es útil para di
 
 En forma de eslogan: «No puedes ir a buscar el café si estás muerto». Un robot que va a buscar café no necesitaría tener un instinto de autoconservación, ni temer a la muerte, para intentar evitar ser atropellado por un camión mientras va a buscar café. Solo necesitaría ser lo suficientemente inteligente como para darse cuenta de que, si perece, no podrá llevar el café.[^102]
 
-Un argumento clave que se plantea en el capítulo 5 de *If Anyone Builds It, Everyone Dies* es que diversos objetivos terminales implican objetivos instrumentales que serían peligrosos para la humanidad. Por lo tanto, incluso sin saber exactamente qué querría una superinteligencia, tenemos buenas razones para esperar que sea muy peligrosa para los seres humanos.
+Un argumento clave que se plantea en el capítulo 5 de *Si alguien la crea, todos moriremos* es que diversos objetivos terminales implican objetivos instrumentales que serían peligrosos para la humanidad. Por lo tanto, incluso sin saber exactamente qué querría una superinteligencia, tenemos buenas razones para esperar que sea muy peligrosa para los seres humanos.
 
 Pero antes de llegar a eso, centraremos nuestra atención en los objetivos *terminales* y en la cuestión de cuán plausible es que los humanos y las IA terminen con objetivos terminales muy similares. (En resumen: no es muy plausible).
 
@@ -929,7 +929,7 @@ Incluso cuando los laboratorios centran casi todos sus esfuerzos en hacer que la
 
 # Capítulo 5: Sus cosas favoritas {#capítulo-5:-sus-cosas-favoritas}
 
-Este es el recurso en línea para el capítulo 5 de *If Anyone Builds It, Everyone Dies*. Algunos temas que *no* tratamos aquí, porque se abordan en el libro, son:
+Este es el recurso en línea para el capítulo 5 de *Si alguien la crea, todos moriremos*. Algunos temas que *no* tratamos aquí, porque se abordan en el libro, son:
 
 * ¿Qué motivo tendría la IA para exterminarnos?  
 * ¿No descubrirían unas IA suficientemente inteligentes que lo correcto es ayudarnos a todos a prosperar juntos?  
@@ -1204,7 +1204,7 @@ Para que la IA nos dé *cualquier cosa*, tiene que preocuparse por nosotros de l
 
 #### **Preocuparse por nosotros de la manera correcta es un objetivo difícil de alcanzar.** {#preocuparse-por-nosotros-de-la-manera-correcta-es-un-objetivo-difícil-de-alcanzar.}
 
-Los seres humanos se preocupan por todo tipo de cosas extrañas, al menos un poco. Ahora que hemos escrito la parábola de los alienígenas del nido correcto (al principio del capítulo 5), hay muchas posibilidades de que al menos un ser humano se proponga llevar 41 piedras a su casa durante al menos un breve periodo de tiempo, solo para demostrar lo variados que son los valores humanos. Los seres humanos realmente están dispuestos a preocuparse, al menos un poco, por todo tipo de conceptos con los que se encuentran.
+Los seres humanos se preocupan por todo tipo de cosas extrañas, al menos un poco. Ahora que hemos escrito la parábola de los extraterrestres de los nidos correctos (al principio del capítulo 5), hay muchas posibilidades de que al menos un ser humano se proponga llevar 41 piedras a su casa durante al menos un breve periodo de tiempo, solo para demostrar lo variados que son los valores humanos. Los seres humanos realmente están dispuestos a preocuparse, al menos un poco, por todo tipo de conceptos con los que se encuentran.
 
 ¿Y si las IA también son así? ¿No podrían preocuparse por nosotros al menos un poco? El concepto de «personas libres que consiguen lo que quieren» aparece sin duda en el corpus de entrenamiento de una IA con al menos cierta regularidad.
 
@@ -1508,7 +1508,7 @@ Alguien que tuviera la tarea de disipar una por una las historias de las «ocho 
 
 Este es más o menos el papel en el que nos encontramos los autores con respecto a la situación de la IA: los humanos pueden contar todo tipo de historias donde todo sale bien, pero todas ellas, en última instancia, implican imaginar que el futuro sigue un único camino estrecho cuando en realidad hay muchas otras formas en que el futuro podría desarrollarse. Por eso seguimos repitiendo que [los humanos no son la solución más eficiente para casi ningún problema](#los-humanos-casi-nunca-son-la-solución-más-eficiente) y que [a las IA no les importaremos ni siquiera un poco](#¿no-se-preocuparán-las-ia-al-menos-un-poco-por-los-humanos?).
 
-*If Anyone Builds It, Everyone Dies*  no se limita a enumerar un montón de historias pesimistas para concluir que la IA es peligrosa. En el libro, exponemos un argumento que, en cierto modo, es bastante sencillo: los investigadores están tratando de construir inteligencias artificiales mucho más inteligentes que cualquier humano. En algún momento, es probable que lo consigan. Los métodos actuales dan a los humanos muy poca capacidad para elegir hacia qué tipo de futuro se dirigen las IA. Hay muchas direcciones diferentes que podrían tomar, y la mayoría de ellas no son buenas.
+*Si alguien la crea, todos moriremos* no se limita a enumerar un montón de historias pesimistas para concluir que la IA es peligrosa. En el libro, exponemos un argumento que, en cierto modo, es bastante sencillo: los investigadores están tratando de construir inteligencias artificiales mucho más inteligentes que cualquier humano. En algún momento, es probable que lo consigan. Los métodos actuales dan a los humanos muy poca capacidad para elegir hacia qué tipo de futuro se dirigen las IA. Hay muchas direcciones diferentes que podrían tomar, y la mayoría de ellas no son buenas.
 
 La razón por la que enumeramos todos los contraargumentos no es para abrumarte con pesimismo (si eres el tipo de persona que lee los recursos en línea de principio a fin). Es que, en realidad, nos hacen todas estas preguntas una y otra vez, y es útil tener un repositorio de respuestas en algún lugar. No es necesario que las leas todas. De todas formas, las respuestas se hacen eco unas de otras.
 
@@ -1554,7 +1554,7 @@ Este es el tipo de persona que anhela que la humanidad madure algún día y est�
 
 Conocemos a ese tipo de personas. Nosotros, los dos autores, somos así.
 
-Este no es un tema que parezca importante para el argumento central de *If Anyone Builds It, Everyone Dies*. Pero queremos abordarlo aquí, porque entendemos la perspectiva de nuestros compañeros tecnófilos que han aprendido a desconfiar enormemente de la tecnofobia, de las ideologías opuestas al progreso y la innovación, y del «especismo» anti-IA.
+Este no es un tema que parezca importante para el argumento central de *Si alguien la crea, todos moriremos*. Pero queremos abordarlo aquí, porque entendemos la perspectiva de nuestros compañeros tecnófilos que han aprendido a desconfiar enormemente de la tecnofobia, de las ideologías opuestas al progreso y la innovación, y del «especismo» anti-IA.
 
 Entendemos esta perspectiva y queremos dejar claro que no estamos escribiendo una diatriba tribal del tipo «la IA es mala, los humanos son buenos». Creemos sinceramente que apresurarse a construir una superinteligencia arruinará *todos* estos sueños esperanzadores, *además* de matar a innumerables personas que están vivas hoy en día y que también merecen vida, felicidad y libertad.
 
@@ -1732,7 +1732,7 @@ Las personas felices, sanas y libres que llevan vidas prósperas no son la soluc
 
 #### **Diálogo sobre nidos correctos, continuación** {#diálogo-sobre-nidos-correctos,-continuación}
 
-En el capítulo 5, contamos la historia de los alienígenas del nido correcto, que evolucionaron para encontrar profunda e intuitivamente «correcto» tener un número primo de piedras en su nido. Podríamos imaginar una rama de su conversación que continúa de la siguiente manera:
+En el capítulo 5, contamos la historia de los extraterrestres de los nidos correctos, que evolucionaron para encontrar profunda e intuitivamente «correcto» tener un número primo de piedras en su nido. Podríamos imaginar una rama de su conversación que continúa de la siguiente manera:
 
 > **CHICO PÁJARO:** Volvamos al punto en el que dijiste que te sorprendería encontrar extraterrestres con sentido del humor. Seguramente no eres de los que creen que los nidos en los que vivimos son simplemente *arbitrarios*, ¿verdad?
 >
@@ -2246,7 +2246,7 @@ Creemos que *eso* se perderá en el futuro si la humanidad no cambia de rumbo.
 
 # Capítulo 6: Perderíamos {#capítulo-6:-perderíamos}
 
-Este es el recurso en línea asociado al capítulo 6 de *If Anyone Builds It, Everyone Dies*. Los temas que hemos omitido en esta página porque aparecen en el libro incluyen (entre otros):
+Este es el recurso en línea asociado al capítulo 6 de *Si alguien la crea, todos moriremos*. Los temas que hemos omitido en esta página porque aparecen en el libro incluyen (entre otros):
 
 * ¿Cómo podría la IA vencer a la humanidad en una pelea?  
 * ¿Cómo puede la IA amenazarnos si está atrapada dentro de una computadora?  

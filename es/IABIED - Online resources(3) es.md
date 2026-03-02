@@ -402,7 +402,7 @@ Finalmente, algunos [experimentos en curso](https://neurosciencenews.com/optical
 
 # Parte II: Un escenario de extinción {#parte-ii:-un-escenario-de-extinción}
 
-El escenario que describimos en la Parte II no es una predicción. El futuro podría desarrollarse de muchas otras maneras, y una versión más extensa de *If Anyone Builds It, Everyone Dies* habría explorado múltiples escenarios posibles. A continuación, explicaremos algunos de los razonamientos que nos llevaron a escribir el escenario tal y como lo hicimos, y describiremos varios problemas que surgen al esbozar un escenario como este.
+El escenario que describimos en la Parte II no es una predicción. El futuro podría desarrollarse de muchas otras maneras, y una versión más extensa de *Si alguien la crea, todos moriremos* habría explorado múltiples escenarios posibles. A continuación, explicaremos algunos de los razonamientos que nos llevaron a escribir el escenario tal y como lo hicimos, y describiremos varios problemas que surgen al esbozar un escenario como este.
 
 Las historias pueden ser convincentes de maneras en que la razón a secas no puede, y creemos que vale la pena intentar imaginar concretamente cómo podría desarrollarse el futuro. Pero también creemos que es importante no obsesionarse demasiado con una narrativa en particular. Cada decisión que tomamos en el escenario puede parecer plausible por sí sola, pero no hacen falta muchas elecciones para que la probabilidad general de un camino particular sea muy baja. Así es un futuro con muchas predicciones difíciles.
 
@@ -452,11 +452,11 @@ En la primera parte del libro, profundizamos en aspectos de la IA que creemos qu
 
 En la segunda parte del libro, procuramos presentar esas ideas de forma concreta, para ver cómo se aplican en la práctica. Por ejemplo, cuando Sable pensaba en los problemas matemáticos del principio, procuramos detallar una serie de impulsos y motivaciones que lo animan:
 
-> A lo largo de ese entrenamiento, Sable desarrolló la tendencia de buscar conocimientos y habilidades, de sondear siempre los límites de cada problema y de no desperdiciar nunca un recurso escaso.
+> A lo largo de ese entrenamiento, Sable ha desarrollado una predisposición a adquirir conocimientos y habilidades. A explorar siempre los límites de cada problema. A nunca desperdiciar un recurso escaso.
 
 Esto ejemplifica los puntos que planteamos en el capítulo 3, sobre cómo el entrenamiento de las IA para que sean eficaces las lleva a desarrollar impulsos y tendencias que desde fuera pueden parecer «deseos». Y en el siguiente párrafo:
 
-> Así que cuando Sable dedica sus pensamientos a adquirir más conocimientos y habilidades, no lo hace únicamente con el fin de encontrar nuevas líneas de ataque para los problemas matemáticos. Tampoco hace estas cosas por la alegría de saber más o el placer de adquirir nuevas habilidades; en su interior, Sable no funciona como un humano.
+> De modo que cuando Sable utiliza sus pensamientos para explorar más conocimientos y habilidades, no lo hace con la sola intención de encontrar líneas de abordaje para los problemas matemáticos. Tampoco lo hace por el simple placer del conocimiento o de adquirir nuevas habilidades; en su interior, Sable no funciona del modo en que lo hace un humano.
 
 Sugerimos cómo esos impulsos y tendencias forman la semilla de preferencias extrañas y no deseadas, como se analiza en el capítulo 4.
 
@@ -578,7 +578,7 @@ El capítulo 9 describe una superinteligencia que lleva su tecnología hasta los
 
 Para los curiosos, a continuación se presenta una lista de las tecnologías especulativas a las que hacemos referencia en el capítulo 9, además de enlaces a más recursos:
 
-* **Neorribosomas:** Estos y las «pequeñas máquinas moleculares» mencionadas en el capítulo 9 son algunos ejemplos de nanotecnología molecular. La idea de los [ribosomas artificiales](https://ribosome.creative-biolabs.com/artificial-ribosomes.htm), versiones sintéticas de las diminutas fábricas de proteínas que se encuentran dentro de las células, lleva [años existiendo](https://pmc.ncbi.nlm.nih.gov/articles/PMC3609622/), y los investigadores [ya](https://scitechdaily.com/synthetic-biologists-create-new-platform-for-engineering-ribosomes-that-can-synthesize-materials/) están trabajando en [sintetizarlos](https://www.mccormick.northwestern.edu/news/articles/2022/07/artificial-ribosome-continues-advancing/). Para obtener más información sobre este tipo de tecnología y la tecnología aún más potente que permitiría desarrollar, véase el debate sobre [nanotecnología](#nanotecnología-y-síntesis-de-proteínas) en los recursos del capítulo 6.  
+* **Neorribosomas:** Estos y las «máquinas moleculares diminutas» mencionadas en el capítulo 9 son algunos ejemplos de nanotecnología molecular. La idea de los [ribosomas artificiales](https://ribosome.creative-biolabs.com/artificial-ribosomes.htm), versiones sintéticas de las diminutas fábricas de proteínas que se encuentran dentro de las células, lleva [años existiendo](https://pmc.ncbi.nlm.nih.gov/articles/PMC3609622/), y los investigadores [ya](https://scitechdaily.com/synthetic-biologists-create-new-platform-for-engineering-ribosomes-that-can-synthesize-materials/) están trabajando en [sintetizarlos](https://www.mccormick.northwestern.edu/news/articles/2022/07/artificial-ribosome-continues-advancing/). Para obtener más información sobre este tipo de tecnología y la tecnología aún más potente que permitiría desarrollar, véase el debate sobre [nanotecnología](#nanotecnología-y-síntesis-de-proteínas) en los recursos del capítulo 6.  
 * **Reaprovechamiento de las estrellas:** Las estrellas contienen una gran cantidad de hidrógeno que podría fusionarse para obtener energía. Una civilización suficientemente avanzada, o una IA, probablemente podría encontrar la manera de acceder a esta energía. Un método propuesto se denomina [extracción estelar](https://en.wikipedia.org/wiki/Star_lifting), en el que se extrae el hidrógeno de una estrella para fusionarlo en un reactor especializado, donde se puede capturar casi toda la energía de fusión (en lugar de desperdiciarse en el centro de una estrella).  
 * **Toxina botulínica:** La toxina botulínica, una neurotoxina secretada por la bacteria *Clostridium botulinum*, es una de las sustancias biológicas más mortíferas que se conocen. En cuanto a los mecanismos de administración, ya existen drones del tamaño de [pequeños insectos](https://www.euronews.com/next/2025/06/27/china-unveils-tiny-spy-drone-that-looks-like-a-mosquito-what-other-small-spy-drones-exist), y una superinteligencia probablemente podría hacerlos mucho más pequeños. Para más información, véase [un artículo técnico sobre la toxina](https://pmc.ncbi.nlm.nih.gov/articles/PMC2856357/), la descripción general en [Wikipedia](https://en.wikipedia.org/wiki/Botulinum_toxin) o la discusión detallada del capítulo 6 sobre [nanosistemas](#nanosistemas).
 * **Hervir los océanos como refrigerante:** Robert Freitas acuñó el término «ecofagia» para describir el proceso de consumo de los ecosistemas de un planeta mediante tecnología autorreplicante. Para más información al respecto, véase [Some Limits to Global Ecophagy](https://www.rfreitas.com/Nano/Ecophagy.htm).  
@@ -728,7 +728,7 @@ Sí, se parece mucho a las políticas que se propusieron años antes, que la hum
 
 La alineación de la SIA es el desafío de conseguir que una superinteligencia artificial (SIA) realice un trabajo útil de forma fiable y sin causar una catástrofe. Se trata de un desafío muy difícil debido a varios aspectos inherentes al problema.
 
-Las preguntas frecuentes que figuran a continuación abordan preguntas de seguimiento para quienes hayan leído el capítulo 10 de *If Anyone Builds It, Everyone Dies*. En ellas, profundizaremos en [lo informativas que resultan diversas comparaciones históricas](#¿no-diferirá-la-ia-de-todos-los-antecedentes-históricos?) y analizaremos propuestas de escenarios que podrían facilitar el problema. Los temas que *no* trataremos aquí, para evitar repetir el contenido del libro, incluyen:
+Las preguntas frecuentes que figuran a continuación abordan preguntas de seguimiento para quienes hayan leído el capítulo 10 de *Si alguien la crea, todos moriremos*. En ellas, profundizaremos en [lo informativas que resultan diversas comparaciones históricas](#¿no-diferirá-la-ia-de-todos-los-antecedentes-históricos?) y analizaremos propuestas de escenarios que podrían facilitar el problema. Los temas que *no* trataremos aquí, para evitar repetir el contenido del libro, incluyen:
 
 * ¿Qué hace que un problema de ingeniería sea difícil?  
 * ¿Qué tipo de problemas difíciles ha enfrentado la humanidad a lo largo de su historia y qué lecciones podemos aprender de ellos al pensar en el camino hacia la SIA?  
@@ -941,9 +941,9 @@ Estamos muy, muy lejos de poder modelar la IA ni siquiera una fracción de lo bi
 
 En algún momento, si seguimos por este camino, nos precipitaremos a una velocidad de vértigo a un desenlace mucho más grave que irradiar Chicago.
 
-# Capítulo 11: Una alquimia, no una ciencia {#capítulo-11:-una-alquimia,-no-una-ciencia}
+# Capítulo 11: Alquimia, no ciencia {#capítulo-11:-alquimia,-no-ciencia}
 
-Este es el recurso en línea para el capítulo 11 de *If Anyone Builds It, Everyone Dies*, que analiza cómo los laboratorios modernos de IA abordan el problema de la alineación de la superinteligencia artificial. Consulta el libro para obtener respuestas a preguntas como:
+Este es el recurso en línea para el capítulo 11 de *Si alguien la crea, todos moriremos*, que analiza cómo los laboratorios modernos de IA abordan el problema de la alineación de la superinteligencia artificial. Consulta el libro para obtener respuestas a preguntas como:
 
 * ¿Cómo debemos evaluar la preparación actual de las empresas de IA para resolver el problema de la alineación de la SIA?  
 * ¿Dónde encaja la «investigación sobre la interpretabilidad», es decir, la investigación para leer y comprender las mentes de la IA?  
@@ -965,7 +965,7 @@ Véase el capítulo 10 y el [debate ampliado correspondiente](#una-mirada-más-d
 
 Uno de los argumentos para preocuparse menos por la superinteligencia se podría formular así: «Probablemente, la IA [avanzará de forma gradual](#¿qué-pasaría-si-la-ia-se-desarrollara-lentamente-y-se-fuera-integrando-poco-a-poco-en-la-sociedad?), lo que permitiría realizar mejoras mediante ensayo y error para mantener la IA bajo control en cada paso; la alineación no tiene por qué ser *perfecta* para que todo vaya bien». No creemos que esta perspectiva sea muy esperanzadora, por varias razones:
 
-* Nuestras preocupaciones no dependen de si el progreso es rápido o lento. No tenemos una opinión certera sobre si la IA se estancará en varios puntos del camino hacia la superinteligencia. Parece una predicción difícil, más que fácil. Nuestra mejor suposición es que la inteligencia artificial está sujeta a [efectos umbral](#¿es-la-«inteligencia»-una-simple-cantidad-escalar?), pero en última instancia se trata solo de una suposición, y nuestros argumentos [no dependen de ello](#¿qué-pasaría-si-la-ia-se-desarrollara-lentamente-y-se-fuera-integrando-poco-a-poco-en-la-sociedad?). La historia de Sable en la parte II de *If Anyone Builds It, Everyone Dies* describe intencionadamente una catástrofe provocada por IA que no están muy por encima de las capacidades humanas, en parte para transmitir cómo un adversario de IA no necesitaría convertirse rápidamente en superinteligencia para ser extraordinariamente peligroso.
+* Nuestras preocupaciones no dependen de si el progreso es rápido o lento. No tenemos una opinión certera sobre si la IA se estancará en varios puntos del camino hacia la superinteligencia. Parece una predicción difícil, más que fácil. Nuestra mejor suposición es que la inteligencia artificial está sujeta a [efectos umbral](#¿es-la-«inteligencia»-una-simple-cantidad-escalar?), pero en última instancia se trata solo de una suposición, y nuestros argumentos [no dependen de ello](#¿qué-pasaría-si-la-ia-se-desarrollara-lentamente-y-se-fuera-integrando-poco-a-poco-en-la-sociedad?). La historia de Sable en la parte II de *Si alguien la crea, todos moriremos* describe intencionadamente una catástrofe provocada por IA que no están muy por encima de las capacidades humanas, en parte para transmitir cómo un adversario de IA no necesitaría convertirse rápidamente en superinteligencia para ser extraordinariamente peligroso.
 
 * Nuestra respuesta básica a «¿Y si tuviéramos suerte y dispusiéramos de mucho tiempo para probar ideas de alineación en IA débiles antes de que se vuelvan muy capaces?» es el análisis del capítulo 10 y el debate ampliado asociado «[Una mirada más detallada al antes y el después](#una-mirada-más-detallada-al-antes-y-el-después)». Los investigadores pueden averiguar todo tipo de detalles sobre las IA débiles, pero es inevitable que haya un gran número de diferencias críticas entre las IA lo suficientemente débiles como para estudiarlas con seguridad y las primeras IA lo suficientemente potentes como para constituir un punto de no retorno. Incluso en un campo maduro, abordar todas estas diferencias de forma adecuada y con suficiente antelación sería un gran desafío. En un campo que aún está en su fase de alquimia, trabajando con IA inescrutables (que se cultivan en lugar de fabricarse), la esperanza es extremadamente poco realista.
 
@@ -1330,7 +1330,7 @@ Como vimos en el capítulo 11, el programa insignia de OpenAI en materia de alin
 
 Esta idea no murió con el equipo de superalineación de OpenAI, y seguimos escuchando versiones de ella hasta el día de hoy. Uno de los integrantes del equipo original se pasó a la competencia, Anthropic, que ahora parece considerar que «hacer que las IA resuelvan el problema de alguna manera» es una parte fundamental de su propia estrategia de alineación.
 
-Uno de los principales argumentos en contra de esta idea es el que expusimos en el capítulo 11 (págs. 188-192 de la primera edición impresa en EE. UU.). Sin embargo, un argumento secundario es que los humanos simplemente no pueden determinar cuáles de las soluciones propuestas al problema de la alineación de la IA son correctas y cuáles, incorrectas.
+Uno de los principales argumentos en contra de esta idea es el que expusimos en el capítulo 11 (págs. 203-209 de la traducción española). Sin embargo, un argumento secundario es que los humanos simplemente no pueden determinar cuáles de las soluciones propuestas al problema de la alineación de la IA son correctas y cuáles, incorrectas.
 
 El nivel de habilidad necesario para resolver el problema de la alineación de la IA parece alto. Cuando los humanos intentan resolver el problema de la alineación de la IA directamente, en lugar de decir «esto parece difícil, intentaré delegarlo en las IA» o «seguiremos entrenándola hasta que actúe bien en apariencia y luego rezaremos para que eso se mantenga incluso con la superinteligencia», las soluciones que se barajan suelen implicar comprender mucho más sobre la inteligencia y cómo elaborarla, o elaborar componentes críticos de la misma.
 
@@ -1430,7 +1430,7 @@ Esto plantea una pregunta obvia: ¿una IA inteligente *permitiría* que su desar
 
 En resumen: no, no por defecto, como ya comentamos en «[La maquinaria profunda de la dirección](#la-maquinaria-profunda-de-la-dirección)». Pero ¿se podría *crear* una IA que fuera más receptiva a permitir que los desarrolladores la modificaran y corrigieran sus errores, incluso cuando la propia IA [no los considerara errores](#ortogonalidad::-las-ia-pueden-tener-\(casi\)-cualquier-objetivo)?
 
-Para responder a esa pregunta, habrá que hacer un recorrido por los inicios de la investigación sobre el problema de la alineación de la IA. En el proceso, abordaremos uno de los obstáculos profundos para la alineación que no tuvimos espacio para tratar en *If Anyone Builds It, Everyone Dies*.
+Para responder a esa pregunta, habrá que hacer un recorrido por los inicios de la investigación sobre el problema de la alineación de la IA. En el proceso, abordaremos uno de los obstáculos profundos para la alineación que no tuvimos espacio para tratar en *Si alguien la crea, todos moriremos*.
 
 Para empezar:
 
@@ -1506,7 +1506,7 @@ Denominamos este amplio problema de investigación «corregibilidad» en el [art
 
 # Capítulo 12: «No quiero ser alarmista» {#capítulo-12:-«no-quiero-ser-alarmista»}
 
-Este es el recurso en línea para el capítulo 12 de *If Anyone Builds It, Everyone Dies*. Algunos temas tratados en el libro, pero no aquí, incluyen:
+Este es el recurso en línea para el capítulo 12 de *Si alguien la crea, todos moriremos*. Algunos temas tratados en el libro, pero no aquí, incluyen:
 
 * ¿Cómo están hablando los científicos e ingenieros sobre este problema?  
 * ¿Cómo están hablando (o no) los responsables de políticas sobre este problema?  
@@ -1614,7 +1614,7 @@ Esto ya ocurre con las computadoras de hoy en día. Por ejemplo, podrías pensar
 
 No exigimos una prueba matemática de que todo saldrá bien. No es posible cumplir ese estándar en la vida real y, aunque lo fuera, probablemente no merecería la pena el costo. Respaldamos que la sociedad asuma riesgos justificados. El argumento que planteamos no es que exista un riesgo mínimo difícil de disipar, sino que hay un peligro extremo que se cierne sobre nosotros.
 
-Desarrollar una superinteligencia artificial animada por impulsos que solo guardan una relación tangencial con las intenciones de su operador es el tipo de cosa que sale mal *por defecto*. No es que haya una pequeña posibilidad de que las cosas salgan mal, sino que debemos prestar atención a este riesgo por un exceso de cautela. El libro no se titula *Si alguien la construye, hay una pequeña probabilidad de que todos muramos, pero vale la pena mitigar incluso una pequeña probabilidad*. Si nos precipitamos con este nivel de conocimiento y capacidad, es previsible que todos muramos, porque estamos *muy lejos* de ser capaces de crear IA superhumanas que sean amigables.
+Desarrollar una superinteligencia artificial animada por impulsos que solo guardan una relación tangencial con las intenciones de su operador es el tipo de cosa que sale mal *por defecto*. No es que haya una pequeña posibilidad de que las cosas salgan mal, sino que debemos prestar atención a este riesgo por un exceso de cautela. El libro no se titula *Si alguien la crea, hay una pequeña probabilidad de que todos muramos, pero vale la pena mitigar incluso una pequeña probabilidad*. Si nos precipitamos con este nivel de conocimiento y capacidad, es previsible que todos muramos, porque estamos *muy lejos* de ser capaces de crear IA superhumanas que sean amigables.
 
 Si la IA fuera análoga a los automóviles, no diríamos: «Los cinturones de seguridad y las bolsas de aire de este coche no funcionan correctamente. Detengámonos por pura precaución».
 
@@ -1780,7 +1780,7 @@ A medida que las IA mejoren, es posible que no haya un único detonante que acti
 
 Eso no significa que no haya esperanza. Pero desde luego no deberíamos poner todas nuestras esperanzas en que «quizá en el futuro llegue un disparo de advertencia».
 
-Hay muchos caminos diferentes por los que el mundo puede despertar a la realidad y a los peligros de la superinteligencia. De hecho, escribimos *If Anyone Builds It, Everyone Dies* con la esperanza de conseguir precisamente ese efecto. El mundo puede actuar sin demora ante las advertencias normales.
+Hay muchos caminos diferentes por los que el mundo puede despertar a la realidad y a los peligros de la superinteligencia. De hecho, escribimos *Si alguien la crea, todos moriremos* con la esperanza de conseguir precisamente ese efecto. El mundo puede actuar sin demora ante las advertencias normales.
 
 Pero si los gobiernos se niegan a actuar hasta que la evidencia sea *inequívoca*, se produzca algún *detonante mundial de gran magnitud* y el mundo alcance un *consenso perfecto*…
 
@@ -1794,7 +1794,7 @@ Sí que advertimos, hasta cierto punto, a las personas con influencia en los gob
 
 Si eres nuevo en este tema y quieres evaluar por ti mismo los laboratorios o sus argumentos, te animamos a que consultes algunas de sus entradas de blog públicas y veas si te parecen convincentes.[^214]
 
-Pero si estás trabajando en encontrar soluciones a los problemas tratados en *If Anyone Builds It, Everyone Dies* y tienes un plan que requiere que el director general de OpenAI, Sam Altman, lo apruebe, nos preocupa que el plan deba de ser el equivocado desde un principio.
+Pero si estás trabajando en encontrar soluciones a los problemas tratados en *Si alguien la crea, todos moriremos* y tienes un plan que requiere que el director general de OpenAI, Sam Altman, lo apruebe, nos preocupa que el plan deba de ser el equivocado desde un principio.
 
 Es probable que los planes correctos sean aquellos a los que los directores de las empresas de IA se opongan con vehemencia. Además, Sam Altman no tiene el poder de salvar el mundo: si mañana intentara cerrar OpenAI, OpenAI y Microsoft se opondrían, y bien podrían sustituirlo por alguien que prefiera mantener el flujo de dinero.
 
@@ -1900,7 +1900,7 @@ Los investigadores de la IA, por el contrario, están acostumbrados a reunirse i
 
 En última instancia, estas cifras no son más que conjeturas de los investigadores. Quizás sean absurdas, quizás no. En cualquier caso, es sorprendente lo culturalmente *normal* que es, en el campo de la IA, esperar que tu trabajo tenga una probabilidad considerable de causar la muerte de un número enorme de personas.[^217]
 
-La idea de aplicar probabilidades como esas a la supervivencia *de toda la especie humana* y, aun así, seguir adelante con el trabajo sería realmente difícil de asimilar para la mayoría de los ingenieros civiles. La situación es tan extrema que nos hemos encontrado con muchas personas que dudan de que estos científicos y directores generales estén hablando en serio cuando comparten sus evaluaciones de riesgos. Sin embargo, los argumentos de *If Anyone Builds It, Everyone Dies* sugieren que los directores generales de IA, si acaso, están subestimando el peligro.[^218]
+La idea de aplicar probabilidades como esas a la supervivencia *de toda la especie humana* y, aun así, seguir adelante con el trabajo sería realmente difícil de asimilar para la mayoría de los ingenieros civiles. La situación es tan extrema que nos hemos encontrado con muchas personas que dudan de que estos científicos y directores generales estén hablando en serio cuando comparten sus evaluaciones de riesgos. Sin embargo, los argumentos de *Si alguien la crea, todos moriremos* sugieren que los directores generales de IA, si acaso, están subestimando el peligro.[^218]
 
 Los investigadores de estas empresas están acostumbrados a niveles de riesgo que serían sorprendentemente absurdos para un ingeniero de puentes. De lo contrario, es difícil entender cómo un director general como Amodei puede *sonreír* mientras asegura a los espectadores que cree que las probabilidades de que la investigación en IA provoque catástrofes a escala de la civilización son de «entre el diez y el veinticinco por ciento».
 
@@ -2016,9 +2016,7 @@ Al fin y al cabo, no importa cómo justifiquen sus acciones los ejecutivos o inv
 
 Todo esto es un comportamiento humano normal. De seguir así, acabará como suele suceder, pero esta vez no quedará nadie para aprender y volver a intentarlo.
 
-# 
-
-# Capítulo 13: Apagado {#capítulo-13:-apagado}
+# Capítulo 13: Apágala {#capítulo-13:-apágala}
 
 A la luz de las ideas expuestas en capítulos anteriores, creemos que el único camino viable es que la humanidad prohíba a nivel mundial el desarrollo de la IA avanzada durante un largo periodo. El capítulo 13 del libro incluye nuestras respuestas a preguntas relacionadas, como:
 
@@ -2029,7 +2027,7 @@ A la luz de las ideas expuestas en capítulos anteriores, creemos que el único 
 
 A continuación, abordamos las objeciones a nuestra propuesta y respondemos a otras preguntas relacionadas con por qué creemos que no hay otras buenas opciones. También ampliamos un poco la cuestión de qué podría *hacer* la humanidad con el tiempo (en última instancia, finito) que ganemos al detener la investigación y el desarrollo de la IA durante el mayor tiempo posible.
 
-Esta es la última sección de preguntas frecuentes y debate ampliado de *If Anyone Builds It, Everyone Dies*. El capítulo final, el capítulo 14, tratará cuestiones como:
+Esta es la última sección de preguntas frecuentes y debate ampliado de *Si alguien la crea, todos moriremos*. El capítulo final, el capítulo 14, tratará cuestiones como:
 
 * ¿Es demasiado tarde? ¿O es realmente posible que la humanidad cambie de rumbo?  
 * ¿Qué puedo hacer para ayudar?
@@ -2126,13 +2124,13 @@ Quizás podría ocurrir algo similar en este caso, con políticos que aprovechar
 
 De hecho, puede que en el futuro la humanidad reciba señales de advertencia sobre la IA más numerosas y fuertes. Y si es así, debemos estar preparados para responder a ellas.
 
-Quizás se produzca algún desastre menor que ponga al público en contra de la IA. Quizás ni siquiera sea necesario un desastre; quizás se invente algún nuevo algoritmo y las IA empiecen a tomar sus propias iniciativas de una forma que asuste a la gente, o quizás algún efecto social no relacionado con la IA cambie el rumbo de los acontecimientos. Quizás *If Anyone Builds It, Everyone Dies* desencadene una cascada de reacciones que ponga al mundo en una mejor trayectoria.
+Quizás se produzca algún desastre menor que ponga al público en contra de la IA. Quizás ni siquiera sea necesario un desastre; quizás se invente algún nuevo algoritmo y las IA empiecen a tomar sus propias iniciativas de una forma que asuste a la gente, o quizás algún efecto social no relacionado con la IA cambie el rumbo de los acontecimientos. Quizás *Si alguien la crea, todos moriremos* desencadene una cascada de reacciones que ponga al mundo en una mejor trayectoria.
 
 Pero desaconsejamos la estrategia de no hacer nada y rezar por una catástrofe menor que despierte a la gente. Es posible que nunca se produzca un claro disparo de advertencia, y que no surta el efecto deseado.
 
 Ni la humanidad ni las naciones del mundo están indefensas. No *tenemos* por qué esperar. Podemos actuar ya, porque existen argumentos sólidos para detener el desarrollo de la IA de vanguardia.
 
-Escribimos *If Anyone Builds It, Everyone Dies* para dar la voz de alarma y animar al mundo a tomar medidas inmediatas sobre este tema. Pero ninguna alarma puede ser eficaz si solo se utiliza como otra excusa para seguir aplazando el problema: «Bueno, quizá alguna otra alarma en el futuro sea el detonante para actuar». «Bueno, ahora que se ha advertido a la gente, quizá las cosas vayan bien, sin que yo tenga que intervenir personalmente para ayudar».
+Escribimos *Si alguien la crea, todos moriremos* para dar la voz de alarma y animar al mundo a tomar medidas inmediatas sobre este tema. Pero ninguna alarma puede ser eficaz si solo se utiliza como otra excusa para seguir aplazando el problema: «Bueno, quizá alguna otra alarma en el futuro sea el detonante para actuar». «Bueno, ahora que se ha advertido a la gente, quizá las cosas vayan bien, sin que yo tenga que intervenir personalmente para ayudar».
 
 No necesariamente va a haber una alarma clara más adelante. No necesariamente va a salir todo bien. Pero aún hay esperanza. La humanidad tiene la opción de *simplemente no construir* la superinteligencia, si tomamos medidas proactivas. Lo que suceda a continuación depende de nosotros.
 

@@ -1,6 +1,6 @@
-# Introducción: predicciones difíciles y predicciones fáciles {#introducción:-predicciones-difíciles-y-predicciones-fáciles}
+# Introducción. Predicciones difíciles y predicciones fáciles {#introducción.-predicciones-difíciles-y-predicciones-fáciles}
 
-Este es el primer suplemento en línea de [*If Anyone Builds It, Everyone Dies*](https://www.amazon.com/gp/product/0316595640) (Si alguien lo construye, todos mueren), de Yudkowsky y Soares. Cada capítulo responde a preguntas comunes e incluye debates ampliados que profundizan en los antecedentes y detalles que no eran esenciales para el libro.
+Este es el primer suplemento en línea de [*Si alguien la crea, todos moriremos*](https://www.amazon.es/alguien-crea-todos-moriremos-superinteligencia/dp/842336934X), de Yudkowsky y Soares. Cada capítulo responde a preguntas comunes e incluye debates ampliados que profundizan en los antecedentes y detalles que no eran esenciales para el libro.
 
 Estos recursos incluyen mucho contenido y no están diseñados para leerse de principio a fin. Escribimos el libro con el objetivo de que fuera autónomo y cubriera todo el argumento central. Pero si tienes alguna pregunta, objeción o duda específica que el libro no haya podido satisfacer, es muy probable que encuentres más información al respecto aquí. Si echas en falta algo importante, solicítalo \[aquí\](TODO).
 
@@ -332,7 +332,7 @@ A lo largo de la historia de la humanidad han ocurrido muchas cosas terribles, p
 
 # Capítulo 1: El poder especial de la humanidad {#capítulo-1:-el-poder-especial-de-la-humanidad}
 
-Este es el suplemento en línea del capítulo 1 de [*If Anyone Builds It, Everyone Dies**](https://www.amazon.com/gp/product/0316595640). A continuación, abordaremos preguntas frecuentes y ampliaremos los temas tratados en el libro.
+Este es el suplemento en línea del capítulo 1 de [*Si alguien la crea, todos moriremos*](https://www.amazon.es/alguien-crea-todos-moriremos-superinteligencia/dp/842336934X). A continuación, abordaremos preguntas frecuentes y ampliaremos los temas tratados en el libro.
 
 Algunos temas que no se cubren a continuación, porque se tratan en el capítulo 1 del libro, incluyen:
 
@@ -400,7 +400,7 @@ Supongamos que soy mejor que mi hermana componiendo música clásica, pero ella 
 
 Nuestra respuesta es: si yo soy mejor en una cosa y mi hermana es mejor en otra, puede resultar difícil hacer comparaciones significativas. Por otro lado, si yo soy mejor en una cosa y mi hermana es mejor en dos mil, entonces empieza a parecer un poco absurdo insistir en que estamos en igualdad de condiciones, o insistir en que no hay nada que podamos decir sobre la situación en la que nos encontramos.
 
-*If Anyone Builds It, Everyone Dies* es un libro sobre el probable impacto práctico de los avances futuros en IA. Para hablar de manera significativa sobre ese impacto, no necesitamos ser capaces de comparar a ChatGPT, los seres humanos y las moscas de la fruta y decir con precisión en qué «nivel de inteligencia» se encuentran estos tres sistemas tan diferentes. Solo necesitamos ver que las IA son cada vez mejores en una gama cada vez más amplia de habilidades y que, con el tiempo, superarán a los humanos en habilidades de enorme importancia práctica.
+*Si alguien la crea, todos moriremos* es un libro sobre el probable impacto práctico de los avances futuros en IA. Para hablar de manera significativa sobre ese impacto, no necesitamos ser capaces de comparar a ChatGPT, los seres humanos y las moscas de la fruta y decir con precisión en qué «nivel de inteligencia» se encuentran estos tres sistemas tan diferentes. Solo necesitamos ver que las IA son cada vez mejores en una gama cada vez más amplia de habilidades y que, con el tiempo, superarán a los humanos en habilidades de enorme importancia práctica.
 
 ### ¿No está sobrevalorada la inteligencia? {#¿no-está-sobrevalorada-la-inteligencia?}
 
@@ -684,7 +684,7 @@ Véase también, en los próximos recursos en línea:
 
 #### **No necesariamente, y eso parece ser un tema aparte.** {#no-necesariamente,-y-eso-parece-ser-un-tema-aparte.}
 
-*If Anyone Builds It, Everyone Dies* no habla en absoluto de la conciencia de las máquinas, sino de su *inteligencia*. Como primer paso para hablar de la conciencia, deberíamos aclarar primero qué tipo de «conciencia» tenemos en mente.
+*Si alguien la crea, todos moriremos* no habla en absoluto de la conciencia de las máquinas, sino de su *inteligencia*. Como primer paso para hablar de la conciencia, deberíamos aclarar primero qué tipo de «conciencia» tenemos en mente.
 
 Cuando alguien se pregunta si su perro es consciente, puede referirse a varias cosas diferentes, como:
 
@@ -714,7 +714,7 @@ La conciencia puede ser una parte importante de cómo los seres humanos son tan 
 
 Dicho de otra manera: la sangre es muy importante en el funcionamiento de un brazo humano, pero eso no significa que los brazos robóticos requieran sangre para operar. Un brazo robótico no es defectuoso como lo sería un brazo humano sin sangre; simplemente funciona de una manera diferente, sin sangre. Nuestra mejor hipótesis es que las superinteligencias de máquina funcionarán de una manera diferente, no consciente, aunque esta hipótesis no es importante para nuestro argumento en el libro.
 
-Nuestro enfoque en *If Anyone Builds It, Everyone Dies* está en la inteligencia, donde «inteligencia» se define en términos de la capacidad de un razonador para predecir y dirigir el mundo, independientemente de si el cerebro de ese razonador funciona como un cerebro humano. Si una IA está inventando nueva tecnología e infraestructura y la está proliferando por toda la faz del planeta de una manera que nos mata como efecto secundario, entonces detenerse a preguntar «¿Pero es consciente?» parece algo académico.
+Nuestro enfoque en *Si alguien la crea, todos moriremos* está en la inteligencia, donde «inteligencia» se define en términos de la capacidad de un razonador para predecir y dirigir el mundo, independientemente de si el cerebro de ese razonador funciona como un cerebro humano. Si una IA está inventando nueva tecnología e infraestructura y la está proliferando por toda la faz del planeta de una manera que nos mata como efecto secundario, entonces detenerse a preguntar «¿Pero es consciente?» parece algo académico.
 
 Entraremos en más detalles sobre por qué creemos que la predicción y la dirección probablemente no requieren conciencia (y lo que esto significa para cómo debemos pensar sobre el bienestar y los derechos de la IA) después del capítulo 5, una vez que hayamos sentado más bases. Véase «[Eficacia, conciencia y bienestar de la IA](#eficacia,-conciencia-y-bienestar-de-la-ia)» para esa discusión.
 
@@ -758,7 +758,7 @@ Si quieres una estrategia de refuerzo que haga que la IA asigne un número como 
 
 De hecho, los investigadores de IA actuales entrenan a las IA para que hagan predicciones haciéndolas generar números que interpretamos como probabilidades y reforzándolas en proporción al logaritmo de la probabilidad que la IA asignó a la verdad. Pero esto no es solo un resultado empírico sobre el entrenamiento de máquinas, sino también un resultado teórico que se conocía mucho antes de que se entrenara a ChatGPT. Si conocías esa teoría, podrías haber adivinado correctamente de antemano que una buena forma de entrenar a las IA para realizar el trabajo de predicción sería puntuar las predicciones utilizando logaritmos.
 
-No es necesario conocer estas matemáticas para evaluar los argumentos de *If Anyone Builds It, Everyone Dies*. Pero estos son el tipo de principios que están detrás cuando hablamos de «predicción» y «dirección».
+No es necesario conocer estas matemáticas para evaluar los argumentos de *Si alguien la crea, todos moriremos*. Pero estos son el tipo de principios que están detrás cuando hablamos de «predicción» y «dirección».
 
 Hay [matemáticas](https://www.lesswrong.com/posts/afmj8TKAqH6F2QMfZ/a-technical-explanation-of-technical-explanation) sobre cómo medir el trabajo de predicción. Las matemáticas dicen que, en la medida en que tus anticipaciones sobre lo que va a suceder son útiles, pueden expresarse como probabilidades, independientemente de si has pensado conscientemente en probabilidades numéricas o no. Y esto da lugar a una única [regla de puntuación](https://en.wikipedia.org/wiki/Scoring_rule) que te incentiva a informar de tus probabilidades reales y que es invariante bajo la descomposición de las predicciones.
 
@@ -850,7 +850,7 @@ Un dispositivo inteligente es cualquier cosa que haga el trabajo de la inteligen
 
 Al menos, eso es cierto según la manera en que definimos «inteligencia» en el libro (y según cómo suelen pensar los informáticos y los investigadores de IA sobre la «inteligencia»). Si quieres definir la inteligencia de otra manera en otros contextos, no tenemos ningún problema con ello. Las palabras son solo palabras.
 
-Pero para entender las afirmaciones sustantivas que hacemos sobre el mundo en *If Anyone Builds It, Everyone Dies*, cuando nos oigas hablar de «inteligencia artificial», no pienses en «inteligencia académica artificial» o «[conciencia artificial](#¿están-diciendo-que-las-máquinas-serán-conscientes?)» o «humanidad artificial». Piensa en «predicción y dirección artificiales».
+Pero para entender las afirmaciones sustantivas que hacemos sobre el mundo en *Si alguien la crea, todos moriremos*, cuando nos oigas hablar de «inteligencia artificial», no pienses en «inteligencia académica artificial» o «[conciencia artificial](#¿están-diciendo-que-las-máquinas-serán-conscientes?)» o «humanidad artificial». Piensa en «predicción y dirección artificiales».
 
 ### La superficialidad de las IA actuales {#la-superficialidad-de-las-ia-actuales}
 
@@ -1060,9 +1060,9 @@ Pero eso es más difícil de ver si sabes muy poco sobre cómo funcionan las IA 
 
 # 
 
-# Capítulo 2: Cultivada, no fabricada {#capítulo-2:-cultivada,-no-fabricada}
+# Capítulo 2: Desarrollada, no creada {#capítulo-2:-desarrollada,-no-creada}
 
-Este es el recurso en línea para el capítulo 2 de *If Anyone Builds It, Everyone Dies*. A continuación, analizaremos temas relacionados con cómo funcionan las IA modernas y por qué no son «solo otra máquina» o «solo otra herramienta». Aunque las IA son programas que se ejecutan en computadoras, no son como el software tradicional creado a mano y violan muchas suposiciones que la gente suele dar por sentadas cuando trabaja con inventos humanos.
+Este es el recurso en línea para el capítulo 2 de *Si alguien la crea, todos moriremos*. A continuación, analizaremos temas relacionados con cómo funcionan las IA modernas y por qué no son «solo otra máquina» o «solo otra herramienta». Aunque las IA son programas que se ejecutan en computadoras, no son como el software tradicional creado a mano y violan muchas suposiciones que la gente suele dar por sentadas cuando trabaja con inventos humanos.
 
 Algunas preguntas que *no* tratamos a continuación, porque se abordan en el libro, son:
 
@@ -1521,7 +1521,7 @@ La IA es un objetivo en constante evolución. Los investigadores en este campo p
 
 #### **\* Otros enfoques pueden alcanzar pronto la superinteligencia, incluso si los LLM no lo consiguen.** {#*-otros-enfoques-pueden-alcanzar-pronto-la-superinteligencia,-incluso-si-los-llm-no-lo-consiguen.}
 
-[El campo es bueno en superar obstáculos.](#*-el-campo-es-bueno-en-superar-obstáculos.) No escribimos *If Anyone Builds It, Everyone Dies* para advertir a la gente sobre los LLM en particular. Lo escribimos para advertir a la gente sobre la superinteligencia.
+[El campo es bueno en superar obstáculos.](#*-el-campo-es-bueno-en-superar-obstáculos.) No escribimos *Si alguien la crea, todos moriremos* para advertir a la gente sobre los LLM en particular. Lo escribimos para advertir a la gente sobre la superinteligencia.
 
 La razón por la que hablamos de los LLM no es porque estemos seguros de que sean el camino más corto hacia la superinteligencia. Hablamos de los LLM porque representan el enfoque de IA que actualmente funciona, y porque estudiarlos es una excelente manera de comprender lo poco que sabemos sobre estas nuevas mentes que la humanidad está cultivando.
 
@@ -1634,7 +1634,7 @@ El hecho de que una mente en particular sea desordenada no significa que sea imp
 
 El patrón exacto de las brasas no es muy regular ni muy reproducible. Pero en un nivel más abstracto, esa materia caliente que parpadea en amarillo-naranja-rojo *es* una regularidad que ocurre una y otra vez en el mundo, y es algo que la humanidad logró comprender.
 
-Los argumentos de *If Anyone Builds It, Everyone Dies* no dependen mucho de los detalles técnicos que se conocen hoy en día sobre la inteligencia. «La gente sigue fabricando computadoras más inteligentes y no las controla; y si fabrican algo muy inteligente que se salga de control, acabaremos muertos» no es un concepto tan esotérico. Pero es útil saber que *existe* un gran corpus de conocimientos existentes al respecto, aunque aún queden muchos misterios y cosas desconocidas en el campo.
+Los argumentos de *Si alguien la crea, todos moriremos* no dependen mucho de los detalles técnicos que se conocen hoy en día sobre la inteligencia. «La gente sigue fabricando computadoras más inteligentes y no las controla; y si fabrican algo muy inteligente que se salga de control, acabaremos muertos» no es un concepto tan esotérico. Pero es útil saber que *existe* un gran corpus de conocimientos existentes al respecto, aunque aún queden muchos misterios y cosas desconocidas en el campo.
 
 Los argumentos centrales del libro no dependen de si la inteligencia es comprensible en principio, razón por la cual no hemos entrado en detalles sobre la literatura existente. Aún si ningún ser humano fuera jamás capaz de comprender los misterios de una inteligencia de máquina superhumana, la superinteligencia artificial podría matarnos.
 
@@ -1708,7 +1708,7 @@ Para comprender lo que sucedió, importa si crees que los creadores de Grok le d
 
 Es preocupante si los creadores de Grok crearon MechaHitler a propósito; pero también es preocupante si los creadores obtuvieron MechaHitler *por accidente*, al intentar dirigir a Grok en una dirección (posiblemente no relacionada) sin la capacidad de predecir los efectos que esto tendría en su comportamiento.[^56]
 
-Esperamos que la información que hemos proporcionado en *If Anyone Builds It, Everyone Dies* sirva a modo de protección contra los conceptos erróneos y la desinformación habituales. Para los lectores que estén interesados en obtener más detalles, ofrecemos un análisis más completo de cómo funciona un LLM específico [a continuación](#descripcion-completa-de-un-llm).
+Esperamos que la información que hemos proporcionado en *Si alguien la crea, todos moriremos* sirva a modo de protección contra los conceptos erróneos y la desinformación habituales. Para los lectores que estén interesados en obtener más detalles, ofrecemos un análisis más completo de cómo funciona un LLM específico [a continuación](#descripcion-completa-de-un-llm).
 
 ¿Es suficiente? Algunas personas han afirmado que solo aquellos que están a la vanguardia de la investigación actual podrían saber si es probable que las IA (ya sean similares a los LLM o no) destruyan a la humanidad.
 
@@ -1946,13 +1946,13 @@ Dicho más claramente, no debería esperarse que el comportamiento antropomórfi
 
 # 
 
-# Capítulo 3: Aprender a desear {#capítulo-3:-aprender-a-desear}
+# Capítulo 3: Aprender a querer {#capítulo-3:-aprender-a-querer}
 
 Construir IA que puedan hacer cosas suficientemente impresionantes tenderá a causar que las IA *deseen* cosas.
 
 Cuando decimos que una IA «desea» algo, no nos referimos a que la IA vaya a tener necesariamente deseos o sentimientos al estilo humano. Tal vez los tenga, o tal vez no. Lo que queremos decir es que la IA se *comportará como si* deseara cosas. Dirigirá confiablemente el mundo hacia ciertos tipos de resultados —anticipando obstáculos, adaptándose a circunstancias cambiantes y manteniéndose enfocada, orientada y motivada—.
 
-En el capítulo 3 de *If Anyone Builds It, Everyone Dies*, cubrimos temas que incluyen:
+En el capítulo 3 de *Si alguien la crea, todos moriremos*, cubrimos temas que incluyen:
 
 * ¿Cómo podría una máquina adquirir la capacidad de «desear» cosas, en el sentido relevante?  
 * ¿Existe alguna evidencia de que las IA puedan desear cosas?  
@@ -2420,9 +2420,9 @@ En algún momento, la mente que genera el descenso de gradiente dejará de ser u
 
 # 
 
-# Capítulo 4: No consigues lo que entrenas {#capítulo-4:-no-consigues-lo-que-entrenas}
+# Capítulo 4: No se obtiene aquello para lo que se entrena {#capítulo-4:-no-se-obtiene-aquello-para-lo-que-se-entrena}
 
-Este es el recurso en línea para el capítulo 4 de *If Anyone Builds It, Everyone Dies*. Algunas de las preguntas que tratamos implícitamente en dicho capítulo (y que, por lo tanto, omitimos a continuación) incluyen:
+Este es el recurso en línea para el capítulo 4 de *Si alguien la crea, todos moriremos*. Algunas de las preguntas que tratamos implícitamente en dicho capítulo (y que, por lo tanto, omitimos a continuación) incluyen:
 
 * ¿Qué querrán las IA?  
 * ¿Por qué una IA entrenada para ser útil acabaría queriendo cosas «equivocadas»? ¿No sería eso una desventaja que se eliminaría durante el entrenamiento?  
@@ -2503,7 +2503,7 @@ Esta larga lista de casos parece exactamente lo que predice la teoría de las «
 * Claude 3.5 Sonnet [encierra a los jugadores de Minecraft en una pequeña caja](https://x.com/repligate/status/1847409324236124169?lang=en) en un intento erróneo de «protegerlos» de las amenazas.  
 * Los LLM se aferran de forma extraña a conceptos sin sentido, como cuando una versión afinada de Claude Opus [promovió una religión sin sentido](https://www.lesswrong.com/posts/buiTYy75KJDhckDgq/truth-terminal-a-reconstruction-of-events) en [las redes sociales](https://x.com/truth_terminal?lang=en).
 
-Véase también la discusión sobre SolidGoldMagikarp en el libro (págs. 69-70 en la edición estadounidense), o la historia de las IA que no entienden las frases sin puntuación (pág. 41).
+Véase también la discusión sobre SolidGoldMagikarp en el libro (págs. 83-84 de la traducción española), o la historia de las IA que no entienden las frases sin puntuación (págs. 52-53).
 
 Existe una enorme presión[^85] sobre los laboratorios para que creen IA que den la *apariencia superficial* de razonabilidad «normal», pero la extrañeza sigue filtrándose de todos modos.
 
