@@ -740,7 +740,7 @@ Nella discussione approfondita, esaminiamo in che senso avremo [una sola possibi
 
 ### L'IA non sarà diversa da tutti i precedenti storici? {#l-ia-non-sara-diversa-da-tutti-i-precedenti-storici}
 
-#### **\* Sì.** {#si}
+#### **\* Sì.**
 
 Alcune caratteristiche uniche della sfida dell'allineamento dell'IA la renderanno più facile rispetto, ad esempio, alla progettazione di una centrale nucleare. Altre caratteristiche lo renderanno più difficile. Nel complesso, le armi nucleari e le centrali nucleari sembrano molto più semplici da gestire rispetto a un'IA più intelligente dell'uomo.
 
@@ -903,7 +903,7 @@ In altre parole: bisogna rendere la reazione nucleare sempre più potente, prima
 
 Questo è il tipo di problema che la realtà può presentare. Succede.
 
-Ma Fermi, [Szilard](#heading-h-dr1wxb2y1r2s) e il loro team avevano previsto tutte queste regole prima di scoprirle con l'esperienza. Sapevano dei neutroni ritardati e di quelli istantanei. (Si veda il capitolo 10 per saperne di più su questa parte della storia.) Quindi, una volta che Fermi ha portato il fattore di moltiplicazione dei neutroni al 100,06%, Fermi *non* ha ordinato di estrarre ulteriormente la barra di controllo per vedere cosa sarebbe successo con un cumulo ancora più potente. Arrivò solo alla criticità, non allo 0,65 % in più per raggiungere la criticità immediata. Fermi ottenne il risultato che aveva previsto e *sapeva* cosa sarebbe successo se fosse andato oltre. Quindi non andò oltre.
+Ma Fermi, Szilard e il loro team avevano previsto tutte queste regole prima di scoprirle con l'esperienza. Sapevano dei neutroni ritardati e di quelli istantanei. (Si veda il capitolo 10 per saperne di più su questa parte della storia.) Quindi, una volta che Fermi ha portato il fattore di moltiplicazione dei neutroni al 100,06%, Fermi *non* ha ordinato di estrarre ulteriormente la barra di controllo per vedere cosa sarebbe successo con un cumulo ancora più potente. Arrivò solo alla criticità, non allo 0,65 % in più per raggiungere la criticità immediata. Fermi ottenne il risultato che aveva previsto e *sapeva* cosa sarebbe successo se fosse andato oltre. Quindi non andò oltre.
 
 Ventotto minuti dopo, con la radioattività che raddoppiava ogni due minuti fino a un aumento di 16.000 volte, Fermi spense il primo reattore nucleare al mondo: i mattoni di uranio accatastati sotto le tribune di uno stadio universitario all'interno di una grande città.
 
@@ -961,7 +961,7 @@ Si veda il capitolo 10 e la [discussione approfondita correlata](#uno-sguardo-pi
 
 ### Vedete l'allineamento come tutto o niente? {#vedete-l-allineamento-come-tutto-o-niente}
 
-#### **No. Ma un è probabile che un "allineamento parziale" sia comunque catastrofico.** {#no-ma-un-è-probabile-che-un-allineamento-parziale-sia-comunque-catastrofico.}
+#### **No. Ma un è probabile che un "allineamento parziale" sia comunque catastrofico.** {#no-ma-un-e-probabile-che-un-allineamento-parziale-sia-comunque-catastrofico}
 
 Una delle argomentazioni di chi invita a preoccuparsi meno della superintelligenza suona più o meno così: "L'IA probabilmente [progredirà in modo graduale](#e-se-l-ia-venisse-sviluppata-solo-lentamente-e-si-integrasse-gradualmente-nella-societa), offrendo opportunità di miglioramento tramite tentativi ed errori per tenere sotto controllo le IA passo dopo passo; l'allineamento non deve essere *perfetto* perché le cose vadano bene". Non pensiamo che questa visione offra molte speranze, per vari motivi:
 
@@ -969,7 +969,7 @@ Una delle argomentazioni di chi invita a preoccuparsi meno della superintelligen
 
 * La nostra risposta di base alla domanda "Cosa succederebbe se fossimo fortunati e avessimo molto tempo per provare idee di allineamento su IA deboli prima che l'IA diventasse molto potente?" è la discussione nel capitolo 10 e la discussione approfondita associata "[Uno sguardo più da vicino al prima e al dopo](#uno-sguardo-piu-da-vicino-al-prima-e-al-dopo)". I ricercatori possono capire ogni sorta di dettaglio sulle IA deboli, ma ci sono inevitabilmente un sacco di differenze critiche tra le IA abbastanza deboli da poter essere studiate in sicurezza e le prime IA abbastanza potenti da costituire un punto di non ritorno. Anche in un campo maturo, affrontare tutte queste differenze in modo adeguato e con sufficiente anticipo sarebbe molto difficile. In un campo che è ancora in fase embrionale, lavorare con IA imperscrutabili (che non vengono costruite ma fatte crescere), la speranza è decisamente irrealistica.
 
-* L'allineamento dell'IA non deve essere perfetto per produrre ottimi risultati a lungo termine. In linea di principio, è possibile creare con cura un'IA con una certa tolleranza all'errore, se si sa cosa si sta facendo.[^192] Ma questo non significa che le IA "parzialmente allineate" o anche "per lo più allineate" produrrebbero risultati parzialmente o per lo più accettabili. Ci sono molti modi e motivi diversi per cui un'IA potrebbe comportarsi bene il 95 % delle volte nel presente o nel futuro prossimo senza che questo si traduca in un lieto fine per l'umanità, come discusso da molte angolazioni diverse nelle [risorse online per il capitolo 5](#chapter-5-its-favorite-things).
+* L'allineamento dell'IA non deve essere perfetto per produrre ottimi risultati a lungo termine. In linea di principio, è possibile creare con cura un'IA con una certa tolleranza all'errore, se si sa cosa si sta facendo.[^192] Ma questo non significa che le IA "parzialmente allineate" o anche "per lo più allineate" produrrebbero risultati parzialmente o per lo più accettabili. Ci sono molti modi e motivi diversi per cui un'IA potrebbe comportarsi bene il 95 % delle volte nel presente o nel futuro prossimo senza che questo si traduca in un lieto fine per l'umanità, come discusso da molte angolazioni diverse nelle [risorse online per il capitolo 5](#capitolo-5-le-cose-che-piacciono-a-lei).
 
 Per approfondire l'ultimo punto:
 
@@ -989,7 +989,7 @@ Per far sì che l'IA ci conceda *qualunque cosa*, deve tenerci in considerazione
 
 ### La situazione non migliorerà una volta che i governi saranno più coinvolti? {#la-situazione-non-migliorera-una-volta-che-i-governi-saranno-piu-coinvolti}
 
-#### **Dipende da come (e quanto presto) saranno coinvolti.** {#dipende-da-come-e-quanto-presto)-saranno-coinvolti.}
+#### **Dipende da come (e quanto presto) saranno coinvolti.** {#dipende-da-come-e-quanto-presto-saranno-coinvolti}
 
 Quando visitiamo Washington, DC, spesso incontriamo decisori politici che pensano che le aziende di IA abbiano le loro IA sotto controllo. Allo stesso tempo, vediamo regolarmente persone nel settore dell'IA che dicono che la regolamentazione risolverà il problema. Un esempio particolarmente eclatante che abbiamo osservato è stato l'amministratore delegato di Google [che ha affermato](https://youtu.be/9V6tWC4CdFQ?feature=shared&amp;t=2685) che "il rischio [che l'umanità venga spazzata via] è in realtà piuttosto alto", ma sostenendo che più alto diventa il rischio, più è probabile che l'umanità si mobiliti per prevenire la catastrofe.
 
@@ -1558,7 +1558,7 @@ E lo è doppiamente quando il campo è tristemente immaturo e le probabilità di
 
 ### Non è più intelligente correre avanti e assicurarsi che i buoni siano in vantaggio? {#non-e-piu-intelligente-correre-avanti-e-assicurarsi-che-i-buoni-siano-in-vantaggio}
 
-#### **\* No.** {#no-3}
+#### **\* No.**
 
 Le tecniche moderne di IA non producono IA che fanno quello che vogliono i loro operatori (come abbiamo detto nel capitolo 4). Risolvere questo problema è il tipo di cosa che di solito richiederebbe all'umanità un bel po' di tentativi ed errori, e qui non abbiamo margine di errore (come abbiamo detto nel capitolo 10).
 
@@ -1604,7 +1604,7 @@ Dato il deplorevole stato di conoscenza e competenza dell'umanità su questo arg
 
 ### State dicendo che abbiamo bisogno di un'IA *dimostrabilmente* sicura? {#state-dicendo-che-abbiamo-bisogno-di-un-ia-dimostrabilmente-sicura}
 
-#### **No.** {#no-2}
+#### **No.**
 
 Non stiamo sostenendo che l'umanità debba aspettare una dimostrazione nel senso letterale del termine che una qualche superintelligenza artificiale sarà buona, o qualcosa del genere. Una dimostrazione del genere probabilmente non è possibile nemmeno in linea di principio, figuriamoci nella pratica. Come disse Einstein nella sua conferenza del 1921, *Geometria ed esperienza*: "Nella misura in cui le leggi della matematica si riferiscono alla realtà, non sono certe; e nella misura in cui sono certe, non si riferiscono alla realtà".
 
@@ -1664,7 +1664,7 @@ Nonostante questo, potete sempre distruggere la vostra anima con atti di odio o 
 
 ### Non è solo allarmismo da parte dei leader dell'IA per aumentare il loro status e raccogliere investimenti? {#non-e-solo-allarmismo-da-parte-dei-leader-dell-ia-per-aumentare-il-loro-status-e-raccogliere-investimenti}
 
-#### **No.** {#no-3}
+#### **No.**
 
 In tutto il libro abbiamo esposto le nostre argomentazioni sul perché procedere troppo velocemente con l'IA potrebbe portarci tutti alla morte. Nel capitolo 3 abbiamo discusso di come l'IA avrà i suoi impulsi e obiettivi. Nei capitoli 4 e 5 abbiamo spiegato perché l'IA potrebbe perseguire fini che nessuno aveva previsto, e nel capitolo 6 abbiamo illustrato come le superintelligenze artificiali avranno non solo un motivo, ma anche i *mezzi* per ucciderci tutti.
 
@@ -2070,7 +2070,7 @@ Ma il mondo attuale non è così. Il mondo attuale assomiglia più a un gruppo d
 
 Forse in futuro ci saranno segnali di avvertimento più chiari e evidenti. Saranno molto più utili se l'umanità inizierà a prepararsi fin da ora.
 
-#### È improbabile che i colpi di avvertimento siano chiari. {#warning-shots-are-unlikely-to-be-clear}
+#### È improbabile che i colpi di avvertimento siano chiari. {#e-improbabile-che-i-colpi-di-avvertimento-siano-chiari}
 
 Ci sono già molti [segnali di avvertimento](#i-laboratori-hanno-provato-e-fallito-nel-fermare-l-adulazione) sull'IA per chi sa dove andare a cercarli. Nel libro abbiamo parlato dei modelli Claude di Anthropic che [barano nei problemi di programmazione](https://assets.anthropic.com/m/785e231869ea8b3b/original/claude-3-7-sonnet-system-card.pdf) e [fingono l'allineamento](https://www.anthropic.com/research/alignment-faking). Abbiamo anche esaminato il caso del modello o1 di OpenAI [che ha hackerato per vincere una sfida "capture the flag"](https://cdn.openai.com/o1-system-card.pdf) e un caso in cui una variante successiva di o1 [ha mentito, complottato e tentato di sovrascrivere i pesi del suo modello successore](https://cdn.openai.com/o1-system-card-20241205.pdf).
 

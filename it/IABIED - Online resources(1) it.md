@@ -21,7 +21,7 @@ Pensiamo che se, oggi, si guarda l'intelligenza artificiale dal punto di vista g
 
 I laboratori di IA sono in gara per costruire macchine più intelligenti di qualsiasi essere umano e, a quanto pare, stanno facendo progressi significativi nel far avanzare la frontiera. Come vedremo nei prossimi capitoli, le IA moderne vengono più *fatte crescere* che costruite. Esse mostrano comportamenti che nessuno ha chiesto né voluto, e sono sulla buona strada per diventare più competenti di qualsiasi essere umano. Questa ci sembra una situazione estremamente pericolosa.
 
-I migliori scienziati del settore si sono riuniti per firmare una [lettera aperta](https://aistatement.com/) in cui avvertono il pubblico che la minaccia dell'intelligenza artificiale dovrebbe essere considerata una "priorità globale al pari di altri rischi su scala sociale come le pandemie e la guerra nucleare". Non si tratta di una preoccupazione isolata, ma [condivisa da quasi la metà degli esperti del settore](#ai-experts-on-catastrophe-scenarios). Anche se inizialmente siete scettici sui pericoli, speriamo che il livello di preoccupazione espresso dagli esperti di IA e l'alta posta in gioco, se queste preoccupazioni dovessero rivelarsi fondate, chiariscano perché questo è un argomento che merita di essere discusso seriamente.
+I migliori scienziati del settore si sono riuniti per firmare una [lettera aperta](https://aistatement.com/) in cui avvertono il pubblico che la minaccia dell'intelligenza artificiale dovrebbe essere considerata una "priorità globale al pari di altri rischi su scala sociale come le pandemie e la guerra nucleare". Non si tratta di una preoccupazione isolata, ma [condivisa da quasi la metà degli esperti del settore](#scenari-catastrofici-secondo-gli-esperti-di-ia). Anche se inizialmente siete scettici sui pericoli, speriamo che il livello di preoccupazione espresso dagli esperti di IA e l'alta posta in gioco, se queste preoccupazioni dovessero rivelarsi fondate, chiariscano perché questo è un argomento che merita di essere discusso seriamente.
 
 Questo è un argomento in cui dovremmo soppesare le argomentazioni invece di seguire semplicemente il nostro istinto. Se le lettere e gli avvertimenti sono corretti, il mondo si è messo in una situazione incredibilmente pericolosa. Dedicheremo il resto del libro a esporre le argomentazioni e le prove alla base di tali avvertimenti.
 
@@ -31,7 +31,7 @@ Il primo passo per risolvere un problema è capirlo.
 
 ### State dicendo che ChatGPT potrebbe ucciderci tutti? {#state-dicendo-che-chatgpt-potrebbe-ucciderci-tutti}
 
-#### **No. La preoccupazione riguarda i prossimi progressi nell'intelligenza artificiale.** {#no-la-preoccupazione-riguarda-i-prossimi-progressi-nell-intelligenza-artificiale.}
+#### **No. La preoccupazione riguarda i prossimi progressi nell'intelligenza artificiale.** {#no-la-preoccupazione-riguarda-i-prossimi-progressi-nell-intelligenza-artificiale}
 
 Uno dei motivi per cui state leggendo questo libro è che sviluppi come ChatGPT hanno portato l'intelligenza artificiale alla ribalta. Il mondo sta iniziando a discutere dei progressi dell'IA e del suo impatto sulla società. Questo rappresenta un'opportunità naturale per parlare di un'IA più intelligente dell'uomo e di come la situazione attuale non prometta bene.
 
@@ -67,7 +67,7 @@ Non sappiamo se quella soglia sarà effettivamente raggiunta nel prossimo futuro
 
 ### Non è forse vero che le persone vanno sempre nel panico e reagiscono sempre in modo eccessivo alle cose? {#non-e-forse-vero-che-le-persone-vanno-sempre-nel-panico-e-reagiscono-sempre-in-modo-eccessivo-alle-cose}
 
-#### **Sì. Ma questo non significa che nulla sia mai *davvero* pericoloso.** {#si-ma-questo-non-significa-che-nulla-sia-mai-davvero-pericoloso.}
+#### **Sì. Ma questo non significa che nulla sia mai *davvero* pericoloso.** {#si-ma-questo-non-significa-che-nulla-sia-mai-davvero-pericoloso}
 
 A volte le persone hanno reazioni sproporzionate ai problemi. Alcune persone sono fataliste. Alcuni panici sociali sono infondati. Nulla di ciò significa che viviamo in un mondo perfettamente sicuro.
 
@@ -105,7 +105,7 @@ Un'IA più intelligente dell'uomo potrebbe sembrare intuitivamente lontana decen
 
 Si veda il Capitolo 1 per ulteriori discussioni sui modi in cui le capacità dell'IA potrebbero arrivare a cascata con pochissimo preavviso. E si veda il Capitolo 2 per ulteriori discussioni sui paradigmi moderni dell'IA, e se saranno o meno in grado di arrivare "fino in fondo".
 
-#### **Siate sospettosi delle affermazioni dei media su cosa può e non può accadere presto. (Potrebbe essere già successo!)** {#siate-sospettosi-delle-affermazioni-dei-media-su-cosa-puo-e-non-puo-accadere-presto-potrebbe-essere-gia-successo)}
+#### **Siate sospettosi delle affermazioni dei media su cosa può e non può accadere presto. (Potrebbe essere già successo!)** {#siate-sospettosi-delle-affermazioni-dei-media-su-cosa-puo-e-non-puo-accadere-presto-potrebbe-essere-gia-successo}
 
 Due anni dopo la [previsione sconsolata](https://www.wright-brothers.org/History_Wing/Wright_Story/Inventing_the_Airplane/Not_Within_A_Thousand_Years/Not_Within_A_Thousand_Years.htm) di Wilbur Wright secondo cui il volo a motore avrebbe richiesto mille anni, il *New York Times* affermò con sicurezza che ce ne sarebbero voluti un milione.[^3] Due mesi e otto giorni dopo, i fratelli Wright volarono.
 
@@ -347,7 +347,7 @@ Alcuni argomenti non trattati di seguito, perché sono trattati nel Capitolo 1 d
 
 ### L'intelligenza è un concetto significativo? {#l-intelligenza-e-un-concetto-significativo}
 
-#### **Sì. C'è un fenomeno reale da descrivere, anche se è difficile definirlo con precisione.** {#si-c'è-un-fenomeno-reale-da-descrivere,-anche-se-è-difficile-definirlo-con-precisione.}
+#### **Sì. C'è un fenomeno reale da descrivere, anche se è difficile definirlo con precisione.** {#si-c-e-un-fenomeno-reale-da-descrivere-anche-se-e-difficile-definirlo-con-precisione.}
 
 Negli ultimi trent'anni, settantasette Premi Nobel per la Chimica sono stati assegnati a esseri umani e zero agli scimpanzé. Un alieno, sentendo di questo fatto per la prima volta, potrebbe chiedersi se il Comitato Nobel sia di parte. Ma no, c'è davvero *qualcosa* che distingue noi esseri umani dagli scimpanzé.
 
@@ -375,7 +375,7 @@ Se e quando apparirà un'IA che può fare ricerca scientifica di livello mondial
 
 Abbiamo bisogno di una terminologia per parlare di quel tipo di impatto, e per parlare dei tipi di macchine che sono radicalmente capaci di prevedere e orientare il mondo. In questo libro, scegliamo la via più semplice, quella di assegnare l'etichetta "intelligenza" alle *capacità*, piuttosto che a specifici processi interni che danno origine a quelle capacità.
 
-### L'"intelligenza di livello umano" è un concetto significativo? {#l-“intelligenza-di-livello-umano”-è-un-concetto-significativo?}
+### L'"intelligenza di livello umano" è un concetto significativo? {#l-intelligenza-di-livello-umano-e-un-concetto-significativo}
 
 #### **Sì, in molti casi.** {#si-in-molti-casi}
 
@@ -421,9 +421,9 @@ Ma il carisma non è una sostanza prodotta dai reni. Il carisma, come l'intellig
 
 Per "intelligenza artificiale" non intendiamo "conoscenza teorica artificiale". Intendiamo "tutto ciò che distingue il cervello umano da quello dei topi, ma artificiale". Intendiamo il potere che permette agli esseri umani di camminare sulla luna, il potere che permette a un oratore di commuovere una folla fino alle lacrime e il potere che permette a un soldato di mirare abilmente con un fucile. Intendiamo l'insieme di tutte queste cose.
 
-### L'"intelligenza generale" è un concetto significativo? {#l-“intelligenza-generale”-è-un-concetto-significativo?}
+### L'"intelligenza generale" è un concetto significativo? {#l-intelligenza-generale-e-un-concetto-significativo}
 
-#### **Sì.** {#si}
+#### **Sì.**
 
 Il falco pellegrino può tuffarsi in picchiata a 386 chilometri all'ora. Un capodoglio può immergersi a chilometri di profondità nell'oceano. Un falco annegherebbe in mare e una balena si schianterebbe se provasse a volare, ma in qualche modo noi umani siamo riusciti a volare più veloci e a immergerci più in profondità di entrambe queste creature, all'interno di gusci metallici di nostra progettazione. 
 
@@ -475,7 +475,7 @@ Approfondiremo questo argomento nel capitolo 3.
 
 ### L'"intelligenza" è una semplice quantità scalare? {#l-intelligenza-e-una-semplice-quantita-scalare}
 
-#### **No. Ma ci sono livelli che l'IA non ha ancora raggiunto.** {#no-ma-ci-sono-livelli-che-l'ia-non-ha-ancora-raggiunto.}
+#### **No. Ma ci sono livelli che l'IA non ha ancora raggiunto.** {#no-ma-ci-sono-livelli-che-l-ia-non-ha-ancora-raggiunto}
 
 A volte abbiamo sentito dire che l'idea di superintelligenza presuppone che l'"intelligenza" sia una quantità semplice e unidimensionale.[^14] Più ricerca sull'IA fai, più "intelligenza" ottieni, come se l'intelligenza fosse meno simile a una macchina e più simile a un fluido che puoi continuare a pompare dal terreno.
 
@@ -629,7 +629,7 @@ I primi chatbot erano comunicatori limitati.[^20] Poi, nel 2020, il maturarsi de
 
 Ci sono ostacoli tra l'IA moderna e quella "vera", il tipo di IA che potrebbe diventare o creare una superintelligenza?
 
-Forse sì. Forse servono più intuizioni architettoniche, come quelle dietro ad AlexNet che hanno aperto la strada all'intero campo dell'IA moderna, o quelle dietro ad AlphaZero che hanno finalmente permesso alle IA di eccellere in più giochi utilizzando lo stesso algoritmo, o quelle dietro a ChatGPT che hanno fatto sì che i computer iniziassero a parlare. (O forse no; forse le moderne IA supereranno silenziosamente [qualche soglia](#will-ai-cross-critical-thresholds-and-take-off) e sarà tutto lì.)
+Forse sì. Forse servono più intuizioni architettoniche, come quelle dietro ad AlexNet che hanno aperto la strada all'intero campo dell'IA moderna, o quelle dietro ad AlphaZero che hanno finalmente permesso alle IA di eccellere in più giochi utilizzando lo stesso algoritmo, o quelle dietro a ChatGPT che hanno fatto sì che i computer iniziassero a parlare. (O forse no; forse le moderne IA supereranno silenziosamente [qualche soglia](#l-ia-superera-delle-soglie-critiche-e-decollera) e sarà tutto lì.)
 
 Ma se ci sono ancora degli ostacoli, i ricercatori del settore probabilmente li supereranno. Sono piuttosto bravi in questo, e ora ci sono molti più ricercatori che lavorano a questo problema rispetto al 2012.[^22]
 
@@ -649,7 +649,7 @@ Lo stesso vale per le IA capaci di prevedere e dirigere il mondo reale. Più son
 
 ### Le macchine non saranno fondamentalmente prive di creatività o comunque fatalmente imperfette? {#le-macchine-non-saranno-fondamentalmente-prive-di-creativita-o-altrimenti-fatalmente-imperfette}
 
-#### **No.** {#no}
+#### **No.**
 
 Per ora, lasciamo da parte la questione se le macchine possano essere creative fino al capitolo 3. Ma ora diciamo questo: le macchine non devono per forza avere qualche difetto che le equilibri rispetto agli esseri umani, per far sì che l'indomabile spirito umano possa avere una possibilità di vincere.
 
@@ -680,8 +680,8 @@ I capitoli che seguono aiuteranno a fare più luce su questo punto. Nel Capitolo
 Si veda anche, nelle risorse online a seguire:
 
 * Capitolo 2: "[L'IA non è 'solo matematica'?](#l-ia-non-è-solo-matematica?)" e "[Le IA non saranno inevitabilmente fredde e logiche, o non saranno comunque prive di una qualche scintilla fondamentale?](#le-ia-non-saranno-inevitabilmente-fredde-e-logiche-o-non-saranno-comunque-prive-di-una-qualche-scintilla-fondamentale)"  
-* Capitolo 3: "[Antropomorfismo e Meccanomorfismo](#anthropomorfismo-e-meccanomorfismo)"  
-* Capitolo 5: "[Efficacia, Coscienza e Benessere dell'IA](#efficacia-coscienza-e-benessiere-dell-ia)"
+* Capitolo 3: "[Antropomorfismo e Meccanomorfismo](#antropomorfismo-e-meccanomorfismo)"  
+* Capitolo 5: "[Efficacia, Coscienza e Benessere dell'IA](#efficacia-coscienza-e-benessere-dell-ia)"
 
 ### State dicendo che le macchine diventeranno coscienti? {#state-dicendo-che-le-macchine-diventeranno-coscienti}
 
@@ -875,7 +875,7 @@ Le loro competenze sono *strane*. I punti di forza e di debolezza umani sono una
 
 ### Apprezzare la forza dell'intelligenza {#apprezzare-la-forza-dell-intelligenza}
 
-#### “**Intelligenza**”  **da Hollywood** {#“intelligenza”-da-hollywood}
+#### “**Intelligenza**”  **da Hollywood** {#intelligenza-da-hollywood}
 
 Il concetto che chiamiamo "intelligenza" non è ben rappresentato nella cultura popolare, né con questo nome né con altri.
 
@@ -979,7 +979,7 @@ Questa generalizzazione dei prezzi di mercato efficienti è un'idea che secondo 
 
 Questa è l'idea che sembra mancare nelle rappresentazioni della "superintelligenza" nella cultura popolare e nei film di Hollywood. È il concetto che sembra assente nelle conversazioni sull'IA quando le persone elaborano idee per superare in astuzia una superintelligenza *che anche un avversario umano sarebbe in grado di prevedere*.
 
-Forse si tratta di bias di ottimismo, o forse della sensazione che le IA debbano essere [entità fredde e logiche](#le-ia-non-saranno-inevitabilmente-fredde-e-logiche-o-non-saranno-comunque-prive-di-una-qualche-scintilla-fondamentale) con [punti ciechi critici](#non-saremo-in-grado-di-sfruttare-le-debolezze-critiche-dell-ia). Qualunque sia la spiegazione, questo bias cognitivo ha conseguenze reali. Se non si riesce a rispettare il potere dell'intelligenza, si fraintenderà gravemente cosa significa per l'umanità costruire una superintelligenza. Si potrebbe pensare di essere ancora in grado di trovare una mossa vincente quando ci si troverà di fronte a una superintelligenza che preferirebbe vederci sparire e riutilizzare le nostre risorse. Ma in realtà, l'unica mossa vincente è non giocare.
+Forse si tratta di bias di ottimismo, o forse della sensazione che le IA debbano essere [entità fredde e logiche](#le-ia-non-saranno-inevitabilmente-fredde-e-logiche-o-non-saranno-comunque-prive-di-una-qualche-scintilla-fondamentale) con [punti ciechi critici](#non-potremo-sfruttare-il-punto-debole-dell-ia). Qualunque sia la spiegazione, questo bias cognitivo ha conseguenze reali. Se non si riesce a rispettare il potere dell'intelligenza, si fraintenderà gravemente cosa significa per l'umanità costruire una superintelligenza. Si potrebbe pensare di essere ancora in grado di trovare una mossa vincente quando ci si troverà di fronte a una superintelligenza che preferirebbe vederci sparire e riutilizzare le nostre risorse. Ma in realtà, l'unica mossa vincente è non giocare.
 
 ### Comportamenti straordinari nascono da componenti ordinari {#comportamenti-straordinari-nascono-da-componenti-ordinari}
 
@@ -1098,7 +1098,7 @@ Speriamo che comprendere la discesa del gradiente — alcuni dei dettagli dell'a
 
 ### Gli esperti capiscono cosa succede all'interno delle IA? {#gli-esperti-capiscono-cosa-succede-all-interno-delle-ia}
 
-#### **\* No.** {#no}
+#### **\* No.**
 
 In un briefing del 2023 al [Presidente degli Stati Uniti](https://x.com/martin_casado/status/1720517026538778657) e in una successiva dichiarazione consultiva al [Parlamento del Regno Unito](https://committees.parliament.uk/writtenevidence/127070/html/), la società di venture capital Andreessen Horowitz ha affermato che alcuni "progressi recenti" non specificati avevano "risolto" il problema dell'opacità del ragionamento interno delle IA per i ricercatori:
 
@@ -1239,7 +1239,7 @@ Quando si sono trovate di fronte a un'indignazione sufficiente, le aziende hanno
 
 Non fraintendeteci: è *utile* che oggi le IA facciano gran parte dei loro ragionamenti in inglese. Ci aiuta a vedere i segnali di avvertimento. Ma c'è una grande differenza tra avere segnali di avvertimento e *avere un modo per risolvere le cose*.
 
-Per saperne di più su questo argomento, vedi il capitolo 11 e "[Non ci saranno segnali di avvertimento precoci che i ricercatori potranno usare per identificare i problemi?](#non-ci-saranno-segnali-di-avvertimento-precoci-che-i-ricercatori-potranno-usare-per-identificare-i-problemi)".
+Per saperne di più su questo argomento, vedi il capitolo 11 e "[Non ci saranno segnali di avvertimento precoci che i ricercatori potranno usare per identificare i problemi?](#non-ci-saranno-segnali-precoci-che-i-ricercatori-potranno-usare-per-individuare-i-problemi)".
 
 ### Le IA non sono "solo matematica"? {#le-ia-non-sono-solo-matematica}
 
@@ -1366,7 +1366,7 @@ Nel capitolo 3 approfondiremo come un'IA possa generalizzare da una serie ristre
 
 ### Le IA non saranno inevitabilmente fredde e logiche, o non saranno comunque prive di una qualche scintilla fondamentale? {#le-ia-non-saranno-inevitabilmente-fredde-e-logiche-o-non-saranno-comunque-prive-di-una-qualche-scintilla-fondamentale}
 
-#### **\* No.** {#no-1}
+#### **\* No.**
 
 Il fatto che le IA funzionino sui computer non significa che il loro pensiero debba condividere le caratteristiche che associamo ai computer, così come il tuo pensiero non deve necessariamente condividere le caratteristiche associate alla biologia, alla chimica e ai neurotrasmettitori.
 
@@ -1496,7 +1496,7 @@ Potete dare un'occhiata anche alla nostra discussione su come [questo settore si
 
 ### Ma non finiremo i dati prima che l'IA raggiunga il suo obiettivo? O l'energia elettrica? O i finanziamenti? {#ma-non-finiremo-i-dati-prima-che-l-ia-raggiunga-il-suo-obiettivo-o-l-energia-elettrica-o-i-finanziamenti}
 
-#### **\* Probabilmente no.** {#probabilmente-no}
+#### **\* Probabilmente no.**
 
 Gli esseri umani usano i dati in modo molto più efficiente rispetto alle IA, quindi sappiamo che *in linea di principio* è possibile che delle menti intelligenti siano molto più efficienti nell'uso dei dati rispetto alle IA moderne. Se i laboratori di IA "esauriscono" i dati quando si tratta di migliorare gli MLGD, questo li rallenterà solo per il tempo necessario a inventare nuovi metodi più efficienti nell'uso dei dati.
 
@@ -1967,7 +1967,7 @@ Le domande frequenti qui sotto spiegano perché sembra difficile costruire IA mo
 
 ### Le IA avranno emozioni simili a quelle umane? {#le-ia-avranno-emozioni-simili-a-quelle-umane}
 
-#### **Probabilmente no.** {#probabilmente-no}
+#### **Probabilmente no.**
 
 Come illustrato nella discussione approfondita su [Antropomorfismo e Meccanomorfismo](#antropomorfismo-e-meccanomorfismo), in genere non è utile immaginare che le IA possiedano qualità simili a quelle umane solo in virtù della loro intelligenza. Sarebbe davvero sciocco dire "Questo modello linguistico di grandi dimensioni assomiglia a un essere umano, quindi proietterò su di esso ogni tipo di caratteristica umana, compresa quella di avere desideri".
 
@@ -1995,7 +1995,7 @@ Nel libro abbiamo parlato del caso di o1 di OpenAI che è uscito dal suo ambient
 
 E ci si può aspettare che le IA diventino sempre più brave in questo tipo di cose, dato che vengono addestrate a risolvere problemi sempre più difficili.
 
-#### **I laboratori stanno cercando di rendere le IA più autonome.** {#i-laboratori-stanno-cercando-di-rendere-le-ia-piu-autonome.}
+#### **I laboratori stanno cercando di rendere le IA più autonome.** {#i-laboratori-stanno-cercando-di-rendere-le-ia-piu-autonome}
 
 Lo fanno perché ha senso dal punto di vista commerciale. I loro utenti lo vogliono. I loro investitori ne sono entusiasti. In un blog del gennaio 2025, l'amministratore delegato di OpenAI Sam Altman ha detto: "Crediamo che nel 2025 potremmo vedere i primi agenti di IA 'entrare nel mondo del lavoro' e cambiare in modo significativo l'output delle aziende". La [conferenza degli sviluppatori 2025 di Microsoft](https://blogs.microsoft.com/blog/2025/05/19/microsoft-build-2025-the-age-of-ai-agents-and-building-the-open-agentic-web/) era incentrata sulla nuova "era degli agenti di IA", riprendendo il linguaggio usato all'inizio dell'anno da xAI quando descriveva il suo modello Grok 3 come l'inizio dell'"era degli agenti che ragionano" (https://x.ai/news/grok-3). Google ha annunciato gli agenti "insegna e ripeti" alla sua conferenza 2025.[^71]
 

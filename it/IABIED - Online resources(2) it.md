@@ -371,7 +371,7 @@ Quando si tratta di esseri umani e animali, spesso il motivo per cui facciamo ri
 
 Ma la curiosità è molto più di un semplice impulso a scoprire cose nuove\! A noi piace seguire la nostra curiosità e tendiamo ad apprezzare questo piacere. Consideriamo la ricerca della conoscenza e della comprensione come un fine prezioso in sé, piuttosto che come un costo necessario ma fastidioso per capire meglio il mondo in modo da poterlo sfruttare.
 
-Tutti questi modi di vedere la curiosità sono diversi aspetti del cervello umano, [separati dall'](#l-esperienza-cosciente-e-separata-dai-referenti-di-tali-esperienze) impulso stesso.
+Tutti questi modi di vedere la curiosità sono diversi aspetti del cervello umano, [separati dall'](#l-esperienza-cosciente-e-distinta-dai-referenti-di-tali-esperienze) impulso stesso.
 
 La mente umana sembra avere un'architettura emotiva centralizzata in cui "hmm, mi incuriosisce" si collega a un senso generale di desiderio (di una risposta), e perseguire e soddisfare la curiosità si collega a un senso generale di piacere e soddisfazione. Siamo un tipo di mente che dirige la realtà verso l'aspettativa di provare *stati soggettivi* *di godimento nel futuro*, piuttosto che dirigerla solo verso gli stati desiderati nel mondo che ci circonda.[^104]
 
@@ -1341,7 +1341,7 @@ Allo stesso modo, un'intelligenza artificiale potrebbe o meno interessarsi al mo
 
 ### L'IA può essere soddisfatta al punto da lasciarci in pace? {#l-ia-puo-essere-soddisfatta-al-punto-da-lasciarci-in-pace}
 
-#### **Probabilmente no.** {#probabilmente-no-1}
+#### **Probabilmente no.**
 
 La vostra voglia di ossigeno è soddisfabile: se l'attrezzatura subacquea si rompe durante un'immersione, vi darete da fare per tornare in superficie, ma quando ce n'è abbastanza, smettete di preoccuparvi e probabilmente non vi ritrovate ad accumulare sempre più bombole di ossigeno.
 
@@ -1409,7 +1409,7 @@ In un contesto tecnico, potremmo esprimere il concetto così: “Le IA che si ac
 
 ### Gli esseri umani tendono a diventare più gentili man mano che diventano più intelligenti o saggi. Non succederebbe lo stesso anche alle IA? {#gli-esseri-umani-tendono-a-diventare-piu-gentili-man-mano-che-diventano-piu-intelligenti-o-saggi-non-succederebbe-lo-stesso-anche-alle-ia}
 
-#### **Probabilmente no.** {#probabilmente-no-2}
+#### **Probabilmente no.**
 
 Almeno alcuni esseri umani (anche se probabilmente non tutti) diventano più gentili man mano che imparano di più, affinano il loro pensiero, riflettono su loro stessi e crescono come persone. Ma, per rivisitare un tema che abbiamo già visto diverse volte a questo punto: questo sembra un fatto contingente su di noi e sulla direzione verso cui stiamo puntando. Non sembra una legge ferrea dell'informatica.
 
@@ -2252,7 +2252,7 @@ Questa è la risorsa online associata al Capitolo 6 di *If Anyone Builds It, Eve
 
 Le domande frequenti qui sotto spiegano perché è rischioso cercare di contrastare, contenere o stare al passo con le IA superintelligenti. La discussione approfondita, poi, va più a fondo su alcune delle tecnologie che un'IA avanzata potrebbe realisticamente sviluppare.
 
-## Domande frequenti: {#faq}
+## Domande frequenti: {#faq-b}
 
 ### Possiamo semplicemente staccare la spina? {#possiamo-semplicemente-staccare-la-spina}
 
@@ -2324,14 +2324,14 @@ Così rispondevamo, comunque — ai tempi in cui l'IA era ancora così lontana c
 
 ### Non potremo sfruttare il punto debole dell'IA? {#non-potremo-sfruttare-il-punto-debole-dell-ia}
 
-#### **No.** {#no-1}
+#### **No.**
 
 Immaginare che una superintelligenza debba avere qualche difetto critico come "mancanza di creatività" o "incapacità di comprendere l'amore" è logica hollywoodiana. Anche se potrebbe costituire un colpo di scena soddisfacente nella finzione, non esiste un fenomeno analogo nelle IA reali.  
 Si veda anche "[Le macchine non saranno fondamentalmente prive di creatività o comunque fatalmente imperfette?](#le-macchine-non-saranno-fondamentalmente-prive-di-creativita-o-altrimenti-fatalmente-imperfette)" nelle domande frequenti del Capitolo 1 e la discussione approfondita su [antropomorfismo e meccanomorfismo](#antropomorfismo-e-meccanomorfismo).
 
 ### Possiamo migliorare gli esseri umani in modo che stiano al passo con l'IA? {#possiamo-migliorare-gli-esseri-umani-in-modo-che-stiano-al-passo-con-l-ia}
 
-#### **\* No.** {#no-2}
+#### **\* No.**
 
 Anche se siamo a favore del potenziamento dell'intelligenza umana (vedi Capitolo 13), non pensiamo che questa tecnologia offra una possibilità realistica di tenere il passo con il progresso sfrenato dell'IA. La tecnologia di potenziamento umano è ancora agli albori ed è molto più vincolata dell'IA come metodo per produrre un'intelligenza sempre maggiore. Allo stesso modo, le interfacce cervello-computer non permetteranno realisticamente agli umani di tenere il passo con le IA.
 

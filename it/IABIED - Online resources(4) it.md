@@ -92,7 +92,7 @@ C'è ancora tanta strada da fare, ma il mondo sta iniziando a rendersene conto. 
 
 ### La situazione è disperata? {#la-situazione-e-disperata}
 
-#### **No** {#no-4}
+#### **No**
 
 Questa è una battaglia che possiamo vincere, e vale la pena lottare per questo nostro mondo. Non sembra facile, ma è davvero fattibile.
 
