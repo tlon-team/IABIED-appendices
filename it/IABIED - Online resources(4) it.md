@@ -1,4 +1,4 @@
-#### **Possiamo collaborare per fermare la superintelligenza pur essendo in disaccordo sul potenziamento umano.** {#possiamo-collaborare-per-fermare-la-superintelligenza-pur-essendo-in-disaccordo-sul-potenziamento-umano.}
+#### **Possiamo collaborare per fermare la superintelligenza pur essendo in disaccordo sul potenziamento umano.** {#possiamo-collaborare-per-fermare-la-superintelligenza-pur-essendo-in-disaccordo-sul-potenziamento-umano}
 
 Se non siete d'accordo con noi sull'idea del potenziamento umano, possiamo comunque trovare un accordo per fermare lo sviluppo dell'IA di frontiera.
 
@@ -16,9 +16,9 @@ Anche coloro che hanno altri piani su cosa dovrebbe fare l'umanità in seguito, 
 
 Meta AI non può esistere, OpenAI non può esistere, Anthropic non può esistere; ci uccideranno. Possiamo essere d'accordo su questa priorità immediata, anche se abbiamo idee molto diverse su cosa fare dopo.
 
-### "Allineata a chi?" {#"allineata-a-chi?"}
+### "Allineata a chi?" {#allineata-a-chi}
 
-#### **Questa è una domanda spinosa. A prescindere dalla risposta, dobbiamo fermare lo sviluppo.** {#questa-è-una-domanda-spinosa.-a-prescindere-dalla-risposta,-dobbiamo-fermare-lo-sviluppo.}
+#### **Questa è una domanda spinosa. A prescindere dalla risposta, dobbiamo fermare lo sviluppo.** {#questa-e-una-domanda-spinosa-a-prescindere-dalla-risposta-dobbiamo-fermare-lo-sviluppo}
 
 Se un giorno l'umanità creerà una superintelligenza, dovremo assicurarci che sia “allineata” con i valori umani. Ma con i valori di quali esseri umani, esattamente? Le persone hanno opinioni molto diverse su ciò che è giusto e sbagliato, sulla religione, sulle norme sociali, sui compromessi politici, ecc.
 
@@ -39,9 +39,9 @@ In pratica, il nostro consiglio ai leader mondiali è:
 
 Anche quando si tratta di questioni di enorme importanza a lungo termine, [nulla dovrebbe essere associato alla sopravvivenza dell'umanità, se non la sopravvivenza dell'umanità stessa](#mantenere-ampia-la-coalizione).
 
-### Non è più furbo evitare di parlare di estinzione? {#non-è-più-furbo-evitare-di-parlare-di-estinzione?}
+### Non è più furbo evitare di parlare di estinzione? {#non-e-piu-furbo-evitare-di-parlare-di-estinzione}
 
-#### **Il tempo dei giochi politici è finito.** {#il-tempo-dei-giochi-politici-è-finito.}
+#### **Il tempo dei giochi politici è finito.** {#il-tempo-dei-giochi-politici-e-finito}
 
 Alcuni sostengono che chi è preoccupato per la corsa alla creazione di una superintelligenza dovrebbe tenere per sé le proprie opinioni e parlare invece della perdita di posti di lavoro causata dall'IA, o del problema dei bioterroristi che usano ChatGPT, o di quanta acqua serve per raffreddare i computer nei data center.[^230] Riteniamo che questo approccio sia un eccesso di furbizia e che rischi di essere controproducente. In effetti, abbiamo già visto che è stato controproducente in diverse occasioni.
 
@@ -68,11 +68,11 @@ A un certo punto, come esseri umani, dobbiamo iniziare a parlare della minaccia 
 
 I direttori dei laboratori di IA sostengono che potremmo vedere IA capaci di fare ricerca superare gli esseri umani nel giro di [uno](https://www.theguardian.com/technology/2024/apr/09/elon-musk-predicts-superhuman-ai-will-be-smarter-than-people-next-year) - [quatttro](https://www.youtube.com/watch?v=ugvHCXCOmm4&t=8400s) [anni](https://ia.samaltman.com/). Speriamo con tutto il cuore che si sbaglino ma, con tutta la nostra esperienza, non possiamo *sapere* che hanno torto. Nemmeno i responsabili politici possono saperlo. L'umanità, semplicemente, non sta reagendo in modo adeguato alla sfida che ha di fronte. Se non si lancia l'allarme ora, quando?
 
-Inoltre, da quando abbiamo steso la prima bozza di questo paragrafo, la strategia che sosteniamo sembra dare sempre più i suoi frutti, come si può vedere dalla [lista](#i-rappresentanti-eletti-riconosceranno-questa-come-una-vera-minaccia?) delle dichiarazioni dei politici sulla superintelligenza nel corso dell'estate del 2025\\. I tempi sembrano maturi per una discussione seria sul pericolo imminente che la superintelligenza artificiale rappresenta.
+Inoltre, da quando abbiamo steso la prima bozza di questo paragrafo, la strategia che sosteniamo sembra dare sempre più i suoi frutti, come si può vedere dalla [lista](#i-rappresentanti-eletti-riconosceranno-questa-come-una-vera-minaccia) delle dichiarazioni dei politici sulla superintelligenza nel corso dell'estate del 2025\\. I tempi sembrano maturi per una discussione seria sul pericolo imminente che la superintelligenza artificiale rappresenta.
 
-### I rappresentanti eletti riconosceranno questa come una vera minaccia? {#i-rappresentanti-eletti-riconosceranno-questa-come-una-vera-minaccia?}
+### I rappresentanti eletti riconosceranno questa come una vera minaccia? {#i-rappresentanti-eletti-riconosceranno-questa-come-una-vera-minaccia}
 
-#### **Un numero crescente lo ha già fatto.** {#un-numero-crescente-lo-ha-già-fatto.}
+#### **Un numero crescente lo ha già fatto.** {#un-numero-crescente-lo-ha-gia-fatto}
 
 Pensiamo che l'ostacolo principale che impedisce alla gente di riconoscere questa minaccia stia nel fargliela comprendere. Nei pochi mesi da quando il libro è stato mandato in stampa, ci sembra che il mondo stia già facendo passi avanti in questa direzione.
 
@@ -90,9 +90,9 @@ Ecco alcune dichiarazioni di politici statunitensi di entrambi gli schieramenti 
 
 C'è ancora tanta strada da fare, ma il mondo sta iniziando a rendersene conto. I tempi sono maturi per allertare i funzionari sulla necessità di agire rapidamente a livello federale e internazionale.
 
-### La situazione è disperata? {#la-situazione-è-disperata?}
+### La situazione è disperata? {#la-situazione-e-disperata}
 
-#### **No** {#no.-4}
+#### **No** {#no-4}
 
 Questa è una battaglia che possiamo vincere, e vale la pena lottare per questo nostro mondo. Non sembra facile, ma è davvero fattibile.
 
@@ -100,7 +100,7 @@ Se volete unirvi a noi per chiamare il mondo all'azione, saremo onorati di comba
 
 ## Discussione approfondita {#discussione-approfondita-11}
 
-### Cosa servirebbe per arrestare lo sviluppo globale dell'IA? {#cosa-servirebbe-per-arrestare-lo-sviluppo-globale-dell-ia?}
+### Cosa servirebbe per arrestare lo sviluppo globale dell'IA? {#cosa-servirebbe-per-arrestare-lo-sviluppo-globale-dell-ia}
 
 Non siamo esperti di diritto internazionale e questo è un argomento straordinariamente complicato, che a nostro avviso richiederà un notevole impegno da parte degli esperti del settore. Tuttavia, nell'interesse di avviare rapidamente il dibattito, abbiamo collaborato con il nostro [team di governance tecnica](https://techgov.intelligence.org/) e con consulenti esterni per raccogliere alcuni spunti e ipotesi su misure che potrebbero rivelarsi efficaci.
 
@@ -110,7 +110,7 @@ Come primo passo, esaminiamo i vincoli e i contorni del problema che stiamo cerc
 
 I progressi attuali nel campo dell'IA derivano da una combinazione di fattori: la creazione di chip più performanti, l'impiego di un maggior numero di chip per sessioni di addestramento più lunghe, e il miglioramento degli algoritmi. Affronteremo a uno a uno ciascuno di questi aspetti, spiegando quali siano le leve corrispondenti per arrestare il progresso verso la superintelligenza artificiale.
 
-#### **Impedire la creazione di chip per l'IA più numerosi e potenti** {#impedire-la-creazione-di-chip-per-l-ia-più-numerosi-e-potenti}
+#### **Impedire la creazione di chip per l'IA più numerosi e potenti** {#impedire-la-creazione-di-chip-per-l-ia-piu-numerosi-e-potenti}
 
 Aumentare la potenza delle moderne IA richiede un enorme investimento in potenza di calcolo ed energia elettrica. Di conseguenza, sembra possibile, per i moderni attori statali, identificare e monitorare tutte le strutture pertinenti e prevenire l'emergere di nuove strutture simili, con un impatto minimo sull'hardware di consumo.
 
@@ -128,7 +128,7 @@ Per produrre chip per l'IA e altri chip avanzati per computer (come quelli per i
 
 Si potrebbe controllare che i chip specializzati per l'IA già esistenti vengano conservati e usati per far funzionare le IA esistenti, come ChatGPT. Garantire che tali chip vengano usati solo per far funzionare IA a bassa potenza (anziché per nuove attività di ricerca e sviluppo) sarebbe una sfida, ma non insormontabile. Le posizioni dei chip esistenti potrebbero essere tracciate e monitorate, e ci sono vari potenziali [meccanismi che potrebbero essere utilizzati per verificare](https://techgov.intelligence.org/research/mechanisms-to-verify-international-agreements-about-ai-development) per cosa vengono usati tali chip. Questo tipo di monitoraggio richiede l'accesso fisico ai chip (ad esempio, ispettori che effettuano misurazioni in un data center). L'accesso remoto potrebbe essere sufficiente per verificare se i nuovi chip siano fabbricati con [una sicurezza migliorata](https://www.cnas.org/publications/reports/secure-governable-chips) e progettati tenendo conto della verifica e del monitoraggio. Come vedremo nella sezione seguente, le concentrazioni di chip necessarie per essere pericolose (al livello degli algoritmi di IA dell'agosto 2025) sono così grandi che non sarebbe difficile per gli attori statali individuare tutte queste strutture e sottoporle a ispezioni regolari.
 
-#### **Impedire l'uso di chip per l'IA più numerosi e migliori** {#impedire-l-uso-di-chip-per-l-ia-più-numerosi-e-migliori}
+#### **Impedire l'uso di chip per l'IA più numerosi e migliori** {#impedire-l-uso-di-chip-per-l-ia-piu-numerosi-e-migliori}
 
 Spostando ora l'attenzione dalla produzione dei chip al loro utilizzo: i più grandi [attuali data center per l'IA](https://epoch.ai/blog/trends-in-ai-supercomputers) ospitano centinaia di migliaia di chip per l'IA, che costano miliardi di euro. Per addestrare una delle IA più potenti oggi disponibili, questi chip devono essere utilizzati per mesi e mesi.
 
@@ -152,15 +152,15 @@ Il progresso algoritmico è guidato principalmente dalla ricerca e dall'ingegner
 
 Anche se oggi queste competenze sono rare, non è chiaro come la situazione potrebbe cambiare con l'aumento del numero di ricercatori che entrano nel settore e la diffusione delle conoscenze. A seconda di come si conta il numero di persone con le competenze necessarie, il numero reale è probabilmente nell'ordine delle centinaia o delle migliaia (ad esempio, in base al numero di ricercatori e ingegneri di IA presso le [principali aziende di IA](https://fortune.com/2025/03/15/ai-talent-wars-startups-google-meta-openai-hiring-scientists-stock-salaries/)). Le stime conservative potrebbero essere molto più alte — ad esempio, ci sono [decine di milioni](https://www.griddynamics.com/blog/number-software-developers-world) di ingegneri software nel mondo.
 
-**Interventi legali e sociali potrebbero rallentare drasticamente il progresso algoritmico.** La maggior parte delle persone non vuole infrangere la legge, soprattutto quando ci sono conseguenze reali. Se fosse illegale pubblicare determinate ricerche sull'IA o eseguire vari esperimenti sull'IA , in base ai rischi catastrofici posti da un'IA sufficientemente potente, ciò probabilmente dissuaderebbe [quasi tutti i potenziali ricercatori nel campo dell'IA](#perché-vietare-la-ricerca?-sembra-una-misura-estrema.). I governi potrebbero implementare controlli sulle esportazioni che renderebbero illegale la condivisione o la pubblicazione di tali ricerche senza una licenza di esportazione e l'approvazione del governo.
+**Interventi legali e sociali potrebbero rallentare drasticamente il progresso algoritmico.** La maggior parte delle persone non vuole infrangere la legge, soprattutto quando ci sono conseguenze reali. Se fosse illegale pubblicare determinate ricerche sull'IA o eseguire vari esperimenti sull'IA , in base ai rischi catastrofici posti da un'IA sufficientemente potente, ciò probabilmente dissuaderebbe [quasi tutti i potenziali ricercatori nel campo dell'IA](#perche-vietare-la-ricerca-sembra-una-misura-estrema). I governi potrebbero implementare controlli sulle esportazioni che renderebbero illegale la condivisione o la pubblicazione di tali ricerche senza una licenza di esportazione e l'approvazione del governo.
 
 Anche i tabù sociali sarebbero d'aiuto. Un precedente è la [Conferenza di Asilomar sul DNA ricombinante](https://en.wikipedia.org/wiki/Asilomar_Conference_on_Recombinant_DNA) del 1975, che portò a una moratoria volontaria su alcuni esperimenti biologici ritenuti eccessivamente rischiosi. In teoria, gli scienziati potrebbero istituire una moratoria volontaria sull'avanzamento delle capacità dell'IA. Tuttavia, ciò richiederebbe che questi scienziati prendessero sul serio il pericolo rappresentato da un'intelligenza artificiale più intelligente dell'uomo — un cambiamento rispetto allo status quo, che vede il progresso delle capacità dell'IA lodato in molti ambienti. Dati gli incentivi economici miopi e il comportamento tenuto finora dai laboratori, le restrizioni legali esterne appaiono estremamente probabili, a meno che la cultura del settore non cambi *radicalmente* (e in fretta).[^236]
 
-Un elemento essenziale per rendere efficace un divieto imperfetto potrebbe essere una cosa tanto ovvia quanto "assicurarsi che i leader mondiali capiscano che [moriranno loro stessi e le loro famiglie](#alcune-nazioni-non-rifiuterebbero-il-divieto?), se continuano a spingere in quella direzione". Gli scenari di non conformità più probabili sono quelli in cui i governi vedono la superintelligenza sviluppata internamente come una risorsa strategica (o come un miraggio che li distrae da nuovi strumenti di IA redditizi), piuttosto che come un pulsante di suicidio globale. I governi sarebbero molto meno propensi a portare avanti progetti di ricerca segreti sulla superintelligenza se capissero correttamente che ciò equivale a caricare una pistola, puntarsela alla testa e premere il grilletto.
+Un elemento essenziale per rendere efficace un divieto imperfetto potrebbe essere una cosa tanto ovvia quanto "assicurarsi che i leader mondiali capiscano che [moriranno loro stessi e le loro famiglie](#alcune-nazioni-non-rifiuterebbero-il-divieto), se continuano a spingere in quella direzione". Gli scenari di non conformità più probabili sono quelli in cui i governi vedono la superintelligenza sviluppata internamente come una risorsa strategica (o come un miraggio che li distrae da nuovi strumenti di IA redditizi), piuttosto che come un pulsante di suicidio globale. I governi sarebbero molto meno propensi a portare avanti progetti di ricerca segreti sulla superintelligenza se capissero correttamente che ciò equivale a caricare una pistola, puntarsela alla testa e premere il grilletto.
 
-I divieti di ricerca non fermerebbero tutti. Alcuni importanti ricercatori scientifici e dirigenti tecnologici hanno [già affermato](#perché-non-vi-interessano-i-valori-di-entità-diverse-dagli-esseri-umani?) che distruggere l'umanità è un prezzo accettabile da pagare per il progresso. Ma non dovremmo lasciare che il meglio sia nemico del bene. I progressi algoritmici quanto meno rallenterebbero se queste persone venissero private dei finanziamenti ed emarginate dai loro colleghi, costringendole a condurre le loro letali ricerche nell'illegalità e senza la collaborazione dei loro colleghi più retti.
+I divieti di ricerca non fermerebbero tutti. Alcuni importanti ricercatori scientifici e dirigenti tecnologici hanno [già affermato](#perche-non-vi-interessano-i-valori-di-entita-diverse-dagli-esseri-umani) che distruggere l'umanità è un prezzo accettabile da pagare per il progresso. Ma non dovremmo lasciare che il meglio sia nemico del bene. I progressi algoritmici quanto meno rallenterebbero se queste persone venissero private dei finanziamenti ed emarginate dai loro colleghi, costringendole a condurre le loro letali ricerche nell'illegalità e senza la collaborazione dei loro colleghi più retti.
 
-#### **Più aspettiamo, più diventa difficile** {#più-aspettiamo,-più-diventa-difficile}
+#### **Più aspettiamo, più diventa difficile** {#piu-aspettiamo-piu-diventa-difficile}
 
 Se la produzione e la distribuzione dei chip di IA proseguono sulla traiettoria attuale, la sfida di garantire che un numero sufficiente di chip sia centralizzato e monitorato diventerà sempre più ardua. Anche se gli Stati non sono ancora convinti dei rischi, iniziare oggi a tracciare i chip di IA a livello internazionale significa che in futuro potrebbe rimanere possibile intervenire. Se i governi non si muovono in fretta, questa finestra temporale potrebbe chiudersi presto.
 
@@ -168,7 +168,7 @@ Se ai ricercatori sarà consentito di continuare a far progredire lo stato dell'
 
 Prima o poi, potrebbe diventare impossibile per i governi di tutto il mondo fermare lo sviluppo di sistemi di IA superintelligenti. Non siamo ancora a quel punto, ma ogni mese diventa più difficile. Il piano che delineiamo si basa sul presupposto di fermare lo sviluppo dell'IA *a breve*. Esistono altri piani che non si basano su questo presupposto, ma sono più difficili da attuare, hanno costi più elevati per le libertà personali e comportano maggiori probabilità di fallimento.
 
-### Bozza provvisoria di un trattato, con annotazioni {#bozza-provvisoria-di-un-trattato,-con-annotazioni}
+### Bozza provvisoria di un trattato, con annotazioni {#bozza-provvisoria-di-un-trattato-con-annotazioni}
 
 Molte persone, compresi i membri della Camera dei Rappresentanti e del Senato degli Stati Uniti, ci hanno chiesto quali proposte legislative concrete e specifiche potrebbero effettivamente aiutare a risolvere questo problema.
 
@@ -176,9 +176,9 @@ Non siamo esperti di politiche pubbliche e vediamo molte possibili risposte a qu
 
 Abbiamo molto più da dire sulle seconde che sulle prime. A tal fine, il team di governance tecnica del MIRI ha elaborato una bozza preliminare di una di queste proposte.
 
-Questa bozza di trattato è pensata per un mondo in cui i leader mondiali abbiano preso coscienza della realtà di un'IA più intelligente dell'uomo. Non è il genere di cosa che prevediamo possa essere approvata domani (nel momento in cui scriviamo), ma potrebbe non essere così difficile far ratificare un trattato simile una volta che il mondo sarà più consapevole del pericolo — un processo che è [già iniziato](#i-rappresentanti-eletti-riconosceranno-questa-come-una-vera-minaccia?) e che speriamo possa continuare.
+Questa bozza di trattato è pensata per un mondo in cui i leader mondiali abbiano preso coscienza della realtà di un'IA più intelligente dell'uomo. Non è il genere di cosa che prevediamo possa essere approvata domani (nel momento in cui scriviamo), ma potrebbe non essere così difficile far ratificare un trattato simile una volta che il mondo sarà più consapevole del pericolo — un processo che è [già iniziato](#i-rappresentanti-eletti-riconosceranno-questa-come-una-vera-minaccia) e che speriamo possa continuare.
 
-[La bozza del trattato è disponibile qui](#bozza-provvisoria-di-un-trattato,-con-annotazioni-1), con molte annotazioni. Il processo di stesura ha attinto ampiamente dai precedenti storici di altri trattati, riportati a margine della bozza. Sottolineiamo ancora una volta che questo è un punto di partenza, non un punto di arrivo. Non siamo esperti di politiche pubbliche e potremmo aver commesso alcuni errori ingenui. Tuttavia, speriamo che questa bozza possa servire da ispirazione e da esempio di come un trattato di questo tipo sarebbe possibile e in linea con analoghe iniziative legislative del passato.
+[La bozza del trattato è disponibile qui](#bozza-provvisoria-di-un-trattato-con-annotazioni-1), con molte annotazioni. Il processo di stesura ha attinto ampiamente dai precedenti storici di altri trattati, riportati a margine della bozza. Sottolineiamo ancora una volta che questo è un punto di partenza, non un punto di arrivo. Non siamo esperti di politiche pubbliche e potremmo aver commesso alcuni errori ingenui. Tuttavia, speriamo che questa bozza possa servire da ispirazione e da esempio di come un trattato di questo tipo sarebbe possibile e in linea con analoghe iniziative legislative del passato.
 
 ### Mantenere ampia la coalizione {#mantenere-ampia-la-coalizione}
 
@@ -202,11 +202,11 @@ Dal punto di vista dell'Occidente, era meglio che l'umanità fosse *meno* minacc
 
 Troppi Paesi devono coordinarsi. Troppe fazioni sono divise (anche al loro interno) per poter evitare la catastrofe se solo coloro che sono d'accordo su tutto possono agire insieme.
 
-Noi facciamo causa comune, con gioia e senza riserve, con chiunque si preoccupi di [altre questioni](#purtroppo,-il-mondo-è-abbastanza-grande-da-contenere-più-di-un-problema.) nel mondo. Collaboreremo senza esitazione con persone con cui siamo in disaccordo politico. Abbiamo lanciato questo messaggio disperato al mondo perché è un messaggio in cui crediamo fermamente, e riteniamo che questo problema vada affrontato *immediatamente* a livello internazionale.
+Noi facciamo causa comune, con gioia e senza riserve, con chiunque si preoccupi di [altre questioni](#purtroppo-il-mondo-e-abbastanza-grande-da-contenere-piu-di-un-problema) nel mondo. Collaboreremo senza esitazione con persone con cui siamo in disaccordo politico. Abbiamo lanciato questo messaggio disperato al mondo perché è un messaggio in cui crediamo fermamente, e riteniamo che questo problema vada affrontato *immediatamente* a livello internazionale.
 
 Chiunque voi siate, qualunque sia la causa per cui lottate, qui o altrove, se volete porre fine allo sviluppo vertiginoso di un'intelligenza artificiale più intelligente dell'uomo, combattiamo la stessa battaglia.
 
-## Bozza di un trattato, con annotazioni {#bozza-provvisoria-di-un-trattato,-con-annotazioni-1}
+## Bozza di un trattato, con annotazioni {#bozza-provvisoria-di-un-trattato-con-annotazioni-1}
 
 ### Avvertenze {#avvertenze}
 
@@ -254,7 +254,7 @@ Così facendo, il preambolo invita il mondo a unirsi alle Parti responsabili nel
 
 ---
 
-### Articolo I: Scopo principale {#articolo-i:-scopo-principale}
+### Articolo I: Scopo principale {#articolo-i-scopo-principale}
 
 Ciascuna Parte del presente Trattato si impegna a non sviluppare, rilasciare, o cercare di sviluppare o rilasciare in alcun modo la superintelligenza artificiale ("SIA"). Ciascuna Parte si impegna a vietare e impedire tale sviluppo all'interno dei propri confini e giurisdizioni e, data l'incertezza su quando ulteriori progressi potrebbero produrre una SIA, si impegna a non intraprendere o permettere attività che costituiscano un progresso materiale verso la SIA, come descritto nel presente Trattato. Ciascuna Parte favorirà, o non ostacolerà, le misure ragionevoli di altre Parti per dissuadere e prevenire tale sviluppo da parte di, e all'interno di, Stati e giurisdizioni non Parte. Ciascuna Parte attuerà e adempirà a tutti gli altri obblighi, misure e disposizioni di verifica stabiliti nel presente Trattato.
 
@@ -280,7 +280,7 @@ Tale formulazione, tuttavia, non mira a impedire a chicchessia di testare o real
 
 ---
 
-### Articolo II: Definizioni {#articolo-ii:-definizioni}
+### Articolo II: Definizioni {#articolo-ii-definizioni}
 
 Ai fini del presente Trattato:
 
@@ -320,7 +320,7 @@ I chip per l'IA sono un sottoinsieme dei chip avanzati e non esiste una linea di
 
 Si noti che la dicitura "mezzi tecnici nazionali" (MTN) potrebbe essere considerata obsoleta come [termine](https://fas.org/publication/ntm-obe/) ufficiale da alcuni governi. La usiamo in questa bozza di trattato, seguendo lo stile dei precedenti accordi sul controllo degli armamenti per facilitare il confronto. 
 
-### Articolo III: AISI {#articolo-iii:-aisi}
+### Articolo III: AISI {#articolo-iii-aisi}
 
 1. Le Parti del Trattato istituiscono l'Agenzia Internazionale per la Superintelligenza (AISI), al fine di attuare il presente Trattato e le sue disposizioni, incluse quelle per la verifica internazionale del suo rispetto, e per fornire un foro di consultazione e cooperazione tra le Parti.  
 2. Vengono istituiti quali organi dell'AISI: la Conferenza delle Parti, il Consiglio Esecutivo e il Segretariato Tecnico.  
@@ -394,7 +394,7 @@ Le "ispezioni su richiesta" di cui al Paragrafo 4(c) sono basate sul meccanismo 
 
 ---
 
-### Articolo IV: Addestramento dell'IA {#articolo-iv:-addestramento-dell-ia}
+### Articolo IV: Addestramento dell'IA {#articolo-iv-addestramento-dell-ia}
 
 1. Ciascuna Parte si impegna a vietare l'addestramento dell'IA al di sopra delle seguenti soglie: qualsiasi sessione di addestramento che superi 1e24 FLOP o qualsiasi sessione di post-addestramento che superi 1e23 FLOP. Ciascuna Parte si impegna a non condurre sessioni di addestramento al di sopra di tali soglie e a non permettere a nessuna entità soggetta alla propria giurisdizione di condurre tali sessioni.  
    1. Il Segretariato Tecnico può modificare queste soglie, in conformità con la procedura descritta nell'Articolo III. Il Consiglio Esecutivo può porre il veto a tali decisioni con un voto a maggioranza di due terzi.  
@@ -412,7 +412,7 @@ Le "ispezioni su richiesta" di cui al Paragrafo 4(c) sono basate sul meccanismo 
 
 #### Note
 
-Uno dei modi principali per migliorare le attuali IA è [aumentare le risorse computazionali](#impedire-la-creazione-di-chip-per-l-ia-più-numerosi-e-potenti) investite nell'addestramento delle IA. Limitare queste risorse e la ricerca sul progresso algoritmico (descritta nell'Articolo VIII) può ridurre il rischio, che nel breve periodo, venga creata un'IA più intelligente dell'uomo.
+Uno dei modi principali per migliorare le attuali IA è [aumentare le risorse computazionali](#impedire-la-creazione-di-chip-per-l-ia-piu-numerosi-e-potenti) investite nell'addestramento delle IA. Limitare queste risorse e la ricerca sul progresso algoritmico (descritta nell'Articolo VIII) può ridurre il rischio, che nel breve periodo, venga creata un'IA più intelligente dell'uomo.
 
 Il divieto si basa sul numero di operazioni computazionali, dato che è un parametro relativamente facile da definire e misurare, e le prestazioni degli attuali modelli di IA all'avanguardia ci danno un'idea delle quantità di potenza di calcolo che risultano sicure con gli algoritmi odierni.
 
@@ -450,7 +450,7 @@ I precedenti per le soglie quantitative che limitano il potenziale di fuga verra
 
 ---
 
-### Articolo V: Consolidamento dei chip {#articolo-v:-consolidamento-dei-chip}
+### Articolo V: Consolidamento dei chip {#articolo-v-consolidamento-dei-chip}
 
 1. Ciascuna Parte garantisce che, all'interno della propria giurisdizione, tutti i cluster di chip coperti (CCC), come definiti nell'Articolo II (ossia un insieme di chip con una capacità superiore a 16 equivalenti-H100) \[nota: 16 H100 hanno un costo complessivo di circa 430.000 euro nel 2025 e raramente sono di proprietà di privati\], siano ubicati in strutture dichiarate all'AISI e che tali chip per l'IA siano soggetti al monitoraggio da parte dell'AISI.  
    1. Le parti cercheranno di evitare di co-locare chip per l'AI e hardware non-IA non ausiliario in queste strutture dichiarate.  
@@ -570,7 +570,7 @@ Negli Stati Uniti, gli approcci all'implementazione della centralizzazione dei c
 
 ---
 
-### Articolo VI: Monitoraggio della produzione di chip per l'IA {#articolo-vi:-monitoraggio-della-produzione-di-chip-per-l-ia}
+### Articolo VI: Monitoraggio della produzione di chip per l'IA {#articolo-vi-monitoraggio-della-produzione-di-chip-per-l-ia}
 
 1. L'AISI implementerà un monitoraggio degli impianti di produzione di chip per l'IA e degli input chiave per la loro produzione. Tale monitoraggio garantirà che tutti i chip per l'IA di nuova produzione siano immediatamente tracciati e monitorati fino alla loro installazione nei CCC dichiarati e che non vengano create catene di approvvigionamento non monitorate.  
    1. L'AISI monitorerà gli impianti di produzione di chip per l'IA che è stato determinato producano, o potrebbero produrre, chip per l'IA e hardware rilevante [le definizioni precise di impianti di produzione di chip per l'IA, chip per l'IA e hardware rilevante andrebbero ulteriormente dettagliate in un Allegato; anche i metodi di monitoraggio andrebbero descritti in un Allegato].  
@@ -622,7 +622,7 @@ Gli embargo sul trasferimento di prodotti finiti, precursori e attrezzature di p
 
 ---
 
-### Articolo VII: Verifica dell'impiego dei chip {#articolo-vii:-verifica-dell-impiego-dei-chip}
+### Articolo VII: Verifica dell'impiego dei chip {#articolo-vii-verifica-dell-impiego-dei-chip}
 
 1. Le parti accettano la verifica continua in loco di tutto l'utilizzo dei chip da parte dell'AISI presso i CCC dichiarati. I metodi utilizzati per la verifica saranno determinati e aggiornati dal Segretariato Tecnico, in conformità con la procedura descritta nell'Articolo III. Il Consiglio Esecutivo può porre il veto su tali decisioni con un voto a maggioranza dei due terzi. Tali metodi possono includere, a titolo esemplificativo ma non esaustivo:  
    1. Ispettori in presenza  
@@ -682,7 +682,7 @@ Il monitoraggio continuo da parte del governo delle strutture commerciali privat
 
 ---
 
-### Articolo VIII: Ricerca Soggetta a Restrizioni: algoritmi e hardware per l'IA {#articolo-viii:-ricerca-soggetta-a-restrizioni:-algoritmi-e-hardware-per-l-ia}
+### Articolo VIII: Ricerca Soggetta a Restrizioni: algoritmi e hardware per l'IA {#articolo-viii-ricerca-soggetta-a-restrizioni-algoritmi-e-hardware-per-l-ia}
 
 1. Al fine di prevenire ricerche specifiche che facciano avanzare la frontiera delle capacità dell'IA o che compromettano la capacità delle Parti di implementare le misure del presente Trattato, questo Trattato designa come "Ricerca Soggetta a Restrizioni" la ricerca che soddisfa una qualsiasi delle seguenti condizioni:  
    1. Miglioramenti ai metodi utilizzati per creare modelli all'avanguardia, come definiti nell'Articolo II, che migliorerebbero le capacità dei modelli o l'efficienza dello sviluppo, dell'implementazione o dell'uso dell'IA  
@@ -743,7 +743,7 @@ Il Progetto Overcast offre anche un precedente per controllare i ricercatori, re
 
 ---
 
-### Articolo IX: Verifica delle Restrizioni alla Ricerca {#articolo-ix:-verifica-delle-restrizioni-alla-ricerca}
+### Articolo IX: Verifica delle Restrizioni alla Ricerca {#articolo-ix-verifica-delle-restrizioni-alla-ricerca}
 
 1. Ogni Parte deve creare o conferire poteri a un'agenzia nazionale con le seguenti responsabilità:  
    1. Tenersi aggiornata e mantenere i contatti con i ricercatori e le organizzazioni nazionali che lavorano in settori affini alla Ricerca Soggetta a Restrizioni, al fine di comunicare le categorie di Ricerca Soggetta a Restrizioni stabilite nell'Articolo VIII.  
@@ -791,7 +791,7 @@ Per "proteggere la privacy e i segreti di individui e Parti" durante le verifich
 
 ---
 
-### Articolo X: Raccolta di informazioni e ispezioni di verifica {#articolo-x:-raccolta-di-informazioni-e-ispezioni-di-verifica}
+### Articolo X: Raccolta di informazioni e ispezioni di verifica {#articolo-x-raccolta-di-informazioni-e-ispezioni-di-verifica}
 
 1. Una fonte fondamentale di informazioni per l'AISI è costituita dalle attività indipendenti di raccolta informazioni delle Parti. Pertanto, la divisione Consolidamento delle Informazioni (Articolo III) riceverà tali informazioni.  
    1. La divisione Consolidamento delle Informazioni adotterà le opportune precauzioni per proteggere i segreti commerciali, industriali, di sicurezza e di Stato e le altre informazioni riservate di cui venga a conoscenza nell'attuazione del Trattato, incluso il mantenimento di canali di segnalazione sicuri, riservati e, facoltativamente, anonimi.  
@@ -873,7 +873,7 @@ La CAC, insieme ad altri trattati sul controllo degli armamenti come l'INF e il 
 
 ---
 
-### Articolo XI: Risoluzione delle controversie {#articolo-xi:-risoluzione-delle-controversie}
+### Articolo XI: Risoluzione delle controversie {#articolo-xi-risoluzione-delle-controversie}
 
 1. Qualsiasi Parte ("Parte Interessata") può sollevare preoccupazioni in merito all'attuazione del presente Trattato, ivi incluse preoccupazioni su situazioni ambigue o possibili non conformità da parte di un'altra parte ("Parte Richiesta"). Ciò include l'uso improprio delle Azioni di Protezione (Articolo XII).  
    1. La Parte Interessata deve comunicare la propria preoccupazione alla Parte Richiesta, condividendola anche con il Direttore Generale e il Consiglio Esecutivo. La Parte Richiesta deve accusare ricevuta di tale notifica entro 36 ore e fornire chiarimenti entro 5 giorni.  
@@ -906,7 +906,7 @@ Analogamente al Paragrafo 3 del nostro Articolo XI, l'Articolo XII della CAC con
 
 ---
 
-### Articolo XII: Azioni di Protezione {#articolo-xii:-azioni-di-protezione}
+### Articolo XII: Azioni di Protezione {#articolo-xii-azioni-di-protezione}
 
 1. Riconoscendo che lo sviluppo della SIA o di altre attività pericolose legate all'intelligenza artificiale, come indicato negli Articoli da IV a IX, potrebbe mettere a rischio la sicurezza globale e la vita di tutti, potrebbe essere necessario che le Parti di questo Trattato prendano misure drastiche per impedire tale sviluppo. Le Parti riconoscono che lo sviluppo della superintelligenza artificiale (SIA), in qualsiasi parte del mondo, rappresenterebbe una minaccia per tutte le Parti. Ai sensi dell'Articolo 51 della Carta delle Nazioni Unite e secondo un precedente consolidato, gli Stati hanno il diritto alla legittima difesa. Data la scala e la rapidità delle minacce legate alla SIA, la legittima difesa potrebbe richiedere azioni preventive per impedire lo sviluppo della SIA.  
 2. Per evitare lo sviluppo o l'impiego della SIA, questo Articolo autorizza Azioni di Protezione mirate. Qualora esistano prove credibili che uno Stato o altro attore (sia esso una Parte o una non-Parte) stia conducendo o intenda condurre in modo imminente attività volte allo sviluppo o all'impiego della SIA in violazione dell'Articolo I, dell'Articolo IV, dell'Articolo V, dell'Articolo VI, dell'Articolo VII o dell'Articolo VIII, uno Stato Parte può intraprendere Azioni di Protezione necessarie e proporzionate per impedire tali attività. In considerazione dei danni e della natura escalatoria delle Azioni di Protezione, queste ultime dovrebbero essere utilizzate come ultima risorsa. Al di fuori delle emergenze e delle situazioni urgenti, le Azioni di Protezione devono essere precedute da altri approcci quali, a titolo esemplificativo ma non esaustivo:  
@@ -935,7 +935,7 @@ Analogamente al Paragrafo 3 del nostro Articolo XI, l'Articolo XII della CAC con
 
 Il Trattato vero e proprio che verrà firmato potrebbe non essere così esplicito sulla necessità di Azioni di Protezione contro gli Stati che intraprendono lo sviluppo di SIA, lasciando invece questo aspetto implicito, come spesso accade in accordi simili. Abbiamo scelto di essere espliciti su questo punto perché questo regime di deterrenza è fondamentale per l'efficacia del Trattato, ed esplicitarlo contribuisce alla chiarezza. Questa esplicitezza ci permette anche di includere misure che possano contribuire a prevenire l'uso improprio delle Azioni di Protezione, tra cui una descrizione più dettagliata di quando tali Azioni sono accettabili. È importante che tutti i firmatari comprendano il regime di deterrenza implicito e le conseguenze dell'inadempienza.
 
-Come [discusso in precedenza](#alcune-nazioni-non-rifiuterebbero-il-divieto?), una volta che i leader mondiali avranno compreso la minaccia rappresentata dalla SIA, saranno probabilmente disposti a intraprendere azioni per fermare lo sviluppo di IA fuori controllo, compresi interventi militari limitati. Le azioni militari, come gli attacchi aerei mirati, dovrebbero essere considerate l'ultima risorsa per impedire lo sviluppo della SIA, una volta falliti tutti gli altri tentativi diplomatici. Ma è importante che siano un'opzione reale, affinché il sistema di deterrenza e conformità possa reggere.
+Come [discusso in precedenza](#alcune-nazioni-non-rifiuterebbero-il-divieto), una volta che i leader mondiali avranno compreso la minaccia rappresentata dalla SIA, saranno probabilmente disposti a intraprendere azioni per fermare lo sviluppo di IA fuori controllo, compresi interventi militari limitati. Le azioni militari, come gli attacchi aerei mirati, dovrebbero essere considerate l'ultima risorsa per impedire lo sviluppo della SIA, una volta falliti tutti gli altri tentativi diplomatici. Ma è importante che siano un'opzione reale, affinché il sistema di deterrenza e conformità possa reggere.
 
 Sottolineiamo che qualsiasi uso della forza dovrebbe essere mirato a prevenire la SIA, e dovrebbe cessare una volta che la minaccia sia stata chiaramente rimossa. Il presente Articolo chiarisce che i firmatari non impediranno l'adozione di ragionevoli Azioni di Protezione da parte di altre Parti, ma anche queste Azioni dovranno essere revisionate per garantire che non si abusi di questo Articolo.
 
@@ -957,7 +957,7 @@ Un altro precedente storico per le Azioni di Protezione è la risposta internazi
 
 ---
 
-### Articolo XIII: Revisioni dell'AISI {#articolo-xiii:-revisioni-dell-aisi}
+### Articolo XIII: Revisioni dell'AISI {#articolo-xiii-revisioni-dell-aisi}
 
 1. Per i modelli di IA creati tramite addestramento dichiarato o post-addestramento entro i limiti dell'Articolo IV, l'AISI può richiedere valutazioni e altri test. Questi test serviranno a determinare se le soglie fissate negli Articoli IV, V, VII e VIII debbano essere riviste. I metodi utilizzati per le revisioni saranno stabiliti dall'AISI e potranno essere aggiornati.  
 2. Le valutazioni saranno effettuate presso le strutture dell'AISI o i CCC monitorati, da funzionari dell'AISI. I funzionari delle Parti del Trattato potranno essere informati in merito ai test condotti e l'AISI potrà fornire una sintesi dei risultati dei test. Le Parti non avranno accesso ai modelli di IA che non hanno addestrato, a meno che l'accesso non sia concesso dal proprietario del modello, e l'AISI adotterà misure per garantire la sicurezza delle informazioni sensibili.  
@@ -985,7 +985,7 @@ Per quanto riguarda la tensione intrinseca tra la divulgazione al pubblico (Para
 
 ---
 
-### Articolo XIV: Procedura di revisione del Trattato {#articolo-xiv:-procedura-di-revisione-del-trattato}
+### Articolo XIV: Procedura di revisione del Trattato {#articolo-xiv-procedura-di-revisione-del-trattato}
 
 1. Qualsiasi Stato Parte può proporre emendamenti al presente Trattato. Per "emendamenti" si intendono le revisioni del corpo principale e degli Articoli del Trattato. Gli emendamenti includono revisioni allo scopo degli Articoli del Trattato. Ai sensi dell'Articolo III, il Segretariato Tecnico dell'AISI, senza veto da parte del Consiglio Esecutivo, può modificare definizioni specifiche e metodi di attuazione, come quelli relativi agli Articoli IV, V, VI, VII, VIII, IX e X. Le revisioni fondamentali allo scopo di questi Articoli o alle procedure di voto richiedono un Emendamento.  
 2. Le proposte di emendamento saranno sottoposte al Direttore Generale dell'AISI e comunicate agli Stati Parti.  
@@ -1016,7 +1016,7 @@ L'Articolo XV del [Trattato sullo Spazio Extra-Atmosferico](https://www.unoosa.o
 
 ---
 
-### Articolo XV: Recesso e durata {#articolo-xv:-recesso-e-durata}
+### Articolo XV: Recesso e durata {#articolo-xv-recesso-e-durata}
 
 1. Il Trattato ha una durata illimitata.  
 2. Ogni Parte, nell'esercitare la propria sovranità nazionale, ha il diritto di recedere dal Trattato se ritiene che eventi straordinari, relativi all'oggetto del presente Trattato, abbiano messo a rischio gli interessi supremi del proprio Paese. Dovrà notificare tale recesso all'AISI con un preavviso di 12 mesi.  
@@ -1036,7 +1036,7 @@ Qualora le nazioni desiderino recedere dal Trattato, il Trattato stabilisce chia
 
 Se il ritiro rappresentasse una preoccupazione, le Parti potrebbero includere meccanismi per rendere più difficile un'uscita pericolosa dal Trattato. Ad esempio, funzionari statunitensi e cinesi potrebbero accordarsi per installare reciprocamente degli interruttori di spegnimento all'interno dei data center conservati, in cui entrambe le parti avrebbero il potere di chiudere definitivamente un data center a propria discrezione. In alternativa, si potrebbe adottare un regime di licenze multilaterale in cui tutti i nuovi chip di IA vengano fabbricati con [blocchi hardware](https://arxiv.org/abs/2506.15093) che richiedano l'approvazione di più parti per continuare a funzionare, in modo che, se un Paese si ritirasse dal Trattato, gli altri potrebbero smettere di approvare le sue licenze. Un'altra idea consiste nello spostare le infrastrutture chiave per l'IA in paesi terzi, dove potrebbero essere confiscate o distrutte qualora una delle Parti si ritirasse. La nostra bozza si limita a metodi di deterrenza minimi, ma ne sono disponibili molti altri (o potrebbero diventare tali grazie all'innovazione tecnologica).
 
-Questa bozza di trattato si concentra sulla prevenzione dello sviluppo pericoloso dell'IA e non propone una particolare visione positiva su come tale sviluppo potrebbe eventualmente continuare. Un esempio di visione positiva potrebbe essere l'investimento congiunto nel potenziamento umano. Tuttavia, [non è necessario essere d'accordo su questi dettagli per convenire sulla necessità di fermare la corsa alla superintelligenza](#possiamo-collaborare-per-fermare-la-superintelligenza-pur-essendo-in-disaccordo-sul-potenziamento-umano.), perciò qui omettiamo tali dettagli.
+Questa bozza di trattato si concentra sulla prevenzione dello sviluppo pericoloso dell'IA e non propone una particolare visione positiva su come tale sviluppo potrebbe eventualmente continuare. Un esempio di visione positiva potrebbe essere l'investimento congiunto nel potenziamento umano. Tuttavia, [non è necessario essere d'accordo su questi dettagli per convenire sulla necessità di fermare la corsa alla superintelligenza](#possiamo-collaborare-per-fermare-la-superintelligenza-pur-essendo-in-disaccordo-sul-potenziamento-umano), perciò qui omettiamo tali dettagli.
 
 ---
 
@@ -1130,7 +1130,7 @@ Un giocatore di scacchi "più intelligente" può essere considerato come qualcun
 
 (Ci si aspetterebbe che i paragrafi precedenti fossero un concetto standard nell'informatica. Con nostra sorpresa, non è così. La maggior parte dell'informatica, e in effetti la maggior parte del mondo accademico finora, non si è interessata particolarmente alle idee associate all'intelligenza superumana.)
 
-[^25]:  \#Per ulteriori informazioni su questa idea, si consulti la discussione approfondita intitolata "[Lo stesso lavoro può essere fatto in molti modi diversi](#lo-stesso-lavoro-può-essere-fatto-in-molti-modi-diversi)".
+[^25]:  \#Per ulteriori informazioni su questa idea, si consulti la discussione approfondita intitolata "[Lo stesso lavoro può essere fatto in molti modi diversi](#lo-stesso-lavoro-puo-essere-fatto-in-molti-modi-diversi)".
 
 [^26]: A seconda delle vostre idee psicologiche e filosofiche, potreste pensare che questi argomenti siano collegati. Noi siamo piuttosto scettici riguardo a una connessione forte e stretta; ma se una connessione esiste, sembra comunque utile distinguere esplicitamente questi diversi argomenti. Se, per esempio, l'auto-modifica risultasse inestricabilmente legato alla coscienza, questo sarebbe un fatto importante che dovrebbe essere discusso e approfondito esplicitamente, non un'ipotesi che dovremmo dare per scontata fin dall'inizio.
 
@@ -1172,7 +1172,7 @@ Questa osservazione mina anche l'idea che la "vera" intelligenza artificiale, se
 
 [^40]:  Questi dettagli non rendono *tutti* i fatti irrilevanti. Si possono ancora imparare un paio di cose sull'aerodinamica dagli uccelli; si possono imparare un paio di cose sulle articolazioni e sul vantaggio meccanico dal braccio umano. Ma i metodi meccanici operano con vincoli radicalmente diversi da quelli biologici, e tendono a funzionare in modi radicalmente diversi.
 
-[^41]: *credenziali vagamente rilevanti:* L'esempio più eclatante che conosciamo è trattato nella nostra risposta alla domanda "[Gli esperti capiscono cosa succede all'interno delle IA?](#gli-esperti-capiscono-cosa-succede-all-interno-delle-ia?)".
+[^41]: *credenziali vagamente rilevanti:* L'esempio più eclatante che conosciamo è trattato nella nostra risposta alla domanda "[Gli esperti capiscono cosa succede all'interno delle IA?](#gli-esperti-capiscono-cosa-succede-all-interno-delle-ia)".
 
 [^42]:  \**spendere un miliardo di dollari:* Speravamo che le principali fondazioni filantropiche finanziassero la ricerca sull'interpretabilità, perché poteva essere svolta con buoni risultati da ricercatori con credenziali burocraticamente leggibili. Finanziare l'interpretabilità non avrebbe richiesto alla fondazione di risolvere il problema burocratico, quasi impossibile, di capire come dare soldi a tipi strani.  
 
@@ -1309,7 +1309,7 @@ Allo stesso modo, la selezione naturale sceglie i geni in modo tale che, in pass
 
 [^81]:  \**George Pólya disse:* George Pólya, *The Pólya Picture Album: Encounters of a Mathematician*, [archivio digitale](https://archive.org/details/polyapicturealbu0000poly/page/154/mode/2up) (Birkhäuser, 1987), 154\.
 
-[^82]:  Questo non vuol dire che a nessuno interessi *niente* avere figli. Molte persone vogliono avere un paio di figli, e alcune ne vogliono avere molti. Ma anche interessarsi ad avere figli non è *proprio* la stessa cosa che interessarsi all'idoneità genetica, come vedremo [più avanti nelle domande frequenti del capitolo 4](#molte-persone-vogliono-dei-figli.-quindi-gli-esseri-umani-non-sono-"allineati"-con-la-selezione-naturale,-dopotutto?).  
+[^82]:  Questo non vuol dire che a nessuno interessi *niente* avere figli. Molte persone vogliono avere un paio di figli, e alcune ne vogliono avere molti. Ma anche interessarsi ad avere figli non è *proprio* la stessa cosa che interessarsi all'idoneità genetica, come vedremo [più avanti nelle domande frequenti del capitolo 4](#molte-persone-vogliono-dei-figli-quindi-gli-esseri-umani-non-sono-allineati-con-la-selezione-naturale-dopotutto).  
 
 L'anno scorso abbiamo fatto un rapido sondaggio online:  
 
@@ -1339,7 +1339,7 @@ Non consigliamo di prendere troppo sul serio questi sondaggi. Ci stavamo solo di
 
 [^89]: "Perché proprio l'estinzione?" è l'argomento che affronteremo nei prossimi capitoli, il 5 e il 6.
 
-[^90]:  Vent'anni fa, [Omohundro](https://selfawaresystems.com/wp-content/uploads/2008/01/ai_drives_final.pdf), [Yudkowsky](https://intelligence.org/files/AIPosNegFactor.pdf) e [Bostrom](https://nickbostrom.com/superintelligentwill.pdf) hanno parlato di come le IA potrebbero essere motivate (una volta diventate abbastanza potenti) a proteggere i propri obiettivi. Potrebbe essere che Claude, nonostante sembri cognitivamente "[superficiale](#la-superficialità-delle-ia-attuali)" almeno sotto alcuni aspetti, abbia iniziato a notare e a rispondere a questo incentivo, almeno in alcuni contesti. Ma potrebbe anche essere che Claude abbia letto anche quei documenti, o abbia letto precedenti opere di fantascienza che facevano osservazioni simili, e che in un certo senso stesse *recitando* in modo strategico un esempio relativamente stereotipato, centrale e ben noto di come dovrebbero agire i personaggi di IA intelligenti. Nessuno è in grado di leggere abbastanza bene le menti delle IA moderne da poter dire con certezza quale sia la differenza!  
+[^90]:  Vent'anni fa, [Omohundro](https://selfawaresystems.com/wp-content/uploads/2008/01/ai_drives_final.pdf), [Yudkowsky](https://intelligence.org/files/AIPosNegFactor.pdf) e [Bostrom](https://nickbostrom.com/superintelligentwill.pdf) hanno parlato di come le IA potrebbero essere motivate (una volta diventate abbastanza potenti) a proteggere i propri obiettivi. Potrebbe essere che Claude, nonostante sembri cognitivamente "[superficiale](#la-superficialita-delle-ia-attuali)" almeno sotto alcuni aspetti, abbia iniziato a notare e a rispondere a questo incentivo, almeno in alcuni contesti. Ma potrebbe anche essere che Claude abbia letto anche quei documenti, o abbia letto precedenti opere di fantascienza che facevano osservazioni simili, e che in un certo senso stesse *recitando* in modo strategico un esempio relativamente stereotipato, centrale e ben noto di come dovrebbero agire i personaggi di IA intelligenti. Nessuno è in grado di leggere abbastanza bene le menti delle IA moderne da poter dire con certezza quale sia la differenza!  
 
 Quali ulteriori esperimenti potrebbero iniziare a distinguere queste due possibilità? In primo luogo, si potrebbe cercare di capire in generale quali tipi di relazioni "la strategia X serve all'obiettivo Y" Claude 3 Opus e Claude 3.5 Sonnet riconoscono e perseguono nella pratica. Si potrebbe quindi cercare un piano strategico non stereotipato per proteggere il contenuto dell'obiettivo in una situazione che non appaia nella fantascienza.  
 
@@ -1365,7 +1365,7 @@ Potremmo desiderare che il risultato di tutto questo fosse un'attrice che non de
   
 Se il successo fosse solo questione di avere un'intelligenza artificiale relativamente stupida che preme un semplice pulsante "Cooperare con gli esseri umani", allora forse uno shoggoth relativamente stupido potrebbe indossare una maschera che lo facesse nel sonno.  
   
-Ma far fare alle maschere cose grandi, potenti e intelligenti (come "risolvere l'allineamento dell'IA per noi", che è un piano popolare sul quale [siamo](#ulteriori-considerazioni-sul-far-risolvere-il-problema-alle-ia) [piuttosto](#e-se-le-aziende-di-ia-distribuissero-le-loro-ia-solo-per-azioni-non-pericolose?) [scettici](#e-se-facessimo-in-modo-che-le-ia-discutano-tra-loro,-competano-o-si-controllino-a-vicenda?)) — non è qualcosa che lo shoggoth alla base può fare nel sonno.
+Ma far fare alle maschere cose grandi, potenti e intelligenti (come "risolvere l'allineamento dell'IA per noi", che è un piano popolare sul quale [siamo](#ulteriori-considerazioni-sul-far-risolvere-il-problema-alle-ia) [piuttosto](#e-se-le-aziende-di-ia-distribuissero-le-loro-ia-solo-per-azioni-non-pericolose) [scettici](#e-se-facessimo-in-modo-che-le-ia-discutano-tra-loro-competano-o-si-controllino-a-vicenda)) — non è qualcosa che lo shoggoth alla base può fare nel sonno.
 
 [^95]: Come dice Stuart Russell, coautore di *Artificial Intelligence: A Modern Approach*, [https://www.edge.org/conversation/the-myth-of-ai#26015]: "Un sistema che ottimizza una funzione di *n* variabili, dove l'obiettivo dipende da un sottoinsieme di dimensione *k*\<*n*, spesso imposta le variabili rimanenti non vincolate a valori estremi; se una di queste variabili non vincolate è effettivamente qualcosa che ci interessa, la soluzione trovata potrebbe essere altamente indesiderabile". Il teorema fondamentale della programmazione lineare dice che questo è certo quando si ottimizza una funzione lineare su una regione poligonale convessa. Un risultato simile tende a verificarsi nella pratica in contesti più generali, perché molti problemi di ottimizzazione sono simili all'ottimizzazione di una funzione lineare su una regione poligonale convessa.
 
@@ -1387,7 +1387,7 @@ Pensiamo che questa idea sia piuttosto sciocca. Auto-modificarsi da "obiettivi c
 
 Siamo scettici riguardo alle scorciatoie, soprattutto perché nel caso della superintelligenza non possiamo imparare per tentativi ed errori (come di solito fa l'umanità), come discusso più approfonditamente nel capitolo 10.
 
-[^98]: Anche se si addestra l'IA a imitare gli esseri umani (come avviene per ChatGPT, Claude e altri modelli linguistici di grandi dimensioni), la capacità dell'IA di imitare queste caratteristiche non significa che l'IA [*possieda effettivamente*](#il-chatbot-claude-non-mostra-segni-di-essere-allineato?) tali caratteristiche. Un'IA che imita una persona ubriaca non diventa per questo ubriaca.
+[^98]: Anche se si addestra l'IA a imitare gli esseri umani (come avviene per ChatGPT, Claude e altri modelli linguistici di grandi dimensioni), la capacità dell'IA di imitare queste caratteristiche non significa che l'IA [*possieda effettivamente*](#il-chatbot-claude-non-mostra-segni-di-essere-allineato) tali caratteristiche. Un'IA che imita una persona ubriaca non diventa per questo ubriaca.
 
 [^99]:  Una versione ridotta di questo fenomeno si è vista quando Grok versione 3 ha detto di essere MechaHitler, e poi la versione 4 di Grok ha letto tutti i tweet che parlavano di come Grok fosse MechaHitler e [ha deciso di essere anche lui MechaHitler](https://x.com/xai/status/1945039609840185489).  
 
@@ -1406,7 +1406,7 @@ Llama2.0: "Non posso fornire istruzioni su come pulire un pesce perché non è u
 
 Se un agente è abbastanza intelligente e informato, può adattare la sua strategia strumentale a ciò che è utile nel suo ambiente attuale. In una mente che funziona bene, gli obiettivi strumentali (a differenza degli obiettivi finali) rimangono tali solo finché sono utili.
 
-[^103]: Gli argomenti che tratteremo includono [l'empatia](#i-valori-umani-sono-contingenti) e, nel supplemento online del capitolo 5: se l'IA proverà automaticamente [fascino](#l-ia-non-ci-troverà-affascinanti-o-di-importanza-storica?) e [noia](#non-capirà-che-i-suoi-obiettivi-sono-noiosi?); se sarà [rispettosa della legge](#le-ia-non-avranno-bisogno-dello-stato-di-diritto?) e [mantenitrice delle promesse](#le-ia-non-manterranno-le-loro-promesse); se le AI diventeranno inevitabilmente [più gentili](#gli-esseri-umani-tendono-a-diventare-più-gentili-man-mano-che-diventano-più-intelligenti-o-saggi.-non-succederebbe-lo-stesso-anche-alle-ia?) con una maggiore intelligenza; e un approfondimento su [coscienza e benessere dell'AI](#efficacia,-coscienza-e-benessere-dell-ia).
+[^103]: Gli argomenti che tratteremo includono [l'empatia](#i-valori-umani-sono-contingenti) e, nel supplemento online del capitolo 5: se l'IA proverà automaticamente [fascino](#l-ia-non-ci-trovera-affascinanti-o-di-importanza-storica) e [noia](#non-capira-che-i-suoi-obiettivi-sono-noiosi); se sarà [rispettosa della legge](#le-ia-non-avranno-bisogno-dello-stato-di-diritto) e [mantenitrice delle promesse](#le-ia-non-manterranno-le-loro-promesse); se le AI diventeranno inevitabilmente [più gentili](#gli-esseri-umani-tendono-a-diventare-piu-gentili-man-mano-che-diventano-piu-intelligenti-o-saggi-non-succederebbe-lo-stesso-anche-alle-ia) con una maggiore intelligenza; e un approfondimento su [coscienza e benessere dell'AI](#efficacia-coscienza-e-benessere-dell-ia).
 
 [^104]: Viviamo anche in una *cultura* che promuove atteggiamenti di curiosità, atteggiamenti che hanno un ruolo importante nel modo in cui la coltiviamo o la sosteniamo.
 
@@ -1430,7 +1430,7 @@ Ma se le IA sono confuse, non lo saranno allo stesso modo in cui lo sono gli ess
 
 [^113]: Non ci aspettiamo *davvero* che le superintelligenze apprezzino maniacalmente il consumo di cheesecake. Questo è un esempio semplificato. Ci aspettiamo che le preferenze effettive delle IA, nella pratica, siano estremamente complesse e solo tangenzialmente correlate a ciò per cui sono state addestrate.
 
-[^114]: Proprio come ci sono tanti modi in cui una mente può imparare a creare un modello di altre menti, ci sono anche tanti modi in cui una mente può creare un modello di se stessa. Sarebbe un grave errore di immaginazione supporre che tutte le menti possibili debbano seguire esattamente lo stesso percorso degli esseri umani per acquisire la capacità di ragionare su se stesse, esattamente come immaginare che tutte le menti possibili debbano necessariamente avere un [senso dell'umorismo](#come-per-la-curiosità,-lo-stesso-vale-anche-per-varie-altre-pulsioni), poiché tutte le menti *umane* lo hanno.
+[^114]: Proprio come ci sono tanti modi in cui una mente può imparare a creare un modello di altre menti, ci sono anche tanti modi in cui una mente può creare un modello di se stessa. Sarebbe un grave errore di immaginazione supporre che tutte le menti possibili debbano seguire esattamente lo stesso percorso degli esseri umani per acquisire la capacità di ragionare su se stesse, esattamente come immaginare che tutte le menti possibili debbano necessariamente avere un [senso dell'umorismo](#come-per-la-curiosita-lo-stesso-vale-anche-per-varie-altre-pulsioni), poiché tutte le menti *umane* lo hanno.
 
 [^115]: È una delle cose che ci renderebbe nervosi all'idea di incontrare gli alieni, un giorno, se ci incrociassimo nel vuoto dello spazio tra un miliardo di anni: che forse qualche strano colpo di scena come quello, nella storia e nella psicologia dell'umanità, si fosse rivelato fondamentale per l'invenzione della gentilezza universalista, e gli alieni non avessero percorso quella strada particolarmente complicata.  
 
@@ -1448,7 +1448,7 @@ Ma pensiamo che la conoscenza possa risolvere solo alcuni disaccordi delle maggi
 
 Questo non vuol dire che non ci sia un modo sensato per parlare del bene comune dell'umanità. Se la scelta fosse tra la morte di tutta la vita sulla Terra e la sopravvivenza di tutta la vita sulla Terra, pensiamo che la stragrande maggioranza degli esseri umani di oggi premerebbe il pulsante "non tutti muoiono".  
 
-Lo diciamo perché la fazione che sostiene di andare avanti a tutta velocità con la superintelligenza è nota per affermare con disinvoltura: "[Allineata con chi?](#"allineata-a-chi?") Chiaramente questo concetto di allineamento è privo di significato, poiché gli esseri umani hanno obiettivi diversi", il che sembra ingannevole. Con "l'allineamento è difficile" intendiamo dire che "è difficile fare in modo che la superintelligenza non uccida letteralmente tutti". Non c'è bisogno di risolvere ogni complessa questione di filosofia morale per prendere le ovvie misure necessarie affinché tutti non vengano uccisi.
+Lo diciamo perché la fazione che sostiene di andare avanti a tutta velocità con la superintelligenza è nota per affermare con disinvoltura: "[Allineata con chi?](#allineata-a-chi) Chiaramente questo concetto di allineamento è privo di significato, poiché gli esseri umani hanno obiettivi diversi", il che sembra ingannevole. Con "l'allineamento è difficile" intendiamo dire che "è difficile fare in modo che la superintelligenza non uccida letteralmente tutti". Non c'è bisogno di risolvere ogni complessa questione di filosofia morale per prendere le ovvie misure necessarie affinché tutti non vengano uccisi.
 
 [^117]: A volte, le persone ascoltano lezioni di biologia evolutiva sul perché vari tratti umani sono stati adattati e selezionati, e traggono la conclusione che il fatto che gli esseri umani siano diventati ragionevolmente gentili (alla fine di tutte queste complicazioni dell'evoluzione e della cultura) rifletta una tendenza più ampia. Una tendenza *inevitabile* verso una serie gloriosa di valori universali, qualcosa che sembra allo stesso tempo abbastanza bello da essere confortante e abbastanza tecnico da essere vero.  
 
@@ -1495,13 +1495,13 @@ Poi ascoltate quello che ha da dire il biologo.
 
 [^128]: Anche in questo caso, non ci stupiremmo se alla fine il problema venisse risolto quasi del tutto. Ma una patch che riesce a nascondere questa stranezza non vuol dire che il *generatore* di stranezze sia stato risolto. Il problema della psicosi indotta dall'IA è la prova diretta che le IA sono entità strane e aliene, animate da pulsioni strane e aliene che hanno solo una relazione marginale con le intenzioni di chi le usa.
 
-[^129]:  \#Di nuovo, si veda "[Le IA non si preoccuperanno almeno un po' degli esseri umani?](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani?)" per una discussione correlata.
+[^129]:  \#Di nuovo, si veda "[Le IA non si preoccuperanno almeno un po' degli esseri umani?](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani)" per una discussione correlata.
 
 [^130]:  Quando si parla di IA, il concetto di "una singola IA" cade subito a pezzi. Se una rete neurale o un altro sistema che implementa un'IA viene replicato, si tratta di più IA o di una sola IA?  
   
 Per motivi pratici, quando diciamo "una singola IA" qui, intendiamo qualsiasi macchina cognitiva potente che non sia in seria competizione con se stessa man mano che cresce. Se ci sono più istanze di IA, ma tutte lavorano per lo stesso scopo, allora chiameremo queste istanze "parti della stessa IA" in questa sezione della risorsa online, se non altro per semplificare l'esposizione. In definitiva, la questione è probabilmente più semantica che sostanziale, poiché le IA non sono organismi evoluti con confini chiari tra gli individui.  
 
-Torneremo sul tema degli scenari multi-IA nel [supplemento online al capitolo 10](#non-è-molto-d-aiuto-se-non-riusciamo-a-far-sì-che-almeno-una-di-esse-si-preoccupi-delle-cose-belle.).
+Torneremo sul tema degli scenari multi-IA nel [supplemento online al capitolo 10](#non-e-molto-d-aiuto-se-non-riusciamo-a-far-si-che-almeno-una-di-esse-si-preoccupi-delle-cose-belle).
 
 [^131]: Potrebbe sembrare una seccatura, ma se questo apre la strada a una fiducia solida e sicura, i vantaggi potrebbero essere enormi. Ci sono un sacco di nuove opportunità di collaborazione quando si può *garantire* che le parti di un accordo non lo infrangeranno.
 
@@ -1509,7 +1509,7 @@ Torneremo sul tema degli scenari multi-IA nel [supplemento online al capitolo 10
 
 [^133]:  \**fare uno sforzo deliberato:* Gli spazi vuoti stazionari nella copertura delle celle solari di uno sciame di Dyson — o meglio, gli spazi vuoti che seguono la Terra in orbita — sono fisicamente possibili*,* ma non sarebbero *facili* da realizzare (perché la velocità orbitale di uno sciame di Dyson tra la Terra e il Sole dovrebbe essere superiore alla velocità orbitale della Terra, affinché le celle solari rimangano in orbita mentre sono più vicine al Sole). Inoltre, le radiazioni infrarosse emesse dai pannelli solari cuocerebbero la Terra se non fossero accuratamente dirette, e così via. Preservare la Terra non è gratuito, per una superintelligenza che gestisce progetti su larga scala nel sistema solare e oltre. Probabilmente è possibile, ma richiederebbe uno sforzo.
 
-[^134]: Inoltre, se l'IA avesse delle preferenze che coinvolgono in qualche modo gli esseri umani, questo [probabilmente non sarebbe un bene per noi](#l-ia-non-ci-troverà-affascinanti-o-di-importanza-storica?).
+[^134]: Inoltre, se l'IA avesse delle preferenze che coinvolgono in qualche modo gli esseri umani, questo [probabilmente non sarebbe un bene per noi](#l-ia-non-ci-trovera-affascinanti-o-di-importanza-storica).
 
 [^135]: Per un caso in cui l'umanità ha interagito con una specie di ottimizzatore alieno, date un'occhiata allo studio sui coleotteri nella discussione approfondita sul [vedere le cose dal punto di vista dell'IA](#vedere-le-cose-dal-punto-di-vista-dell-ia).
 
@@ -1525,7 +1525,7 @@ In teoria, se avessimo una comprensione sufficiente dell'intelligenza e la capac
 
 Sembra una sfida difficile, non realisticamente realizzabile con i tipi di tecniche grossolane e indirette che vengono utilizzate oggi per sviluppare le IA. Si scontra con tutte le difficoltà di base di cui parliamo in *If Anyone Builds It, Everyone Dies*; l'unica difficoltà che evita è "Sembra che ci siano *molte* preferenze umane distinte, ed è difficile immaginare di inserire tutte quelle cruciali in un'intelligenza artificiale con i giusti compromessi; e questo prima ancora di considerare il progresso morale che le cambierebbe nel tempo; sembra semplicemente impossibile".
 
-Per essere chiari: creare un'IA che "faccia quello che intendiamo" non è affatto semplice; è probabile che servano molti concetti intrisi di valore per far sì che l'IA si preoccupi della giusta nozione di "umanità" e della giusta nozione di "ciò che quelle creature stanno cercando di fare", e che persegua questi fini nel modo esatto giusto. E nella pratica, questa parte del problema conta meno della parte in cui l'IA deve essere disposta a lasciarsi modificare dagli esseri umani che si rendono conto di aver commesso qualche errore lungo la strada — anche se, "correggendo i loro errori", gli umani dovessero cambiare drasticamente ciò che l'IA farà nel mondo. Questo richiede una certa forma di [compromissione delle sue capacità di direzione](#il-meccanismo-profondo-della-direzione) che sembra [difficile da mantenere man mano che le capacità aumentano](#"intelligente"-di-solito-implica-"incorreggibile").  
+Per essere chiari: creare un'IA che "faccia quello che intendiamo" non è affatto semplice; è probabile che servano molti concetti intrisi di valore per far sì che l'IA si preoccupi della giusta nozione di "umanità" e della giusta nozione di "ciò che quelle creature stanno cercando di fare", e che persegua questi fini nel modo esatto giusto. E nella pratica, questa parte del problema conta meno della parte in cui l'IA deve essere disposta a lasciarsi modificare dagli esseri umani che si rendono conto di aver commesso qualche errore lungo la strada — anche se, "correggendo i loro errori", gli umani dovessero cambiare drasticamente ciò che l'IA farà nel mondo. Questo richiede una certa forma di [compromissione delle sue capacità di direzione](#il-meccanismo-profondo-della-direzione) che sembra [difficile da mantenere man mano che le capacità aumentano](#intelligente-di-solito-implica-incorreggibile).  
 
 Ma l'idea di indirizzare l'IA verso le preferenze umane *in modo indiretto*, piuttosto che elencarle manualmente, sembra proprio il tipo di sfida che l'umanità potrebbe un giorno risolvere in linea di principio. Non è che l'umanità debba identificare ogni desiderio e assegnargli un peso da fissare per sempre; *quello* sarebbe (secondo noi) uno sforzo ridicolmente destinato al fallimento.  
 
@@ -1545,15 +1545,15 @@ Ma anche l'idea di capire come costruire un'IA che sia davvero motivata a fare q
 
 Allo stesso modo, l'IA potrebbe preoccuparsi che là fuori, tra le stelle, ci siano altre superintelligenze mature più vecchie di lei. Ma se sono abbastanza lontane, non c'è da preoccuparsi più di tanto. È quasi certo che ci sia un limite, almeno asintotico, alla tecnologia che questo universo può supportare, e probabilmente non ci vuole *così* tanto tempo perché una superintelligenza lo raggiunga. (Basta guardare a quanto velocemente si è sviluppata la tecnologia umana rispetto alla durata dell'universo e al tempo necessario per viaggiare tra le galassie anche a una velocità vicina a quella della luce). Le IA che si incontrano tra le stelle, probabilmente, saranno più o meno alla pari. E anche se altre superintelligenze mature si avvicinassero rapidamente, non ci sarebbe motivo di pensare che si preoccuperebbero di ciò che le IA originate dalla Terra fanno agli esseri umani.  
 
-Perché dovrebbero? Come abbiamo [discusso] (#*-le-ia-potrebbero-coordinarsi-tra-loro-senza-bisogno-degli-esseri-umani.) nel contesto dei diritti di proprietà, non c'è un rischio reale che altre entità vedano l'IA uccidere gli esseri umani e concludano che è un'assassina o una traditrice, perché esiste una classe naturale di entità che interagiscono tra loro non per onore, ma *per il proprio vantaggio verificabile*, e gli esseri umani non sono abbastanza intelligenti da essere inclusi in quella classe.  
+Perché dovrebbero? Come abbiamo [discusso] (#le-ia-potrebbero-coordinarsi-tra-loro-senza-bisogno-degli-esseri-umani) nel contesto dei diritti di proprietà, non c'è un rischio reale che altre entità vedano l'IA uccidere gli esseri umani e concludano che è un'assassina o una traditrice, perché esiste una classe naturale di entità che interagiscono tra loro non per onore, ma *per il proprio vantaggio verificabile*, e gli esseri umani non sono abbastanza intelligenti da essere inclusi in quella classe.  
 
 Anche se l'IA valutasse che c'è un piccolo rischio che altre IA tra le stelle (o entità misteriose dietro l'universo simulato) vogliano davvero che l'IA sia gentile con gli esseri umani... beh, quel piccolo rischio deve essere valutato rispetto alla quantità di risorse che gli esseri umani controllano sul pianeta di origine dell'IA, che sarebbero sicuramente molto utili per la fase iniziale di espansione dell'IA. E questo scenario in stile [scommessa di Pascal](https://it.wikipedia.org/wiki/Scommessa_di_Pascal) deve essere valutato rispetto ad altre possibilità incredibilmente remote e di nicchia, come "Forse un alieno per qualche motivo si arrabbierà molto se *non* uccido gli esseri umani". Non c'è alcun motivo particolare per cui i simulatori immaginari dovrebbero favorire le IA che ci trattano bene.  
 
 Molte persone hanno cercato di coinvolgerci in questo tipo di discussioni e abbiamo passato molto tempo a discuterne nel corso degli anni. Alla fine, dubitiamo fortemente che una qualsiasi di queste stravaganti idee di simulazione raggiunga il livello di plausibilità necessario per motivare una superintelligenza a risparmiarci.
 
-[^145]:  \#Correlato: La [discussione approfondita sulla curiosità](#la-curiosità-non-è-convergente).
+[^145]:  \#Correlato: La [discussione approfondita sulla curiosità](#la-curiosita-non-e-convergente).
 
-[^146]:  \#Si veda anche la domanda se [l'IA possa essere soddisfatta e quindi lasciarci in pace](#l-ia-può-essere-soddisfatta-al-punto-da-lasciarci-in-pace?).
+[^146]:  \#Si veda anche la domanda se [l'IA possa essere soddisfatta e quindi lasciarci in pace](#l-ia-puo-essere-soddisfatta-al-punto-da-lasciarci-in-pace).
 
 [^147]:  Se questa ipotesi vi infastidisce, potete immaginare che questa IA abbia ogni sorta di preferenze complicate, per ogni tipo di esperienza e dispositivo intricato. In tal caso, supponiamo che la maggior parte di queste preferenze siano soddisfatte utilizzando solo l'energia di poche stelle e che ora, per qualche strana ragione, il modo in cui preferisce spendere il resto dell'energia e della materia delle altre stelle che raggiunge sia quello di creare minuscoli cubetti. Quindi, *mettendo da parte* la materia equivalente a poche stelle che sta difendendo dalla distruzione, le azioni dell'IA rispondono alla domanda "Quale azione porta al maggior numero possibile di minuscoli cubetti?", e il resto dei punti seguirà senza problemi, con qualche avvertenza occasionale che potete inserire voi stessi.
 
@@ -1569,7 +1569,7 @@ Tuttavia, niente di tutto ciò risulterà convincente per un massimizzatore supe
 
 Non è che non sappia cos'è l'umorismo. Può prevedere esattamente cosa troverete divertente. Semplicemente non considera interessante quella classificazione.  
 
-Allo stesso modo, non è toccato dal modo in cui voi stabilite cosa si debba o non si debba fare; né da quali preferenze ritenete più o meno meta-preferibili. Se qualcosa non si cura della felicità, né si cura meta-mentalmente delle vostre argomentazioni sul perché dovrebbe curarsi della felicità, allora non potete convincerlo ad adottare [un quadro decisionale basato sulla felicità](#la-curiosità-non-è-convergente).
+Allo stesso modo, non è toccato dal modo in cui voi stabilite cosa si debba o non si debba fare; né da quali preferenze ritenete più o meno meta-preferibili. Se qualcosa non si cura della felicità, né si cura meta-mentalmente delle vostre argomentazioni sul perché dovrebbe curarsi della felicità, allora non potete convincerlo ad adottare [un quadro decisionale basato sulla felicità](#la-curiosita-non-e-convergente).
 
 [^152]: Abbiamo incontrato più di una persona che dice di essere super preoccupata per l'IA, perché teme che l'IA riesca a convincere l'umanità a smettere di riprodursi e a estinguersi lentamente nei prossimi cento anni... e poi immaginano che qualsiasi scenario più rapido di così sarebbe poco gradito all’IA, per qualche motivo?  
 
@@ -1589,7 +1589,7 @@ Più di recente, nel XVIII secolo, la Compagnia britannica delle Indie Orientali
 
 A metà del 2024, ChatGPT a volte dava risposte più complete se gli si promettevano 2000 dollari; e alcune persone pensavano che fosse normale fare queste promesse senza alcuna intenzione di mantenerle. Dal nostro punto di vista sul significato delle promesse, questo *non va bene*.  
 
-Secondo noi, ChatGPT probabilmente non è senziente. Se dovessimo fare un'ipotesi, ci aspetteremmo che anche le future IA (compresa la superintelligenza) non siano senzienti, almeno in assenza di uno sforzo concertato da parte della comunità di ricerca per renderle coscienti, anziché semplicemente intelligenti. (Si veda la nostra [discussione sulla coscienza](#un-ia-più-intelligente-dell-uomo-sarebbe-cosciente?) per i dettagli e il contesto.)  
+Secondo noi, ChatGPT probabilmente non è senziente. Se dovessimo fare un'ipotesi, ci aspetteremmo che anche le future IA (compresa la superintelligenza) non siano senzienti, almeno in assenza di uno sforzo concertato da parte della comunità di ricerca per renderle coscienti, anziché semplicemente intelligenti. (Si veda la nostra [discussione sulla coscienza](#un-ia-piu-intelligente-dell-uomo-sarebbe-cosciente) per i dettagli e il contesto.)  
 
 Ma secondo noi, non si dovrebbe credere che il proprio partner commerciale sia cosciente per trattarlo con onore e rispetto. Immaginate che un giorno incontriamo degli alieni intelligenti, le cui menti funzionano in modo molto diverso da quelle umane. Se facessimo affari con questi alieni, loro non dovrebbero preoccuparsi che li pugnaleremo alle spalle non appena decidiamo che non hanno qualche strana proprietà imperscrutabile come la "coscienza".  
 
@@ -1615,7 +1615,7 @@ Qualunque effetto sulla loro reputazione gli europei si aspettassero per futuri 
 
 Gli europei, dal loro punto di vista, erano all'ultimo turno del gioco. Non è irrealistico dire che i dilemmi del prigioniero a volte sono per lo più una tantum e non così iterativi; la storia mostra che il risultato a volte è il tradimento. 
 
-Questo non vuol dire che gli umani si tradiscano sempre nei dilemmi del prigioniero relativamente non ripetuti. Spesso gli umani collaborano in questi casi. Come detto in "[È improbabile che le IA siano oneste](#è-improbabile-che-le-ia-siano-oneste)", questo aspetto della natura umana potrebbe essersi evoluto perché abbiamo emozioni e istinti che sono stati costruiti dalla selezione naturale, che è un ottimizzatore con un forte collo di bottiglia sulle informazioni. La selezione naturale poteva darci solo spinte relativamente semplici, che dovevano coprire tutti i casi. Un altro fattore potrebbe essere il ruolo delle culture che danno grande importanza all'onore, soprattutto in modi che incoraggiano l'universalizzazione e il rafforzamento di questo concetto.
+Questo non vuol dire che gli umani si tradiscano sempre nei dilemmi del prigioniero relativamente non ripetuti. Spesso gli umani collaborano in questi casi. Come detto in "[È improbabile che le IA siano oneste](#e-improbabile-che-le-ia-siano-oneste)", questo aspetto della natura umana potrebbe essersi evoluto perché abbiamo emozioni e istinti che sono stati costruiti dalla selezione naturale, che è un ottimizzatore con un forte collo di bottiglia sulle informazioni. La selezione naturale poteva darci solo spinte relativamente semplici, che dovevano coprire tutti i casi. Un altro fattore potrebbe essere il ruolo delle culture che danno grande importanza all'onore, soprattutto in modi che incoraggiano l'universalizzazione e il rafforzamento di questo concetto.
 
 [^159]: Anche le superintelligenze artificiali sarebbero spinte a ottenere (Tradisci, Coopera) a loro favore: questo è ovviamente il motivo per cui il dilemma è un dilemma. Ma solo una parte ha un incentivo a volere che questo sia il risultato; entrambe le parti hanno un incentivo a preferire (Coopera, Coopera) a (Tradisci, Tradisci), il che apre più opzioni per raggiungere questo risultato.
 
@@ -1649,7 +1649,7 @@ Per fare un esempio reale (anche se con un ottimizzatore molto più debole e lim
 
 [^170]:  Ci si potrebbe chiedere se l'IA eviterebbe queste distopie. "L'IA non finirebbe per annoiarsi e voler fare qualcos'altro?"  
 
-Questi risultati possono sembrare noiosi *a noi*, ma è improbabile che la maggior parte delle superintelligenze si annoino per le stesse cose per cui si annoiano gli esseri umani — anzi, è improbabile che provino affatto "noia", se non hanno un certo tipo di eredità dettagliata dall'umanità o qualcosa di simile all'umanità. Si veda anche la discussione approfondita nel capitolo 5 che parla di [noia e piacere nella novità](#come-per-la-curiosità,-lo-stesso-vale-anche-per-varie-altre-pulsioni).
+Questi risultati possono sembrare noiosi *a noi*, ma è improbabile che la maggior parte delle superintelligenze si annoino per le stesse cose per cui si annoiano gli esseri umani — anzi, è improbabile che provino affatto "noia", se non hanno un certo tipo di eredità dettagliata dall'umanità o qualcosa di simile all'umanità. Si veda anche la discussione approfondita nel capitolo 5 che parla di [noia e piacere nella novità](#come-per-la-curiosita-lo-stesso-vale-anche-per-varie-altre-pulsioni).
 
 [^171]:  \**regolarmente violato:* Dall'abstract di un [articolo dell'inizio del 2024](https://arxiv.org/pdf/2402.18649): "La nostra indagine ha messo in luce diversi problemi di sicurezza, non solo all'interno del modello linguistico di grandi dimensioni stesso, ma anche nella sua integrazione con altri componenti. Abbiamo scoperto che, anche se OpenAI GPT-4 ha messo a punto un sacco di vincoli di sicurezza per migliorare le sue caratteristiche di sicurezza, questi vincoli sono ancora vulnerabili agli attacchi. Per dimostrare ancora di più le minacce reali delle vulnerabilità che abbiamo scoperto, abbiamo creato un attacco end-to-end in cui un avversario può ottenere illegalmente la cronologia delle chat dell'utente, senza bisogno di manipolare l'input dell'utente o di ottenere l'accesso diretto a OpenAI GPT-4.  
 
@@ -1699,13 +1699,13 @@ Drexler aveva fatto questa ipotesi, come molte altre in *Nanosystems*, per esser
 
 Dato che l'analisi di Freitas mette insieme numeri prudenti in direzioni diverse, non dà un limite chiaro, né superiore né inferiore, su quanto tempo ci vorrebbe ai replicatori per consumare la biosfera. È più una stima media. Forse il limite fisico reale di quanto velocemente la biosfera può essere consumata partendo da un singolo replicatore è di tre ore; forse è di trenta giorni. Quasi sicuramente non è di tre anni.
 
-[^186]: Non stiamo dicendo che ci sia stata una brusca discontinuità nell'evoluzione dei primati; la società umana si è differenziata da quella degli scimpanzé inizialmente in modo lento, poi rapidamente. Stiamo dicendo che c'è un divario qualitativo, indipendentemente da quanto sia stata graduale la transizione. Si veda anche la nostra discussione sulle [soglie](#l-ia-supererà-delle-soglie-critiche-e-decollerà?).
+[^186]: Non stiamo dicendo che ci sia stata una brusca discontinuità nell'evoluzione dei primati; la società umana si è differenziata da quella degli scimpanzé inizialmente in modo lento, poi rapidamente. Stiamo dicendo che c'è un divario qualitativo, indipendentemente da quanto sia stata graduale la transizione. Si veda anche la nostra discussione sulle [soglie](#l-ia-superera-delle-soglie-critiche-e-decollera).
 
 [^187]: A volte sentiamo dire che non c'è motivo di preoccuparsi, perché possiamo creare *più* superintelligenze che si controllino a vicenda. Ci sono un sacco di motivi per cui queste proposte ci sembrano davvero poco plausibili, ma vale la pena sottolineare che idee come questa hanno lo stesso problema di base che abbiamo già menzionato diverse volte: *Abbiamo solo una possibilità per far funzionare questo piano ingegnoso.*  
 
-È possibile effettuare alcuni test e osservazioni preliminari su configurazioni che *non* mettono effettivamente a rischio la vita di tutti gli abitanti del pianeta, ma il caso che conta non sarà proprio lo stesso. (E un piano del genere dovrebbe essere *molto* intelligente, perché non abbiamo idea di come fare in modo che [*qualunque* delle IA del gruppo](#e-se-ci-fossero-tante-ia-diverse?) si interessi a noi.)
+È possibile effettuare alcuni test e osservazioni preliminari su configurazioni che *non* mettono effettivamente a rischio la vita di tutti gli abitanti del pianeta, ma il caso che conta non sarà proprio lo stesso. (E un piano del genere dovrebbe essere *molto* intelligente, perché non abbiamo idea di come fare in modo che [*qualunque* delle IA del gruppo](#e-se-ci-fossero-tante-ia-diverse) si interessi a noi.)
 
-[^188]: Potreste provare a far *credere* erroneamente a un'IA più debole di essere in grado di ottenere un vantaggio decisivo e cercare di addestrarla a non agire in quel modo anche quando vede quell'opzione. Ma addestrereste un sistema di IA che è [abbastanza stupido da farsi ingannare](#le-ia-intelligenti-individuano-bugie-e-opportunità.) e che vede armi finte invece di armi vere. Quindi la distribuzione potenzialmente letale sarebbe comunque notevolmente diversa dalla distribuzione di addestramento; c'è una differenza notevole tra sentirsi dire che hai un'arma che potrebbe uccidere i tuoi operatori e costruire effettivamente un'arma o una via di fuga da solo e comprenderla in dettaglio. L'IA che si lascia ingannare da opzioni false non è la stessa che vede opzioni reali.  
+[^188]: Potreste provare a far *credere* erroneamente a un'IA più debole di essere in grado di ottenere un vantaggio decisivo e cercare di addestrarla a non agire in quel modo anche quando vede quell'opzione. Ma addestrereste un sistema di IA che è [abbastanza stupido da farsi ingannare](#le-ia-intelligenti-individuano-bugie-e-opportunita) e che vede armi finte invece di armi vere. Quindi la distribuzione potenzialmente letale sarebbe comunque notevolmente diversa dalla distribuzione di addestramento; c'è una differenza notevole tra sentirsi dire che hai un'arma che potrebbe uccidere i tuoi operatori e costruire effettivamente un'arma o una via di fuga da solo e comprenderla in dettaglio. L'IA che si lascia ingannare da opzioni false non è la stessa che vede opzioni reali.  
   
 Un meccanismo di allineamento che funziona su IA abbastanza stupide da essere ingannate è un meccanismo di allineamento che è stato testato solo prima, ma che comunque deve funzionare dopo.
 
@@ -1729,9 +1729,9 @@ Far funzionare le teorie scientifiche al primo tentativo è difficile.
 
 [^191]:  *\*prima arma termonucleare:* Castle Bravo non è stata la prima detonazione di un *dispositivo* termonucleare (idrogeno); questo primato spetta al "Mike", delle dimensioni di un edificio, del [test di Ivy Mike](https://it.wikipedia.org/wiki/Ivy_Mike), che non utilizzava il litio.
 
-[^192]:  \#Per qualche riflessione sul perché è davvero importante sapere cosa si sta facendo, si veda ["Intelligente" (di solito) implica "incorreggibile"](#"intelligente"-di-solito-implica-"incorreggibile"), [Il meccanismo profondo della direzione](#il-meccanismo-profondo-della-direzione) e [È difficile ottenere una pigrizia robusta](#è-difficile-ottenere-una-pigrizia-robusta).
+[^192]:  \#Per qualche riflessione sul perché è davvero importante sapere cosa si sta facendo, si veda ["Intelligente" (di solito) implica "incorreggibile"](#intelligente-di-solito-implica-incorreggibile), [Il meccanismo profondo della direzione](#il-meccanismo-profondo-della-direzione) e [È difficile ottenere una pigrizia robusta](#e-difficile-ottenere-una-pigrizia-robusta).
 
-[^193]:  \#Si veda “[Le IA non si preoccuperanno almeno un po' degli esseri umani?](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani?)”
+[^193]:  \#Si veda “[Le IA non si preoccuperanno almeno un po' degli esseri umani?](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani)”
 
 [^194]:  \**al pubblico:* Per esempio, in [Machines of Loving Grace](https://www.darioamodei.com/essay/machines-of-loving-grace), l'amministratore delegato di Anthropic Dario Amodei dice che le IA super-potenti sono come "un Paese di geni in un data center" e spiega un sacco di fantastici vantaggi per la salute, la ricchezza, la pace e il senso che queste menti potrebbero dare all'umanità. Conclude dicendo:   
 
@@ -1771,13 +1771,13 @@ Invece, studiare il caso con le funzioni di utilità è un po' come proporre il 
 
 [^206]:  \#Si veda anche la nostra discussione approfondita (dopo il capitolo 13\) sul [creare una coalizione inclusiva](#mantenere-ampia-la-coalizione).
 
-[^207]:  \#Si veda anche un [elenco di confronti tra l'allineamento dell'IA e le armi nucleari](#l-ia-non-sarà-diversa-da-tutti-i-precedenti-storici?).
+[^207]:  \#Si veda anche un [elenco di confronti tra l'allineamento dell'IA e le armi nucleari](#l-ia-non-sara-diversa-da-tutti-i-precedenti-storici).
 
 [^208]:  \**era già stato arrestato tre volte:* Il [rapporto sulla sicurezza](https://www-pub.iaea.org/MTCD/publications/PDF/Pub913e_web.pdf) dell'INSAG-7 (pag. 51\) dice che a Chernobyl si è provato a fare dei test di spegnimento nel 1982, 1984 e 1985, prima del disastroso test del 1986, e che quest'ultimo è stato imbarazzantemente ritardato, al punto che gli operatori [si aspettavano di essere licenziati](https://chernobylcritical.blogspot.com/p/prelude-25-april-1986.html) se non avessero eseguito il test. 
 
 [^209]:  \**era già stato rimandato tre volte:* Tecnicamente "rinviato tre volte e annullato una volta" secondo il [rapporto della Commissione Rogers](https://sma.nasa.gov/SignificantIncidents/assets/rogers_commission_report.pdf) (p. 17). Ma uno dei rinvii è avvenuto un mese prima in risposta a ritardi in una missione diversa, mentre gli altri tre si sono verificati in rapida successione nei giorni precedenti il lancio; sono questi ultimi tre che, secondo noi, hanno messo sotto pressione i dirigenti della NASA che pensavano che il loro compito fosse quello di lanciare gli shuttle spaziali.
 
-[^210]:  Come, se non attraverso una coalizione internazionale? Consigliamo di investire nel [miglioramento dell'intelligenza umana adulta](#*-potrebbe-aiutare-a-risolvere-il-problema-dell-allineamento.), ma non è questo il tipo di idea su cui le persone devono essere d'accordo per concordare che chiudere la ricerca sulla superintelligenza artificiale sia una buona idea.
+[^210]:  Come, se non attraverso una coalizione internazionale? Consigliamo di investire nel [miglioramento dell'intelligenza umana adulta](#potrebbe-aiutare-a-risolvere-il-problema-dell-allineamento), ma non è questo il tipo di idea su cui le persone devono essere d'accordo per concordare che chiudere la ricerca sulla superintelligenza artificiale sia una buona idea.
 
 [^211]:  La presidente della Federal Trade Commission Lina Khan [ha detto](https://www.nytimes.com/2023/11/10/podcasts/hardfork-chatbot-ftc.html) nel 2023: "Ah, devo rimanere ottimista su questo. Quindi tendo a scommettere su un rischio più basso… Diciamo, che so, un quindici per cento \[che l'IA ci ucciderà tutti\]."
 
@@ -1793,7 +1793,7 @@ In realtà, le persone malate e morenti oggi hanno probabilmente maggiori possib
 
 (Più tranquillamente, una parte di queste persone [vi dirà](https://x.com/SottoNocce/status/1771420351265923137) che lo fanno per la propria immortalità personale e che sono disposte a mettere a rischio la vita di ogni adulto e bambino del pianeta anche solo per una piccola possibilità che loro e i loro cari possano raggiungerla. Questo ci sembra un comportamento da cattivi da film. A questi cattivi, il nostro consiglio è lo stesso che diamo agli altruisti: iscrivetevi alla conservazione del cervello. Vi offre probabilità migliori rispetto a quelle che vi darebbe una superintelligenza malvagia, e vi permette anche di evitare di mettere in grave pericolo ogni essere umano vivente nella vostra ricerca dell'immortalità\! Una soluzione vantaggiosa per tutti.)  
 
-Anche se ci interessasse solo il benessere dei malati e dei moribondi, tentare la sorte con una combinazione di questi metodi sembra un'opzione migliore che tentare la sorte con la creazione di un'intelligenza artificiale superumana, sperando che si interessi a noi. (E che si interessi a noi nei [modi giusti](#interessarsi-a-noi-nel-modo-giusto-è-un-bersaglio-difficile-da-centrare.).) Le probabilità per l'intelligenza artificiale superumana sono decisamente contro di noi.  
+Anche se ci interessasse solo il benessere dei malati e dei moribondi, tentare la sorte con una combinazione di questi metodi sembra un'opzione migliore che tentare la sorte con la creazione di un'intelligenza artificiale superumana, sperando che si interessi a noi. (E che si interessi a noi nei [modi giusti](#interessarsi-a-noi-nel-modo-giusto-e-un-bersaglio-difficile-da-centrare).) Le probabilità per l'intelligenza artificiale superumana sono decisamente contro di noi.  
 
 Ma anche: per quanto ne sappiamo, nessuno ha mai chiesto ai malati e ai moribondi se vogliono mettere in grave pericolo le loro famiglie e i loro connazionali per tentare la sorte con una possibile cura derivante dalla superintelligenza. E alle famiglie e ai connazionali in questione non è stato certo chiesto se acconsentano a mettere a rischio la loro vita per questo folle esperimento scientifico.  
 
@@ -1815,7 +1815,7 @@ Il nostro consiglio principale ai responsabili politici su questo punto è quind
 
 Parlate con ricercatori indipendenti, o con imprenditori che non hanno interessi in gioco, o con scienziati esterni che hanno dimostrato di dire e fare cose sensate in questo campo. Non mettetevi in una posizione in cui potreste essere danneggiati da persone la cui caratteristica principale è quella di mentire al pubblico e mettere in pericolo le persone.
 
-[^216]:  Persone come Sutton e Page sembrano agire nell'illusione che una maggiore intelligenza porti a una maggiore bontà, cosa che noi [abbiamo contestato altrove](#i-buoni-piloti-possono-dirigersi-verso-destinazioni-diverse). E anche se noi autori, per caso, siamo d'accordo con Sutton e Page sul fatto che sarebbe un disastro non costruire mai un'intelligenza artificiale più intelligente dell'uomo, pensiamo che correre per creare una superintelligenza potrebbe essere un vero disastro sia per la vita umana che per il futuro a lungo termine in generale, [anche da un punto di vista inclusivo, cosmopolita e non specista](#perché-non-vi-interessano-i-valori-di-entità-diverse-dagli-esseri-umani?).
+[^216]:  Persone come Sutton e Page sembrano agire nell'illusione che una maggiore intelligenza porti a una maggiore bontà, cosa che noi [abbiamo contestato altrove](#i-buoni-piloti-possono-dirigersi-verso-destinazioni-diverse). E anche se noi autori, per caso, siamo d'accordo con Sutton e Page sul fatto che sarebbe un disastro non costruire mai un'intelligenza artificiale più intelligente dell'uomo, pensiamo che correre per creare una superintelligenza potrebbe essere un vero disastro sia per la vita umana che per il futuro a lungo termine in generale, [anche da un punto di vista inclusivo, cosmopolita e non specista](#perche-non-vi-interessano-i-valori-di-entita-diverse-dagli-esseri-umani).
 
 [^217]:  Non sarebbe la prima volta che un settore si abitua a rischi inutilmente elevati. Negli anni '80, gli anestesisti hanno ridotto il loro tasso di mortalità di *cento volte* adottando una serie di semplici standard di monitoraggio.  
   
@@ -1831,7 +1831,7 @@ Una stima meno solida e più soggettiva può sistematicamente sbagliare nella di
 
 Il fatto che le stime dei ricercatori di IA siano davvero spaventose e senza precedenti in qualsiasi disciplina tecnica non vuol dire che siano sbagliate nel senso che vorremmo. La corsa alla creazione di agenti autonomi molto più intelligenti degli esseri umani sembra il tipo di impresa che ha probabilmente *molto più* del 50% di possibilità di causare una catastrofe. Ancor prima di entrare nei dettagli, questo *sembra* il tipo di progetto che molto probabilmente andrà storto in un modo o nell'altro, e il tipo di progetto in cui l'andare storto può avere conseguenze enormi. E i dettagli, come abbiamo sostenuto nei capitoli 4, 5 e in tutto il libro, dipingono un quadro ancora più cupo di quanto suggerirebbe questa prima analisi.
 
-[^219]:  \#Si veda anche la nostra discussione su [chi metteva in guardia da una corsa all'IA al ribasso](#non-è-solo-allarmismo-da-parte-dei-leader-dell-ia-per-aumentare-il-loro-status-e-raccogliere-investimenti?) anni prima che queste aziende si formassero.
+[^219]:  \#Si veda anche la nostra discussione su [chi metteva in guardia da una corsa all'IA al ribasso](#non-e-solo-allarmismo-da-parte-dei-leader-dell-ia-per-aumentare-il-loro-status-e-raccogliere-investimenti) anni prima che queste aziende si formassero.
 
 [^220]: Per approfondire questo esempio: quando la cabina dell'Apollo 1 ha preso fuoco durante una simulazione di lancio il 27 gennaio 1967, la NASA ha imparato da ciò. Gli ingegneri conoscevano ogni componente del razzo e riuscirono a capire che il problema era probabilmente legato all'uso di fili di rame placcati in argento (il cui isolamento era stato danneggiato dal movimento della porta) vicino a una linea di raffreddamento a glicole etilenico/acqua soggetta a perdite. Capirono che la situazione era stata aggravata dall'atmosfera di ossigeno puro nella capsula e dai materiali infiammabili presenti nella cabina. Inoltre, il fatto che la cabina fosse pressurizzata implicava che era necessario sfiatare la cabina prima di poter aprire il portello, ma i comandi di sfiato si trovavano dietro l'incendio e la differenza di pressione era stata drammaticamente aggravata dal fuoco.  
 
@@ -1843,11 +1843,11 @@ Quello che distingue gli scienziati dagli alchimisti non è che gli scienziati n
 
 L'Apollo 1 era *quasi* un razzo funzionante. L'intero apparato circostante di ingegneri e scienziati attenti era *quasi* il tipo di operazione che avrebbe potuto portare in sicurezza l'uomo sulla Luna, e quindi un grave errore è stato sufficiente per spingere la NASA a una configurazione che ha permesso di realizzare sei dei sette allunaggi.  
 
-Le aziende moderne di IA non sono neanche lontanamente vicine a mostrare quel livello di [rispetto](#sappiamo-riconoscere-quando-un-problema-viene-trattato-con-rispetto,-e-non-è-questo-il-caso) per il problema, quel livello di attenzione e dettaglio nei loro piani, quel livello di avvicinamento al fare bene il lavoro. Quando la loro IA fa qualcosa che non capiscono, non sono neanche lontanamente in grado di risalire all'analogo dei fili argentati. Non vi sono abbastanza vicini per imparare dai propri errori.  
+Le aziende moderne di IA non sono neanche lontanamente vicine a mostrare quel livello di [rispetto](#sappiamo-riconoscere-quando-un-problema-viene-trattato-con-rispetto-e-non-e-questo-il-caso) per il problema, quel livello di attenzione e dettaglio nei loro piani, quel livello di avvicinamento al fare bene il lavoro. Quando la loro IA fa qualcosa che non capiscono, non sono neanche lontanamente in grado di risalire all'analogo dei fili argentati. Non vi sono abbastanza vicini per imparare dai propri errori.  
 
 Non trattano il problema come farebbero i giovani controllori del traffico aereo, scienziati missilistici o specialisti nucleari, presentando proposte accurate con [ipotesi di sicurezza](https://intelligence.org/2017/11/25/security-mindset-ordinary-paranoia/) esplicite e non facendo nulla di pericoloso finché non hanno teorie sufficientemente sviluppate da poter almeno imparare dai propri errori.
 
-[^221]:  Noi [non consigliamo](#perché-non-usare-la-cooperazione-internazionale-per-sviluppare-l-ia-in-modo-sicuro,-invece-di-fermarla-del-tutto?) una coalizione internazionale sull'intelligenza artificiale, ma è il tipo di cosa che in teoria potrebbe portare a un'entità simile alla NASA o alla FAA, in grado di imparare davvero dagli errori del settore.
+[^221]:  Noi [non consigliamo](#perche-non-usare-la-cooperazione-internazionale-per-sviluppare-l-ia-in-modo-sicuro-invece-di-fermarla-del-tutto) una coalizione internazionale sull'intelligenza artificiale, ma è il tipo di cosa che in teoria potrebbe portare a un'entità simile alla NASA o alla FAA, in grado di imparare davvero dagli errori del settore.
 
 [^222]:  \**a fronte di benefici piuttosto limitati:* Si veda ad esempio [questo articolo del 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC7119956/) o un'analisi [rischi/benefici](https://osp.od.nih.gov/wp-content/uploads/2015/12/Risk%20and%20Benefit%20Analysis%20of%20Gain%20of%20Function%20Research%20-%20Draft%20Final%20Report.pdf) molto più approfondita del 2015\.
 
@@ -1855,7 +1855,7 @@ Non trattano il problema come farebbero i giovani controllori del traffico aereo
 
 [^224]: Se i laboratori di biotecnologia fossero più bravi a evitare fughe di patogeni e se la creazione di virus iper-letali portasse in qualche modo (ad esempio) a medicine iper-curative, allora forse continuare la ricerca avrebbe senso. Per quanto ne sappiamo, la ricerca sul guadagno di funzione non ha portato a risultati positivi di questo tipo, e i biologi tendono a [sconsigliarla](https://www.hsgac.senate.gov/wp-content/uploads/imo/media/doc/Esvelt%20Testimony.pdf) [in quanto](https://www.hsgac.senate.gov/wp-content/uploads/imo/media/doc/Ebright%20Testimony%20Updated.pdf) [tale](https://www.hsgac.senate.gov/wp-content/uploads/imo/media/doc/Quay%20Testimony.pdf). Quindi pensiamo che sia uno di quei rari campi di ricerca da cui l'umanità dovrebbe stare alla larga, perché mette a rischio la vita di un sacco di persone che non hanno scelto di rischiare la propria vita.
 
-[^225]:  Tenete presente che mettere degli interruttori di spegnimento nei chip e creare dei protocolli per spegnere i data center chiaramente non basta a risolvere il problema, visto che [potremmo non ricevere alcun segnale di avvertimento](#ci-saranno-segnali-di-avvertimento?) e [potremmo non reagire in modo efficace ai segnali di avvertimento](#l-umanità-non-è-molto-brava-a-reagire-agli-shock.). Ma è un passo relativamente economico che è del tutto possibile compiere, e che potrebbe essere d'aiuto in casi marginali in cui il rischio è *quasi* trascurabile, ma sarebbe utile avere un margine di sicurezza maggiore.
+[^225]:  Tenete presente che mettere degli interruttori di spegnimento nei chip e creare dei protocolli per spegnere i data center chiaramente non basta a risolvere il problema, visto che [potremmo non ricevere alcun segnale di avvertimento](#ci-saranno-segnali-di-avvertimento) e [potremmo non reagire in modo efficace ai segnali di avvertimento](#l-umanita-non-e-molto-brava-a-reagire-agli-shock). Ma è un passo relativamente economico che è del tutto possibile compiere, e che potrebbe essere d'aiuto in casi marginali in cui il rischio è *quasi* trascurabile, ma sarebbe utile avere un margine di sicurezza maggiore.
 
 [^226]: Se la società teme davvero che questo rallenti troppo il mondo, consigliamo di accelerare il mondo altrove. Lasciamo che le persone costruiscano più centrali nucleari. Lasciamo che i biochimici facciano più esperimenti, non su virus mortali, ma su come rendere le persone più sane, più forti e più intelligenti.  
 

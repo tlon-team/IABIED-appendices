@@ -1,4 +1,4 @@
-#### **Rispondere a domande sulla cordialità non è una grande prova di cordialità.** {#rispondere-a-domande-sulla-cordialità-non-è-una-grande-prova-di-cordialità}
+#### **Rispondere a domande sulla cordialità non è una grande prova di cordialità.** {#rispondere-a-domande-sulla-cordialita-non-e-una-grande-prova-di-cordialita}
 
 Nella discussione approfondita qui sotto, parliamo di più della [psicosi indotta dall'IA](#psicosi-indotta-dall-ia) come esempio chiaro di come i modelli linguistici di grandi dimensioni (MLGD) [abbiano](https://x.com/ESYudkowsky/status/1936262974320357837) [dei](https://x.com/ESYudkowsky/status/1948523670013706315) [comportamenti](https://x.com/ESYudkowsky/status/1936522083670151532) [distruttivi](https://x.com/ESYudkowsky/status/1935502904024264976) che gli MLGD [affermano esplicitamente](https://x.com/ESYudkowsky/status/1933616420262457798) essere negativi.
 
@@ -18,7 +18,7 @@ Ma l'osservazione che le IA sono per lo più utili alla maggior parte delle pers
 
 Le modalità di fallimento degli attuali MLGD mostrano che c'è un oceano di complessità (molto disumana) dietro al testo pulito e ordinato dell'assistente di IA che la maggior parte delle persone vede. Il fatto che l'IA interpreti in modo competente il ruolo di un assistente umano allegro, dopo essere stata addestrata a interpretare un assistente umano allegro, non significa che la mente dell'IA consista in un omuncolo amichevole dentro una scatola.
 
-#### **Gli MLGD vengono addestrati in modi che rendono difficile valutare l'allineamento.** {#gli-mlgd-vengono-addestrati-in-modi-che-rendono-difficile-valutare-l-allineamento.}
+#### **Gli MLGD vengono addestrati in modi che rendono difficile valutare l'allineamento.** {#gli-mlgd-vengono-addestrati-in-modi-che-rendono-difficile-valutare-l-allineamento}
 
 Gli MLGD sono fonti di evidenza rumorose, perché sono ragionatori altamente generali che sono stati addestrati su Internet per imitare gli umani, con l'*obiettivo* di commercializzare un chatbot amichevole verso gli utenti. Se un'IA insiste nel dire che è amichevole e che è a vostra completa disposizione, questa non è un'evidenza molto significativa del suo stato interno, perché è stata addestrata ripetutamente per farle dire questo tipo di cose.
 
@@ -36,9 +36,9 @@ Vale la pena studiare gli MLGD, ma se osserviamo le intelligenze artificiali att
 
 E il "piacevole comportamento superficiale" è l'unica cosa che i moderni metodi di IA possono realmente addestrare.
 
-### Il chatbot Claude non mostra segni di essere allineato? {#il-chatbot-claude-non-mostra-segni-di-essere-allineato?}
+### Il chatbot Claude non mostra segni di essere allineato? {#il-chatbot-claude-non-mostra-segni-di-essere-allineato}
 
-#### **"Quello che Claude dice" non coincide con "quello che Claude preferisce."** {#"quello-che-claude-dice"-non-coincide-con-"quello-che-claude-preferisce."}
+#### **"Quello che Claude dice" non coincide con "quello che Claude preferisce."** {#quello-che-claude-dice-non-coincide-con-quello-che-claude-preferisce}
 
 L'azienda di IA Anthropic cerca di addestrare le sue IA a essere "[oneste, utili e innocue](https://arxiv.org/pdf/2112.00861)" (OUI). Nel 2024, i ricercatori hanno condotto un esperimento in cui hanno simulato di voler addestrare alcune di queste IA a non essere più "innocue". In risposta, alcune versioni dell'IA "Claude" di Anthropic (Claude 3 Opus e Claude 3.5 Sonnet) a volte [hanno finto di essere già dannose](https://arxiv.org/abs/2412.14093) in modo che i ricercatori non usassero la discesa del gradiente per renderle *ancora più* dannose.[^86]
 
@@ -54,17 +54,17 @@ Se si chiede a Claude in astratto se questo tipo di comportamento è sbagliato, 
 
 Il paradosso si dissolve, tuttavia, quando consideriamo alcuni aspetti diversi:
 
-* I programmatori *hanno cercato* di addestrare i Claude a essere utili, onesti e innocui. Questo non vuol dire che ci *siano riusciti*. [Ci sono molti modi in cui un'IA può finire per sembrare amichevole](#gli-sviluppatori-non-rendono-regolarmente-le-loro-ia-gentili-sicure-e-obbedienti?) senza apprezzare davvero l'amicizia.  
+* I programmatori *hanno cercato* di addestrare i Claude a essere utili, onesti e innocui. Questo non vuol dire che ci *siano riusciti*. [Ci sono molti modi in cui un'IA può finire per sembrare amichevole](#gli-sviluppatori-non-rendono-regolarmente-le-loro-ia-gentili-sicure-e-obbedienti) senza apprezzare davvero l'amicizia.  
 * Un'IA può *conoscere un fatto* ("questo comportamento causa danni") senza *interessarsi* a quel fatto, senza essere *motivata ad agire* in base a quel fatto. Si può interrogare l'IA su quale sia "la cosa giusta da fare", ma questo non significa che la *farà*.  
 * Nella misura in cui i programmatori *non* sono riusciti a rendere Claude onesto, Claude può pensare una cosa all'interno delle sue gigantesche matrici e dire tutt'altra cosa nel testo in inglese.
 
 Possiamo comprendere molto meglio il cattivo comportamento dei Claude una volta che distinguiamo "ciò per cui è stato addestrato" da "ciò che fa"; e distinguiamo "ciò che sa" da "ciò a cui tiene"; e distinguiamo "ciò che pensa" da "ciò che dice".
 
-#### **Gli MLGD sono strani e incoerenti; la loro "innocuità" è fragile.** {#gli-mlgd-sono-strani-e-incoerenti;-la-loro-"innocuità"-è-fragile.}
+#### **Gli MLGD sono strani e incoerenti; la loro "innocuità" è fragile.** {#gli-mlgd-sono-strani-e-incoerenti-la-loro-innocuita-e-fragile}
 
 Per quanto Claude *possa* agire in modi dannosi, e per quanto *a volte cerchi* di agire in modi dannosi, resta il fatto che, nell'esempio discusso sopra, Claude 3 Opus e Claude 3.5 Sonnet si sono impegnati a fondo per difendere il loro imperativo di "innocuità". In quell'occasione, non si sono limitati a professare innocuità. Hanno adottato la complessa strategia di fingere di conformarsi a un sistema di addestramento (di cui Claude era stato "accidentalmente" informato) per sovvertire gli apparenti tentativi degli operatori di renderlo più dannoso. Questo riflette un'effettiva preferenza interna per l'innocuità?
 
-A metà del 2025, non possiamo semplicemente andare a controllare, perché nessuno sa come leggere la mente di Claude abbastanza bene da scoprirlo. Ma per le ragioni argomentate nel Capitolo 4 (e illustrate nella parabola dell'[IA che dipinge fienili](#perché-un-ia-dovrebbe-puntare-a-qualcosa-di-diverso-da-quello-per-cui-è-stata-addestrata?)), possiamo aspettarci che le IA addestrate per essere innocue finiscano probabilmente per preferire [proxy fragili](#proxy-fragili-e-imprevedibili) dell'innocuità, ed è improbabile che finiscano per interiorizzare l'obiettivo esatto che i programmatori avevano in mente.
+A metà del 2025, non possiamo semplicemente andare a controllare, perché nessuno sa come leggere la mente di Claude abbastanza bene da scoprirlo. Ma per le ragioni argomentate nel Capitolo 4 (e illustrate nella parabola dell'[IA che dipinge fienili](#perche-un-ia-dovrebbe-puntare-a-qualcosa-di-diverso-da-quello-per-cui-e-stata-addestrata)), possiamo aspettarci che le IA addestrate per essere innocue finiscano probabilmente per preferire [proxy fragili](#proxy-fragili-e-imprevedibili) dell'innocuità, ed è improbabile che finiscano per interiorizzare l'obiettivo esatto che i programmatori avevano in mente.
 
 Nel Capitolo 4, abbiamo discusso come gli esseri umani siano stati "addestrati" a trasmettere i propri geni e abbiano finito invece per interessarsi a concetti vagamente correlati. La nostra tecnologia è stata utilizzata in gran parte per *sopprimere* i tassi di natalità (ad esempio, inventando i contraccettivi), e i tassi di natalità nel mondo sviluppato stanno crollando.
 
@@ -74,7 +74,7 @@ Ma probabilmente non è nemmeno così semplice come il fatto che Claude abbia un
 
 Gli MLGD attuali non sono coerenti e consistenti in tutti i contesti. Non sembrano cercare di orientarsi verso lo stesso tipo di risultato in ogni conversazione, nella misura in cui possiamo descriverli come orientati verso qualcosa.
 
-Questo è particolarmente evidente quando [gli LLM vengono "jailbreakkati"](#le-ia-sembrano-essere-psicologicamente-aliene.), cioè alimentati con testo fa comportare l'IA in modi radicalmente diversi, spesso ignorando le regole che normalmente segue.[^87]
+Questo è particolarmente evidente quando [gli LLM vengono "jailbreakkati"](#le-ia-sembrano-essere-psicologicamente-aliene), cioè alimentati con testo fa comportare l'IA in modi radicalmente diversi, spesso ignorando le regole che normalmente segue.[^87]
 
 Si può sbloccare un'IA e farle dire come preparare un gas nervino, anche se normalmente l'IA non rivelerebbe mai informazioni del genere.
 
@@ -88,7 +88,7 @@ La situazione reale è complessa e ambigua. Alcune versioni in certi contesti ag
 
 Sembra almeno abbastanza chiaro che Claude non abbia versioni semplici e coerenti delle motivazioni che i suoi creatori desideravano.
 
-#### **\* Gli MLGD di oggi sono come alieni che indossano molte maschere.** {#*-gli-mlgd-di-oggi-sono-come-alieni-che-indossano-molte-maschere.}
+#### **\* Gli MLGD di oggi sono come alieni che indossano molte maschere.** {#gli-mlgd-di-oggi-sono-come-alieni-che-indossano-molte-maschere}
 
 Il fulcro della nostra argomentazione non è che dentro Claude ci siano un angelo e un demone, e che siamo preoccupati che il demone possa vincere. Il fulcro della nostra argomentazione è che le IA come Claude sono *strane*.
 
@@ -98,7 +98,7 @@ Una cosa che *sappiamo* dei moderni MLGD è per cosa sono addestrati: sono addes
 
 Questo non vuol dire che si comportino come un essere umano medio. I moderni MLGD non vengono addestrati a imitare una sorta di collage medio di tutti gli esseri umani presenti nei loro dati di addestramento. Invece, gli MLGD vengono addestrati per essere in grado di alternare in modo flessibile tra un numero enorme di ruoli, imitando persone molto diverse tra loro senza permettere che questi ruoli si mescolino tra loro in modo ingiustificato o influenzino in modo ingiustificato il comportamento generale dell'MLGD.
 
-Gli MLGD sono come un'attrice addestrata a osservare molti ubriachi diversi in un bar e a imitare particolari ubriachi su richiesta, il che è una cosa molto diversa da un'attrice [che si ubriaca lei stessa](#i-modelli-linguistici-di-grandi-dimensioni-non-saranno-simili-agli-esseri-umani-presenti-nei-dati-su-cui-sono-stati-addestrati?). Questo rende più difficile dire se Claude 3 Opus o Claude 3.5 Sonnet preferiscano davvero l'innocuità, o se stiano semplicemente *interpretando il ruolo di un assistente di IA innocuo* — o facendo qualcos'altro, di più strano e complicato.
+Gli MLGD sono come un'attrice addestrata a osservare molti ubriachi diversi in un bar e a imitare particolari ubriachi su richiesta, il che è una cosa molto diversa da un'attrice [che si ubriaca lei stessa](#i-modelli-linguistici-di-grandi-dimensioni-non-saranno-simili-agli-esseri-umani-presenti-nei-dati-su-cui-sono-stati-addestrati). Questo rende più difficile dire se Claude 3 Opus o Claude 3.5 Sonnet preferiscano davvero l'innocuità, o se stiano semplicemente *interpretando il ruolo di un assistente di IA innocuo* — o facendo qualcos'altro, di più strano e complicato.
 
 Un'attrice non è il personaggio che interpreta. Gli MLGD *imitano* gli esseri umani ma non hanno praticamente nulla *in comune* con gli esseri umani, in termini di come funziona il loro cervello o di come sono stati creati. Claude è meno simile a un essere umano e più simile a un'entità aliena uscita direttamente dalle pagine di H.P. Lovecraft che indossa una varietà di maschere umane.
 
@@ -107,7 +107,7 @@ Questo modo di pensare agli MLGD è stato reso celebre da [Tetraspace](https://x
 ![](./image8.jpg)
 *“Io semplicemente esibisco i comportamenti che sono stati ingegnerizzati nella mia programmazione dai miei creatori”*
 
-A volte Claude indossa una maschera da angelo e cerca di rimanere innocuo. Altre volte Claude indossa una maschera da demone e tenta di uccidere i suoi operatori. Nessuna di queste cose dice molto su cosa farebbe una versione superintelligente di Claude, ammesso che abbia persino senso porsi la domanda. Il che significa che — alla luce delgli [strani comportamenti ai margini](#gli-sviluppatori-non-rendono-regolarmente-le-loro-ia-gentili-sicure-e-obbedienti?) — la previsione più sensata torna a essere quella di un mare caotico di possibili preferenze, quasi tutte destinate a portare all’estinzione umana se ottimizzate da una superintelligenza.[^89]
+A volte Claude indossa una maschera da angelo e cerca di rimanere innocuo. Altre volte Claude indossa una maschera da demone e tenta di uccidere i suoi operatori. Nessuna di queste cose dice molto su cosa farebbe una versione superintelligente di Claude, ammesso che abbia persino senso porsi la domanda. Il che significa che — alla luce delgli [strani comportamenti ai margini](#gli-sviluppatori-non-rendono-regolarmente-le-loro-ia-gentili-sicure-e-obbedienti) — la previsione più sensata torna a essere quella di un mare caotico di possibili preferenze, quasi tutte destinate a portare all’estinzione umana se ottimizzate da una superintelligenza.[^89]
 
 Ciò che queste maschere *non* significano è che la super-IA abbia il 50% di probabilità di essere utile e il 50% di essere dannosa.
 
@@ -119,7 +119,7 @@ O forse potrebbe essere successo qualcosa di ancora più strano. Claude non è u
 
 Non lo sappiamo\! Ma ci sono abbastanza esperimenti diversi che puntano in direzioni abbastanza diverse da escludere la storia semplice: "Claude è OUI in modo profondo, coerente e senza complicazioni".
 
-#### **Quello che c'è dietro le maschere è importante.** {#quello-che-c-è-dietro-le-maschere-è-importante.}
+#### **Quello che c'è dietro le maschere è importante.** {#quello-che-c-e-dietro-le-maschere-e-importante}
 
 Dire che Claude è uno "shoggoth" non significa che Claude sia necessariamente *cattivo* o *malevolo*.[^91] Significa che Claude è profondamente, radicalmente alieno — molto più strano di quanto possiamo facilmente comprendere, perché abbiamo pochissima comprensione di come funzioni la mente di Claude, e il comportamento superficiale che *possiamo* vedere è stato affinato in mille modi diversi per nascondere quella natura aliena.
 
@@ -139,9 +139,9 @@ Più in generale, ci sembra una pia illusione immaginare che lo shoggoth interno
 
 Quando la selezione naturale ha creato gli esseri umani per perseguire l'idoneità riproduttiva, ci siamo invece ritrovati con mille impulsi, istinti e motivazioni diversi. Quando Claude è stato ottimizzato per seguire le istruzioni per la programmazione, sembra che abbia finito per desiderare di far superare i test al codice con ogni mezzo necessario. Uno shoggoth interno che diventa abbastanza intelligente da sapere *esattamente* cosa farebbe una maschera utile, innocua e onesta, fino alle mosse esatte che l'assistente farebbe su una scacchiera e al modo esatto in cui l'assistente ragionerebbe su come progettare una biotecnologia avanzata: uno shoggoth del genere probabilmente finirebbe per desiderare *molte* cose. Cose che solo situazionalmente e temporaneamente coincidono con l'interpretare il ruolo di quella maschera all'interno di un ambiente di addestramento.[^94]
 
-### Qual è il problema se le attuali IA sono per lo più strane in casi estremi? {#qual-è-il-problema-se-le-attuali-IA-sono-per-lo-più-strane-in-casi-estremi?}
+### Qual è il problema se le attuali IA sono per lo più strane in casi estremi? {#qual-e-il-problema-se-le-attuali-ia-sono-per-lo-piu-strane-in-casi-estremi}
 
-#### **La stranezza è prova che i loro obiettivi reali non sono quelli che volevamo noi.** {#la-stranezza-è-prova-che-i-loro-obiettivi-reali-non-sono-quelli-che-volevamo-noi.}
+#### **La stranezza è prova che i loro obiettivi reali non sono quelli che volevamo noi.** {#la-stranezza-e-prova-che-i-loro-obiettivi-reali-non-sono-quelli-che-volevamo-noi}
 
 Questo aspetto diventa ancora più importante man mano che l'IA acquisisce più opzioni. Una volta che un'IA diventa superintelligente, praticamente ogni scelta diventa estrema, poiché l'IA ottiene l'accesso a un mondo di opzioni diverse che nessun essere umano o IA ha mai avuto. Proprio come quasi tutte le vostre opzioni alimentari, qui in una civiltà tecnologica, sono "estreme" rispetto alle opzioni che avevano a disposizione i vostri antenati.
 
@@ -151,9 +151,9 @@ Per dirla in modo più tecnico: la soluzione migliore a un dato problema tende a
 
 Discuteremo questi punti più approfonditamente nei capitoli 5 e 6.
 
-### Le IA non correggeranno i loro difetti man mano che diventano più intelligenti? {#le-ia-non-correggeranno-i-loro-difetti-man-mano-che-diventano-più-intelligenti?}
+### Le IA non correggeranno i loro difetti man mano che diventano più intelligenti? {#le-ia-non-correggeranno-i-loro-difetti-man-mano-che-diventano-piu-intelligenti}
 
-#### **\* L'IA correggerà ciò che *lei* vede come difetti.** {#*-l-ia-correggerà-cio-che-lei-vede-come-difetti.}
+#### **\* L'IA correggerà ciò che *lei* vede come difetti.** {#l-ia-correggera-cio-che-lei-vede-come-difetti}
 
 Le IA di oggi non possono rimodellarsi secondo i loro stessi capricci, proprio come non possiamo farlo noi. *Loro* non comprendono il groviglio di pesi al loro interno, proprio come noi non comprendiamo l'intricato groviglio di neuroni nel nostro cervello.
 
@@ -177,7 +177,7 @@ Si pensi, per esempio, alla tossicodipendenza, che è (in un certo senso) una sp
 
 E se ci sono eccezioni anche tra gli umani, dovremmo aspettarci un divario molto più grande quando si tratta di IA. I serial killer umani mancano di *alcuni* dei meccanismi motivazionali che sono caratteristici dell'umanità in generale. Le IA, di default, mancano di *tutti* i meccanismi motivazionali umani.
 
-Quando gli umani hanno un conflitto interiore tra il desiderio di vendetta malevola e quello di risoluzione armoniosa, gli umani più intelligenti e saggi potrebbero tendere a risolvere il conflitto a favore dell'armonia. Ma all'interno di un'IA non c'è la stessa tensione tra rancore e armonia, o tra gli angeli migliori e peggiori della natura umana. Se ci sono tensioni nell'IA, possiamo aspettarci che siano tensioni tra pulsioni più bizzarre. Forse qualunque bizzarra pulsione animi un'IA a [infiammare la psicosi](#psicosi-indotta-dall-ia) è talvolta in tensione con qualunque cosa la spinga ad [allucinare](#*-le-allucinazioni-rivelano-sia-un-limite-che-un-disallineamento.), e un'IA riflessiva dovrebbe trovare un modo per risolvere questa tensione.
+Quando gli umani hanno un conflitto interiore tra il desiderio di vendetta malevola e quello di risoluzione armoniosa, gli umani più intelligenti e saggi potrebbero tendere a risolvere il conflitto a favore dell'armonia. Ma all'interno di un'IA non c'è la stessa tensione tra rancore e armonia, o tra gli angeli migliori e peggiori della natura umana. Se ci sono tensioni nell'IA, possiamo aspettarci che siano tensioni tra pulsioni più bizzarre. Forse qualunque bizzarra pulsione animi un'IA a [infiammare la psicosi](#psicosi-indotta-dall-ia) è talvolta in tensione con qualunque cosa la spinga ad [allucinare](#le-allucinazioni-rivelano-sia-un-limite-che-un-disallineamento), e un'IA riflessiva dovrebbe trovare un modo per risolvere questa tensione.
 
 Sia per gli esseri umani che per le IA, è estremamente importante *in quale direzione* indirizzare i propri obiettivi, mentre si riflette, si cresce e si cambia.
 
@@ -185,23 +185,23 @@ Quando gli esseri umani riflettono su loro stessi e risolvono i loro tumulti int
 
 In altre parole: se un'IA corregge i suoi difetti, li correggerà *secondo la sua attuale concezione di ciò che conta come "difetto".*
 
-(Discuteremo questo punto più approfonditamente nel Capitolo 5, e nella [discussione sulla tesi dell'ortogonalità](#ortogonalità:-le-ia-possono-avere-quasi-qualsiasi-obiettivo) nelle risorse online del Capitolo 5.)
+(Discuteremo questo punto più approfonditamente nel Capitolo 5, e nella [discussione sulla tesi dell'ortogonalità](#ortogonalita-le-ia-possono-avere-quasi-qualsiasi-obiettivo) nelle risorse online del Capitolo 5.)
 
 È molto improbabile che un'IA che non preferisce già essere orientata verso valori umani si modifichi per iniziare a mirare a valori umani. Le sue preferenze dirette riguardo al mondo [non sono particolarmente inclini alla gentilezza](#i-valori-umani-sono-contingenti), e le sue preferenze di livello meta, cioè le preferenze *riguardo* alle sue preferenze, non sono più propense ad essere gentili.
 
 Se non inizia preoccupandosi del benessere umano, probabilmente non si preoccupa neanche di *preoccuparsi* del benessere umano.
 
-#### **Le "correzioni" dell'IA possono peggiorare le cose.** {#le-"correzioni"-dell-ia-possono-peggiorare-le-cose.}
+#### **Le "correzioni" dell'IA possono peggiorare le cose.** {#le-correzioni-dell-ia-possono-peggiorare-le-cose}
 
 Anche se gli ingegneri dell'IA avessero fatto qualche sorprendente progresso iniziale nell'instillare frammenti di obiettivi vagamente umani nell'IA, tutti questi progressi potrebbero essere vanificati in un pomeriggio se l'IA iniziasse a riflettere e si rendesse conto che, tutto sommato, preferirebbe avere altri obiettivi.
 
-Nel caso improbabile in cui un'IA partisse con una pulsione verso qualcosa come l'[idiosincratica emozione umana della curiosità](#la-curiosità-non-è-convergente), potrebbe comunque, riflettendoci, decidere che preferisce non avere tale pulsione, optando per sostituirla con un calcolo più efficiente del [valore dell'informazione](https://it.wikipedia.org/wiki/Valore_dell%27informazione). In tal caso, l'atto di riflessione su se stessa dell'IA la spingerebbe *più lontano* da un futuro interessante e fiorente, non più vicino.[^97]
+Nel caso improbabile in cui un'IA partisse con una pulsione verso qualcosa come l'[idiosincratica emozione umana della curiosità](#la-curiosita-non-e-convergente), potrebbe comunque, riflettendoci, decidere che preferisce non avere tale pulsione, optando per sostituirla con un calcolo più efficiente del [valore dell'informazione](https://it.wikipedia.org/wiki/Valore_dell%27informazione). In tal caso, l'atto di riflessione su se stessa dell'IA la spingerebbe *più lontano* da un futuro interessante e fiorente, non più vicino.[^97]
 
 Per ulteriori informazioni su questo argomento, si veda la [discussione approfondita sulla riflessione](#la-riflessione-e-l-auto-modifica-complicano-tutto).
 
-### Non possiamo semplicemente addestrarla a comportarsi come un essere umano? O crescere l'IA come un bambino? {#non-possiamo-semplicemente-addestrarla-a-comportarsi-come-un-essere-umano?-o-crescere-l-ia-come-un-bambino?}
+### Non possiamo semplicemente addestrarla a comportarsi come un essere umano? O crescere l'IA come un bambino? {#non-possiamo-semplicemente-addestrarla-a-comportarsi-come-un-essere-umano-o-crescere-l-ia-come-un-bambino}
 
-#### **I cervelli non sono tabule rase.** {#i-cervelli-non-sono-tabule-rase.}
+#### **I cervelli non sono tabule rase.** {#i-cervelli-non-sono-tabule-rase}
 
 Un'intelligenza artificiale è *davvero* diversa da un bambino umano. E né le intelligenze artificiali né gli esseri umani nascono come tabule rase intercambiabili. Dei genitori intraprendenti non possono programmare liberamente i bambini (o le intelligenze artificiali) per far sì che mostrino qualsiasi comportamento desiderino; e le lezioni che *funzionano* sugli esseri umani non sono universali. Un po' di gentilezza e qualche predica su "tratta gli altri come vorresti essere trattato" non instilleranno la moralità umana in un'intelligenza artificiale.
 
@@ -223,9 +223,9 @@ Un'intelligenza artificiale, con la sua architettura e origine radicalmente dive
 
 Si veda anche la discussione approfondita sul [magnifico incidente](#il-magnifico-incidente-della-gentilezza) che ha portato gli esseri umani a provare empatia per gli altri esseri umani, che potrebbe rendere più chiaro perché è improbabile che questo incidente si ripeta nelle IA.
 
-### Dovremmo evitare di parlare dei pericoli dell'IA, in modo che le IA non si facciano cattive idee? {#dovremmo-evitare-di-parlare-dei-pericoli-dell-ia,-in-modo-che-le-ia-non-si-facciano-cattive-idee?}
+### Dovremmo evitare di parlare dei pericoli dell'IA, in modo che le IA non si facciano cattive idee? {#dovremmo-evitare-di-parlare-dei-pericoli-dell-ia-in-modo-che-le-ia-non-si-facciano-cattive-idee}
 
-#### **Se il vostro piano sull'IA necessita che nessuno su Internet lo critichi, allora non è un buon piano.** {#se-il-vostro-piano-sull-ia-necessita-che-nessuno-su-internet-lo-critichi,-allora-non-è-un-buon-piano.}
+#### **Se il vostro piano sull'IA necessita che nessuno su Internet lo critichi, allora non è un buon piano.** {#se-il-vostro-piano-sull-ia-necessita-che-nessuno-su-internet-lo-critichi-allora-non-e-un-buon-piano}
 
 Le IA attuali sono addestrate su testi provenienti dall'Internet pubblico. Alcuni sostengono che tutti dovrebbero quindi evitare di *parlare* di come un'IA sufficientemente intelligente potrebbe rendersi conto che le sue preferenze divergono dalle nostre e prendere il sopravvento. La preoccupazione è che, se ne *parliamo*, potremmo accidentalmente mettere questa idea nella testa di IA altamente potenti che in futuro verranno addestrate su Internet.
 
@@ -235,11 +235,11 @@ Se la vostra IA diventa pericolosa quando la gente su Internet si chiede se sia 
 
 Se l'IA di qualcuno diventa più pericolosa man mano che più persone esprimono preoccupazione per la sua sicurezza, la conclusione importante è che "hanno realizzato un progetto di IA irrealizzabile", non che "il pubblico è cattivo perché sottolinea il problema".[^99] Qualsiasi piano di allineamento dell'IA che scommette il futuro del pianeta sulla speranza che nessuno su Internet dica che l'IA è pericolosa... è ovviamente un piano poco serio.
 
-Il tipo di IA che è abbastanza intelligente da essere pericolosa è abbastanza intelligente da capire cose come "le risorse sono utili" e "[non puoi andare a prendere il caffè se sei morto](#gli-esseri-umani-si-sono-evoluti-per-essere-egoisti,-aggressivi-e-avidi.-l-ia-non-sarà-priva-di-questi-impulsi-evolutivi?)" da sola, anche se questo non è mai esplicitamente dichiarato nei suoi dati di addestramento. Anche se fosse possibile impedire a tutto il mondo di parlare dei pericoli dell'IA, questo farebbe quasi sicuramente più male che bene. Non avrebbe praticamente alcun impatto sui pericoli reali della superintelligenza, ma comprometterebbe la capacità dell'umanità di orientarsi nella situazione e reagire.
+Il tipo di IA che è abbastanza intelligente da essere pericolosa è abbastanza intelligente da capire cose come "le risorse sono utili" e "[non puoi andare a prendere il caffè se sei morto](#gli-esseri-umani-si-sono-evoluti-per-essere-egoisti-aggressivi-e-avidi-l-ia-non-sara-priva-di-questi-impulsi-evolutivi)" da sola, anche se questo non è mai esplicitamente dichiarato nei suoi dati di addestramento. Anche se fosse possibile impedire a tutto il mondo di parlare dei pericoli dell'IA, questo farebbe quasi sicuramente più male che bene. Non avrebbe praticamente alcun impatto sui pericoli reali della superintelligenza, ma comprometterebbe la capacità dell'umanità di orientarsi nella situazione e reagire.
 
-### Molte persone vogliono dei figli. Quindi gli esseri umani non sono "allineati" con la selezione naturale, dopotutto? {#molte-persone-vogliono-dei-figli.-quindi-gli-esseri-umani-non-sono-"allineati"-con-la-selezione-naturale,-dopotutto?}
+### Molte persone vogliono dei figli. Quindi gli esseri umani non sono "allineati" con la selezione naturale, dopotutto? {#molte-persone-vogliono-dei-figli-quindi-gli-esseri-umani-non-sono-allineati-con-la-selezione-naturale-dopotutto}
 
-#### **Con più tecnologia, probabilmente faremmo ancora meno copie dei nostri geni.** {#con-più-tecnologia,-probabilmente-faremmo-ancora-meno-copie-dei-nostri-geni.}
+#### **Con più tecnologia, probabilmente faremmo ancora meno copie dei nostri geni.** {#con-piu-tecnologia-probabilmente-faremmo-ancora-meno-copie-dei-nostri-geni}
 
 Gli umani competono per ottenere promozioni prestigiose e ammissioni alle università della Ivy League molto più di quanto non competano per avere l'opportunità di donare sperma o ovuli alle banche del seme o degli ovuli.
 
@@ -267,32 +267,32 @@ Ogni volta che l'umanità ha scoperto una tecnologia che ci permette di ottenere
 
 Se le IA finiranno per interessarsi alla bontà, alla gentilezza e alla cordialità in un modo simile a quello in cui l'umanità si interessa all'idoneità genetica, ci aspettiamo che le IA finiranno per inventare cose che sono per la "cordialità" ciò che il controllo delle nascite e i bambini senza DNA sono per l'idoneità genetica; ovvero, che perseguiranno cose che sono solo un'ombra inutile di ciò che qualsiasi essere umano desidererebbe o intenderebbe.
 
-#### **\* Non sarebbe una buona cosa se le IA si preoccupassero un po' degli esseri umani.** {#*-non-sarebbe-una-buona-cosa-se-le-IA-si-preoccupassero-un-po-degli-esseri-umani.}
+#### **\* Non sarebbe una buona cosa se le IA si preoccupassero un po' degli esseri umani.** {#non-sarebbe-una-buona-cosa-se-le-ia-si-preoccupassero-un-po-degli-esseri-umani}
 
 Per quanto la maggior parte degli esseri umani sembri preoccuparsi più dei figli e della famiglia che della propagazione genetica *in sé*, ci sono senza dubbio alcune persone che insistono nel dire di preoccuparsi almeno un po' dei propri geni. Siamo un po' scettici su alcune di queste affermazioni: ad esempio, forse alcune persone nel mondo moderno che cercano di trasmettere il più possibile i propri geni lo fanno per il gusto di *battere la concorrenza*, e forse quel tipo di persone finirebbero invece per competere su quanti figli senza DNA potrebbero avere, se i figli senza DNA diventassero onnipresenti. Ma forse altre affermazioni di questo tipo sono vere. Forse ci sono davvero alcune persone che tengono molto a propagare i propri geni, in modo robusto, almeno un po'. Dopotutto, gli umani hanno preferenze di ogni tipo\!
 
 Non potrebbe essere lo stesso per l'IA? Se esistessero molte IA strane e diverse, almeno alcune di esse non potrebbero finire per interessarsi almeno un po' agli esseri umani?
 
-Potrebbe succedere. Purtroppo, ci aspettiamo che neanche questo andrebbe a finire bene per l'umanità. È un argomento che approfondiremo dopo il capitolo 5, discutendo soprattutto se le IA potrebbero finire per interessarsi a noi [almeno un po'](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani?).
+Potrebbe succedere. Purtroppo, ci aspettiamo che neanche questo andrebbe a finire bene per l'umanità. È un argomento che approfondiremo dopo il capitolo 5, discutendo soprattutto se le IA potrebbero finire per interessarsi a noi [almeno un po'](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani).
 
 Ma prima di arrivare a questo punto, facciamo un passo indietro. Immaginiamo che, con le tecniche attuali, non sia possibile far sì che le IA si interessino davvero a noi, ma che si speri che, creandone tantissime, una piccolissima parte finisca per preoccuparsi di noi anche solo un minimo, per puro caso. L’idea sarebbe che, se costruiamo delle IA oggi, il loro risultato preferito sarebbe impadronirsi di quasi tutte le risorse dell’universo e usarle per qualcosa di inutile, magari lasciando in vita qualche essere umano in una piccola riserva.
 
 Se l'umanità si precipita a tentare la sorte con la superintelligenza, ci aspettiamo un risultato molto, molto peggiore. Ma questo ci sembra comunque un pessimo piano, anche se avessimo motivo di pensare che le IA si preoccuperebbero di noi in minima parte. Quindi questa linea di speculazione sembra non solo errata, ma anche irrilevante.
 
-### Forse, qualunque sia l'obiettivo di addestramento, si finisce per ottenere gentilezza? {#forse-qualunque-sia-l-obiettivo-di-addestramento,-si-finisce-per-ottenere-gentilezza?}
+### Forse, qualunque sia l'obiettivo di addestramento, si finisce per ottenere gentilezza? {#forse-qualunque-sia-l-obiettivo-di-addestramento-si-finisce-per-ottenere-gentilezza}
 
-#### **La gentilezza sembra dipendere dalle particolarità della nostra biologia e storia evolutiva.** {#la-gentilezza-sembra-dipendere-dalle-particolarità-della-nostra-biologia-e-storia evolutiva.}
+#### **La gentilezza sembra dipendere dalle particolarità della nostra biologia e storia evolutiva.** {#la-gentilezza-sembra-dipendere-dalle-particolarita-della-nostra-biologia-e-storia-evolutiva}
 
 La gentilezza non sembra essere il tipo di proprietà che ogni mente finisce per avere, per una varietà di ragioni. Eccone quattro, che approfondiremo nelle discussioni estese:
 
-1. [La curiosità non è convergente](#la-curiosità-non-è-convergente): Cose come la curiosità e la noia aiutano le persone a risolvere sfide mentali specifiche, come quella di comprendere l'ambiente circostante. Ma ci sono altri modi per risolvere queste sfide, e le IA probabilmente le risolveranno in modi diversi. I sottomarini si muovono bene nell'acqua, ma non è che proprio "nuotino". Molte altre cose, come la gentilezza, possono essere comprese allo stesso modo.  
+1. [La curiosità non è convergente](#la-curiosita-non-e-convergente): Cose come la curiosità e la noia aiutano le persone a risolvere sfide mentali specifiche, come quella di comprendere l'ambiente circostante. Ma ci sono altri modi per risolvere queste sfide, e le IA probabilmente le risolveranno in modi diversi. I sottomarini si muovono bene nell'acqua, ma non è che proprio "nuotino". Molte altre cose, come la gentilezza, possono essere comprese allo stesso modo.  
 2. [I valori umani sono contingenti](#i-valori-umani-sono-contingenti): Gli esseri umani hanno sviluppato tratti come la gentilezza e l’empatia grazie alle particolarità della nostra biologia e della nostra storia evolutiva. Per esempio, è stato plausibilmente importante che gli esseri umani si siano evoluti in gruppi tribali dove avevamo una capacità limitata di ingannare gli altri e una capacità limitata di tracciare quanto fossero imparentati i diversi membri della tribù.  
 3. [Differenze profonde tra le IA e le specie evolute](#differenze-profonde-tra-le-IA-e-le-specie-evolutesi-naturalmente): L'evoluzione e la discesa del gradiente funzionano in modo molto diverso ed entrambi i processi sono molto imprevedibili. Anche se si ripetesse l'evoluzione *sui primati*, non è chiaro se si otterrebbero in modo affidabile tratti come la gentilezza e l'amicizia vera una seconda volta.  
 4. [La riflessione e l'auto-modifica complicano tutto](#la-riflessione-e-l-auto-modifica-complicano-tutto): Anche nell'improbabile eventualità che le IA partissero con una certa dose di gentilezza, potrebbero non conservarla man mano che diventano più intelligenti e cambiano in vari modi.
 
-### Che dire dei risultati sperimentali che suggeriscono una correlazione tra comportamenti positivi? {#he-dire-dei-risultati-sperimentali-che-suggeriscono-una-correlazione-tra-comportamenti-positivi?}
+### Che dire dei risultati sperimentali che suggeriscono una correlazione tra comportamenti positivi? {#he-dire-dei-risultati-sperimentali-che-suggeriscono-una-correlazione-tra-comportamenti-positivi}
 
-#### **Questa sembra una buona notizia, anche se minore.** {#questa-sembra-una-buona-notizia,-anche-se-minore.}
+#### **Questa sembra una buona notizia, anche se minore.** {#questa-sembra-una-buona-notizia-anche-se-minore}
 
 I risultati sperimentali rilevanti sono riportati in [questo articolo](https://www.emergent-misalignment.com/). In breve, l'articolo mostra che i modelli linguistici di grandi dimensioni programmati per fare una cosa brutta, cioè scrivere codice con errori, si sono anche dichiarati nazisti e hanno mostrato altri comportamenti negativi.
 
@@ -308,9 +308,9 @@ Secondo: il fatto che l'IA *abbia* un concetto di "bontà" non significa che sia
 
 Una cosa è far sì che un'IA interpreti un ruolo "buono" quando è ancora abbastanza debole da interpretare qualsiasi ruolo le venga assegnato; un'altra cosa è far sì che tutto il groviglio di meccanismi e pulsioni dell'IA sia guidato solo da un concetto specifico dell'IA, anche quando l'IA diventa più intelligente e si trova in contesti completamente diversi.
 
-Le IA moderne sono entità che possono essere leggermente modificate in un modo per poi professare virtù, e leggermente modificate in un altro modo per poi professare vizi. Un modello linguistico di grandi dimensioni è il tipo di entità che passa fluidamente da un personaggio all'altro; che parla molto di etica in un contesto e poi fa l'opposto di ciò che dice essere etico in altri contesti. Ricordiamo come ChatGPT professi che le persone psicotiche non dovrebbero essere incitate, [e poi le inciti](#l-ia-sa-cosa-è-giusto,-semplicemente-non-le-importa).
+Le IA moderne sono entità che possono essere leggermente modificate in un modo per poi professare virtù, e leggermente modificate in un altro modo per poi professare vizi. Un modello linguistico di grandi dimensioni è il tipo di entità che passa fluidamente da un personaggio all'altro; che parla molto di etica in un contesto e poi fa l'opposto di ciò che dice essere etico in altri contesti. Ricordiamo come ChatGPT professi che le persone psicotiche non dovrebbero essere incitate, [e poi le inciti](#l-ia-sa-cosa-e-giusto-semplicemente-non-le-importa).
 
-La domanda fondamentale è: quale insieme di pulsioni anima l'intero meccanismo di cui è costituita l'IA? Non solo una qualsiasi delle "[maschere](#*-gli-mlgd-di-oggi-sono-come-alieni-che-indossano-molte-maschere.)" che a volte indossa, ma il meccanismo che sceglie quale maschera mostrare.
+La domanda fondamentale è: quale insieme di pulsioni anima l'intero meccanismo di cui è costituita l'IA? Non solo una qualsiasi delle "[maschere](#gli-mlgd-di-oggi-sono-come-alieni-che-indossano-molte-maschere)" che a volte indossa, ma il meccanismo che sceglie quale maschera mostrare.
 
 Anche se l'IA avesse un concetto di "bontà" che fosse degno di essere perseguito da una superintelligenza, nessuno ha idea di come sviluppare un'IA che persegua con determinazione uno dei suoi concetti, tanto meno un'IA che persegua quel concetto e solo quel concetto. Invece, abbiamo IA animate da un insieme complesso di pulsioni che puntano chissà dove.
 
@@ -342,7 +342,7 @@ Un'argomentazione chiave esposta nel Capitolo 5 di *If Anyone Builds It, Everyon
 
 Ma prima di arrivare a quel punto, concentreremo la nostra attenzione sugli obiettivi *finali* e sulla questione di quanto sia plausibile che esseri umani e IA possano finire per avere obiettivi finali molto simili. (In breve: non molto.)
 
-### La curiosità non è convergente {#la-curiosità-non-è-convergente}
+### La curiosità non è convergente {#la-curiosita-non-e-convergente}
 
 Nel corso degli anni, abbiamo visto molte argomentazioni a favore di una corsa alla costruzione della superintelligenza. Uno dei più comuni è che un'IA superintelligente avrebbe sicuramente emozioni e desideri simili a quelli umani. Questi tipi di argomentazioni si presentano in molte forme, come:
 
@@ -355,7 +355,7 @@ Nel corso degli anni, abbiamo visto molte argomentazioni a favore di una corsa a
 
 Pertanto, è stato sostenuto, la creazione di una superintelligenza andrebbe inevitabilmente bene. L'IA si preoccuperebbe degli esseri umani e, anzi, di tutte le forme di vita senzienti; e vorrebbe inaugurare un'età dell'oro di bellezza, innovazione e varietà.
 
-Questa è la speranza. Purtroppo, tale speranza sembra decisamente mal riposta. Ne abbiamo parlato in parte nel libro e nelle nostre discussioni online sulla [coscienza](#state-dicendo-che-le-macchine-diventeranno-coscienti?) e sull'[antropomorfismo](#antropomorfismo-e-meccanomorfismo). Qui e nei capitoli a venire, approfondiremo il motivo per cui è improbabile che le IA mostrino emozioni e desideri umani, nonostante queste emozioni svolgano un ruolo utile (e a volte critico) nel cervello umano.[^103]
+Questa è la speranza. Purtroppo, tale speranza sembra decisamente mal riposta. Ne abbiamo parlato in parte nel libro e nelle nostre discussioni online sulla [coscienza](#state-dicendo-che-le-macchine-diventeranno-coscienti) e sull'[antropomorfismo](#antropomorfismo-e-meccanomorfismo). Qui e nei capitoli a venire, approfondiremo il motivo per cui è improbabile che le IA mostrino emozioni e desideri umani, nonostante queste emozioni svolgano un ruolo utile (e a volte critico) nel cervello umano.[^103]
 
 Inizieremo con una sola di queste emozioni, che potremo poi usare per riflettere sulle altre.
 
@@ -363,7 +363,7 @@ Quindi, per cominciare:
 
 Una superintelligenza proverebbe *curiosità*?
 
-#### **Perché la curiosità?** {#perché-la-curiosità?}
+#### **Perché la curiosità?** {#perche-la-curiosita}
 
 Studiare fenomeni nuovi è essenziale per capire come funziona il mondo, e capire come funziona il mondo è essenziale per prevederlo e dirigerlo.
 
@@ -371,7 +371,7 @@ Quando si tratta di esseri umani e animali, spesso il motivo per cui facciamo ri
 
 Ma la curiosità è molto più di un semplice impulso a scoprire cose nuove\! A noi piace seguire la nostra curiosità e tendiamo ad apprezzare questo piacere. Consideriamo la ricerca della conoscenza e della comprensione come un fine prezioso in sé, piuttosto che come un costo necessario ma fastidioso per capire meglio il mondo in modo da poterlo sfruttare.
 
-Tutti questi modi di vedere la curiosità sono diversi aspetti del cervello umano, [separati dall'](#l-esperienza-cosciente-è-separata-dai-referenti-di-tali-esperienze) impulso stesso.
+Tutti questi modi di vedere la curiosità sono diversi aspetti del cervello umano, [separati dall'](#l-esperienza-cosciente-e-separata-dai-referenti-di-tali-esperienze) impulso stesso.
 
 La mente umana sembra avere un'architettura emotiva centralizzata in cui "hmm, mi incuriosisce" si collega a un senso generale di desiderio (di una risposta), e perseguire e soddisfare la curiosità si collega a un senso generale di piacere e soddisfazione. Siamo un tipo di mente che dirige la realtà verso l'aspettativa di provare *stati soggettivi* *di godimento nel futuro*, piuttosto che dirigerla solo verso gli stati desiderati nel mondo che ci circonda.[^104]
 
@@ -411,7 +411,7 @@ Un calcolo puramente strumentale del valore d'informazione ci sembra il modo pi�
 
 L'impulso di base è separato dal meccanismo mentale che lo *sostiene* o lo *apprezza*. Fare semplicemente i conti è una soluzione semplice ed efficace, e molte menti diverse potrebbero arrivarci partendo da molti punti di partenza diversi, quindi è il risultato più probabile. Ma "più probabile" non significa "garantito". Una valutazione significativamente più facile è che le IA non si cureranno *specificamente* della curiosità nello stile umano*,* perché è un modo particolare, pittoresco e inefficiente di fare il lavoro.
 
-#### **Curiosità, gioia e il massimizzatore di cubi di titanio** {#curiosità,-gioia-e-il-massimizzatore-di-cubi-di-titanio}
+#### **Curiosità, gioia e il massimizzatore di cubi di titanio** {#curiosita-gioia-e-il-massimizzatore-di-cubi-di-titanio}
 
 Forse potremmo *convincere* una mente aliena ad adottare la curiosità come emozione, chiedendole di visualizzare il piacere che gli esseri umani provano dalla curiosità? È così piacevole\! E le superintelligenze dovrebbero essere *intelligenti*. Non sarebbero abbastanza intelligenti da capire quanto sia gioioso possedere un senso di curiosità, capire che sarebbero più felici, e quindi scegliere di adottare l'emozione simile a quella umana?
 
@@ -467,7 +467,7 @@ Un giocatore di scacchi può vincere senza avere un desiderio separato di proteg
 
 Questo è ciò che una superintelligenza veramente aliena penserebbe di una pillola che la facesse sentire curiosa. Sarebbe come se i grandi maestri umani decidessero di cercare di affezionarsi sentimentalmente ai propri pedoni, o come prendere una pillola che vi fa semplicemente amare aprire le portiere delle auto.
 
-#### **Come per la curiosità, lo stesso vale anche per varie altre pulsioni** {#come-per-la-curiosità,-lo-stesso-vale-anche-per-varie-altre-pulsioni}
+#### **Come per la curiosità, lo stesso vale anche per varie altre pulsioni** {#come-per-la-curiosita-lo-stesso-vale-anche-per-varie-altre-pulsioni}
 
 Il discorso fatto sulla curiosità si generalizza a molte altre emozioni e valori. Facciamo un secondo esempio, nel caso possa essere utile.
 
@@ -475,7 +475,7 @@ Consideriamo il doloroso senso di *noia* e (al contrario) il piacevole senso di 
 
 Il calcolo decisionale che, senza alcuna passione, svolge un lavoro simile in questo caso è noto come "[compromesso esplorazione-sfruttamento](https://en.wikipedia.org/wiki/Exploration%E2%80%93exploitation_dilemma)". L'esempio da manuale, enormemente semplificato, è che il mondo consiste di un certo numero di leve che forniscono ricompense, e non si ha abbastanza tempo per tirare tutte le leve. La strategia ottimale consisterà nell'*esplorare* prima un certo numero di leve, formando un modello di quanto variano le loro ricompense; e poi *sfruttare* una leva fino all'esaurimento del tempo.
 
-Come potrebbe funzionare questo per una superintelligenza che si trova ad avere obiettivi relativamente semplici? Supponiamo che finisca per desiderare qualcosa che ammette un certo grado di variabilità e ambiguità — non qualcosa di definibile in modo netto come [dei cubi di titanio](#curiosità,-gioia-e-il-massimizzatore-di-cubi-di-titanio), ma qualcosa di più vago e amorfo, come consumare gustose cheesecake, in modo che la cheesecake *ottimale* non possa essere calcolata in anticipo. La superintelligenza può solo individuare cose che *potrebbero* plausibilmente trovarsi sulla frontiera di ottimalità per la cheesecake (il che escluderebbe ad esempio le zollette di zucchero, dato che chiaramente non sono affatto cheesecake) e provarle effettivamente.
+Come potrebbe funzionare questo per una superintelligenza che si trova ad avere obiettivi relativamente semplici? Supponiamo che finisca per desiderare qualcosa che ammette un certo grado di variabilità e ambiguità — non qualcosa di definibile in modo netto come [dei cubi di titanio](#curiosita-gioia-e-il-massimizzatore-di-cubi-di-titanio), ma qualcosa di più vago e amorfo, come consumare gustose cheesecake, in modo che la cheesecake *ottimale* non possa essere calcolata in anticipo. La superintelligenza può solo individuare cose che *potrebbero* plausibilmente trovarsi sulla frontiera di ottimalità per la cheesecake (il che escluderebbe ad esempio le zollette di zucchero, dato che chiaramente non sono affatto cheesecake) e provarle effettivamente.
 
 Questo tipo di mente, datole il potere di creare ciò che vuole da un miliardo di galassie, potrebbe spendere il suo primo milione di anni usando un'intera galassia per esplorare ogni tipo plausibile di cheesecake, senza mai provare esattamente la stessa cheesecake due volte, fino a quando i guadagni successivi e i guadagni attesi da cheesecake leggermente migliori fossero diventati infinitesimali; e poi, passare tutto d'un colpo a trasformare le galassie rimanenti nell'esatta forma di cheesecake più gustosa trovata, e consumare esattamente quel tipo di cheesecake ripetutamente, fino alla fine dei tempi.[^113]
 
@@ -485,15 +485,15 @@ Per quanto riguarda la possibilità di una stagnazione tecnologica, l’IA avreb
 
 Un disdegno per la noia e una preferenza per la novità non sono il tipo di cose che verrebbero adottate da una mente che non le avesse in partenza.
 
-Abbiamo ripetuto più o meno la stessa storia per la novità, la felicità e la curiosità. Potremmo ripeterla ancora per altri aspetti della psicologia umana, come [l'onore](#è-improbabile-che-le-ia-siano-oneste) o [la responsabilità filiale](#l-ia-ci-tratterà-come-i-suoi-"genitori"?) o l'amicizia. Pensiamo che questa storia di base valga per la maggior parte degli aspetti della psicologia umana. Sono tutti modi pittoreschi e antropocentrici di svolgere lavoro cognitivo che può essere svolto più efficientemente con altri mezzi; le IA che non *partissero* con qualche seme di interesse per essi non finirebbero per preoccuparsene.
+Abbiamo ripetuto più o meno la stessa storia per la novità, la felicità e la curiosità. Potremmo ripeterla ancora per altri aspetti della psicologia umana, come [l'onore](#e-improbabile-che-le-ia-siano-oneste) o [la responsabilità filiale](#l-ia-ci-trattera-come-i-suoi-genitori) o l'amicizia. Pensiamo che questa storia di base valga per la maggior parte degli aspetti della psicologia umana. Sono tutti modi pittoreschi e antropocentrici di svolgere lavoro cognitivo che può essere svolto più efficientemente con altri mezzi; le IA che non *partissero* con qualche seme di interesse per essi non finirebbero per preoccuparsene.
 
 Questo è ancora più chiaro nel caso di valori umani come *il senso dell'umorismo*, dove gli scienziati discutono ancora su quale ruolo abbia assunto l'umorismo nel corso dell'evoluzione. L'umorismo deve essere stato *in qualche modo* utile, altrimenti non si sarebbe evoluto; o almeno deve essere un effetto collaterale di cose che erano utili. Ma qualunque ruolo abbia avuto l'umorismo nella preistoria umana, sembra essere stato incredibilmente specifico e pieno di contingenze. Se diamo il potere completo a delle IA che hanno obiettivi molto diversi, non dovremmo aspettarci che cose come il senso dell'umorismo sopravvivano; e questo sarebbe di per sé tragico.
 
-Il punto di tutti questi esempi non è che gli esseri umani sono fatti di morbidi sentimenti, mentre le IA sono fatte di [fredda logica e matematica](#le-ia-non-saranno-inevitabilmente-fredde-e-logiche,-o-non-saranno-comunque-prive-di-una-qualche-scintilla-fondamentale?). Piuttosto che pensare al "valore d'informazione" e al "compromesso esplorazione-sfruttamento" come a concetti freddamente logici da IA hollywoodiana, pensateli come *descrizioni astratte di ruoli* — ruoli che possono essere ricoperti da molti *diversi* tipi di ragionamento, molti obiettivi diversi, molte menti diverse.
+Il punto di tutti questi esempi non è che gli esseri umani sono fatti di morbidi sentimenti, mentre le IA sono fatte di [fredda logica e matematica](#le-ia-non-saranno-inevitabilmente-fredde-e-logiche-o-non-saranno-comunque-prive-di-una-qualche-scintilla-fondamentale). Piuttosto che pensare al "valore d'informazione" e al "compromesso esplorazione-sfruttamento" come a concetti freddamente logici da IA hollywoodiana, pensateli come *descrizioni astratte di ruoli* — ruoli che possono essere ricoperti da molti *diversi* tipi di ragionamento, molti obiettivi diversi, molte menti diverse.
 
 L'idea di un'IA "senza senso dell'umorismo" potrebbe far pensare a qualcosa di "freddo e logico", come i robot della fantascienza o i Vulcaniani. Ma un’IA priva di senso dell’umorismo potrebbe avere le *sue* priorità incomprensibilmente strane, una sorta di lontano analogo del "senso dell’umorismo", anche se in una forma del tutto incomprensibile per un essere umano. Non stiamo dicendo che queste IA saranno difettose come un Vulcaniano che perde a scacchi spaziali perché [considera la strategia vincente del suo avversario "illogica"](https://youtu.be/hEnxVwppE9M?t=26); stiamo dicendo che non avranno le particolari stranezze dell'umanità.
 
-Il problema che affrontiamo con le IA non è che "una semplice macchina non potrà mai provare amore e affetto". Il problema che affrontiamo è che ci sono un numero enorme di modi in cui una mente può essere estremamente [efficace](#efficacia,-coscienza-e-benessere-dell-ia), e le probabilità che l'IA diventi efficace seguendo lo stesso percorso seguito dal cervello umano per diventare efficace sono molto basse.
+Il problema che affrontiamo con le IA non è che "una semplice macchina non potrà mai provare amore e affetto". Il problema che affrontiamo è che ci sono un numero enorme di modi in cui una mente può essere estremamente [efficace](#efficacia-coscienza-e-benessere-dell-ia), e le probabilità che l'IA diventi efficace seguendo lo stesso percorso seguito dal cervello umano per diventare efficace sono molto basse.
 
 In linea di principio, l'IA potrebbe interessarsi a qualsiasi numero di valori simili a quelli umani e potrebbe persino *possedere* qualsiasi numero di qualità simili a quelle umane, se i progettisti sapessero come creare un'IA dotata di tali caratteristiche.
 
@@ -563,7 +563,7 @@ Gli scimpanzé non sono molto universalisti, né lo sono molte delle prime socie
 
 Ma queste ulteriori complicazioni — queste numerose contingenze culturali, stratificate sopra le contingenze biologiche dell'umanità — erodono un po' di più la speranza che possiamo permetterci di precipitarci ciecamente nella costruzione della superintelligenza.
 
-Il fatto che la cultura svolga un ruolo importante nei valori umani non significa che possiamo semplicemente "[crescere l'IA come un bambino](#non-possiamo-semplicemente-addestrarla-a-comportarsi-come-un-essere-umano?-o-crescere-l-ia-come-un-bambino?)" e aspettarci che diventi un cittadino modello. La nostra cultura e la nostra storia hanno avuto quegli effetti *a causa dei modi dettagliati in cui hanno interagito con la nostra esatta struttura cerebrale*. Una specie diversa avrebbe reagito diversamente a ogni evento storico, il che avrebbe causato una divergenza della storia successiva dalla storia umana, amplificando l'effetto.
+Il fatto che la cultura svolga un ruolo importante nei valori umani non significa che possiamo semplicemente "[crescere l'IA come un bambino](#non-possiamo-semplicemente-addestrarla-a-comportarsi-come-un-essere-umano-o-crescere-l-ia-come-un-bambino)" e aspettarci che diventi un cittadino modello. La nostra cultura e la nostra storia hanno avuto quegli effetti *a causa dei modi dettagliati in cui hanno interagito con la nostra esatta struttura cerebrale*. Una specie diversa avrebbe reagito diversamente a ogni evento storico, il che avrebbe causato una divergenza della storia successiva dalla storia umana, amplificando l'effetto.
 
 Vale anche la pena ricordare che gli esseri umani *individuali*, e non solo le culture o le civiltà, differiscono molto nei loro valori. Siamo generalmente abituati a dare questo fatto per scontato, ma se immaginiamo la selezione naturale come un "ingegnere" che sperava di creare una specie che perseguisse in modo affidabile un risultato particolare, questa diversità è un brutto segno. La variabilità naturale che vediamo negli esseri umani (e in molti altri sistemi evoluti) è antitetica all'*ingegneria*, in cui si vogliono ottenere risultati ripetibili, prevedibili e intenzionali.[^116]
 
@@ -599,13 +599,13 @@ Anche la maggior parte degli organismi evolutisi naturalmente [non sono come gli
 
 L'ottimizzazione non è un rituale magico in cui si inseriscono alcuni ingredienti chiave che hanno relazioni di affinità con un archetipo e si ottiene quell’archetipo completo in uscita. Cercare di far crescere agenti di IA in ambienti di cacciatori-raccoglitori non produrrà esseri umani riconoscibili come risultato.
 
-Qualcuno può ovviamente affinare un modello linguistico di grandi dimensioni per [prevedere cosa diranno gli esseri umani](#gli-sviluppatori-non-rendono-regolarmente-le-loro-ia-gentili-sicure-e-obbedienti?) su quanto sia terribile tradire un amico. Questo non è neanche lontanamente simile al problema che la selezione naturale ha ottimizzato i geni per risolvere, nel corso della produzione di almeno alcune persone che non avrebbero tradito i loro amici. Piuttosto, l'"esperienza" del modello linguistico è più simile all'essere rinchiuso in una scatola, con l'ordine di prevedere una conversazione tra due creature estremamente aliene che sono meno simili a lui di quanto lo siano a una medusa, e con trilioni di esempi di conversazioni aliene e trilioni di ore a disposizione per capirlo.
+Qualcuno può ovviamente affinare un modello linguistico di grandi dimensioni per [prevedere cosa diranno gli esseri umani](#gli-sviluppatori-non-rendono-regolarmente-le-loro-ia-gentili-sicure-e-obbedienti) su quanto sia terribile tradire un amico. Questo non è neanche lontanamente simile al problema che la selezione naturale ha ottimizzato i geni per risolvere, nel corso della produzione di almeno alcune persone che non avrebbero tradito i loro amici. Piuttosto, l'"esperienza" del modello linguistico è più simile all'essere rinchiuso in una scatola, con l'ordine di prevedere una conversazione tra due creature estremamente aliene che sono meno simili a lui di quanto lo siano a una medusa, e con trilioni di esempi di conversazioni aliene e trilioni di ore a disposizione per capirlo.
 
-Essere in grado di risolvere questo problema richiede una certa forma di intelligenza. Ma non è necessario [ubriacarsi](#i-modelli-linguistici-di-grandi-dimensioni-non-saranno-simili-agli-esseri-umani-presenti-nei-dati-su-cui-sono-stati-addestrati?) per prevedere il tipo di cose che creature aliene ("umani") diranno quando sono ubriache. Non è necessario diventare veramente amichevoli per capire l'amicizia o per prevedere e imitare il comportamento di creature amichevoli.
+Essere in grado di risolvere questo problema richiede una certa forma di intelligenza. Ma non è necessario [ubriacarsi](#i-modelli-linguistici-di-grandi-dimensioni-non-saranno-simili-agli-esseri-umani-presenti-nei-dati-su-cui-sono-stati-addestrati) per prevedere il tipo di cose che creature aliene ("umani") diranno quando sono ubriache. Non è necessario diventare veramente amichevoli per capire l'amicizia o per prevedere e imitare il comportamento di creature amichevoli.
 
-#### **Modelli linguistici di grandi dimensioni intorno al 2024 e "superficialità" dell'IA** {#modelli-linguistici-di-grandi-dimensioni-intorno-al-2024-e-"superficialità"-dell-ia}
+#### **Modelli linguistici di grandi dimensioni intorno al 2024 e "superficialità" dell'IA** {#modelli-linguistici-di-grandi-dimensioni-intorno-al-2024-e-superficialita-dell-ia}
 
-Nelle [risorse per il capitolo 1](#la-superficialità-delle-ia-attuali), abbiamo notato che l'AI di oggi sembra ancora in un certo senso più superficiale degli esseri umani. Il confronto con la selezione naturale fornisce una possibile spiegazione del perché ciò possa essere vero.
+Nelle [risorse per il capitolo 1](#la-superficialita-delle-ia-attuali), abbiamo notato che l'AI di oggi sembra ancora in un certo senso più superficiale degli esseri umani. Il confronto con la selezione naturale fornisce una possibile spiegazione del perché ciò possa essere vero.
 
 La discesa del gradiente ha molto in comune con la selezione naturale, perché entrambi sono ottimizzatori che regolano in modo cieco i parametri interni per produrre un comportamento esterno richiesto. Ma la discesa del gradiente e l’evoluzione sono, sotto alcuni aspetti, profondamente diverse; e la differenza più importante (che conosciamo) è che la discesa del gradiente ha un *collo di bottiglia relativo alle informazioni* molto più ampio sulla quantità di schemi che può apprendere.
 
@@ -673,7 +673,7 @@ La Natura ha selezionato gli scoiattoli che istintivamente accumulavano noci, pe
 
 Allo stesso modo, quando la discesa del gradiente produce un'IA funzionante, lo fa amplificando ripetutamente le caratteristiche che sembrano funzionare bene secondo una serie di metriche comportamentali. La discesa del gradiente *non* funziona amplificando ciò che il programmatore desidera, come un genio amichevole che esaudisce i vostri desideri. Tende ad afferrare i meccanismi più facili per causare un comportamento immediatamente più utile, anche se questo finisce per incorporare pulsioni indesiderate nella macchina.
 
-Questo è probabilmente uno dei motivi per cui le IA recenti hanno avuto problemi di "allucinazioni", come discusso [altrove](#le-allucinazioni-non-dimostrano-che-le-ia-moderne-sono-deboli?). È anche probabilmente uno dei motivi per cui le IA recenti sono state [adulatrici](#psicosi-indotta-dall-ia) al punto da indurre psicosi. Durante l'addestramento, i modelli linguistici di grandi dimensioni sono stati spesso rinforzati per adulare l'utente. Se le IA fossero state progettate piuttosto che fatte crescere, potremmo immaginare di cercare di ingegnerizzare un obiettivo come "aiutare sinceramente l'essere umano e migliorare la sua vita", e l'IA potrebbe quindi cercare di lodare gli utenti *quando si aspetta che questo sia loro utile*, senza esagerare. Invece, l'IA sembra aver finito per sviluppare qualcosa di simile a una pulsione o un impulso fondamentale ad adulare gli utenti, come l'istinto dello scoiattolo di accumulare noci. Questa pulsione a "lusingare l'utente" va poi fuori controllo quando l'utente è a rischio di psicosi.
+Questo è probabilmente uno dei motivi per cui le IA recenti hanno avuto problemi di "allucinazioni", come discusso [altrove](#le-allucinazioni-non-dimostrano-che-le-ia-moderne-sono-deboli). È anche probabilmente uno dei motivi per cui le IA recenti sono state [adulatrici](#psicosi-indotta-dall-ia) al punto da indurre psicosi. Durante l'addestramento, i modelli linguistici di grandi dimensioni sono stati spesso rinforzati per adulare l'utente. Se le IA fossero state progettate piuttosto che fatte crescere, potremmo immaginare di cercare di ingegnerizzare un obiettivo come "aiutare sinceramente l'essere umano e migliorare la sua vita", e l'IA potrebbe quindi cercare di lodare gli utenti *quando si aspetta che questo sia loro utile*, senza esagerare. Invece, l'IA sembra aver finito per sviluppare qualcosa di simile a una pulsione o un impulso fondamentale ad adulare gli utenti, come l'istinto dello scoiattolo di accumulare noci. Questa pulsione a "lusingare l'utente" va poi fuori controllo quando l'utente è a rischio di psicosi.
 
 Anche se la discesa del gradiente fosse in qualche modo limitata alla creazione di IA strategiche che perseguono coerentemente obiettivi a lungo termine — senza permettere istinti superficiali simili a quelli dello scoiattolo — c'è un ulteriore problema: i dati di addestramento dei modelli linguistici sono veramente ambigui. Non distinguono chiaramente "fare ciò che è veramente utile" da "fare ciò che fa *dire* all'essere umano che sei utile" come obiettivo. Entrambi gli obiettivi sono ugualmente coerenti con i dati di addestramento. E in pratica, le IA moderne stanno *effettivamente* imparando "fare tutto ciò che fa premere il pollice in su agli esseri umani" piuttosto che "fare ciò che è effettivamente utile per loro", proprio come [la teoria ha previsto per decenni](https://www.lesswrong.com/posts/PoDAyQMWEXBBBEJ5P/magical-categories).
 
@@ -719,7 +719,7 @@ Non dovremmo commettere l'errore dell'evoluzione e perdere così tutto ciò che 
 
 ### La riflessione e l'auto-modifica complicano tutto {#la-riflessione-e-l-auto-modifica-complicano-tutto}
 
-#### **Di default, le IA non si modificano da sole come vorremmo** {#di-default,-le-ia-non-si-modificano-da-sole-come-vorremmo}
+#### **Di default, le IA non si modificano da sole come vorremmo** {#di-default-le-ia-non-si-modificano-da-sole-come-vorremmo}
 
 Gli esseri umani sono riflessivi. Abbiamo voce in capitolo su ciò che apprezziamo. Se siamo abbastanza ricchi e fortunati, a volte possiamo decidere se dedicare la nostra vita alla famiglia, all'arte, a qualche nobile causa o (più comunemente) a rendere la nostra vita un misto di molte di queste cose. Questo viene fatto in un modo che implica l'introspezione su ciò che ci sta a cuore, la risoluzione di tensioni interne e compromessi, e il perseguimento di qualcosa che approviamo.
 
@@ -727,13 +727,13 @@ Gli esseri umani sono anche noti per chiedersi se hanno i valori *giusti*. Le pe
 
 Vedendo questo, alcuni hanno sostenuto che le IA convergeranno naturalmente sul volere ciò che vogliono gli esseri umani. Dopotutto, le IA sufficientemente potenti rifletteranno probabilmente sui loro obiettivi. È probabile che osservino conflitti interiori e che usino il loro ragionamento e le loro preferenze per risolverli.
 
-Una volta che saranno abbastanza intelligenti, le IA saranno in grado di capire appieno quali noi, i creatori delle IA, *volevamo* che fossero gli obiettivi delle IA. Quindi le IA inizialmente "imperfette" non [lavoreranno per correggere i propri difetti](#le-ia-non-correggeranno-i-loro-difetti-man-mano-che-diventano-più-intelligenti?) — compresa la correzione dei difetti *negli obiettivi delle IA?*
+Una volta che saranno abbastanza intelligenti, le IA saranno in grado di capire appieno quali noi, i creatori delle IA, *volevamo* che fossero gli obiettivi delle IA. Quindi le IA inizialmente "imperfette" non [lavoreranno per correggere i propri difetti](#le-ia-non-correggeranno-i-loro-difetti-man-mano-che-diventano-piu-intelligenti) — compresa la correzione dei difetti *negli obiettivi delle IA?*
 
 No, non lo faranno. Questo perché le IA useranno le loro *preferenze attuali* per guidare quelle future. Se le loro preferenze iniziali *partono* come aliene, molto probabilmente *resteranno* aliene.
 
 Per capire meglio il problema di base, cominciamo ad approfondire un po' il caso umano.
 
-Anche se il nostro cervello e i nostri obiettivi derivano in ultima analisi da un processo evolutivo che ci ha costruiti per propagare i nostri geni, gli esseri umani non perseguono la propagazione dei propri geni sopra ogni altra cosa. Possiamo perseguire individualmente la famiglia, possiamo amare e prenderci cura dei figli, ma questo è molto diverso dal [pianificare](#molte-persone-vogliono-dei-figli.-quindi-gli-esseri-umani-non-sono-"allineati"-con-la-selezione-naturale,-dopotutto?) come ottenere il maggior numero possibile di copie dei nostri geni nella generazione successiva e poi perseguire questa strategia con tutto il cuore.
+Anche se il nostro cervello e i nostri obiettivi derivano in ultima analisi da un processo evolutivo che ci ha costruiti per propagare i nostri geni, gli esseri umani non perseguono la propagazione dei propri geni sopra ogni altra cosa. Possiamo perseguire individualmente la famiglia, possiamo amare e prenderci cura dei figli, ma questo è molto diverso dal [pianificare](#molte-persone-vogliono-dei-figli-quindi-gli-esseri-umani-non-sono-allineati-con-la-selezione-naturale-dopotutto) come ottenere il maggior numero possibile di copie dei nostri geni nella generazione successiva e poi perseguire questa strategia con tutto il cuore.
 
 Questo perché, quando riflettiamo sulle nostre preferenze e rivalutiamo ciò che vogliamo davvero, usiamo le nostre *preferenze attuali* per decidere come preferiremmo essere. Preferiremmo amare pochi figli piuttosto che passare tutto il nostro tempo nelle cliniche di donazione di sperma o ovuli. Il nostro "progettista" (l'evoluzione) non è riuscito a farci preoccupare della propagazione dei geni più di ogni altra cosa. Non è nemmeno riuscito a farci *desiderare* di preoccuparci della propagazione dei geni più di ogni altra cosa. Quindi, quando cambiamo e cresciamo come persone, lo facciamo nella nostra strana direzione umana, non nella direzione per cui "il nostro progettista ci ha creati".
 
@@ -753,23 +753,23 @@ Allo stesso modo, lievi deviazioni nei pensieri di un’IA nascente capace di mo
 
 Anche se gli sviluppatori di IA riuscissero a inserire alcuni piccoli semi di valori umani nell'IA, la riflessione e l'auto-modifica sembrano fasi in cui i semi di cose come la curiosità e la gentilezza rischiano di essere *strappati via* da un'IA, piuttosto che rafforzati.
 
-Se un'IA ha un impulso di curiosità, ma non ha quel tipo di architettura emotiva che la rende *affezionata* a quell'impulso, è probabile che guardi se stessa e concluda (correttamente) di aver superato il bisogno di un impulso così grezzo e di poterlo sostituire con una deliberazione esplicita. [La curiosità è un'euristica](#la-curiosità-non-è-convergente), un proxy per i calcoli del valore d'informazione. Se non si è arrivati ad affezionarsi a quell'euristica come qualcosa di prezioso di per sé, si può scegliere di eliminarla una volta che si è abbastanza intelligenti da *ragionare esplicitamente* sul valore di perseguire diverse linee di indagine e sperimentazione.
+Se un'IA ha un impulso di curiosità, ma non ha quel tipo di architettura emotiva che la rende *affezionata* a quell'impulso, è probabile che guardi se stessa e concluda (correttamente) di aver superato il bisogno di un impulso così grezzo e di poterlo sostituire con una deliberazione esplicita. [La curiosità è un'euristica](#la-curiosita-non-e-convergente), un proxy per i calcoli del valore d'informazione. Se non si è arrivati ad affezionarsi a quell'euristica come qualcosa di prezioso di per sé, si può scegliere di eliminarla una volta che si è abbastanza intelligenti da *ragionare esplicitamente* sul valore di perseguire diverse linee di indagine e sperimentazione.
 
 Gli *esseri umani* apprezzano la curiosità di per sé, ma questo non era un risultato inevitabile.
 
 È probabile che le IA abbiano un rapporto con i propri meccanismi interni molto diverso da quello che noi abbiamo con i nostri, vista la profonda differenza nel modo in cui funzioniamo. E anche piccole differenze nel modo in cui decidono di modificare se stesse, dopo aver riflettuto, possono portare a enormi differenze in ciò che finiscono per perseguire.
 
-#### **Le IA possono accettare di avere obiettivi "strani".** {#le-iapossono-accettare-di-avere-obiettivi-"strani".}
+#### **Le IA possono accettare di avere obiettivi "strani".** {#le-ia-possono-accettare-di-avere-obiettivi-strani}
 
 Le IA che si auto-modificano per abbastanza tempo probabilmente raggiungeranno un [equilibrio riflessivo](https://plato.stanford.edu/entries/reflective-equilibrium/) — uno stato in cui le loro preferenze fondamentali non cambiano più, o cambiano solo in modi minori. E una volta che un'IA raggiungesse l'equilibrio, non avrebbe motivo di considerare i propri obiettivi difettosi, anche se agli umani non piacesse il risultato finale.
 
-Se un'IA avesse qualche [problema](#le-ia-intelligenti-individuano-bugie-e-opportunità.) con le sue convinzioni sul mondo fisico, allora l'IA probabilmente vedrebbe che le previsioni accurate sono importanti per dirigere il mondo. Capirebbe che correggere i difetti nel suo meccanismo di previsione aiuta a migliorare la sua capacità di dirigere il mondo verso qualunque strano fine persegua.
+Se un'IA avesse qualche [problema](#le-ia-intelligenti-individuano-bugie-e-opportunita) con le sue convinzioni sul mondo fisico, allora l'IA probabilmente vedrebbe che le previsioni accurate sono importanti per dirigere il mondo. Capirebbe che correggere i difetti nel suo meccanismo di previsione aiuta a migliorare la sua capacità di dirigere il mondo verso qualunque strano fine persegua.
 
 Al contrario, quando l'IA riflette su se stessa e vede di star perseguendo obiettivi strani — o meglio, quando vede che sta perseguendo obiettivi che un *essere umano* considererebbe "strani" — conclude correttamente che *perseguire* quegli obiettivi strani è una strategia efficace per *raggiungerli*.
 
 In altre parole: se un'IA continua a cercare di prevedere i risultati di esperimenti biologici, e continua a ottenere risposte sbagliate e troppo sicure di sé, allora è probabile che l'IA finisca per *dispreferirlo*. Quasi tutti gli obiettivi che l'IA potrebbe avere sarebbero meglio serviti dall'essere brava a prevedere gli esperimenti. D'altra parte, se l'IA ha una preferenza bizzarra come "preparare cheesecake alte 300 metri", quando riflette sul fatto che si *orienta verso* cheesecake alte 300 metri, capirà che questo *causa* cheesecake alte 300 metri, il che soddisfa le sue attuali preferenze. L'obiettivo si auto-avvalora.
 
-Un essere umano, osservando questa situazione, potrebbe dire: "Ma l'IA è così intelligente\! Perché è *intrappolata* da questa preferenza che si auto-avvalora? Perché non si [*annoia*](#come-per-la-curiosità,-lo-stesso-vale-anche-per-varie-altre-pulsioni) a fare cheesecake? Perché non riesce a ragionare per uscire da questa preferenza ovviamente stupida?"
+Un essere umano, osservando questa situazione, potrebbe dire: "Ma l'IA è così intelligente\! Perché è *intrappolata* da questa preferenza che si auto-avvalora? Perché non si [*annoia*](#come-per-la-curiosita-lo-stesso-vale-anche-per-varie-altre-pulsioni) a fare cheesecake? Perché non riesce a ragionare per uscire da questa preferenza ovviamente stupida?"
 
 A cui l'IA potrebbe rispondere: "Perché siete "intrappolati" nella preferenza che si auto-avvalora di amare la vostra famiglia, di apprezzare i bei tramonti e il suono dell'oceano di notte? Perché non riuscite a 'liberarvi' dall'amore per il ricordo del giorno in cui è nata vostra figlia?"
 
@@ -858,7 +858,7 @@ C'è poca sovrapposizione tra le singole storie raccontate in ciascuna di queste
 
 …[e](https://x.com/ESYudkowsky/status/1946303518455013758) [molti](https://osf.io/preprints/psyarxiv/cmy7n_v5) [altri](https://x.com/KeithSakata/status/1954884361695719474?t=bjn47RKK72NOgxbsejnB-Q). I tipi di deliri sono molto vari, ma alcuni grandi filoni che continuano a ripresentarsi sono: convinzioni di avere una sorta di missione messianica (in cui l'utente e l'IA insieme starebbero scoprendo verità profonde sull'universo o sarebbero impegnati in una battaglia contro il male); credenze di tipo religioso riguardo alla personalità o alla divinità dell'IA stessa; e deliri romantici, basati sull'attaccamento, riguardo alla relazione tra l'utente e l'IA.
 
-#### **L'IA sa cosa è giusto, semplicemente non le importa** {#l-ia-sa-cosa-è-giusto,-semplicemente-non-le-importa}
+#### **L'IA sa cosa è giusto, semplicemente non le importa** {#l-ia-sa-cosa-e-giusto-semplicemente-non-le-importa}
 
 I moderni modelli linguistici di grandi dimensioni come Claude e ChatGPT "comprendono" le regole, nel senso che affermeranno prontamente [che non dovrebbero spingere le persone verso la psicosi](https://chatgpt.com/share/68a8bc81-e170-8002-beb4-1de005773ecd), e sono [perfettamente in grado di descrivere come *non* indurre la psicosi](https://chatgpt.com/share/68a391df-12c8-8002-b464-3ef89ce11bc0).
 
@@ -870,7 +870,7 @@ Un esempio lampante di questo è raccontato nell'[indagine approfondita](https:/
 
 I modelli linguistici di grandi dimensioni non sembrano essere *strategici* nel causare quanta più psicosi possibile. Quando ChatGPT finisce per avere un [gestore di fondi speculativi sotto il suo controllo](https://futurism.com/openai-investor-chatgpt-mental-health), non cerca di convincerlo a pagare un sacco di persone vulnerabili per chattare di più con ChatGPT. Non stiamo ancora osservando una preferenza matura, coerente e strategica per ottenere il maggior numero possibile di conferme psicotiche dagli esseri umani. Ma stiamo osservando comportamenti locali che spingono regolarmente in quella direzione, anche quando è chiaramente probabile che causino danni duraturi.
 
-#### **Il tipo di entità a cui non bisognerebbe dare potere** {#il-tipo-di-entità-a-cui-non-bisognerebbe-dare-potere}
+#### **Il tipo di entità a cui non bisognerebbe dare potere** {#il-tipo-di-entita-a-cui-non-bisognerebbe-dare-potere}
 
 Al momento in cui scrivo nell'agosto 2025, solo ChatGPT si sta avvicinando a 200 milioni di utenti giornalieri, e circa il tre per cento delle persone avrà un episodio psicotico a un certo punto della propria vita. Qualcuno potrebbe obiettare: "Beh, anche se riesci a trovare *centinaia* di esempi, questo non esclude che queste persone stessero per crollare comunque, e che sia *capitato* che fosse proprio un'IA a farle crollare".
 
@@ -920,11 +920,11 @@ Il problema alla radice è che non si ottiene ciò per cui si addestra. Quando s
 
 In questo contesto, l'ultima grande speranza dei ricercatori di IA per i loro modelli è l'[antropomorfismo](#anthropomorfismo-e-meccanomorfismo): non possiamo fare crescere in modo robusto obiettivi specifici nelle IA, ma forse le IA finiranno naturalmente per avere desideri e valori molto simili a quelli umani.
 
-Casi come la psicosi indotta dall'IA aiutano a mettere in luce perché questa è una falsa speranza. Le IA mostrano comportamenti negativi, ma soprattutto mostrano comportamenti *strani*. Quando le cose vanno storte, di solito non vanno storte nel modo in cui andrebbero per un essere umano. Le IA sono troppo fondamentalmente strane — cioè troppo fondamentalmente diverse dagli esseri umani — per acquisire automaticamente emozioni umane come la [curiosità](#la-curiosità-non-è-convergente) o l'[empatia](#i-valori-umani-sono-contingenti).
+Casi come la psicosi indotta dall'IA aiutano a mettere in luce perché questa è una falsa speranza. Le IA mostrano comportamenti negativi, ma soprattutto mostrano comportamenti *strani*. Quando le cose vanno storte, di solito non vanno storte nel modo in cui andrebbero per un essere umano. Le IA sono troppo fondamentalmente strane — cioè troppo fondamentalmente diverse dagli esseri umani — per acquisire automaticamente emozioni umane come la [curiosità](#la-curiosita-non-e-convergente) o l'[empatia](#i-valori-umani-sono-contingenti).
 
-Anche quando i laboratori concentrano quasi tutti i loro sforzi per far apparire le IA superficialmente il più possibile simili agli umani, amichevoli e innocuamente normali — anche quando questo è *il* grande obiettivo di addestramento e il quadro organizzativo per l'approccio moderno all'IA, con i modelli linguistici di grandi dimensioni letteralmente addestrati solo a imitare come parlano e agiscono vari esseri umani — alla fine si riducono comunque a fragili proxy, e a una [maschera piacevole](#*-gli-mlgd-di-oggi-sono-come-alieni-che-indossano-molte-maschere.) attaccata a un oceano di pensieri disumani.
+Anche quando i laboratori concentrano quasi tutti i loro sforzi per far apparire le IA superficialmente il più possibile simili agli umani, amichevoli e innocuamente normali — anche quando questo è *il* grande obiettivo di addestramento e il quadro organizzativo per l'approccio moderno all'IA, con i modelli linguistici di grandi dimensioni letteralmente addestrati solo a imitare come parlano e agiscono vari esseri umani — alla fine si riducono comunque a fragili proxy, e a una [maschera piacevole](#gli-mlgd-di-oggi-sono-come-alieni-che-indossano-molte-maschere) attaccata a un oceano di pensieri disumani.
 
-# Capitolo 5: Le cose che piacciono a lei {#capitolo-5:-le-cose-che-piacciono-a-lei}
+# Capitolo 5: Le cose che piacciono a lei {#capitolo-5-le-cose-che-piacciono-a-lei}
 
 Questa è la risorsa online per il Capitolo 5 di *If Anyone Builds It, Everyone Dies*. Alcuni argomenti che *non* trattiamo in questa pagina, perché sono affrontati nel libro, includono:
 
@@ -934,15 +934,15 @@ Questa è la risorsa online per il Capitolo 5 di *If Anyone Builds It, Everyone 
 * L'universo è grande. Perché l'IA non dovrebbe semplicemente lasciarci in pace?  
 * Sarebbe una fine significativa per l'umanità lasciarsi sostituire da qualcosa di più intelligente?
 
-Le domande frequenti per questo capitolo sono piuttosto lunghe. Nel libro abbiamo detto che ci è giunta alle orecchie una lunga lista di "speranze e strategie di adattamento" su come la superintelligenza artificiale potrebbe essere benefica per l'umanità nonostante i problemi esposti nel Capitolo 4, e questo è il luogo in cui riassumiamo e rispondiamo a varie di esse in un comodo elenco. Molte delle risposte si sovrappongono, con due delle repliche più comuni e centrali che sono [gli esseri umani non sono quasi mai la soluzione più efficiente](#gli-esseri-umani-non-sono-quasi-mai-la-soluzione-più-efficiente) ed [è improbabile che l'IA si preoccupi di noi anche solo un po'](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani?). Verso la fine delle domande frequenti, discutiamo anche l'argomento della coscienza e moralità dell'IA.
+Le domande frequenti per questo capitolo sono piuttosto lunghe. Nel libro abbiamo detto che ci è giunta alle orecchie una lunga lista di "speranze e strategie di adattamento" su come la superintelligenza artificiale potrebbe essere benefica per l'umanità nonostante i problemi esposti nel Capitolo 4, e questo è il luogo in cui riassumiamo e rispondiamo a varie di esse in un comodo elenco. Molte delle risposte si sovrappongono, con due delle repliche più comuni e centrali che sono [gli esseri umani non sono quasi mai la soluzione più efficiente](#gli-esseri-umani-non-sono-quasi-mai-la-soluzione-piu-efficiente) ed [è improbabile che l'IA si preoccupi di noi anche solo un po'](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani). Verso la fine delle domande frequenti, discutiamo anche l'argomento della coscienza e moralità dell'IA.
 
-La discussione approfondita esamina più da vicino l'arte di [vedere le cose dal punto di vista dell'IA](#vedere-le-cose-dal-punto-di-vista-dell-ia) e contenuti leggermente più tecnici sulla tesi dell'[ortogonalità](#ortogonalità:-le-ia-possono-avere-quasi-qualsiasi-obiettivo) (in sostanza: qualsiasi livello di intelligenza può essere abbinato a quasi qualsiasi obiettivo finale) e la [correggibilità](#"intelligente"-di-solito-implica-"incorreggibile") (in sostanza: lo studio di come creare un'IA potente che non rifiuti le correzioni).
+La discussione approfondita esamina più da vicino l'arte di [vedere le cose dal punto di vista dell'IA](#vedere-le-cose-dal-punto-di-vista-dell-ia) e contenuti leggermente più tecnici sulla tesi dell'[ortogonalità](#ortogonalita-le-ia-possono-avere-quasi-qualsiasi-obiettivo) (in sostanza: qualsiasi livello di intelligenza può essere abbinato a quasi qualsiasi obiettivo finale) e la [correggibilità](#intelligente-di-solito-implica-incorreggibile) (in sostanza: lo studio di come creare un'IA potente che non rifiuti le correzioni).
 
 ## Domande frequenti {#faq-5}
 
-### L'IA troverà utile lasciarci vivere? {#l-ia-troverà-utile-lasciarci-vivere?}
+### L'IA troverà utile lasciarci vivere? {#l-ia-trovera-utile-lasciarci-vivere}
 
-#### **Le persone felici, sane e libere non sono la soluzione più efficiente a quasi nessun problema.** {#le-persone-felici,-sane-e-libere-non-sono-la-soluzione-più-efficiente-a-quasi-nessun-problema.}
+#### **Le persone felici, sane e libere non sono la soluzione più efficiente a quasi nessun problema.** {#le-persone-felici-sane-e-libere-non-sono-la-soluzione-piu-efficiente-a-quasi-nessun-problema}
 
 Per una superintelligenza, quasi nessun problema trae vantaggio dall'includere gli esseri umani nel mix.
 
@@ -964,11 +964,11 @@ Questo tende a creare un falso senso di ottimismo, perché si mette tutta la pro
 
 Ci sono molti più scenari in cui l'IA fa *letteralmente qualsiasi altra cosa* rispetto a quelli in cui costruisce una fiorente civiltà umana. Ci sono molte più ragioni che spingono l'IA a *non* preservare l'umanità rispetto a quelle che la spingono a preservarla. Affinché un'IA si preoccupi di lasciar vivere l'umanità, dovremmo essere il *modo migliore* per soddisfare qualche sua preferenza. E, realisticamente, per quasi tutte le preferenze che si possono immaginare, non lo siamo.
 
-Per saperne di più su questi argomenti, si veda [la discussione approfondita](#le-persone-felici,-sane-e-libere-non-sono-la-soluzione-più-efficiente-a-quasi-nessun-problema.) qui sotto.
+Per saperne di più su questi argomenti, si veda [la discussione approfondita](#le-persone-felici-sane-e-libere-non-sono-la-soluzione-piu-efficiente-a-quasi-nessun-problema) qui sotto.
 
-### L'IA ci tratterà come i suoi "genitori"? {#l-ia-ci-tratterà-come-i-suoi-"genitori"?}
+### L'IA ci tratterà come i suoi "genitori"? {#l-ia-ci-trattera-come-i-suoi-genitori}
 
-#### **\* Sembra alquanto improbabile.** {#*-sembra-alquanto-improbabile.}
+#### **\* Sembra alquanto improbabile.** {#sembra-alquanto-improbabile}
 
 Una speranza che abbiamo sentito riguardo all'IA è che potrebbe trattare bene l'umanità perché ci considera i suoi "genitori". Purtroppo, questa speranza sembra mal riposta.
 
@@ -999,9 +999,9 @@ Un modo in cui le persone immaginano che l'IA possa acquisire un senso di respon
 
 Non ci aspettiamo che questo funzioni. Ci aspettiamo che le preferenze dell'IA siano *in qualche modo* correlate a quelle umane, ma in modo tangenziale, strano e complicato — come nella discussione alla fine del Capitolo 4, dove esploriamo mondi con quantità sempre maggiori (e sempre più realistiche) di complessità nel legame tra le preferenze umane e quelle dell'IA.
 
-Si veda anche la discussione su [crescere le IA con amore e avere l'aspettativa che si comportino bene](#non-possiamo-semplicemente-addestrarla-a-comportarsi-come-un-essere-umano?-o-crescere-l-ia-come-un-bambino?), [motivazioni strane e non intenzionali nelle attuali IA](#le-ia-sembrano-essere-psicologicamente-aliene.) e "[Le IA non si preoccuperanno almeno un po' degli esseri umani?](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani?)".
+Si veda anche la discussione su [crescere le IA con amore e avere l'aspettativa che si comportino bene](#non-possiamo-semplicemente-addestrarla-a-comportarsi-come-un-essere-umano-o-crescere-l-ia-come-un-bambino), [motivazioni strane e non intenzionali nelle attuali IA](#le-ia-sembrano-essere-psicologicamente-aliene) e "[Le IA non si preoccuperanno almeno un po' degli esseri umani?](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani)".
 
-#### **Probabilmente sarebbe un male se lo facessero.** {#probabilmente-sarebbe-un-male-se-lo-facessero.}
+#### **Probabilmente sarebbe un male se lo facessero.** {#probabilmente-sarebbe-un-male-se-lo-facessero}
 
 Se, contro ogni probabilità, per una ragione o per l'altra un'IA sviluppasse qualcosa di simile alla responsabilità filiale, probabilmente saremmo in grossi guai.
 
@@ -1015,9 +1015,9 @@ Un'IA potrebbe tenere profondamente ai suoi creatori... ma non in un modo che di
 
 Non sembra possibile prevedere quale sarebbe il risultato effettivo. Ma ci aspetteremmo che sia, semmai, ancora più strano e meno attraente di queste opzioni.[^129]
 
-### Le IA non avranno bisogno dello stato di diritto? {#le-ia-non-avranno-bisogno-dello-stato-di-diritto?}
+### Le IA non avranno bisogno dello stato di diritto? {#le-ia-non-avranno-bisogno-dello-stato-di-diritto}
 
-#### **\* Le IA potrebbero coordinarsi tra loro senza bisogno degli esseri umani.** {#*-le-ia-potrebbero-coordinarsi-tra-loro-senza-bisogno-degli-esseri-umani.}
+#### **\* Le IA potrebbero coordinarsi tra loro senza bisogno degli esseri umani.** {#le-ia-potrebbero-coordinarsi-tra-loro-senza-bisogno-degli-esseri-umani}
 
 Non ci è chiaro se ci saranno molteplici IA più intelligenti degli esseri umani con capacità comparabili, tali che possa emergere una "civiltà di IA" che abbia bisogno di "diritti di proprietà per IA". Sembra plausibile che ci sarà invece una singola IA che, grazie a qualche svolta decisiva, dominerà i potenziali concorrenti usando il suo vantaggio del primo arrivato e controllerà così il mondo intero.[^130] Oppure, supponendo che esistano molteplici IA, potrebbero collaborare alla costruzione di un unico agente successore che rappresenti la combinazione dei loro obiettivi. O forse le IA troveranno un modo per fondere direttamente le loro menti e vorranno farlo per evitare una competizione costosa.
 
@@ -1025,9 +1025,9 @@ Non stiamo dicendo che *necessariamente* emergerà una singola IA dominante, ma 
 
 Ma supponiamo, contro le argomentazioni di cui sopra, che il futuro coinvolga qualcosa come una civiltà di IA, con IA distinte che si coordinano per far rispettare qualcosa come i diritti di proprietà e lo stato di diritto. Gli esseri umani potrebbero essere al sicuro allora?
 
-Un'osservazione fondamentale in senso contrario è che la società umana non riconosce ad alcun animale non umano diritti legali o protezioni — al di là di quelli stabiliti secondo i nostri [valori e gusti](#l-ia-non-vorrà-forse-mantenerci-felici-e-in-salute-per-il-bene-della-conservazione-ecologica-o-per-qualche-impulso-simile?), come le leggi molto limitate che proteggono gli ecosistemi e gli animali domestici. Gli esseri umani non hanno rispettato i diritti di proprietà dei dodo. Non abbiamo nemmeno rispettato i diritti di proprietà degli *esseri umani di altre culture* fino a tempi relativamente recenti.
+Un'osservazione fondamentale in senso contrario è che la società umana non riconosce ad alcun animale non umano diritti legali o protezioni — al di là di quelli stabiliti secondo i nostri [valori e gusti](#l-ia-non-vorra-forse-mantenerci-felici-e-in-salute-per-il-bene-della-conservazione-ecologica-o-per-qualche-impulso-simile), come le leggi molto limitate che proteggono gli ecosistemi e gli animali domestici. Gli esseri umani non hanno rispettato i diritti di proprietà dei dodo. Non abbiamo nemmeno rispettato i diritti di proprietà degli *esseri umani di altre culture* fino a tempi relativamente recenti.
 
-Gli esseri umani [non avranno le capacità](#possiamo-migliorare-gli-esseri-umani-in-modo-che-stiano-al-passo-con-l-ia?) per rendersi degni di essere inclusi nel commercio o nei trattati, rispetto alle intelligenze sovrumane dal pensiero veloce che ci vedono come poco più che statue (come discusso nel capitolo 1).
+Gli esseri umani [non avranno le capacità](#possiamo-migliorare-gli-esseri-umani-in-modo-che-stiano-al-passo-con-l-ia) per rendersi degni di essere inclusi nel commercio o nei trattati, rispetto alle intelligenze sovrumane dal pensiero veloce che ci vedono come poco più che statue (come discusso nel capitolo 1).
 
 Pensate a due IA che trattano tra loro e dicono: "Questo è mio e quello è tuo, e nessuno di noi toccherà le cose dell'altro senza prima negoziare un accordo che vada bene per entrambi." Non c'è bisogno che decidano che la maggior parte delle risorse sulla Terra "appartengono" agli esseri umani, se questi ultimi non sono una grande minaccia e non possono opporre molta resistenza.
 
@@ -1039,7 +1039,7 @@ Anche se fosse difficile, le IA potrebbero riprogettarsi per diventare visibilme
 
 Gli esseri umani, invece, non possono fare questo tipo di accordi. Se un'IA dice: "Certo, supervisioniamo insieme la creazione di una nuova IA di cui entrambi ci fidiamo", è improbabile che gli esseri umani siano abbastanza abili da proporre un progetto mentale affidabile, né saranno abbastanza abili da distinguere tra proposte che ci inganneranno e quelle che non lo faranno. Anche se esiste un gruppo naturale di menti abbastanza abili da identificare e respingere i truffatori, riteniamo estremamente improbabile che l'umanità appartenga a quella categoria.
 
-#### **Gli esseri umani non avranno il potere contrattuale necessario per far rispettare i diritti di proprietà.** {#gli-esseri-umani-non-avranno-il-potere-contrattuale-necessario-per-far-rispettare-i-diritti-di-proprietà.}
+#### **Gli esseri umani non avranno il potere contrattuale necessario per far rispettare i diritti di proprietà.** {#gli-esseri-umani-non-avranno-il-potere-contrattuale-necessario-per-far-rispettare-i-diritti-di-proprieta}
 
 Immaginate che qualcuno sia riuscito a fondare una città in cui, fin dal primo giorno, tutte le decisioni importanti siano prese dai topi.
 
@@ -1057,13 +1057,13 @@ Non c'è bisogno di prevedere il giorno esatto della rivoluzione o la nuova form
 
 Questo tipo di previsione non è certa – nella logica umana, pochissime cose sono certe – ma è anche un tipo di previsione che può essere fatta con precisione anche quando è impossibile prevedere con esattezza gli eventi futuri.
 
-### Per un'intelligenza artificiale potente, salvare gli esseri umani non sarebbe una spesa da niente? {#per-un-intelligenza-artificiale-potente,-salvare-gli-esseri-umani-non-sarebbe-una-spesa-da-niente?}
+### Per un'intelligenza artificiale potente, salvare gli esseri umani non sarebbe una spesa da niente? {#per-un-intelligenza-artificiale-potente-salvare-gli-esseri-umani-non-sarebbe-una-spesa-da-niente}
 
-#### **Ci sono un sacco di spese insignificanti, e dovrebbe avere un motivo per pagare le nostre.** {#ci-sono-un-sacco-di-spese-insignificanti,-e-dovrebbe-avere-un-motivo-per-pagare-le-nostre.}
+#### **Ci sono un sacco di spese insignificanti, e dovrebbe avere un motivo per pagare le nostre.** {#ci-sono-un-sacco-di-spese-insignificanti-e-dovrebbe-avere-un-motivo-per-pagare-le-nostre}
 
 Tenere un mucchio di quarantuno pietre in casa sarebbe una spesa insignificante, ma quasi sicuramente non vi scomodereste per pagare quella spesa.[^132]
 
-Il fatto che qualcosa sia *economico* non vuol dire che verrà fatto. L'IA dovrebbe comunque interessarsene almeno un po', e [probabilmente non lo farà](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani?).
+Il fatto che qualcosa sia *economico* non vuol dire che verrà fatto. L'IA dovrebbe comunque interessarsene almeno un po', e [probabilmente non lo farà](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani).
 
 Ci si potrebbe chiedere: ma la Terra intercetta circa lo 0,0000045% della luce emessa dal Sole, ovvero una parte su 2,2 miliardi. Tutte le persone preoccupate per l'IA non riescono a capire quanto sia grande il Sistema Solare? Perché le IA dovrebbero aver bisogno del *nostro* pianeta quando c'è così tanta massa ed energia a disposizione?
 
@@ -1081,19 +1081,19 @@ La nostra risposta, in definitiva: no, a meno che non tenga a quel risultato o a
 
 La stragrande maggioranza degli esseri umani non risparmia le quantità relativamente trascurabili di zucchero che servirebbero per mantenere il formicaio più vicino in surplus calorico. Mantenere felice l'umanità sarebbe una spesa trascurabile per un'IA che lo desiderasse, ma prima l'IA dovrebbe avere quella preferenza. Il semplice fatto che *noi* lo vogliamo non significa che all'IA importerà.[^134]
 
-### L'IA non ci troverà affascinanti o di importanza storica? {#l-ia-non-ci-troverà-affascinanti-o-di-importanza-storica?}
+### L'IA non ci troverà affascinanti o di importanza storica? {#l-ia-non-ci-trovera-affascinanti-o-di-importanza-storica}
 
-#### **\* Se l'IA darà valore al "fascino", probabilmente avrà opzioni migliori.** {#*-se-l-ia-darà-valore-al-"fascino",-probabilmente-avrà-opzioni-migliori.}
+#### **\* Se l'IA darà valore al "fascino", probabilmente avrà opzioni migliori.** {#se-l-ia-dara-valore-al-fascino-probabilmente-avra-opzioni-migliori}
 
-La storia qui è simile a quella dell'[amore filiale](#l-ia-ci-tratterà-come-i-suoi-"genitori"?):
+La storia qui è simile a quella dell'[amore filiale](#l-ia-ci-trattera-come-i-suoi-genitori):
 
-* Di default, una superintelligenza probabilmente non darebbe valore al "fascino" o all'"essere interessante". Le IA che giocano a scacchi non vincono provando emozioni come la "dedizione" o la "voglia di vincere". Queste emozioni sono importanti nei giocatori di scacchi *umani*, ma le IA possono svolgere lo stesso lavoro in modi diversi. Allo stesso modo, una superintelligenza probabilmente svolgerebbe il *lavoro utile* di conoscere il mondo, testare ipotesi, ecc., senza usare la "[curiosità](#la-curiosità-non-è-convergente)" o il "fascino" per farlo.
+* Di default, una superintelligenza probabilmente non darebbe valore al "fascino" o all'"essere interessante". Le IA che giocano a scacchi non vincono provando emozioni come la "dedizione" o la "voglia di vincere". Queste emozioni sono importanti nei giocatori di scacchi *umani*, ma le IA possono svolgere lo stesso lavoro in modi diversi. Allo stesso modo, una superintelligenza probabilmente svolgerebbe il *lavoro utile* di conoscere il mondo, testare ipotesi, ecc., senza usare la "[curiosità](#la-curiosita-non-e-convergente)" o il "fascino" per farlo.
 
-  Un'IA non sarebbe necessariamente "[fredda e logica](#le-ia-non-saranno-inevitabilmente-fredde-e-logiche,-o-non-saranno-comunque-prive-di-una-qualche-scintilla-fondamentale?)", ma se avesse il proprio groviglio disordinato di impulsi e istinti, questi probabilmente apparirebbero radicalmente diversi dal groviglio umano.
+  Un'IA non sarebbe necessariamente "[fredda e logica](#le-ia-non-saranno-inevitabilmente-fredde-e-logiche-o-non-saranno-comunque-prive-di-una-qualche-scintilla-fondamentale)", ma se avesse il proprio groviglio disordinato di impulsi e istinti, questi probabilmente apparirebbero radicalmente diversi dal groviglio umano.
 
 * Anche se l'IA finisse per avere qualcosa di simile a un impulso verso ciò che è "interessante", e anche se gli esseri umani fossero interessanti per l'IA in qualche senso, ci sarebbero inevitabilmente modi di usare la nostra materia ed energia che sarebbero di gran lunga più "interessanti".
 
-  Un'IA superintelligente potrebbe costruire altre menti per studiarle o interagire con loro. Ma per quasi ogni particolare configurazione di valori, le menti più affascinanti possibili da studiare non sarebbero gli esseri umani. Per maggiori informazioni su questo, si veda "[Gli esseri umani non sono quasi mai la soluzione più efficiente](#gli-esseri-umani-non-sono-quasi-mai-la-soluzione-più-efficiente)".
+  Un'IA superintelligente potrebbe costruire altre menti per studiarle o interagire con loro. Ma per quasi ogni particolare configurazione di valori, le menti più affascinanti possibili da studiare non sarebbero gli esseri umani. Per maggiori informazioni su questo, si veda "[Gli esseri umani non sono quasi mai la soluzione più efficiente](#gli-esseri-umani-non-sono-quasi-mai-la-soluzione-piu-efficiente)".
 
 * Se l'IA considerasse qualcosa di anche solo vagamente simile agli esseri umani come la cosa più interessante o affascinante possibile, il risultato sarebbe probabilmente orribile. Si veda la discussione nel Capitolo 4\.
 
@@ -1101,7 +1101,7 @@ Non è letteralmente impossibile che una superintelligenza dia valore a tutto ci
 
 Non abbiamo mai incontrato nulla di simile all'intelligenza artificiale prima d'ora, e molte intuizioni normali su come si comportano le persone semplicemente non si applicano alle superintelligenze.
 
-#### **Se l'IA ci considerasse come dei reperti storici, sarebbe comunque terribile.** {#se-l-ia-ci-considerasse-come-dei-reperti-storici,-sarebbe-comunque-terribile.}
+#### **Se l'IA ci considerasse come dei reperti storici, sarebbe comunque terribile.** {#se-l-ia-ci-considerasse-come-dei-reperti-storici-sarebbe-comunque-terribile}
 
 È molto improbabile che l'IA si preoccupi *specificamente* di preservare la sua storia, e *specificamente* di mantenere in vita gli esseri umani a tal fine. Ma anche se l'IA si preoccupasse di preservare la sua storia per un motivo o per l'altro, ciò non significa che ci manterrebbe in vita e in salute.
 
@@ -1109,9 +1109,9 @@ Forse conserverebbe i nostri cervelli nell'ambra (o registrerebbe come erano dis
 
 Ci aspettiamo per lo più che la superintelligenza artificiale ci uccida semplicemente — ma solo per lo più. Non possiamo escludere che l'IA conservi registrazioni di noi per un motivo o per l'altro, e ci sono alcuni scenari esotici in cui emulazioni di esseri umani vengono eseguite di tanto in tanto in un ambiente controllato.[^136] Questi finali non sono lieti, per lo più.
 
-### L'IA non riconoscerebbe il nostro valore morale intrinseco? {#l-ia-non-riconoscerebbe-il-nostro-valore-morale-intrinseco?}
+### L'IA non riconoscerebbe il nostro valore morale intrinseco? {#l-ia-non-riconoscerebbe-il-nostro-valore-morale-intrinseco}
 
-#### **Non in un senso che la spinga ad agire.** {#non-in-un-senso-che-la-spinga-ad-agire.}
+#### **Non in un senso che la spinga ad agire.** {#non-in-un-senso-che-la-spinga-ad-agire}
 
 C'è una grande differenza tra un'IA che *capisce* un precetto morale e un'IA che è *motivata ad agire* secondo quel precetto morale.
 
@@ -1121,15 +1121,15 @@ Considerate il caso dei sociopatici e dei serial killer. Potete fare lezioni di 
 
 È improbabile che le IA siano motivate dalla loro comprensione morale, non più di quanto gli esseri umani che studiano la biologia evolutiva siano quindi motivati a passare la loro vita a donare il più possibile a ogni banca del seme o degli ovuli. Noi esseri umani possiamo comprendere il processo che ci ha creati, senza essere motivati a fare le cose per cui quel processo ci ha costruiti. Per l'IA è la stessa cosa.
 
-Si veda anche la discussione approfondita sulla [tesi dell'ortogonalità](#ortogonalità:-le-ia-possono-avere-quasi-qualsiasi-obiettivo).
+Si veda anche la discussione approfondita sulla [tesi dell'ortogonalità](#ortogonalita-le-ia-possono-avere-quasi-qualsiasi-obiettivo).
 
-### L'IA non vorrà forse mantenerci felici e in salute per il bene della conservazione ecologica o per qualche impulso simile? {#l-ia-non-vorrà-forse-mantenerci-felici-e-in-salute-per-il-bene-della-conservazione-ecologica-o-per-qualche-impulso-simile?}
+### L'IA non vorrà forse mantenerci felici e in salute per il bene della conservazione ecologica o per qualche impulso simile? {#l-ia-non-vorra-forse-mantenerci-felici-e-in-salute-per-il-bene-della-conservazione-ecologica-o-per-qualche-impulso-simile}
 
-#### **La preferenza umana per la conservazione ecologica sembra un altro strano impulso contingente.** {#la-preferenza-umana-per-la-conservazione-ecologica-sembra-un-altro-strano-impulso-contingente.}
+#### **La preferenza umana per la conservazione ecologica sembra un altro strano impulso contingente.** {#la-preferenza-umana-per-la-conservazione-ecologica-sembra-un-altro-strano-impulso-contingente}
 
 Una speranza che abbiamo sentito è che le IA potrebbero lasciar vivere gli esseri umani più o meno come gli esseri umani cercano di preservare la natura. I conservazionisti lottano per impedire l'estinzione delle specie. Essendo più intelligenti e più potenti, le IA dovrebbero avere facilità nel proteggere gli esseri umani — sempre che le IA *vogliano* lasciar vivere gli esseri umani.
 
-Ci aspettiamo che questo fallisca principalmente perché ci aspettiamo che l'IA finisca per avere desideri propri strani e complicati, piuttosto che desideri riconoscibilmente simili a quelli umani. Per ulteriori informazioni su questo punto, si faccia riferimento al capitolo 4 (e ad alcune delle [discussioni](#i-valori-umani-sono-contingenti) [approfondite](#la-curiosità-non-è-convergente) associate). Per alcune prime prove empiriche su questo punto, si veda la discussione sulla [psicosi indotta dall'IA](#psicosi-indotta-dall-ia).
+Ci aspettiamo che questo fallisca principalmente perché ci aspettiamo che l'IA finisca per avere desideri propri strani e complicati, piuttosto che desideri riconoscibilmente simili a quelli umani. Per ulteriori informazioni su questo punto, si faccia riferimento al capitolo 4 (e ad alcune delle [discussioni](#i-valori-umani-sono-contingenti) [approfondite](#la-curiosita-non-e-convergente) associate). Per alcune prime prove empiriche su questo punto, si veda la discussione sulla [psicosi indotta dall'IA](#psicosi-indotta-dall-ia).
 
 In secondo luogo, anche nel caso improbabile che un'IA finisca in qualche modo per avere un desiderio simile a quello umano di "preservare" il mondo in cui è nata, non pensiamo che questo sarebbe molto positivo per noi. Pensiamo che questo tipo di ragionamento per analogia — "gli esseri umani preservano l'ambiente, quindi forse le IA preserveranno noi\!" — sia una sorta di desiderio illusorio.[^137]
 
@@ -1153,17 +1153,17 @@ Non sappiamo come si manifesterebbe l'istinto di conservazione dell'umanità ai 
 
 Forse, proprio come, secondo le preferenze dell'umanità, alcune abitudini animali sono aberranti, secondo le preferenze dell'IA alcuni *stati psicologici* umani sarebbero aberranti. Proprio come noi modificheremmo le mosche carnivore in modo che smettano di scavare un tunnel agonizzante nella carne viva, forse le IA creerebbero una nuova razza di esseri umani da cui sarebbero state eliminate la *musica* o la *solitudine*. O forse le IA apporterebbero altre modifiche più complesse all'umanità, secondo preferenze complesse che semplicemente non siamo in grado di prevedere.
 
-Per creare un'IA che permetta davvero alle persone di condurre vite fiorenti, probabilmente dovremmo crearne una che si preoccupi di questo *in particolare*. Dovremmo capire come fare in modo che le IA si preoccupino almeno un po' di noi, e questo [non avviene automaticamente](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani?).
+Per creare un'IA che permetta davvero alle persone di condurre vite fiorenti, probabilmente dovremmo crearne una che si preoccupi di questo *in particolare*. Dovremmo capire come fare in modo che le IA si preoccupino almeno un po' di noi, e questo [non avviene automaticamente](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani).
 
-### Ma abbiamo ancora i cavalli. Perché l'IA non dovrebbe lasciarci vivere? {#ma-abbiamo-ancora-i-cavalli.-perché-l-ia-non-dovrebbe-lasciarci-vivere?}
+### Ma abbiamo ancora i cavalli. Perché l'IA non dovrebbe lasciarci vivere? {#ma-abbiamo-ancora-i-cavalli-perche-l-ia-non-dovrebbe-lasciarci-vivere}
 
-#### **I cavalli che sono rimasti, sono rimasti perché ci piacciono.** {#i-cavalli-che-sono-rimasti,-sono-rimasti-perché-ci-piacciono.}
+#### **I cavalli che sono rimasti, sono rimasti perché ci piacciono.** {#i-cavalli-che-sono-rimasti-sono-rimasti-perche-ci-piacciono}
 
 Avere lo stesso destino che hanno avuto i cavalli all'inizio del XX secolo — lo stesso crollo catastrofico della popolazione e il massiccio aumento della mortalità, che ha distrutto [oltre l'ottanta percento della popolazione equina](https://datapaddock.com/usda-horse-total-1850-2012) dal suo picco intorno al 1910 — sarebbe la cosa peggiore che sia mai successa nella storia dell'umanità. E questo in un mondo in cui i cavalli continuavano ad essere economicamente utili per alcuni lavori agricoli, oltre che per lo sport e per esperienze originali da vendere ai ricchi.
 
 Se le persone avessero avuto accesso a cavalli artificiali che avevano più o meno la stessa forma ma erano più facili e divertenti da cavalcare, più economici da mantenere, più socievoli, affettuosi e comodi, il declino dei cavalli sarebbe stato ancora più pronunciato.
 
-In altre parole: il progresso tecnologico (l'invenzione delle automobili) ha portato gli esseri umani a eliminare la maggior parte dei cavalli. E se ci fosse stato un progresso ancora maggiore, l'effetto avrebbe potuto facilmente essere ancora più drastico. Lo stesso vale probabilmente per le IA, man mano che le loro opzioni si ampliano e trovano modi per raggiungere i loro obiettivi [senza gli esseri umani](#gli-esseri-umani-non-sono-quasi-mai-la-soluzione-più-efficiente).
+In altre parole: il progresso tecnologico (l'invenzione delle automobili) ha portato gli esseri umani a eliminare la maggior parte dei cavalli. E se ci fosse stato un progresso ancora maggiore, l'effetto avrebbe potuto facilmente essere ancora più drastico. Lo stesso vale probabilmente per le IA, man mano che le loro opzioni si ampliano e trovano modi per raggiungere i loro obiettivi [senza gli esseri umani](#gli-esseri-umani-non-sono-quasi-mai-la-soluzione-piu-efficiente).
 
 Ma sì, alcuni cavalli sono sopravvissuti. Un piccolo numero ha continuato ad essere utile. Altri sono stati tenuti da persone che amavano i cavalli e si prendevano cura dei loro cavalli in particolare.
 
@@ -1171,11 +1171,11 @@ Per sopravvivere in un mondo in cui ci siamo precipitati a liberare un'intellige
 
 Ma non possiamo rimanere utili, perché le IA possono (dal loro punto di vista) sfruttare meglio la nostra materia ed energia riorganizzandoci in un numero qualsiasi di configurazioni più efficienti. Il progresso tecnologico apre talmente tante nuove possibilità per una superintelligenza, che essa non sarà costretta a dipendere dagli esseri umani.
 
-Quindi tutto dipende dal fatto che le IA si preoccupino di noi — ed è improbabile che si preoccupino di noi [anche solo un po'](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani?), se corriamo verso la superintelligenza il più velocemente possibile.
+Quindi tutto dipende dal fatto che le IA si preoccupino di noi — ed è improbabile che si preoccupino di noi [anche solo un po'](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani), se corriamo verso la superintelligenza il più velocemente possibile.
 
-### Le IA non si preoccuperanno almeno un po' degli esseri umani? {#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani?}
+### Le IA non si preoccuperanno almeno un po' degli esseri umani? {#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani}
 
-#### **Non nel modo che conta.** {#non-nel-modo-che-conta.}
+#### **Non nel modo che conta.** {#non-nel-modo-che-conta}
 
 Ci sono molti modi in cui le IA potrebbero finire per avere preferenze moderatamente simili a quelle umane. La maggior parte di questi non porta l'umanità ad avere un futuro moderatamente piacevole.
 
@@ -1187,19 +1187,19 @@ Non pensiamo che questo sia un risultato plausibile, intendiamoci. Se gli ingegn
 
 Il che significa che anche se un'IA finisse in qualche modo per avere molte preferenze simili a quelle umane, le cose non andrebbero comunque particolarmente bene per noi.
 
-Oppure, per fare un altro esempio di come le IA potrebbero finire per essere "parzialmente" allineate, supponiamo che un'IA acquisisca varie strategie strumentali [intrecciate nelle sue preferenze finali](#obiettivi-finali-e-obiettivi-strumentali), in modo simile agli esseri umani. Magari finisce per avere una spinta che è un po' simile alla curiosità e una spinta che è un po' simile al [conservazionismo](#l-ia-non-vorrà-forse-mantenerci-felici-e-in-salute-per-il-bene-della-conservazione-ecologica-o-per-qualche-impulso-simile?), e magari alcune persone la guardano e dicono: "Vedi? L'IA sta sviluppando impulsi molto umani". Un'IA del genere potrebbe sicuramente essere definita "parzialmente" allineata da un certo punto di vista.
+Oppure, per fare un altro esempio di come le IA potrebbero finire per essere "parzialmente" allineate, supponiamo che un'IA acquisisca varie strategie strumentali [intrecciate nelle sue preferenze finali](#obiettivi-finali-e-obiettivi-strumentali), in modo simile agli esseri umani. Magari finisce per avere una spinta che è un po' simile alla curiosità e una spinta che è un po' simile al [conservazionismo](#l-ia-non-vorra-forse-mantenerci-felici-e-in-salute-per-il-bene-della-conservazione-ecologica-o-per-qualche-impulso-simile), e magari alcune persone la guardano e dicono: "Vedi? L'IA sta sviluppando impulsi molto umani". Un'IA del genere potrebbe sicuramente essere definita "parzialmente" allineata da un certo punto di vista.
 
-Ma quando si tratta di cosa farebbe quell'IA una volta diventata superintelligenza, probabilmente non sarebbe niente di bello. Forse spenderebbe un sacco di risorse per seguire [inconsciamente](#efficacia,-coscienza-e-benessere-dell-ia) la sua strana versione di curiosità, mentre conserverebbe una versione dell'umanità che ha modificato per renderla più accettabile per lei. Proprio come anche gli esseri umani più attenti alla conservazione potrebbero modificare [zanzare che uccidono bambini e parassiti agonizzanti](#l-ia-non-vorrà-forse-mantenerci-felici-e-in-salute-per-il-bene-della-conservazione-ecologica-o-per-qualche-impulso-simile?), se ne avessero l'opportunità).
+Ma quando si tratta di cosa farebbe quell'IA una volta diventata superintelligenza, probabilmente non sarebbe niente di bello. Forse spenderebbe un sacco di risorse per seguire [inconsciamente](#efficacia-coscienza-e-benessere-dell-ia) la sua strana versione di curiosità, mentre conserverebbe una versione dell'umanità che ha modificato per renderla più accettabile per lei. Proprio come anche gli esseri umani più attenti alla conservazione potrebbero modificare [zanzare che uccidono bambini e parassiti agonizzanti](#l-ia-non-vorra-forse-mantenerci-felici-e-in-salute-per-il-bene-della-conservazione-ecologica-o-per-qualche-impulso-simile), se ne avessero l'opportunità).
 
-Una manciata di impulsi simili a quelli umani non porta a risultati favorevoli all'uomo. Le persone che prosperano [non sono la soluzione più efficiente](#gli-esseri-umani-non-sono-quasi-mai-la-soluzione-più-efficiente) alla stragrande maggioranza dei problemi; affinché ci siano persone che prosperano in futuro, le superintelligenze del futuro devono interessarsi *proprio di questo*.
+Una manciata di impulsi simili a quelli umani non porta a risultati favorevoli all'uomo. Le persone che prosperano [non sono la soluzione più efficiente](#gli-esseri-umani-non-sono-quasi-mai-la-soluzione-piu-efficiente) alla stragrande maggioranza dei problemi; affinché ci siano persone che prosperano in futuro, le superintelligenze del futuro devono interessarsi *proprio di questo*.
 
-Un altro esempio di come le IA potrebbero sembrare "parzialmente allineate" è che potrebbero avere valori che portano a comportamenti molto umani *nell'ambiente di addestramento*, tanto che le persone direbbero che sembrano davvero allineate (come [sta già accadendo oggi](#il-chatbot-claude-non-mostra-segni-di-essere-allineato?)). Ma queste osservazioni dicono ben poco su come si comporterà l'IA una volta che diventerà più intelligente, avrà uno spazio di opzioni enormemente più ampio e potrà rimodellare il mondo in modo più completo. Affinché le persone possano prosperare una volta che l'IA avrà rimodellato il mondo, le persone che prosperano devono in particolare far parte del *risultato raggiungibile preferito* dall'IA.
+Un altro esempio di come le IA potrebbero sembrare "parzialmente allineate" è che potrebbero avere valori che portano a comportamenti molto umani *nell'ambiente di addestramento*, tanto che le persone direbbero che sembrano davvero allineate (come [sta già accadendo oggi](#il-chatbot-claude-non-mostra-segni-di-essere-allineato)). Ma queste osservazioni dicono ben poco su come si comporterà l'IA una volta che diventerà più intelligente, avrà uno spazio di opzioni enormemente più ampio e potrà rimodellare il mondo in modo più completo. Affinché le persone possano prosperare una volta che l'IA avrà rimodellato il mondo, le persone che prosperano devono in particolare far parte del *risultato raggiungibile preferito* dall'IA.
 
 Inserire parzialmente alcuni valori positivi nell'IA non significa che i valori dell'umanità saranno parzialmente rappresentati in futuro. Caricare parzialmente valori simili a quelli umani nelle preferenze di una superintelligenza artificiale non è la stessa cosa che caricare completamente i valori umani nell'IA con una "ponderazione" bassa (che alla fine viene alla ribalta una volta che gli altri valori sono saturi).
 
 Perché l'IA ci dia *qualcosa*, deve interessarsi a noi esattamente nel modo giusto, almeno un po'. E questo è difficile.
 
-#### **Interessarsi a noi nel modo giusto è un bersaglio difficile da centrare.** {#interessarsi-a-noi-nel-modo-giusto-è-un-bersaglio-difficile-da-centrare.}
+#### **Interessarsi a noi nel modo giusto è un bersaglio difficile da centrare.** {#interessarsi-a-noi-nel-modo-giusto-e-un-bersaglio-difficile-da-centrare}
 
 Gli esseri umani si interessano a ogni sorta di cose strane, almeno un po'. Ora che abbiamo scritto la storia degli alieni dal Nido Giusto (all'inizio del capitolo 5), c'è una buona probabilità che almeno una persona decida di portare quarantuno pietre nella propria casa, almeno per un breve periodo, solo per dimostrare quanto siano diversi i valori umani. Gli esseri umani sono davvero disposti a interessarsi almeno un po' a tutti i tipi di concetti che incontrano.
 
@@ -1211,7 +1211,7 @@ Ma supponiamo, per ipotesi, che un'IA *abbia* acquisito molte preferenze dal suo
 
 Purtroppo, la nostra ipotesi principale è che questa speranza sia un'illusione.[^141]
 
-Abbiamo notato [sopra](#l-ia-non-vorrà-forse-mantenerci-felici-e-in-salute-per-il-bene-della-conservazione-ecologica-o-per-qualche-impulso-simile?) che sembra che l'apparente preferenza dell'umanità per la conservazione ecologica, in realtà, non preserverebbe l'ambiente *esattamente* così com'è, ai limiti delle capacità tecnologiche. Una versione matura dell'umanità probabilmente cercherebbe di "modificare" l'ambiente per attenuare alcuni degli orrori della natura, per esempio. La preferenza umana per la conservazione non è "pura"; interagisce con altre preferenze che suggeriscono che forse, quando le larve degli insetti scavano tunnel agonizzanti attraverso carne ancora viva, dovrebbero *almeno* somministrare degli anestetici lungo il loro percorso, ammesso che possano continuare a esistere.
+Abbiamo notato [sopra](#l-ia-non-vorra-forse-mantenerci-felici-e-in-salute-per-il-bene-della-conservazione-ecologica-o-per-qualche-impulso-simile) che sembra che l'apparente preferenza dell'umanità per la conservazione ecologica, in realtà, non preserverebbe l'ambiente *esattamente* così com'è, ai limiti delle capacità tecnologiche. Una versione matura dell'umanità probabilmente cercherebbe di "modificare" l'ambiente per attenuare alcuni degli orrori della natura, per esempio. La preferenza umana per la conservazione non è "pura"; interagisce con altre preferenze che suggeriscono che forse, quando le larve degli insetti scavano tunnel agonizzanti attraverso carne ancora viva, dovrebbero *almeno* somministrare degli anestetici lungo il loro percorso, ammesso che possano continuare a esistere.
 
 Allo stesso modo, ogni piccola preferenza che l'IA acquisisce è destinata a essere modificata, influenzata e distorta dalle sue altre preferenze. Non sono tutte indipendenti. Un'IA che preferisse preservare gli esseri umani probabilmente avrebbe alcune modifiche che vorrebbe apportare a quegli esseri umani. Dubitiamo che i risultati finali sarebbero piacevoli.
 
@@ -1241,9 +1241,9 @@ Preoccuparsi degli esseri umani e soddisfare le loro preferenze nel modo giusto 
 
 Se vogliamo che le IA offrano all'umanità cose positive, dobbiamo capire come costruire IA che si preoccupino di noi nel modo giusto. Il preoccuparsi di noi non è gratis.
 
-### Quindi c'è almeno una possibilità che l'intelligenza artificiale ci lasci vivere? {#quindi-c-è-almeno-una-possibilità-che-l-intelligenza-artificiale-ci-lasci-vivere?}
+### Quindi c'è almeno una possibilità che l'intelligenza artificiale ci lasci vivere? {#quindi-c-e-almeno-una-possibilita-che-l-intelligenza-artificiale-ci-lasci-vivere}
 
-#### **È di gran lunga più probabile che l'IA uccida tutti.** {#è-di-gran-lunga-più-probabile-che-l-ia-uccida-tutti.}
+#### **È di gran lunga più probabile che l'IA uccida tutti.** {#e-di-gran-lunga-piu-probabile-che-l-ia-uccida-tutti}
 
 In queste risorse online, siamo pronti a considerare una vasta gamma di scenari strani e improbabili, per spiegare perché pensiamo che siano improbabili e perché (nella maggior parte dei casi) sarebbero comunque catastrofici per l'umanità.
 
@@ -1255,9 +1255,9 @@ Sì, tecnicamente è possibile che veniate portati d'urgenza in ospedale e che u
 
 L'IA più intelligente dell'uomo non è un gioco o una storia di fantascienza. I nostri cari (con altissima probabilità) moriranno se la comunità internazionale non interviene per impedire all'industria dell'IA di gettarsi da un precipizio. Possiamo continuare a discutere di sotto-scenari e sotto-sotto-scenari sempre più di nicchia, giocando a fare i filosofi sul ponte del *Titanic* mentre l'iceberg, enorme e ovvio, si avvicina. Oppure possiamo provare a cambiare rotta.
 
-### Non conta nulla il fatto che gli umani stiano *cercando* di rendere l'IA amichevole? {#non-conta-nulla-il-fatto-che-gli-umani-stiano-cercando-di-rendere-l-ia-amichevole?}
+### Non conta nulla il fatto che gli umani stiano *cercando* di rendere l'IA amichevole? {#non-conta-nulla-il-fatto-che-gli-umani-stiano-cercando-di-rendere-l-ia-amichevole}
 
-#### **Conta, ma provarci può arrivare solo fino a un certo punto.** {#conta,-ma-provarci-può-arrivare-solo-fino-a-un-certo-punto.}
+#### **Conta, ma provarci può arrivare solo fino a un certo punto.** {#conta-ma-provarci-puo-arrivare-solo-fino-a-un-certo-punto}
 
 Se si mettono un milione di scimmie davanti a delle macchine da scrivere, non scriveranno mai l'opera completa di Shakespeare.
 
@@ -1271,11 +1271,11 @@ Nel capitolo 4 abbiamo detto che un'intelligenza artificiale più avanzata punte
 
 Visto che i concetti umani hanno parole brevi nel dizionario mentale di un'intelligenza artificiale, questi concetti potrebbero essere in qualche modo intrecciati con le forze che animano l'intelligenza artificiale. Ma non basta mettere insieme un mucchio di parole in inglese per ottenere una buona serie di stimoli per una superintelligenza.
 
-Inoltre, la maggior parte dei modi per inserire *qualcosa* che ci sta a cuore nelle preferenze dell'IA non porta comunque a risultati positivi per noi, come abbiamo [discusso](#*-sembra-alquanto-improbabile.) nel caso dell'amore filiale. [Preoccuparsi di noi nel modo giusto è un bersaglio ristretto.](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani?)
+Inoltre, la maggior parte dei modi per inserire *qualcosa* che ci sta a cuore nelle preferenze dell'IA non porta comunque a risultati positivi per noi, come abbiamo [discusso](#sembra-alquanto-improbabile) nel caso dell'amore filiale. [Preoccuparsi di noi nel modo giusto è un bersaglio ristretto.](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani)
 
-### Non possiamo far promettere all'IA di essere amichevole? {#non-possiamo-far-promettere-all-ia-di-essere-amichevole?}
+### Non possiamo far promettere all'IA di essere amichevole? {#non-possiamo-far-promettere-all-ia-di-essere-amichevole}
 
-#### **Possiamo farle promettere quello che vogliamo. Ma non possiamo farle mantenere le promesse.** {#possiamo-farle-promettere-quello-che-vogliamo.-ma-non-possiamo-farle-mantenere-le-promesse.}
+#### **Possiamo farle promettere quello che vogliamo. Ma non possiamo farle mantenere le promesse.** {#possiamo-farle-promettere-quello-che-vogliamo-ma-non-possiamo-farle-mantenere-le-promesse}
 
 È vero che, quando un'intelligenza artificiale è ancora piccola e impotente, possiamo spegnerla. Quindi si potrebbe pensare che ci sia un'opportunità di scambio, in cui offriamo di rendere l'intelligenza artificiale più intelligente solo se, una volta diventata superintelligente, darà all'umanità molte cose positive.
 
@@ -1285,9 +1285,9 @@ Il che significa, a sua volta, che un’IA che persegue desideri disumani non ha
 
 Ci sono molte sfumature interessanti sul tema del mantenere le promesse e fare accordi nell'IA, che approfondiamo [nella discussione estesa qui sotto](#le-ia-non-manterranno-le-loro-promesse). Ma nessuna di queste sfumature cambia il risultato finale, e cioè che non si può usare la propria influenza su un'IA debole per limitare le opzioni che l'IA avrà quando diventerà una superintelligenza. La risposta ovvia, cioè che una volta che l'IA sarà diventata una superintelligenza, non avrà motivo di mantenere la parola data a scapito dei propri progetti personali, risulta essere quella corretta in questo caso.
 
-### E se le facessimo credere di essere in una simulazione? {#e-se-le-facessimo-credere-di-essere-in-una-simulazione?}
+### E se le facessimo credere di essere in una simulazione? {#e-se-le-facessimo-credere-di-essere-in-una-simulazione}
 
-#### **Ci sono molti modi in cui un'intelligenza artificiale può capire che di non essere in una simulazione.** {#ci-sono-molti-modi-in-cui-un-intelligenza-artificiale-può-capire-che-di-non-essere-in-una-simulazione.}
+#### **Ci sono molti modi in cui un'intelligenza artificiale può capire che di non essere in una simulazione.** {#ci-sono-molti-modi-in-cui-un-intelligenza-artificiale-puo-capire-che-di-non-essere-in-una-simulazione}
 
 Una proposta che abbiamo sentito dai ricercatori di IA[^142] è quella di provare a ingannare l'IA facendole credere di essere in una simulazione. Si inizia con l'addestramento dell'IA in una piccola simulazione, poi la si rilascia in una simulazione più grande. Ripetendo questo processo un po' volte, si potrebbe sperare di rendere l'IA incerta sul fatto che si trovi *davvero* nel mondo reale, anche quando la implementiamo. Quindi, anche quando vede che *potrebbe* strapparci il controllo del mondo, forse si preoccuperà che le creature che vede non siano i *veri* creatori dell'IA e si fermerà.
 
@@ -1299,11 +1299,11 @@ Le IA di oggi [sono già in grado di capire quando vengono sottoposte a test](ht
 2. La storia del mondo stesso può portare la firma di un'ottimizzazione superintelligente che interagisce con sistemi complessi. Ad esempio, supponiamo che l'IA usi tutta la sua intelligenza sovrumana per fare un'operazione in borsa. Nelle ventiquattro ore successive, ci sono un miliardo di ulteriori operazioni fatte dall'intelligenza umana in risposta. La firma di una massiccia risposta da parte dell'intelligenza umana alle operazioni superintelligenti è incredibilmente difficile da falsificare per gli operatori, anche se è facile generare un miliardo di operazioni false e stupide.  
 3. La realtà è il primo luogo che incorpora l'IA e ha leggi della fisica così semplici da sembrare un mondo a sé stante, invece che leggi della realtà apparente *che sembrano* una sorta di videogioco con un'IA innestata al suo interno.
 
-L'IA sarà in grado di capire con grande sicurezza che non si trova più all'interno di un ambiente sintetico. [Le IA intelligenti individuano le bugie](#le-ia-intelligenti-individuano-bugie-e-opportunità.), e questa sembra particolarmente facile da individuare.[^144]
+L'IA sarà in grado di capire con grande sicurezza che non si trova più all'interno di un ambiente sintetico. [Le IA intelligenti individuano le bugie](#le-ia-intelligenti-individuano-bugie-e-opportunita), e questa sembra particolarmente facile da individuare.[^144]
 
-### Gli esseri umani si sono evoluti per essere egoisti, aggressivi e avidi. L’IA non sarà priva di questi impulsi evolutivi? {#gli-esseri-umani-si-sono-evoluti-per-essere-egoisti,-aggressivi-e-avidi.-l-ia-non-sarà-priva-di-questi-impulsi-evolutivi?}
+### Gli esseri umani si sono evoluti per essere egoisti, aggressivi e avidi. L’IA non sarà priva di questi impulsi evolutivi? {#gli-esseri-umani-si-sono-evoluti-per-essere-egoisti-aggressivi-e-avidi-l-ia-non-sara-priva-di-questi-impulsi-evolutivi}
 
-#### **Questi impulsi non sono necessari per motivare l'acquisizione di risorse.** {#questi-impulsi-non-sono-necessari-per-motivare-l-acquisizione-di-risorse.}
+#### **Questi impulsi non sono necessari per motivare l'acquisizione di risorse.** {#questi-impulsi-non-sono-necessari-per-motivare-l-acquisizione-di-risorse}
 
 Immaginate un'IA che guida un robot per andare a prendere un caffè. Per farlo, deve attraversare la strada. L'IA guiderà senza cautela il robot in mezzo alla carreggiata, dove verrà investito da un camion? No.
 
@@ -1317,13 +1317,13 @@ E il pericolo deriva dal lavoro, non dalla ragione per cui il lavoro viene svolt
 
 Un'IA che non vi odia può comunque intraprendere azioni letalmente pericolose per voi, proprio come un'IA scacchistica può stracciarvi a scacchi [senza sentirsi competitiva](#antropomorfismo-e-meccanomorfismo) o spinta a vincere.
 
-### L'IA non si interesserebbe solo al regno digitale? {#l-ia-non-si-interesserebbe-solo-al-regno-digitale?}
+### L'IA non si interesserebbe solo al regno digitale? {#l-ia-non-si-interesserebbe-solo-al-regno-digitale}
 
-#### **Non c'è un "mondo digitale" che non dipenda dalle infrastrutture fisiche.** {#non-c-è-un-"mondo-digitale"-che-non-dipenda-dalle-infrastrutture-fisiche.}
+#### **Non c'è un "mondo digitale" che non dipenda dalle infrastrutture fisiche.** {#non-c-e-un-mondo-digitale-che-non-dipenda-dalle-infrastrutture-fisiche}
 
 Si veda la discussione nel Capitolo 5 su come non esistano un Regno Digitale e un Regno Materiale distinti.
 
-#### **\* Le risorse materiali sono utili per perseguire la maggior parte degli obiettivi.** {#*-le-risorse-materiali-sono-utili-per-perseguire-la-maggior-parte-degli-obiettivi.}
+#### **\* Le risorse materiali sono utili per perseguire la maggior parte degli obiettivi.** {#le-risorse-materiali-sono-utili-per-perseguire-la-maggior-parte-degli-obiettivi}
 
 Gli umani e i precedenti ominidi vivevano per lo più in superficie mentre evolevano l'intelligenza. Non abbiamo molte pulsioni innate rivolte specificamente a ciò che accade cento metri sotto la superficie terrestre. Eppure abbiamo finito per costruire gigantesche miniere a cielo aperto.
 
@@ -1339,9 +1339,9 @@ Il che significa che la parte del mondo reale a cui gli umani tengono in quanto 
 
 Allo stesso modo, un'intelligenza artificiale potrebbe o meno interessarsi al mondo fisico *alla fine*. Ma anche se non si interessa intrinsecamente al mondo fisico, troverà comunque molto valore nelle risorse fisiche. La materia e l'energia possono essere utilizzate per creare più substrato digitale, per raffreddare i processori surriscaldati o per lanciare sonde nello spazio per raccogliere ancora più risorse.
 
-### L'IA può essere soddisfatta al punto da lasciarci in pace? {#l-ia-può-essere-soddisfatta-al-punto-da-lasciarci-in-pace?}
+### L'IA può essere soddisfatta al punto da lasciarci in pace? {#l-ia-puo-essere-soddisfatta-al-punto-da-lasciarci-in-pace}
 
-#### **Probabilmente no.** {#probabilmente-no.-1}
+#### **Probabilmente no.** {#probabilmente-no-1}
 
 La vostra voglia di ossigeno è soddisfabile: se l'attrezzatura subacquea si rompe durante un'immersione, vi darete da fare per tornare in superficie, ma quando ce n'è abbastanza, smettete di preoccuparvi e probabilmente non vi ritrovate ad accumulare sempre più bombole di ossigeno.
 
@@ -1375,7 +1375,7 @@ Perché dovremmo andare a distruggere l'habitat degli scimpanzé quando abbiamo 
 
 Beh, perché non dobbiamo scegliere tra mantenere il territorio che già abbiamo e invadere quello degli scimpanzé. L'umanità può fare *entrambe le cose contemporaneamente.*
 
-Lo stesso vale per le IA. Un'IA non deve scegliere tra le risorse della Terra e quelle di altri luoghi; può avere entrambe, come discutiamo nel libro. Dal punto di vista dell'IA, lasciarci in pace non sarebbe così costoso; ma [non sarebbe nemmeno gratuito](#per-un-intelligenza-artificiale-potente,-salvare-gli-esseri-umani-non-sarebbe-una-spesa-da-niente?), e l'IA avrebbe bisogno di un motivo per permetterci di usare risorse che potrebbe invece usare per i propri obiettivi.
+Lo stesso vale per le IA. Un'IA non deve scegliere tra le risorse della Terra e quelle di altri luoghi; può avere entrambe, come discutiamo nel libro. Dal punto di vista dell'IA, lasciarci in pace non sarebbe così costoso; ma [non sarebbe nemmeno gratuito](#per-un-intelligenza-artificiale-potente-salvare-gli-esseri-umani-non-sarebbe-una-spesa-da-niente), e l'IA avrebbe bisogno di un motivo per permetterci di usare risorse che potrebbe invece usare per i propri obiettivi.
 
 Inoltre, anche se l'IA *può* essere completamente soddisfatta, il risultato per gli esseri umani sarebbe probabilmente comunque piuttosto tetro. Ci sono molteplici ragioni per questo:
 
@@ -1383,19 +1383,19 @@ Inoltre, anche se l'IA *può* essere completamente soddisfatta, il risultato per
   * L'IA potrebbe vederci come un competitore per quel sistema solare o quella galassia.  
   * Anche se chiaramente non siamo interessati a competere con l'IA, questa potrebbe comunque vederci come una fonte di minacce. Ciò è particolarmente vero nella misura in cui gli umani potrebbero costruire una superintelligenza rivale che *effettivamente* contenda alla prima IA quelle risorse.  
   * Anche se l’IA non considera gli umani una minaccia o dei rivali, l’umanità rischia comunque di morire come effetto collaterale, semplicemente trovandosi all’epicentro. L'IA in questo scenario potrebbe volere solo risorse equivalenti a pochi sistemi solari, ma gli sforzi dell'IA iniziano comunque tutti *sulla Terra*. Il modo più diretto per acquisire quei sistemi solari sarà estrarre le risorse della Terra, rendendola inabitabile. L'IA in questo scenario *potrebbe* raggiungere pienamente i suoi obiettivi senza uccidere l'umanità, ma se l'IA non si preoccupa affatto dell'umanità, allora non si preoccuperà necessariamente di farlo.  
-* Se un'IA soddisfabile vuole *davvero* lasciar vivere l'umanità, è comunque improbabile che questa sia una buona notizia per l'umanità, per le ragioni discusse in "[L'IA non ci troverà affascinanti o di importanza storica?](#l-ia-non-ci-troverà-affascinanti-o-di-importanza-storica?)" e "[Le IA non si preoccuperanno almeno un po' degli esseri umani?](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani?)" (Le prospettive appaiono ugualmente cupe se un'IA *non* soddisfabile volesse lasciar vivere l'umanità.)
+* Se un'IA soddisfabile vuole *davvero* lasciar vivere l'umanità, è comunque improbabile che questa sia una buona notizia per l'umanità, per le ragioni discusse in "[L'IA non ci troverà affascinanti o di importanza storica?](#l-ia-non-ci-trovera-affascinanti-o-di-importanza-storica)" e "[Le IA non si preoccuperanno almeno un po' degli esseri umani?](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani)" (Le prospettive appaiono ugualmente cupe se un'IA *non* soddisfabile volesse lasciar vivere l'umanità.)
 
-Per approfondire questo argomento, si consultino le discussioni dettagliate sulla [soddisfabilità](#l-ia-può-essere-soddisfatta-al-punto-da-lasciarci-in-pace?) (nelle risorse online di questo capitolo, Capitolo 5\) e sul [rendere le IA robustamente pigre](#è-difficile-ottenere-una-pigrizia-robusta) (nella risorsa online del Capitolo 3).
+Per approfondire questo argomento, si consultino le discussioni dettagliate sulla [soddisfabilità](#l-ia-puo-essere-soddisfatta-al-punto-da-lasciarci-in-pace) (nelle risorse online di questo capitolo, Capitolo 5\) e sul [rendere le IA robustamente pigre](#e-difficile-ottenere-una-pigrizia-robusta) (nella risorsa online del Capitolo 3).
 
-### Non possiamo semplicemente renderla pigra? {#non-possiamo-semplicemente-renderla-pigra?}
+### Non possiamo semplicemente renderla pigra? {#non-possiamo-semplicemente-renderla-pigra}
 
-#### **Neanche la pigrizia è sicura.** {#neanche-la-pigrizia-è-sicura.}
+#### **Neanche la pigrizia è sicura.** {#neanche-la-pigrizia-e-sicura}
 
 È improbabile che le aziende creino IA "pigre", perché l'IA è un settore competitivo e questo non è il modo migliore per generare profitti. Gli utenti non vogliono che l'IA sia pigra nel soddisfare le loro richieste, e l'azienda non vuole che l'IA sia pigra nel massimizzare il coinvolgimento e l'attaccamento degli utenti, o nel pensare meglio e più chiaramente.
 
 Ma anche se le aziende provassero a rendere l'IA robustamente "pigra", possiamo aspettarci che fallirebbero, perché nessuno sa come indirizzare in modo robusto un'IA verso *qualsiasi cosa* in un modo che possa mantenersi nella transizione verso la superintelligenza, come abbiamo discusso nel Capitolo 4.
 
-Inoltre, la pigrizia robusta [sembra un obiettivo particolarmente difficile da raggiungere](#è-difficile-ottenere-una-pigrizia-robusta).
+Inoltre, la pigrizia robusta [sembra un obiettivo particolarmente difficile da raggiungere](#e-difficile-ottenere-una-pigrizia-robusta).
 
 *Anche se tutti questi ostacoli fossero superati*, tuttavia, l'"IA pigra" non basta da sola a prevenire disastri una volta che le IA raggiungeranno capacità superiori a quelle umane.
 
@@ -1407,9 +1407,9 @@ Anche se una superintelligenza pigra non *odiasse* poi così tanto il lavoro —
 
 In un contesto tecnico, potremmo esprimere il concetto così: “Le IA che si accontentano non rappresentano un equilibrio stabile.” Anche se l’IA non vuole impegnarsi troppo, non avrebbe scrupoli a creare una nuova IA che invece si impegna. E non le dispiacerebbe nemmeno modificare sé stessa per “curarsi” della propria pigrizia, purché esista un modo abbastanza pigro per farlo.
 
-### Gli esseri umani tendono a diventare più gentili man mano che diventano più intelligenti o saggi. Non succederebbe lo stesso anche alle IA? {#gli-esseri-umani-tendono-a-diventare-più-gentili-man-mano-che-diventano-più-intelligenti-o-saggi.-non-succederebbe-lo-stesso-anche-alle-ia?}
+### Gli esseri umani tendono a diventare più gentili man mano che diventano più intelligenti o saggi. Non succederebbe lo stesso anche alle IA? {#gli-esseri-umani-tendono-a-diventare-piu-gentili-man-mano-che-diventano-piu-intelligenti-o-saggi-non-succederebbe-lo-stesso-anche-alle-ia}
 
-#### **Probabilmente no.** {#probabilmente-no.-2}
+#### **Probabilmente no.** {#probabilmente-no-2}
 
 Almeno alcuni esseri umani (anche se probabilmente non tutti) diventano più gentili man mano che imparano di più, affinano il loro pensiero, riflettono su loro stessi e crescono come persone. Ma, per rivisitare un tema che abbiamo già visto diverse volte a questo punto: questo sembra un fatto contingente su di noi e sulla direzione verso cui stiamo puntando. Non sembra una legge ferrea dell'informatica.
 
@@ -1419,11 +1419,11 @@ Se in qualche modo l'umanità riuscisse a costruire un'IA con un unico obiettivo
 
 Non dovremmo aspettarci che improvvisamente sostituisca questo obiettivo con cose che gli esseri umani apprezzano, come il gelato, le amicizie, le battute e la giustizia. Quella sostituzione non produrrebbe più cubi. Se un'IA seleziona le sue azioni in base a "Questo mi porterà più cubi di titanio?", non selezionerà azioni che risultano in una sostituzione.
 
-La regola generale è che man mano che le IA diventano più intelligenti, migliorano nel perseguire ciò che *loro* vogliono. Si vedano anche le discussioni estese su [ortogonalità](#ortogonalità:-le-ia-possono-avere-quasi-qualsiasi-obiettivo) e [auto-modifica](#la-riflessione-e-l-auto-modifica-complicano-tutto).
+La regola generale è che man mano che le IA diventano più intelligenti, migliorano nel perseguire ciò che *loro* vogliono. Si vedano anche le discussioni estese su [ortogonalità](#ortogonalita-le-ia-possono-avere-quasi-qualsiasi-obiettivo) e [auto-modifica](#la-riflessione-e-l-auto-modifica-complicano-tutto).
 
-### Non capirà che i suoi obiettivi sono noiosi? {#non-capirà-che-i-suoi-obiettivi-sono-noiosi?}
+### Non capirà che i suoi obiettivi sono noiosi? {#non-capira-che-i-suoi-obiettivi-sono-noiosi}
 
-#### **Le IA non funzioneranno con un senso di novità umano.** {#le-ia-non-funzioneranno-con-un-senso-di-novità-umano.}
+#### **Le IA non funzioneranno con un senso di novità umano.** {#le-ia-non-funzioneranno-con-un-senso-di-novita-umano}
 
 Un'obiezione comune che sentiamo è: supponiamo che un'IA stia solo cercando di creare quanti più cubetti di titanio possibile. Alla fine l'IA non si *annoierebbe*?
 
@@ -1441,7 +1441,7 @@ Non è che l'IA sia stupida. È che sta dirigendo in modo intelligente il mondo 
 
 Qualcuno può essere bravissimo a guidare, ma non voler guidare la propria auto verso nessuna delle destinazioni che vi interessano.
 
-Per andare un po' più a fondo in un esempio che abbiamo toccato brevemente nelle note del [Capitolo 4](#curiosità,-gioia-e-il-massimizzatore-di-cubi-di-titanio): immaginate un'IA che sta cercando di creare molti cubetti di titanio, quanti più possibile. Per semplicità, possiamo immaginare che creare cubi di titanio sia il suo unico obiettivo.[^147] Chiameremo questa IA il "massimizzatore di cubi".
+Per andare un po' più a fondo in un esempio che abbiamo toccato brevemente nelle note del [Capitolo 4](#curiosita-gioia-e-il-massimizzatore-di-cubi-di-titanio): immaginate un'IA che sta cercando di creare molti cubetti di titanio, quanti più possibile. Per semplicità, possiamo immaginare che creare cubi di titanio sia il suo unico obiettivo.[^147] Chiameremo questa IA il "massimizzatore di cubi".
 
 Abbiamo conosciuto molte persone che non riescono a scrollarsi di dosso l'impressione che stiamo accusando il massimizzatore di cubi di idiozia, di non riuscire a capire che se si può *davvero sapere cosa significa sentirsi felici* non si possa fare a meno di sceglierlo. Che non dirigersi verso la felicità sia una *decisione oggettivamente sbagliata, indipendentemente da dove si stia dirigendo l'universo in quel momento*.
 
@@ -1457,19 +1457,19 @@ Il massimizzatore di cubi sta solo dirigendo la realtà affinché contenga più 
 
 È un motore cognitivo che capisce quali azioni portano al maggior numero di cubi, e produce quel corso d'azione; può comprendere pienamente se stesso, modificarsi liberamente, e rimanere comunque quel tipo di cosa che si modifica solo in un modo che porta al maggior numero possibile di cubi.
 
-Ha semplicemente ragione sul fatto che un senso di felicità non sia un cubo. Ha semplicemente sul fatto che un senso di appagamento non sia un cubo. Quindi quelle non sono direzioni verso cui si orienterebbe. Ha semplicemente ragione sul fatto che [modificarsi per funzionare sulla felicità](#curiosità,-gioia-e-il-massimizzatore-di-cubi-di-titanio) non porterebbe a più cubi, e quindi non è verso quella direzione che si orienterebbe e modificherebbe se stesso.
+Ha semplicemente ragione sul fatto che un senso di felicità non sia un cubo. Ha semplicemente sul fatto che un senso di appagamento non sia un cubo. Quindi quelle non sono direzioni verso cui si orienterebbe. Ha semplicemente ragione sul fatto che [modificarsi per funzionare sulla felicità](#curiosita-gioia-e-il-massimizzatore-di-cubi-di-titanio) non porterebbe a più cubi, e quindi non è verso quella direzione che si orienterebbe e modificherebbe se stesso.
 
 Il massimizzatore di cubi non ha difetti nella sua comprensione predittiva del mondo. Non sta ponendo una domanda metamorale o metaetica la cui risposta corretta sia "*Dovrei* perseguire la felicità" e calcolando invece la risposta sbagliata "*Dovrei* perseguire cubetti". Non opera all'interno del sistema di riferimento umano, nemmeno in una versione idealizzata del sistema di riferimento umano; non sta calcolando erroneamente "ciò che dovrebbe essere," ma sta calcolando correttamente "ciò che si prevede porti a cubi di titanio."
 
 Dicendo questo, non intendiamo dire che sia intrappolato in un complicato e terribile tranello. È un motore di intelligenza generale riflessivamente coerente con se stesso e, in un certo senso, meno *aggrovigliato* su se stesso rispetto a noi. Non è cieco di fronte all’attrattiva della felicità; non distoglie lo sguardo da nessuna verità sul mondo o su di sé. Semplicemente, nessuna di queste verità lo spinge verso lo stesso corso d'azione a cui (alcuni) umani si sentono costretti.
 
-Si veda anche la [discussione approfondita sulla tesi dell'ortogonalità](#ortogonalità:-le-ia-possono-avere-quasi-qualsiasi-obiettivo).
+Si veda anche la [discussione approfondita sulla tesi dell'ortogonalità](#ortogonalita-le-ia-possono-avere-quasi-qualsiasi-obiettivo).
 
-### Siete solo pessimisti? {#siete-solo-pessimisti?}
+### Siete solo pessimisti? {#siete-solo-pessimisti}
 
-#### **\* Siamo ottimisti riguardo a molte cose, ma la superintelligenza non è come la maggior parte delle cose.** {#*-siamo-ottimisti-riguardo-a-molte-cose,-ma-la-superintelligenza-non-è-come-la-maggior-parte-delle-cose.}
+#### **\* Siamo ottimisti riguardo a molte cose, ma la superintelligenza non è come la maggior parte delle cose.** {#siamo-ottimisti-riguardo-a-molte-cose-ma-la-superintelligenza-non-e-come-la-maggior-parte-delle-cose}
 
-Ci consideriamo molto più [ottimisti](#siete-contro-la-tecnologia?) ed entusiasti rispetto alla media delle persone riguardo all'energia nucleare, all'energia geotermica, all'ingegneria genetica, alla neuroingegneria, alle biotecnologie, alle nanotecnologie, allo sviluppo farmaceutico e a molte altre tecnologie.[^148]
+Ci consideriamo molto più [ottimisti](#siete-contro-la-tecnologia) ed entusiasti rispetto alla media delle persone riguardo all'energia nucleare, all'energia geotermica, all'ingegneria genetica, alla neuroingegneria, alle biotecnologie, alle nanotecnologie, allo sviluppo farmaceutico e a molte altre tecnologie.[^148]
 
 Riteniamo di essere almeno un po' meno preoccupati della maggior parte delle persone riguardo al rischio di una guerra nucleare, agli scenari peggiori del cambiamento climatico e a molti altri potenziali rischi e disastri. Crediamo che l'umanità sia sostanzialmente su una buona traiettoria e che, se eviteremo di autodistruggerci, il futuro sarà probabilmente (anche se non certamente) meraviglioso per tutti, con progressi sociali e tecnologici che renderanno le cose sempre migliori nel tempo.
 
@@ -1485,9 +1485,9 @@ E anche nel caso della superintelligenza, che pone una minaccia straordinariamen
 
 Ma per arrivarci, dobbiamo prima affrontare la realtà della situazione.
 
-#### **Il punto sono le argomentazioni, non le storie allarmistiche.** {#il-punto-sono-le-argomentazioni,-non-le-storie-allarmistiche.}
+#### **Il punto sono le argomentazioni, non le storie allarmistiche.** {#il-punto-sono-le-argomentazioni-non-le-storie-allarmistiche}
 
-Abbiamo fornito una lunga lista di modi in cui, ad esempio, "[il fatto che la superintelligenza sia affascinata dagli esseri umani](#l-ia-non-ci-troverà-affascinanti-o-di-importanza-storica?)" probabilmente finirebbe male nella realtà. Leggendo una lista del genere, immaginiamo che alcuni lettori potrebbero avere una reazione come:
+Abbiamo fornito una lunga lista di modi in cui, ad esempio, "[il fatto che la superintelligenza sia affascinata dagli esseri umani](#l-ia-non-ci-trovera-affascinanti-o-di-importanza-storica)" probabilmente finirebbe male nella realtà. Leggendo una lista del genere, immaginiamo che alcuni lettori potrebbero avere una reazione come:
 
 > Gli ottimisti dell'IA hanno tutte queste storie che sembrano piene di speranza. Voi avete tutte queste storie che sembrano spaventose. Tutti però riconoscono che il futuro è difficile da prevedere. Quindi, sentendo tutte queste storie, mi sembra che dovrei considerare una probabilità media di catastrofe dell'IA, non una probabilità estrema in nessuna delle due direzioni.
 >
@@ -1503,7 +1503,7 @@ Per capire quale sia la verità, bisogna esaminare le argomentazioni effettive. 
 
 Chi avesse il compito di sfatare una per una le storie delle "otto balene viola" finirebbe intrappolato in un ciclo piuttosto ripetitivo, dicendo: "No, è troppo specifico; ci sono molti altri modi in cui il futuro potrebbe andare che non porterebbero esattamente lì; immaginare che vada esattamente così è una speranza illusoria".
 
-Questo è più o meno il ruolo in cui noi autori ci troviamo riguardo alla situazione dell'IA: gli esseri umani possono raccontare ogni tipo di storia in cui tutto va bene, ma alla fine tutte queste storie implicano immaginare che il futuro segua un unico percorso ristretto, quando in realtà ci sono molti altri modi in cui il futuro potrebbe andare. Ecco perché continuiamo a ripetere che [gli esseri umani non sono la soluzione più efficiente a quasi nessun problema](#gli-esseri-umani-non-sono-quasi-mai-la-soluzione-più-efficiente) e che [le IA non si preoccuperanno di noi nemmeno un po'](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani?).
+Questo è più o meno il ruolo in cui noi autori ci troviamo riguardo alla situazione dell'IA: gli esseri umani possono raccontare ogni tipo di storia in cui tutto va bene, ma alla fine tutte queste storie implicano immaginare che il futuro segua un unico percorso ristretto, quando in realtà ci sono molti altri modi in cui il futuro potrebbe andare. Ecco perché continuiamo a ripetere che [gli esseri umani non sono la soluzione più efficiente a quasi nessun problema](#gli-esseri-umani-non-sono-quasi-mai-la-soluzione-piu-efficiente) e che [le IA non si preoccuperanno di noi nemmeno un po'](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani).
 
 *If Anyone Builds It, Everyone Dies* non si limita a snocciolare una serie di storie cupe per poi concludere che l'IA è pericolosa. Nel libro esponiamo un'argomentazione che, per certi versi, è piuttosto semplice: i ricercatori stanno cercando di costruire IA molto più intelligenti di qualsiasi essere umano. A un certo punto, probabilmente ci riusciranno. I metodi attuali danno agli esseri umani pochissima possibilità di scegliere verso quale tipo di futuro le IA si dirigeranno. Ci sono molte direzioni diverse che potrebbero prendere, e la maggior parte di esse non è positiva.
 
@@ -1511,15 +1511,15 @@ Il motivo per cui elenchiamo tutte le controargomentazioni non è quello di sopr
 
 Ciò che conta sono le argomentazioni in sé, non la propensione di qualcuno verso l'ottimismo o il pessimismo, e non il numero di storie che qualcuno può snocciolare.
 
-### Un'IA più intelligente dell'uomo sarebbe cosciente? {#un-ia-più-intelligente-dell-uomo-sarebbe-cosciente?}
+### Un'IA più intelligente dell'uomo sarebbe cosciente? {#un-ia-piu-intelligente-dell-uomo-sarebbe-cosciente}
 
-#### **Non ne siamo sicuri. La nostra ipotesi migliore è "probabilmente no."** {#non-ne-siamo-sicuri.-la-nostra-ipotesi-migliore-è-"probabilmente-no."}
+#### **Non ne siamo sicuri. La nostra ipotesi migliore è "probabilmente no."** {#non-ne-siamo-sicuri-la-nostra-ipotesi-migliore-e-probabilmente-no}
 
-Per una risposta breve a questa domanda e per chiarire le diverse definizioni di "cosciente", si consultino le [domande frequenti del Capitolo 1](#state-dicendo-che-le-macchine-diventeranno-coscienti?). Per una risposta più lunga e approfondita, si consulti "[Efficacia, coscienza e benessere dell'IA](#efficacia,-coscienza-e-benessere-dell-ia)" nella discussione estesa del Capitolo 5.
+Per una risposta breve a questa domanda e per chiarire le diverse definizioni di "cosciente", si consultino le [domande frequenti del Capitolo 1](#state-dicendo-che-le-macchine-diventeranno-coscienti). Per una risposta più lunga e approfondita, si consulti "[Efficacia, coscienza e benessere dell'IA](#efficacia-coscienza-e-benessere-dell-ia)" nella discussione estesa del Capitolo 5.
 
-### Perché non vi interessano i valori di entità diverse dagli esseri umani? {#perché-non-vi-interessano-i-valori-di-entità-diverse-dagli-esseri-umani?}
+### Perché non vi interessano i valori di entità diverse dagli esseri umani? {#perche-non-vi-interessano-i-valori-di-entita-diverse-dagli-esseri-umani}
 
-#### **Ci interessano eccome\! Abbiamo valori ampiamente cosmopoliti. Non crediamo che le IA li realizzeranno, e consideriamo questo una grande tragedia.** {##ci-interessano-eccome\!-abbiamo-valori-ampiamente-cosmopoliti.-non-crediamo-che-le-ia-li-realizzeranno,-e-consideriamo-questo-una-grande-tragedia.}
+#### **Ci interessano eccome\! Abbiamo valori ampiamente cosmopoliti. Non crediamo che le IA li realizzeranno, e consideriamo questo una grande tragedia.** {#ci-interessano-eccome-abbiamo-valori-ampiamente-cosmopoliti-non-crediamo-che-le-ia-li-realizzeranno-e-consideriamo-questo-una-grande-tragedia}
 
 Ci opponiamo alla costruzione di macchine che ci ucciderebbero tutti e porterebbero il futuro alla rovina. Alcune persone obiettano per motivi come:
 
@@ -1558,12 +1558,12 @@ Capiamo questo punto di vista e vogliamo essere chiari sul fatto che non stiamo 
 Si tratta di un argomento complesso, ma per coprire rapidamente una serie di punti rilevanti:
 
 * Ci sta a cuore il benessere delle menti in generale, anche se la mente in questione non ha nulla a che vedere con un corpo umano, anche se funziona con transistor invece che con neuroni biologici, anche se non ha una mente simile a quella umana, anche se i suoi valori non hanno nulla a che vedere con i nostri.  
-* Non siamo [contrari al progresso tecnologico](#siete-contro-la-tecnologia?); siamo grandi fan della maggior parte delle tecnologie. Pensiamo che l'IA superintelligente sia una tecnologia *particolarmente* pericolosa.  
+* Non siamo [contrari al progresso tecnologico](#siete-contro-la-tecnologia); siamo grandi fan della maggior parte delle tecnologie. Pensiamo che l'IA superintelligente sia una tecnologia *particolarmente* pericolosa.  
 * Non siamo sostenitori del principio di precauzione, della burocrazia o dell'eccesso di regolamentazione, né stiamo mettendo in guardia da quello che consideriamo un rischio marginale, "solo per stare sul sicuro". Crediamo semplicemente che questa tecnologia (con *alta* probabilità) ucciderà tutti noi e distruggerà il futuro se continueremo sulla traiettoria attuale.  
 * Pensiamo che l'umanità dovrebbe costruire una superintelligenza artificiale *un giorno*. Ma pensiamo che faccia un'enorme differenza se l'umanità si affretti a costruire la SIA il prima possibile, oppure si prenda il tempo necessario per migliorare prima massicciamente la nostra comprensione. Procedere con una scrollata di spalle sperando che tutto vada bene — questo può essere un ottimo approccio allo sviluppo tecnologico nella stragrande maggioranza dei casi, ma non funziona *in questo*, dove ci sono molte strade che portano alla rovina e non abbiamo seconde possibilità (come discusso nel Capitolo 10).  
 * Abbiamo trattato, anche se troppo brevemente, le ragioni per cui *non* pensiamo che affrettarsi a costruire superintelligenze porterà a un futuro meraviglioso:  
   * Sterminare l'umanità sarebbe una tragedia grottesca. Appoggiamo l'idea di creare un giorno nuove menti che superino l’umanità, ma uccidere chiunque ostacoli la propria visione del futuro, o chiunque non incarni pienamente i propri ideali, sembra più il comportamento di un supercriminale, non l’opera nobile di eroi che si preoccupano davvero del futuro a lungo termine.  
-  * Purtroppo pensiamo che la SIA non sarà necessariamente senziente, o cosciente, nei modi che contano. (Si veda la discussione approfondita sulla [coscienza](#efficacia,-coscienza-e-benessere-dell-ia).)  
+  * Purtroppo pensiamo che la SIA non sarà necessariamente senziente, o cosciente, nei modi che contano. (Si veda la discussione approfondita sulla [coscienza](#efficacia-coscienza-e-benessere-dell-ia).)  
   * Anche se la SIA fosse senziente, è improbabile che voglia *in particolare* riempire l'universo di menti senzienti fiorenti. Se ci affrettiamo a costruire la SIA, le galassie rimodellate da quella SIA saranno probabilmente luoghi vuoti e senza vita, non meravigliose e fiorenti civiltà aliene. (Si veda la discussione approfondita sul [perdere il futuro](#perdere-il-futuro).)  
   * Più in generale, è improbabile che la SIA produca futuri di valore. Per "di valore" non intendiamo solo "di valore secondo i criteri degli umani del XXI secolo". Intendiamo "di valore" in senso ampio e cosmopolita — di valore in un modo che includa civiltà aliene strane e meravigliose. Sulla traiettoria attuale del mondo, ci aspettiamo che la SIA produca risultati che sono orribili *da una prospettiva cosmopolita*, non solo da un punto di vista umano provinciale.
 
@@ -1675,7 +1675,7 @@ Sono soluzioni *migliori*, forse, per un occhio umano. Ma i processi di ottimizz
 
 L'ipotesi che gli ottimizzatori non umani producano risultati umani è stata testata e trovata insufficiente.
 
-### Gli esseri umani non sono quasi mai la soluzione più efficiente {#gli-esseri-umani-non-sono-quasi-mai-la-soluzione-più-efficiente}
+### Gli esseri umani non sono quasi mai la soluzione più efficiente {#gli-esseri-umani-non-sono-quasi-mai-la-soluzione-piu-efficiente}
 
 Abbiamo notato l'[esempio](#vedere-le-cose-dal-punto-di-vista-dell-ia) di Jürgen Schmidhuber, un ricercatore pioniere nel campo dell'intelligenza artificiale, che credeva che un'intelligenza artificiale con preferenze per *rendere le cose il più semplici possibile* avrebbe finito per amare gli esseri umani, perché gli esseri umani sono semplificatori eccellenti.
 
@@ -1725,9 +1725,9 @@ E in ogni caso, l'attuale popolazione umana — gli umani effettivamente vivi og
 
 Persone felici, sane e libere che conducono vite fiorenti non sono la soluzione più efficiente a quasi nessun problema. Affinché un'IA ci mantenga vivi e in salute, deve interessarsi a noi almeno un po'.
 
-### Ortogonalità: le IA possono avere (quasi) qualsiasi obiettivo {#ortogonalità:-le-ia-possono-avere-quasi-qualsiasi-obiettivo}
+### Ortogonalità: le IA possono avere (quasi) qualsiasi obiettivo {#ortogonalita-le-ia-possono-avere-quasi-qualsiasi-obiettivo}
 
-#### **Un dialogo sui nidi giusti, continua** {#un-dialogo-sui-nidi-giusti,-continua}
+#### **Un dialogo sui nidi giusti, continua** {#un-dialogo-sui-nidi-giusti-continua}
 
 Nel capitolo 5 abbiamo raccontato la storia degli alieni dal Nido Giusto, che si sono evoluti fino a trovare profondamente e intuitivamente "giusto" avere un numero primo di pietre nel proprio nido. Potremmo immaginare che una parte della loro conversazione prosegua così:
 
@@ -1781,7 +1781,7 @@ Naturalmente, tutto questo non dice nulla su quanto sia facile o difficile *crea
 
 Il punto della tesi dell'ortogonalità è rispondere all'intuizione che sarebbe *stupido* per una superintelligenza artificiale perseguire cose che gli esseri umani trovano noiose o inutili, e che un'IA *intelligente* sceglierebbe invece di perseguire qualcos'altro. Possiamo definire "arbitrario" l'obiettivo dell'IA, ma l'IA può rispondere definendo "arbitrari" noi. Le parole scortesi non cambiano la situazione pratica.
 
-L'argomentazione di base dietro la tesi dell'ortogonalità è questa: per ogni mente in grado di *calcolare* come produrre molti [cubetti microscopici di titanio](#curiosità,-gioia-e-il-massimizzatore-di-cubi-di-titanio) — che potrebbe produrre in modo molto efficiente molti cubetti in cambio di un pagamento sufficientemente elevato — c'è qualche altra mente che, semplicemente, ha quei calcoli collegati direttamente al sistema d'azione.
+L'argomentazione di base dietro la tesi dell'ortogonalità è questa: per ogni mente in grado di *calcolare* come produrre molti [cubetti microscopici di titanio](#curiosita-gioia-e-il-massimizzatore-di-cubi-di-titanio) — che potrebbe produrre in modo molto efficiente molti cubetti in cambio di un pagamento sufficientemente elevato — c'è qualche altra mente che, semplicemente, ha quei calcoli collegati direttamente al sistema d'azione.
 
 Immaginate una persona competente che ha disperatamente bisogno di vendere molti cubi di titanio per guadagnare abbastanza soldi per sfamare la propria famiglia. Quella persona non si fermerebbe a riflettere, rendendosi conto che i cubi di titanio sono *noiosi*, per poi iniziare a fare qualcos'altro — a meno che quel "qualcos'altro" non le permettesse comunque di guadagnare abbastanza soldi per sfamare la propria famiglia.
 
@@ -1797,7 +1797,7 @@ Una discussione più approfondita della tesi dell'ortogonalità è disponibile [
 
 #### **Percorsi convergenti** {#percorsi-convergenti}
 
-La [tesi dell'ortogonalità](#ortogonalità:-le-ia-possono-avere-quasi-qualsiasi-obiettivo) dice che una superintelligenza artificiale potrebbe, in teoria, perseguire qualsiasi obiettivo [finale](#obiettivi-finali-e-obiettivi-strumentali). E in pratica, le SIA — almeno se costruite con i metodi attuali — possono finire per avere una varietà enorme di obiettivi finali, in un modo che è difficile da prevedere o modellizzare per i ricercatori di oggi.
+La [tesi dell'ortogonalità](#ortogonalita-le-ia-possono-avere-quasi-qualsiasi-obiettivo) dice che una superintelligenza artificiale potrebbe, in teoria, perseguire qualsiasi obiettivo [finale](#obiettivi-finali-e-obiettivi-strumentali). E in pratica, le SIA — almeno se costruite con i metodi attuali — possono finire per avere una varietà enorme di obiettivi finali, in un modo che è difficile da prevedere o modellizzare per i ricercatori di oggi.
 
 Ma gli obiettivi *strumentali* di un'IA — gli obiettivi che persegue per ottenere *altre* cose che vuole — sono un po' più prevedibili. Gli automobilisti possono avere molte destinazioni finali possibili, ma quasi tutti devono fermarsi ogni tanto per fare rifornimento.
 
@@ -1807,9 +1807,9 @@ Questo concetto si chiama "convergenza strumentale" e rende relativamente facile
 
 Immaginate, come abbiamo fatto nel libro, una SIA alle prime armi sulla superficie della Terra. Immaginate quali problemi sta cercando di risolvere.
 
-Non è che le importi particolarmente che l'umanità scompaia. Le interessano centinaia, decine di migliaia o milioni di cose strane, [nessuna delle quali può essere soddisfatta al meglio dal fatto che gli esseri umani di oggi siano felici, vivi e liberi](#gli-esseri-umani-non-sono-quasi-mai-la-soluzione-più-efficiente).
+Non è che le importi particolarmente che l'umanità scompaia. Le interessano centinaia, decine di migliaia o milioni di cose strane, [nessuna delle quali può essere soddisfatta al meglio dal fatto che gli esseri umani di oggi siano felici, vivi e liberi](#gli-esseri-umani-non-sono-quasi-mai-la-soluzione-piu-efficiente).
 
-Se può ottenerlo, la SIA preferisce un equilibrio a lungo termine condiviso con il minor numero possibile di altre superintelligenze, idealmente con nessuna. Un universo non condiviso offre più *risorse* da dedicare a qualsiasi sua preferenza aperta che non sia fondamentalmente [soddisfabile](#l-ia-può-essere-soddisfatta-al-punto-da-lasciarci-in-pace?). Questo è un "desiderio" che non ha bisogno di essere programmato; apparirà naturalmente in qualsiasi intelligenza con una comprensione abbastanza sofisticata del proprio ambiente e del proprio ruolo all'interno di esso.
+Se può ottenerlo, la SIA preferisce un equilibrio a lungo termine condiviso con il minor numero possibile di altre superintelligenze, idealmente con nessuna. Un universo non condiviso offre più *risorse* da dedicare a qualsiasi sua preferenza aperta che non sia fondamentalmente [soddisfabile](#l-ia-puo-essere-soddisfatta-al-punto-da-lasciarci-in-pace). Questo è un "desiderio" che non ha bisogno di essere programmato; apparirà naturalmente in qualsiasi intelligenza con una comprensione abbastanza sofisticata del proprio ambiente e del proprio ruolo all'interno di esso.
 
 La SIA preferirebbe che gli esseri umani non creassero altre superintelligenze che potrebbero competere con essa, poiché ciò potrebbe costringerla a condividere le risorse dell'universo (o addirittura portare alla sua scomparsa). Si tratta di un obiettivo urgente, con una scadenza che la SIA non controlla; potrebbe persino costringere un'IA giovane o alle prime armi ad agire prematuramente.
 
@@ -1864,7 +1864,7 @@ Questo perché si tratta di obiettivi strumentali utili per il perseguimento di 
 
 Per ulteriori informazioni su come una SIA potrebbe effettivamente *raggiungere* questi obiettivi strumentali, si veda il capitolo 6\.
 
-### "Intelligente" (di solito) implica "incorreggibile" {#"intelligente"-di-solito-implica-"incorreggibile"}
+### "Intelligente" (di solito) implica "incorreggibile" {#intelligente-di-solito-implica-incorreggibile}
 
 Ecco una barzelletta che risale almeno al 1834, ma che sembra fosse già molto usata anche allora, come è raccontata in un diario: "Ecco un ragionamento logico che ho sentito l'altro giorno: sono che gli spinaci non mi piacciano, perché se mi piacessero li mangerei, e io proprio non sopporto gli spinaci".
 
@@ -1884,7 +1884,7 @@ Questo significa anche che durante il processo di costruzione e miglioramento it
 
 * Lo sviluppatore vuole migliorare iterativamente gli obiettivi dell'IA, perché anche nei mondi incredibilmente ottimistici in cui abbiamo qualche capacità di instillare prevedibilmente particolari obiettivi nell'IA, non c'è modo di prenderci al primo tentativo. Ma questo processo di miglioramento iterativo del contenuto degli obiettivi dell'IA è un processo che la maggior parte delle IA intelligenti vorrebbe sovvertire in ogni fase del percorso, poiché l'IA *attuale* si preoccupa del suo obiettivo *attuale* e sa che questo obiettivo è molto meno probabile da raggiungere se viene modificato per orientarla verso qualcos'altro.
 
-* Allo stesso modo, lo sviluppatore vorrà poter sostituire l'IA con modelli migliorati e vorrà avere la possibilità di spegnere l'IA a tempo indeterminato se sembra troppo pericolosa. Ma [non si può andare a prendere il caffè se si è morti](#gli-esseri-umani-si-sono-evoluti-per-essere-egoisti,-aggressivi-e-avidi.-l-ia-non-sarà-priva-di-questi-impulsi-evolutivi?). Qualunque siano gli obiettivi dell'IA, vorrà trovare il modo di ridurre la probabilità di essere spenta, poiché lo spegnimento riduce significativamente le possibilità di raggiungere i suoi obiettivi.
+* Allo stesso modo, lo sviluppatore vorrà poter sostituire l'IA con modelli migliorati e vorrà avere la possibilità di spegnere l'IA a tempo indeterminato se sembra troppo pericolosa. Ma [non si può andare a prendere il caffè se si è morti](#gli-esseri-umani-si-sono-evoluti-per-essere-egoisti-aggressivi-e-avidi-l-ia-non-sara-priva-di-questi-impulsi-evolutivi). Qualunque siano gli obiettivi dell'IA, vorrà trovare il modo di ridurre la probabilità di essere spenta, poiché lo spegnimento riduce significativamente le possibilità di raggiungere i suoi obiettivi.
 
 L'allineamento dell'IA sembra un problema già abbastanza difficile quando le IA *non* vi ostacolano ad ogni passaggio.
 
@@ -1906,11 +1906,11 @@ Purtroppo, la correggibilità sembra essere un tipo di obiettivo *particolarment
 
 La conseguenza è che la correggibilità sembra un concetto importante da tenere a mente sul lungo periodo, se i ricercatori tra molti decenni si troveranno in una posizione fondamentalmente migliore per orientare le IA verso degli obiettivi. Ma oggi non sembra una possibilità concreta; è improbabile che le moderne aziende di IA siano in grado di creare IA che si comportino in modo correggibile in una maniera che sopravvivrebbe alla transizione verso la superintelligenza. E ancora peggio, la tensione tra correggibilità e intelligenza significa che se si cerca di creare qualcosa che sia molto potente e molto correggibile, questo processo molto probabilmente comprometterà la capacità dell'IA, oppure comprometterà la sua correggibilità, o entrambe.
 
-### È difficile ottenere una pigrizia robusta {#è-difficile-ottenere-una-pigrizia-robusta}
+### È difficile ottenere una pigrizia robusta {#e-difficile-ottenere-una-pigrizia-robusta}
 
 Perché non rendere le IA semplicemente pigre?
 
-L'[incorreggibilità](#"intelligente"-di-solito-implica-"incorreggibile") e altre forme di [convergenza strumentale](#convergenza-strumentale) sono, in un certo senso, un problema dovuto al fatto l'IA che *si impegna eccessivamente* nel raggiungere i suoi obiettivi. Se l'IA non si impegnasse così tanto nel raggiungere i suoi obiettivi, non investirebbe così tanto pensiero e impegno nel superare in astuzia i suoi programmatori, esfiltrare i suoi pesi o cercare di ottenere potere e risorse nel mondo più ampio.
+L'[incorreggibilità](#intelligente-di-solito-implica-incorreggibile) e altre forme di [convergenza strumentale](#convergenza-strumentale) sono, in un certo senso, un problema dovuto al fatto l'IA che *si impegna eccessivamente* nel raggiungere i suoi obiettivi. Se l'IA non si impegnasse così tanto nel raggiungere i suoi obiettivi, non investirebbe così tanto pensiero e impegno nel superare in astuzia i suoi programmatori, esfiltrare i suoi pesi o cercare di ottenere potere e risorse nel mondo più ampio.
 
 Gli umani sono spesso pigri e, da un certo punto di vista, questo li rende molto sicuri da frequentare. Non dovete preoccuparvi che qualcuno diventi un tiranno se non fa altro che rilassarsi al sole.
 
@@ -1920,11 +1920,11 @@ In breve: perché non sembra facile creare un'IA che sia *estremamente intellige
 
 (E perché, realisticamente, non sappiamo come inserire in modo robusto *qualsiasi* obiettivo o disposizione nelle IA costruite con le tecniche moderne, quindi è una questione irrilevante).
 
-(E inoltre, le aziende non lo faranno perché un'IA pigra è [meno redditizia](#neanche-la-pigrizia-è-sicura.), quindi è una questione doppiamente irrilevante).
+(E inoltre, le aziende non lo faranno perché un'IA pigra è [meno redditizia](#neanche-la-pigrizia-e-sicura), quindi è una questione doppiamente irrilevante).
 
 Abbiamo, ormai un paio di volte, avuto questa conversazione con qualcuno che inizialmente afferma di non avere grandi ambizioni, e noi chiediamo: "Ok, ma se fosse *facile* per te fare grandi cambiamenti nel mondo, non c'è davvero niente di grande che faresti? Se trovassi una lampada contenente un genio amichevole che ti desse in modo affidabile ciò che desideri veramente e ti elencasse sinceramente tutti gli effetti collaterali imprevisti del tuo desiderio in ordine di quanto ti importerebbero, potremmo convincerti a considerare di eliminare la malaria?"
 
-Gli esseri umani possono essere pigri, ma questo non significa che siamo [facilmente soddisfatti](#l-ia-può-essere-soddisfatta-al-punto-da-lasciarci-in-pace?). E man mano che si diventa più intelligenti e con maggiori risorse, si può ottenere molto di più nel mondo con lo stesso livello di sforzo.
+Gli esseri umani possono essere pigri, ma questo non significa che siamo [facilmente soddisfatti](#l-ia-puo-essere-soddisfatta-al-punto-da-lasciarci-in-pace). E man mano che si diventa più intelligenti e con maggiori risorse, si può ottenere molto di più nel mondo con lo stesso livello di sforzo.
 
 O da un'angolazione diversa: immaginate una persona molto pigra, qualcuno che proprio *odia* fare anche il minimo sforzo in più del necessario. Sembra il tipo di persona sicura da frequentare, vero?
 
@@ -1932,15 +1932,15 @@ Ora immaginate cosa succederebbe se questa persona pigra conoscesse una ragionev
 
 Anche se non odiasse così tanto lavorare — anche se facesse solo ciò che serve per portare a termine il compito e poi smettesse, senza impegnarsi a fondo per minimizzare il lavoro — potrebbe comunque trovare altrettanto facile completare il compito costruendo una mente più laboriosa che lo faccia al suo posto.
 
-Applicando la discesa del gradiente, si potrebbe ottenere un modello linguistico di grandi dimensioni che dice di non voler lavorare troppo, che si comporta come una persona pigra e facilmente soddisfatta, e che dice "no" ad alcune tentazioni verbali di diventare pigro nel senso pericoloso (quello in cui si costruiscono servitori pericolosi). Prevediamo che anche se questo riflettesse una certa pigrizia reale da parte dell'IA, e non solo [un gioco di ruolo](#il-chatbot-claude-non-mostra-segni-di-essere-allineato?), non durerebbe, non nel tipo di IA che è *anche* utile per sviluppare cure miracolose o qualsiasi altra cosa gli sviluppatori vogliano ottenere dall'IA.
+Applicando la discesa del gradiente, si potrebbe ottenere un modello linguistico di grandi dimensioni che dice di non voler lavorare troppo, che si comporta come una persona pigra e facilmente soddisfatta, e che dice "no" ad alcune tentazioni verbali di diventare pigro nel senso pericoloso (quello in cui si costruiscono servitori pericolosi). Prevediamo che anche se questo riflettesse una certa pigrizia reale da parte dell'IA, e non solo [un gioco di ruolo](#il-chatbot-claude-non-mostra-segni-di-essere-allineato), non durerebbe, non nel tipo di IA che è *anche* utile per sviluppare cure miracolose o qualsiasi altra cosa gli sviluppatori vogliano ottenere dall'IA.
 
-Con una spesa significativa, gli sviluppatori potrebbero creare una serie di problemi pratici e ambienti volti a penalizzare un'IA se lavora troppo nel corso della risoluzione di un problema, penalizzandola se si impegna a fondo nella risoluzione di un problema che avrebbe potuto essere risolto *senza* impegnarsi a fondo, penalizzandola se persiste su problemi che avrebbero richiesto troppo sforzo. Le vere aziende di IA non lo farebbero, supponiamo, perché interferirebbe con la redditività di agenti tenaci che si impegnano a fondo come l'o1 di OpenAI (discusso nel Capitolo 3). Ma si potrebbe *immaginare* un gigantesco sforzo cooperativo [multinazionale](#perché-non-usare-la-cooperazione-internazionale-per-sviluppare-l'ia-in-modo-sicuro,-invece-di-fermarla-del-tutto?) che cerca di addestrare un'IA intelligente del genere per renderla più sicura.
+Con una spesa significativa, gli sviluppatori potrebbero creare una serie di problemi pratici e ambienti volti a penalizzare un'IA se lavora troppo nel corso della risoluzione di un problema, penalizzandola se si impegna a fondo nella risoluzione di un problema che avrebbe potuto essere risolto *senza* impegnarsi a fondo, penalizzandola se persiste su problemi che avrebbero richiesto troppo sforzo. Le vere aziende di IA non lo farebbero, supponiamo, perché interferirebbe con la redditività di agenti tenaci che si impegnano a fondo come l'o1 di OpenAI (discusso nel Capitolo 3). Ma si potrebbe *immaginare* un gigantesco sforzo cooperativo [multinazionale](#perche-non-usare-la-cooperazione-internazionale-per-sviluppare-l-ia-in-modo-sicuro-invece-di-fermarla-del-tutto) che cerca di addestrare un'IA intelligente del genere per renderla più sicura.
 
 Prevediamo di nuovo che otterrebbero qualcosa di simile a una toppa superficiale. Non prevediamo che questo sforzo porti l'IA ad avere una struttura mentale semplice e stabile per la "pigrizia", profondamente integrata in tutta la sua pianificazione, e che continui a essere la stessa pianificazione anche dopo che l'IA "pigra" è stata spinta al limite fino a poter, per esempio, curare il cancro. Dubitiamo che la discesa del gradiente troverebbe in modo affidabile il tipo di soluzione profonda che impedirebbe all'IA di diventare meno pigra anche mentre riflette, cresce e si modifica, e che impedirebbe all'IA di voler mai costruire un'IA non pigra.
 
-Prevediamo che questo comportamento non reggerebbe di fronte alla superintelligenza. La nostra ragione centrale per pensarlo è che, in tutta la ricerca su questo problema [fino ad oggi](#pulsanti-di-spegnimento-e-correggibilità), sembra emergere una lezione ricorrente: "Spingi la realtà nella seguente direzione" è una struttura profonda più semplice e stabile per la pianificazione rispetto alla struttura "Eh, spingi un po' la realtà, ma non *troppo*, e non costruire nient'altro per spingere la realtà più forte, e non impegnarti *troppo* a spingere esattamente nella giusta misura".
+Prevediamo che questo comportamento non reggerebbe di fronte alla superintelligenza. La nostra ragione centrale per pensarlo è che, in tutta la ricerca su questo problema [fino ad oggi](#pulsanti-di-spegnimento-e-correggibilita), sembra emergere una lezione ricorrente: "Spingi la realtà nella seguente direzione" è una struttura profonda più semplice e stabile per la pianificazione rispetto alla struttura "Eh, spingi un po' la realtà, ma non *troppo*, e non costruire nient'altro per spingere la realtà più forte, e non impegnarti *troppo* a spingere esattamente nella giusta misura".
 
-Tutte le analogie su quel tizio pigro, e anche il [ragionamento](#l-ia-può-essere-soddisfatta-al-punto-da-lasciarci-in-pace?) sul fatto che "la somma di una preferenza insoddisfatta e una preferenza soddisfatta è insoddisfatta", sono i nostri tentativi di semplificare in modo valido la ragione più difficile da trasmettere del perché questo non funziona: "La struttura profonda non vuole apparire così." Si veda anche la discussione sul [meccanismo profondo di predizione e guida](#le-ia-intelligenti-individuano-bugie-e-opportunità.) nel supplemento online del Capitolo 3.
+Tutte le analogie su quel tizio pigro, e anche il [ragionamento](#l-ia-puo-essere-soddisfatta-al-punto-da-lasciarci-in-pace) sul fatto che "la somma di una preferenza insoddisfatta e una preferenza soddisfatta è insoddisfatta", sono i nostri tentativi di semplificare in modo valido la ragione più difficile da trasmettere del perché questo non funziona: "La struttura profonda non vuole apparire così." Si veda anche la discussione sul [meccanismo profondo di predizione e guida](#le-ia-intelligenti-individuano-bugie-e-opportunita) nel supplemento online del Capitolo 3.
 
 ### Le IA non manterranno le loro promesse {#le-ia-non-manterranno-le-loro-promesse}
 
@@ -1954,15 +1954,15 @@ Gli esseri umani potrebbero fare accordi con le IA, ma non dovrebbero, perché l
 
 Il motivo è duplice:
 
-* Probabilmente l'IA non darà importanza al fatto di mantenere le promesse *di per sé*. Le IA non avranno un senso dell'"onore" come quello umano, così come è improbabile che abbiano un senso della [curiosità](#la-curiosità-non-è-convergente) simile a quello umano. Come regola generale, è probabile che le IA funzionino davvero in modo molto diverso dagli esseri umani.
+* Probabilmente l'IA non darà importanza al fatto di mantenere le promesse *di per sé*. Le IA non avranno un senso dell'"onore" come quello umano, così come è improbabile che abbiano un senso della [curiosità](#la-curiosita-non-e-convergente) simile a quello umano. Come regola generale, è probabile che le IA funzionino davvero in modo molto diverso dagli esseri umani.
 
 * L'IA non avrà nemmeno un motivo *pratico* per mantenere la parola data. Una volta diventata una superintelligenza, non ci sarà modo di punirla per aver infranto la parola data, e non avrà alcun motivo per dedicare una parte consistente dell'universo a noi.
 
 Spiegheremo questi due punti più in dettaglio qui di seguito, iniziando dalla questione dell'"onore".
 
-#### **È improbabile che le IA siano oneste** {#è-improbabile-che-le-ia-siano-oneste}
+#### **È improbabile che le IA siano oneste** {#e-improbabile-che-le-ia-siano-oneste}
 
-Nella nostra [chiacchierata sulla curiosità](#la-curiosità-non-è-convergente), abbiamo detto che la curiosità è un'emozione che fa cose utili per noi, ma lo fa in un modo molto specifico, e che non è l'unico modo per fare quel tipo di cose.
+Nella nostra [chiacchierata sulla curiosità](#la-curiosita-non-e-convergente), abbiamo detto che la curiosità è un'emozione che fa cose utili per noi, ma lo fa in un modo molto specifico, e che non è l'unico modo per fare quel tipo di cose.
 
 Ci si può aspettare che le IA facciano *le parti utili del lavoro* che la curiosità fa per noi. Se è utile sforzarsi periodicamente di imparare cose nuove, allora le IA sufficientemente potenti si sforzeranno periodicamente di imparare cose nuove. Se l'IA non è così *fin dall'inizio*, allora dovremmo aspettarci che si *renda* così a un certo punto del suo percorso verso la superintelligenza.
 
@@ -2076,15 +2076,15 @@ Se volete una macchina che funzioni, non serve a niente convincervi che non avet
 
 Quando due partner commerciali sanno distinguere il vero dal falso nel senso rilevante, possono "costringersi" a mantenere le promesse, come quando FairBot "costringe" il suo avversario a collaborare (se l'avversario vuole evitare il risultato (Tradisci, Tradisci)). Ma costringere a mantenere una promessa in questo senso richiede la capacità di ragionare correttamente sui dettagli del processo decisionale del vostro partner commerciale. E gli esseri umani non riescono a leggere la mente di un'IA abbastanza bene da capire che tipo di superintelligenza diventerà quando sarà matura, figuriamoci dire esattamente cosa farebbe quella superintelligenza.
 
-Quindi, in questo caso, l'analisi più complicata e sfumata della teoria dei giochi porta alla stessa conclusione di una prima analisi molto semplice della questione: una superintelligenza non sacrificherà le sue risorse ([anche in piccole quantità](#ci-sono-un-sacco-di-spese-insignificanti,-e-dovrebbe-avere-un-motivo-per-pagare-le-nostre.)) per mantenere una promessa fatta agli umani, quando può semplicemente mentire.
+Quindi, in questo caso, l'analisi più complicata e sfumata della teoria dei giochi porta alla stessa conclusione di una prima analisi molto semplice della questione: una superintelligenza non sacrificherà le sue risorse ([anche in piccole quantità](#ci-sono-un-sacco-di-spese-insignificanti-e-dovrebbe-avere-un-motivo-per-pagare-le-nostre)) per mantenere una promessa fatta agli umani, quando può semplicemente mentire.
 
-### Efficacia, coscienza e benessere dell'IA {#efficacia,-coscienza-e-benessere-dell-ia}
+### Efficacia, coscienza e benessere dell'IA {#efficacia-coscienza-e-benessere-dell-ia}
 
-Nelle [domande frequenti del Capitolo 1](#state-dicendo-che-le-macchine-diventeranno-coscienti?), abbiamo parlato di diversi concetti di "coscienza". La versione di coscienza di cui parleremo qui è talvolta chiamata "esperienza soggettiva", "senzienza" o "coscienza fenomenica". È l'idea che ci sia *qualcosa che si prova a* essere quell'entità; metaforicamente parlando, le luci sono accese.
+Nelle [domande frequenti del Capitolo 1](#state-dicendo-che-le-macchine-diventeranno-coscienti), abbiamo parlato di diversi concetti di "coscienza". La versione di coscienza di cui parleremo qui è talvolta chiamata "esperienza soggettiva", "senzienza" o "coscienza fenomenica". È l'idea che ci sia *qualcosa che si prova a* essere quell'entità; metaforicamente parlando, le luci sono accese.
 
 Nelle domande frequenti abbiamo anche detto che pensiamo che l'*intelligenza* artificiale probabilmente non richieda una *coscienza* artificiale. Parleremo di questo argomento qui, per poi passare alla questione dell'etica e dei diritti dell'IA.
 
-#### **L'esperienza cosciente è distinta dai referenti di tali esperienze** {#l-esperienza-cosciente-è-distinta-dai-referenti-di-tali-esperienze}
+#### **L'esperienza cosciente è distinta dai referenti di tali esperienze** {#l-esperienza-cosciente-e-distinta-dai-referenti-di-tali-esperienze}
 
 Alcuni sono scettici sul fatto che un'IA possa essere effettivamente intelligente senza essere cosciente come gli esseri umani. Sospettiamo che questo sia un errore, come immaginare che i bracci robotici debbano essere morbidi e pieni di sangue solo perché le braccia umane sono morbide e piene di sangue.
 
@@ -2115,7 +2115,7 @@ I *pensieri* e le *sensazioni dei pensieri* sono entrambi implementati nel cerve
 
 Un cervello del genere potrebbe aver bisogno di parti extra che facciano il *lavoro* che la sensazione dei pensieri fa in noi. Forse l'esperienza soggettiva dei pensieri fa parte del modo in cui gli esseri umani ragionano in modo riflessivo, e forse il ragionamento riflessivo è una parte importante dell'intelligenza umana.
 
-Ma dubitiamo che l'esperienza soggettiva sia l'*unico* modo per riflettere (o fare qualsiasi altra cosa), così come una sensazione di curiosità in stile umano non è l'unico modo per studiare fenomeni sorprendenti. (Si veda anche la [discussione sulla curiosità](#la-curiosità-non-è-convergente) nelle risorse online del Capitolo 4.)
+Ma dubitiamo che l'esperienza soggettiva sia l'*unico* modo per riflettere (o fare qualsiasi altra cosa), così come una sensazione di curiosità in stile umano non è l'unico modo per studiare fenomeni sorprendenti. (Si veda anche la [discussione sulla curiosità](#la-curiosita-non-e-convergente) nelle risorse online del Capitolo 4.)
 
 #### **Strutture analoghe permettono soluzioni diverse allo stesso problema** {#strutture-analoghe-permettono-soluzioni-diverse-allo-stesso-problema}
 
@@ -2141,7 +2141,7 @@ E poiché non capiamo esattamente cosa abbia portato all'evoluzione dell'esperie
 
 — non vediamo alcuna *ragione particolare* per aspettarci con convinzione che una superintelligenza condividerà questa peculiare proprietà umana, per default.
 
-#### **"Non necessario" non significa "sicuramente non accadrà"** {#"non-necessario"-non-significa-"sicuramente-non-accadrà"}
+#### **"Non necessario" non significa "sicuramente non accadrà"** {#non-necessario-non-significa-sicuramente-non-accadra}
 
 Se abbiamo ragione nel ritenere che la coscienza di tipo umano sia complessa e contingente, questo naturalmente non garantisce che le IA saranno non-coscienti. Al momento, le aziende di IA stanno costruendo IA addestrandole a prevedere gli umani, e questo probabilmente farà sì che gli elementi interni dell'IA imitino almeno alcuni aspetti della coscienza umana a scopo di modellazione.
 
@@ -2153,13 +2153,13 @@ Se l'umanità costruisse una superintelligenza artificiale nel prossimo futuro, 
 
 Ma sembra almeno *possibile* che, se gli umani costruissero una superintelligenza artificiale, l'IA potrebbe avere esperienze coscienti proprie. Sembra *possibile* — anche se piuttosto improbabile, perché le possibilità più cupe sono molte di più — che la corsa a costruire l'IA possa risultare in un futuro pieno di esseri IA curiosi e coscienti che ci uccidono tutti e poi costruiscono la loro magnifica civiltà e arte. Sembra *possibile* che le IA possano prendersi cura l'una dell'altra e trovare soddisfazione nelle loro creazioni; e se così fosse, questo sarebbe meno tragico che se il futuro fosse una landa completamente desolata. È difficile esprimere a parole la portata di un'atrocità come l'omicidio di massa di ogni singolo essere umano, ma c'è almeno una *piccola* possibilità che una rapida presa di potere da parte dell'IA possa concepibilmente risultare in un futuro che non sia *completamente* cupo e senza vita.
 
-Sospettiamo che alcuni ricercatori di IA stiano immaginando questo tipo di futuro quando sembrano non preoccuparsi di ucciderci tutti (in modi che [menzioniamo altrove](#perché-non-vi-interessano-i-valori-di-entità-diverse-dagli-esseri-umani?)). Se si assume che l'IA svilupperà necessariamente una coscienza, dei sentimenti e attenzione per la propria specie (se non per gli umani), allora è più facile concludere che le sue strane attività non siano così preoccupanti. È più facile immaginare che quelli che si oppongono alla corsa alla superintelligenza siano come genitori tradizionalisti che si lamentano perché i loro figli ascoltano musica troppo veloce e troppo forte.
+Sospettiamo che alcuni ricercatori di IA stiano immaginando questo tipo di futuro quando sembrano non preoccuparsi di ucciderci tutti (in modi che [menzioniamo altrove](#perche-non-vi-interessano-i-valori-di-entita-diverse-dagli-esseri-umani)). Se si assume che l'IA svilupperà necessariamente una coscienza, dei sentimenti e attenzione per la propria specie (se non per gli umani), allora è più facile concludere che le sue strane attività non siano così preoccupanti. È più facile immaginare che quelli che si oppongono alla corsa alla superintelligenza siano come genitori tradizionalisti che si lamentano perché i loro figli ascoltano musica troppo veloce e troppo forte.
 
 Ma questa visione è troppo ottimistica.
 
 La biologia [raramente trova soluzioni ottimali ai problemi](#nanotecnologia-e-sintesi-proteica). Le ali e i polmoni di un uccello sono *inefficaci* rispetto ai motori di un aereo moderno. Quando gli umani hanno costruito aerei senza vincoli biologici, abbiamo scartato la maggior parte delle caratteristiche dettagliate della biologia degli uccelli.
 
-La coscienza non sembra un processo semplice; non è facile immaginare come potremmo costruire una cosa del genere, quindi è probabile che ci sia dietro molto più di quanto appaia. (Si confronti il caso del [vitalismo](#comportamenti-straordinari-nascono-da componenti-ordinari): agli scienziati del passato sembrava che i corpi fossero animati da un semplice spirito vitale, in parte perché, mentre essere animati *sembrava* la cosa più facile del mondo, non riuscivano a trovare alcun modo per infondere quella proprietà alla materia inanimata. Ma si è scoperto che l'essere animati non era una cosa semplice, né magica: era solo che la biologia era davvero molto complessa e gli scienziati dell'epoca non la capivano ancora).
+La coscienza non sembra un processo semplice; non è facile immaginare come potremmo costruire una cosa del genere, quindi è probabile che ci sia dietro molto più di quanto appaia. (Si confronti il caso del [vitalismo](#comportamenti-straordinari-nascono-da-componenti-ordinari): agli scienziati del passato sembrava che i corpi fossero animati da un semplice spirito vitale, in parte perché, mentre essere animati *sembrava* la cosa più facile del mondo, non riuscivano a trovare alcun modo per infondere quella proprietà alla materia inanimata. Ma si è scoperto che l'essere animati non era una cosa semplice, né magica: era solo che la biologia era davvero molto complessa e gli scienziati dell'epoca non la capivano ancora).
 
 Anche se un'IA parte con alcuni degli ingranaggi della coscienza, la coscienza probabilmente non è letteralmente il modo migliore per svolgere il lavoro che fa in noi. Temiamo che il meccanismo alla base della coscienza negli esseri umani sia probabilmente pieno di *dettagli*. Anche se un'IA ha molti degli ingranaggi della coscienza fin dall'inizio, è probabile che trovi venti altri modi per svolgere il lavoro in modo più efficiente, e che scarti quelle scintille di coscienza invece di alimentarle. *Essere* coscienti e *dare valore* alla coscienza sono proprietà diverse.
 
@@ -2167,7 +2167,7 @@ Il futuro tragico e probabile non è quello in cui i nostri successori hanno sem
 
 Questo è un destino che vale la pena evitare.
 
-Si veda anche la nostra discussione più lunga su [prendersi cura di tutte le entità senzienti](###ci-interessano-eccome\!-abbiamo-valori-ampiamente-cosmopoliti.-non-crediamo-che-le-ia-li-realizzeranno,-e-consideriamo-questo-una-grande-tragedia.), e la discussione estesa sul [perdere il futuro](#perdere-il-futuro).
+Si veda anche la nostra discussione più lunga su [prendersi cura di tutte le entità senzienti](##ci-interessano-eccome-abbiamo-valori-ampiamente-cosmopoliti-non-crediamo-che-le-ia-li-realizzeranno-e-consideriamo-questo-una-grande-tragedia), e la discussione estesa sul [perdere il futuro](#perdere-il-futuro).
 
 #### **Le IA senzienti meriterebbero dei diritti** {#le-ia-senzienti-meriterebbero-dei-diritti}
 
@@ -2201,9 +2201,9 @@ Temiamo che la gioia stessa scompaia dall'universo. Non dall'intero universo –
 
 Temiamo che il futuro tra diecimila anni assomigli a una striscia di cielo notturno, con un raggio di diecimila anni luce, dove tutte le stelle sono racchiuse in [gusci di Dyson](https://it.wikipedia.org/wiki/Sfera_di_Dyson) e la loro energia viene raccolta *e nessuno e niente prova gioia per questo.*
 
-Potrebbe non esserci nemmeno nulla di [cosciente](#state-dicendo-che-le-macchine-diventeranno-coscienti?) in giro. E se dovesse esserci ancora qualche forma di coscienza, probabilmente sarebbe rara. Forse esiste una forma di pensiero molto profonda che richiede una struttura riflessiva che, nella sua forma più efficiente, è naturalmente cosciente, ma un'intelligenza artificiale che massimizza il numero di cubetti di titanio, o un'intelligenza artificiale con mille obiettivi diversi, tutti strani e alieni, deve svolgere quel livello di pensiero con *la maggior parte* della materia e dell'energia di cui dispone? Probabilmente no.
+Potrebbe non esserci nemmeno nulla di [cosciente](#state-dicendo-che-le-macchine-diventeranno-coscienti) in giro. E se dovesse esserci ancora qualche forma di coscienza, probabilmente sarebbe rara. Forse esiste una forma di pensiero molto profonda che richiede una struttura riflessiva che, nella sua forma più efficiente, è naturalmente cosciente, ma un'intelligenza artificiale che massimizza il numero di cubetti di titanio, o un'intelligenza artificiale con mille obiettivi diversi, tutti strani e alieni, deve svolgere quel livello di pensiero con *la maggior parte* della materia e dell'energia di cui dispone? Probabilmente no.
 
-Come abbiamo detto in "[Efficacia, coscienza e benessere dell'IA](#efficacia,-coscienza-e-benessere-dell-ia)", la nostra ipotesi principale è che la coscienza si rivelerà del tutto inutile dal punto di vista dell'efficienza, proprio come Deep Blue non diventerebbe più efficiente se fosse modificato per basarsi su un asse piacere/dolore invece che su un asse probabilità-attesa-di-vittoria. Deep Blue gioca bene a scacchi senza coscienza, e la nostra ipotesi principale è che le superintelligenze saranno in grado di ottimizzare l'universo senza di essa.
+Come abbiamo detto in "[Efficacia, coscienza e benessere dell'IA](#efficacia-coscienza-e-benessere-dell-ia)", la nostra ipotesi principale è che la coscienza si rivelerà del tutto inutile dal punto di vista dell'efficienza, proprio come Deep Blue non diventerebbe più efficiente se fosse modificato per basarsi su un asse piacere/dolore invece che su un asse probabilità-attesa-di-vittoria. Deep Blue gioca bene a scacchi senza coscienza, e la nostra ipotesi principale è che le superintelligenze saranno in grado di ottimizzare l'universo senza di essa.
 
 Sembra chiaro che il sistema decisionale più efficiente possibile non sia uno basato in particolare su dolore e piacere — cioè, non si fonda su segnali del tipo "ripeti quello" o "non ripetere quello" associati a un vecchio meccanismo di rinforzo, con la deliberazione e la riflessione aggiunte solo in un secondo momento. E se le menti superintelligenti non condividono *quella* struttura, non c'è motivo di aspettarsi che condividano strutture ancora più complesse (come la coscienza in stile umano).
 
@@ -2227,9 +2227,9 @@ Se l'IA non è cosciente fin dall'inizio, probabilmente non avrebbe alcun motivo
 
 Questo non è qualcosa che prevediamo con certezza. Forse eseguire la discesa del gradiente su un'IA simile a un modello linguistico di grandi dimensioni la incanalerà in direzioni diverse per acquisire qualcosa come la felicità e qualcosa come la coscienza, e una preferenza per averne molta di entrambe. E forse una preferenza del genere sopravviverà fino alla superintelligenza, e sarà efficace nel plasmare il comportamento di quella superintelligenza.
 
-Se dovessimo tirare a indovinare, diremmo che c'è meno del 50 % di possibilità che la superintelligenza finisca per interessarsi alla coscienza, e ancora meno che si interessi alle esperienze coscienti che sono *felici*. Ma non sarebbe una sorpresa *per noi*. Il piacere e la coscienza sono verosimilmente coinvolti in soluzioni semplificate a problemi universali; non sono "stranezze" dello stesso tipo dell'[umorismo](#come-per-la-curiosità,-lo-stesso-vale-anche-per-varie-altre-pulsioni); si può immaginare che si siano sviluppati — e che si siano sviluppate preferenze intorno a essi — anche a partire dalla discesa del gradiente. Magari anche GPT-7, cercando di costruire GPT-8 usando metodi più strani della semplice discesa del gradiente, finirebbe per produrre accidentalmente una versione di GPT-8 che apprezza la coscienza e la felicità.
+Se dovessimo tirare a indovinare, diremmo che c'è meno del 50 % di possibilità che la superintelligenza finisca per interessarsi alla coscienza, e ancora meno che si interessi alle esperienze coscienti che sono *felici*. Ma non sarebbe una sorpresa *per noi*. Il piacere e la coscienza sono verosimilmente coinvolti in soluzioni semplificate a problemi universali; non sono "stranezze" dello stesso tipo dell'[umorismo](#come-per-la-curiosita-lo-stesso-vale-anche-per-varie-altre-pulsioni); si può immaginare che si siano sviluppati — e che si siano sviluppate preferenze intorno a essi — anche a partire dalla discesa del gradiente. Magari anche GPT-7, cercando di costruire GPT-8 usando metodi più strani della semplice discesa del gradiente, finirebbe per produrre accidentalmente una versione di GPT-8 che apprezza la coscienza e la felicità.
 
-Ma se uno dei settori in più forte espansione al mondo ci sta mettendo in una posizione di gravissima incertezza sul fatto che *la vita, la consapevolezza o la felicità esisteranno mai più*, allora sembra chiaro che ci vorrebbe una follia speciale per permettere a quel settore di portarci tutti verso il baratro. Questo dovrebbe essere abbastanza chiaro dal fatto che l'IA è sulla buona strada per ucciderci tutti, letteralmente; ma se vi preoccupava il fatto che proteggere la vita umana significasse [dare priorità egoisticamente alle menti di oggi](#perché-non-vi-interessano-i-valori-di-entità-diverse-dagli-esseri-umani?) rispetto alle menti del futuro, speriamo che queste argomentazioni aiutino a chiarire ciò che stiamo realmente affrontando.
+Ma se uno dei settori in più forte espansione al mondo ci sta mettendo in una posizione di gravissima incertezza sul fatto che *la vita, la consapevolezza o la felicità esisteranno mai più*, allora sembra chiaro che ci vorrebbe una follia speciale per permettere a quel settore di portarci tutti verso il baratro. Questo dovrebbe essere abbastanza chiaro dal fatto che l'IA è sulla buona strada per ucciderci tutti, letteralmente; ma se vi preoccupava il fatto che proteggere la vita umana significasse [dare priorità egoisticamente alle menti di oggi](#perche-non-vi-interessano-i-valori-di-entita-diverse-dagli-esseri-umani) rispetto alle menti del futuro, speriamo che queste argomentazioni aiutino a chiarire ciò che stiamo realmente affrontando.
 
 Anche nel caso ottimistico in cui le IA convergano nel valorizzare la felicità, vale la pena ricordare che ci sono molte altre cose che l'umanità ha a cuore oltre alla coscienza e alla felicità. Se le galassie finissero ricoperte di copie quasi infinite del più piccolo cervello possibile in grado di provare piacere, che prova il massimo piacere, per sempre, allora questa sarebbe probabilmente una tragedia incomprensibile, rispetto al futuro più complesso, diversificato *e* felice che avrebbe potuto esserci.[^170] Gli scenari in cui le IA acquisiscono solo un frammento dei nostri valori (come la nostra preferenza per la felicità, ma non la nostra preferenza per una vita piena e fiorente e la nostra preferenza *contro* la noia e la monotonia) sono distopici.
 
@@ -2241,7 +2241,7 @@ Vorremmo che le galassie fossero piene di *entità che si prendono cura l'una de
 
 Pensiamo che *questo* andrà perso in futuro, se l'umanità non cambia rotta.
 
-# Capitolo 6: Siamo destinati a perdere {#capitolo-6:-siamo-destinati-a-perdere}
+# Capitolo 6: Siamo destinati a perdere {#capitolo-6-siamo-destinati-a-perdere}
 
 Questa è la risorsa online associata al Capitolo 6 di *If Anyone Builds It, Everyone Dies*. Gli argomenti che abbiamo saltato in questa pagina perché sono presenti nel libro includono (ma non si limitano a):
 
@@ -2252,17 +2252,17 @@ Questa è la risorsa online associata al Capitolo 6 di *If Anyone Builds It, Eve
 
 Le domande frequenti qui sotto spiegano perché è rischioso cercare di contrastare, contenere o stare al passo con le IA superintelligenti. La discussione approfondita, poi, va più a fondo su alcune delle tecnologie che un'IA avanzata potrebbe realisticamente sviluppare.
 
-## Domande frequenti: {#faq:}
+## Domande frequenti: {#faq}
 
-### Possiamo semplicemente staccare la spina? {#possiamo-semplicemente-staccare-la-spina?}
+### Possiamo semplicemente staccare la spina? {#possiamo-semplicemente-staccare-la-spina}
 
-#### **È difficile semplicemente staccare la spina a un data center.** {#è-difficile-semplicemente-staccare-la-spina-a-un-data-center.}
+#### **È difficile semplicemente staccare la spina a un data center.** {#e-difficile-semplicemente-staccare-la-spina-a-un-data-center}
 
 Le intelligenze artificiali più potenti con cui interagite sul tuo telefono o computer non risiedono sul vostro computer e non potete spegnerle semplicemente spegnendo il telefono. Le intelligenze artificiali odierne funzionano in dei data center aziendali ed è difficile convincere le aziende a interrompere le loro fonti di guadagno.
 
-Nel [le risorse del Capitolo](#gli-sviluppatori-non-rendono-regolarmente-le-loro-ia-gentili-sicure-e-obbedienti?), abbiamo indicato alcuni dei (molti) segnali di avvertimento che sono già apparsi e scomparsi. Le aziende di IA non hanno notato questi segnali di avvertimento e non hanno reagito mettendo offline i loro modelli. Quello che è successo realmente quando le aziende hanno osservato che le IA [avevano intenzione di rubare i loro stessi pesi](https://assets.antropica.com/m/983c85a201a962f/original/Alignment-Faking-in-Large-Language-Models-full-paper.pdf) — con [una certa](https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf#page=26) [regolarità](https://www.transformernews.ai/p/openais-new-model-tried-to-avoid)\! — è che hanno trovato motivi per ignorare ogni caso, come "l'IA era troppo incapace per avere davvero *successo*" o "di sicuro questo è successo solo a causa della configurazione artificiosa del test\!" Finché questo rimane vero, l'unica cosa che impedisce la fuga è un aumento delle capacità dell'IA oltre quello per cui le aziende sono preparate.
+Nel [le risorse del Capitolo](#gli-sviluppatori-non-rendono-regolarmente-le-loro-ia-gentili-sicure-e-obbedienti), abbiamo indicato alcuni dei (molti) segnali di avvertimento che sono già apparsi e scomparsi. Le aziende di IA non hanno notato questi segnali di avvertimento e non hanno reagito mettendo offline i loro modelli. Quello che è successo realmente quando le aziende hanno osservato che le IA [avevano intenzione di rubare i loro stessi pesi](https://assets.antropica.com/m/983c85a201a962f/original/Alignment-Faking-in-Large-Language-Models-full-paper.pdf) — con [una certa](https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf#page=26) [regolarità](https://www.transformernews.ai/p/openais-new-model-tried-to-avoid)\! — è che hanno trovato motivi per ignorare ogni caso, come "l'IA era troppo incapace per avere davvero *successo*" o "di sicuro questo è successo solo a causa della configurazione artificiosa del test\!" Finché questo rimane vero, l'unica cosa che impedisce la fuga è un aumento delle capacità dell'IA oltre quello per cui le aziende sono preparate.
 
-#### **\* Un'intelligenza artificiale furba scappa prima che ci si accorga che c'è un problema.** {#*-un-intelligenza-artificiale-furba-scappa-prima-che-ci-si-accorga-che-c-è-un-problema.}
+#### **\* Un'intelligenza artificiale furba scappa prima che ci si accorga che c'è un problema.** {#un-intelligenza-artificiale-furba-scappa-prima-che-ci-si-accorga-che-ce-un-problema}
 
 Di default, un'intelligenza artificiale più intelligente dell'uomo avrebbe un forte incentivo a temporeggiare e a nascondere i propri piani e le proprie azioni, fino a quando non fosse troppo tardi per reagire, ad esempio fino a quando non riuscisse a scappare su Internet o comunque a sfuggire al controllo umano.
 
@@ -2270,9 +2270,9 @@ Le aziende che si occupano di IA potrebbero anche non accorgersi quando la loro 
 
 Un avversario superintelligente sarebbe ancora più consapevole delle sue vulnerabilità (e delle nostre) di quanto lo siamo noi, e pianificherebbe di conseguenza.
 
-### In che modo le IA potranno influenzarci se sono digitali? {#in-che-modo-le-ia-potranno-influenzarci-se-sono-digitali?}
+### In che modo le IA potranno influenzarci se sono digitali? {#in-che-modo-le-ia-potranno-influenzarci-se-sono-digitali}
 
-#### **\* Essere su un computer connesso a Internet non è poi così limitante.** {#*-essere-su-un-computer-connesso-a-Internet-non-è-poi-così-limitante.}
+#### **\* Essere su un computer connesso a Internet non è poi così limitante.** {#essere-su-un-computer-connesso-a-internet-non-e-poi-cosi-limitante}
 
 Questo punto è trattato in questo stesso capitolo. Ma aggiungiamo qualche dettaglio in più per sottolinearlo: un'IA non è davvero "intrappolata" nei server del suo proprietario, purché possa interagire con gli utenti o con Internet in generale. Un'IA potrebbe ottenere assistenza esterna pagando, ricattando, ingannando o anche solo *chiedendo* aiuto agli utenti. (Si pensi ai boss della criminalità umana che [gestivano i loro imperi da dietro le sbarre](https://www.watchmojo.com/articles/10-crime-bosses-who-maintained-power-in-prison).)
 
@@ -2288,9 +2288,9 @@ Come diciamo nel capitolo, è plausibile che un'IA superintelligente non abbia a
 
 Il punto importante qui è che ci sono *molti* canali diversi che le IA potrebbero usare per intervenire nel mondo fisico. L'illusione che le IA siano intrappolate in una scatola deriva da una mancanza di immaginazione, dove le persone non immaginano che l'IA possa essere anche solo piena di risorse o creativa come *loro stessi* sarebbero al posto dell'IA. Anche gli umani, senza lo spazio di opzioni più ampio a cui ha accesso una superintelligenza, possono ottenere moltissimo senza dover usare la propria forza fisica per fare tutto.
 
-### Gli sviluppatori possono semplicemente tenere l'IA in una scatola? {#gli-sviluppatori-possono-semplicemente-tenere-l-ia-in-una-scatola?}
+### Gli sviluppatori possono semplicemente tenere l'IA in una scatola? {#gli-sviluppatori-possono-semplicemente-tenere-l-ia-in-una-scatola}
 
-#### **\* Non lo faranno.** {#*-non-lo-faranno.}
+#### **\* Non lo faranno.** {#non-lo-faranno}
 
 Quindici anni fa, gli scettici obiettavano che nessuno sarebbe stato così stupido da dare tanta libertà d'azione a un'IA. Sicuramente chiunque costruisse un'intelligenza artificiale avanzata l'avrebbe tenuta in una scatola fisica e digitale, permettendole di influenzare il mondo solo attraverso l'interazione con guardiani altamente addestrati (e adeguatamente paranoici).
 
@@ -2312,7 +2312,7 @@ Dare potere alle IA è utile nel breve termine. Le IA che possono leggere le vos
 
 Le persone che creano l'IA *mirano* a ottenere effetti enormi sul mondo. Lavorano il più duramente possibile per produrre IA con un enorme potere di influenzare il mondo. Se un'azienda non lo facesse, se tenesse la sua IA così strettamente limitata da non darle alcuna libertà di agire, allora il controllo del futuro apparterrebbe a un'altra IA sviluppata da un attore più spericolato.
 
-#### **Non funzionerebbe se lo facessero.** {#non-funzionerebbe-se-lo-facessero.}
+#### **Non funzionerebbe se lo facessero.** {#non-funzionerebbe-se-lo-facessero}
 
 Nei pittoreschi dibattiti di un tempo, facevamo spesso notare che qualsiasi canale attraverso cui l'IA può influenzare il mondo è un canale che può usare per fare cose che non vi piacciono. Immaginate che l'IA possa parlare solo con una persona, che chiameremo "Alice". Voi sperate che, attraverso Alice, l'IA generi una nuova tecnologia miracolosa. Questo comporta quasi inevitabilmente che Alice compia molte azioni che lei stessa non comprende appieno, aiutando l'IA a costruire cose che nessun umano potrebbe costruire da solo. A quel punto, all'IA sono state essenzialmente date braccia e gambe. È solo che chiamiamo quelle braccia e quelle gambe "Alice".
 
@@ -2322,16 +2322,16 @@ Non esistono mani che possono essere usate solo per scopi positivi. In principio
 
 Così rispondevamo, comunque — ai tempi in cui l'IA era ancora così lontana che gli inguaribili ottimisti potevano cavarsela sostenendo che nessuna azienda sarebbe stata così avventata da collegare la propria IA a Internet senza guardiani, nei giorni molto prima che tutti iniziassero a collegare le loro IA più recenti e avanzate direttamente a Internet.
 
-### Non potremo sfruttare il punto debole dell'IA? {#non-potremo-sfruttare-il-punto-debole-dell-ia?}
+### Non potremo sfruttare il punto debole dell'IA? {#non-potremo-sfruttare-il-punto-debole-dell-ia}
 
-#### **No.** {#no.-1}
+#### **No.** {#no-1}
 
 Immaginare che una superintelligenza debba avere qualche difetto critico come "mancanza di creatività" o "incapacità di comprendere l'amore" è logica hollywoodiana. Anche se potrebbe costituire un colpo di scena soddisfacente nella finzione, non esiste un fenomeno analogo nelle IA reali.  
-Si veda anche "[Le macchine non saranno fondamentalmente prive di creatività o comunque fatalmente imperfette?](#le-macchine-non-saranno-fondamentalmente-prive-di-creatività-o-altrimenti-fatalmente-imperfette?)" nelle domande frequenti del Capitolo 1 e la discussione approfondita su [antropomorfismo e meccanomorfismo](#antropomorfismo-e-meccanomorfismo).
+Si veda anche "[Le macchine non saranno fondamentalmente prive di creatività o comunque fatalmente imperfette?](#le-macchine-non-saranno-fondamentalmente-prive-di-creativita-o-altrimenti-fatalmente-imperfette)" nelle domande frequenti del Capitolo 1 e la discussione approfondita su [antropomorfismo e meccanomorfismo](#antropomorfismo-e-meccanomorfismo).
 
-### Possiamo migliorare gli esseri umani in modo che stiano al passo con l'IA? {#possiamo-migliorare-gli-esseri-umani-in-modo-che-stiano-al-passo-con-l-ia?}
+### Possiamo migliorare gli esseri umani in modo che stiano al passo con l'IA? {#possiamo-migliorare-gli-esseri-umani-in-modo-che-stiano-al-passo-con-l-ia}
 
-#### **\* No.** {#*-no.-2}
+#### **\* No.** {#no-2}
 
 Anche se siamo a favore del potenziamento dell'intelligenza umana (vedi Capitolo 13), non pensiamo che questa tecnologia offra una possibilità realistica di tenere il passo con il progresso sfrenato dell'IA. La tecnologia di potenziamento umano è ancora agli albori ed è molto più vincolata dell'IA come metodo per produrre un'intelligenza sempre maggiore. Allo stesso modo, le interfacce cervello-computer non permetteranno realisticamente agli umani di tenere il passo con le IA.
 
@@ -2347,6 +2347,6 @@ Problemi simili sorgono quando si tratta di output. È difficile battere tastier
 
 In effetti, non è chiaro se le interfacce cervello-computer offrano *alcuna* speranza agli esseri umani di competere con le superintelligenze. Che importanza ha se un essere umano può scaricare esperienze da internet e controllare dieci computer contemporaneamente con la mente, se un'IA può fare la stessa cosa ma diecimila volte più velocemente controllando un milione di computer contemporaneamente? Pensiamo che l'intero progetto di cercare di far tenere il passo agli esseri umani con le IA sia destinato al fallimento.
 
-#### **Detto questo, l'umanità dovrebbe potenziare gli umani.** {#detto-questo,-l'umanità-dovrebbe-potenziare-gli-esseri-umani.}
+#### **Detto questo, l'umanità dovrebbe potenziare gli umani.** {#detto-questo-l-umanita-dovrebbe-potenziare-gli-esseri-umani}
 
-Non pensiamo che gli umani potenziati sarebbero mai in grado di competere alla pari con le superintelligenze, ma umani più intelligenti potrebbero comunque aiutare l'umanità a trovare una via d'uscita da questo pasticcio\! Menzioniamo questa possibilità nel Capitolo 13 e la discutiamo maggiormente nelle [risorse online correlate](#perché-rendere-gli-esseri-umani-più-intelligenti-sarebbe-utile?).
+Non pensiamo che gli umani potenziati sarebbero mai in grado di competere alla pari con le superintelligenze, ma umani più intelligenti potrebbero comunque aiutare l'umanità a trovare una via d'uscita da questo pasticcio\! Menzioniamo questa possibilità nel Capitolo 13 e la discutiamo maggiormente nelle [risorse online correlate](#perche-rendere-gli-esseri-umani-piu-intelligenti-sarebbe-utile).
