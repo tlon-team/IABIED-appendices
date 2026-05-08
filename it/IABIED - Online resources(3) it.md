@@ -402,7 +402,7 @@ Infine, alcuni [esperimenti in corso](https://neurosciencenews.com/optical-illus
 
 # Parte II: La nostra possibile estinzione {#parte-ii-la-nostra-possibile-estinzione}
 
-Lo scenario che descriviamo nella Parte II non è una previsione. Il futuro potrebbe prendere molte altre direzioni, e una versione più lunga di *If Anyone Builds It, Everyone Dies* avrebbe esplorato diversi scenari possibili. Qui sotto spieghiamo alcune delle ragioni per cui abbiamo scelto di presentare lo scenario in quel modo, e descriviamo vari problemi che emergono quando si cerca di delineare uno scenario di questo tipo.
+Lo scenario che descriviamo nella Parte II non è una previsione. Il futuro potrebbe prendere molte altre direzioni, e una versione più lunga di *Prima che sia troppo tardi* avrebbe esplorato diversi scenari possibili. Qui sotto spieghiamo alcune delle ragioni per cui abbiamo scelto di presentare lo scenario in quel modo, e descriviamo vari problemi che emergono quando si cerca di delineare uno scenario di questo tipo.
 
 Le storie possono essere avvincenti in modi che il ragionamento astratto non può eguagliare, e crediamo che abbia valore cercare di immaginare in modo concreto come potrebbe andare il futuro. Ma pensiamo anche che sia importante non fissarsi troppo su una particolare narrazione. Ogni decisione che prendiamo nello scenario può sembrare plausibile se considerata da sola, ma bastano poche scelte perché la probabilità complessiva di un determinato percorso diventi molto bassa. È questo che significa avere un futuro pieno di decisioni difficili.
 
@@ -728,7 +728,7 @@ Sì, assomigliano molto a politiche proposte anni prima, che l'umanità avrebbe 
 
 L'allineamento SIA è la sfida di ottenere un lavoro utile da una superintelligenza artificiale (SIA), in modo affidabile e senza causare una catastrofe. Sembra una sfida molto difficile a causa di vari aspetti intrinseci del problema.
 
-Le domande frequenti qui sotto rispondono a quesiti di approfondimento per chi ha letto il capitolo 10 di *If Anyone Builds It, Everyone Dies*. Nelle domande frequenti approfondiremo [quanto siano informativi i vari confronti storici](#l-ia-non-sara-diversa-da-tutti-i-precedenti-storici) e considereremo proposte per scenari che potrebbero rendere il problema più facile. Gli argomenti che *non* tratteremo qui, per evitare di ripetere quanto già detto nel libro, includono:
+Le domande frequenti qui sotto rispondono a quesiti di approfondimento per chi ha letto il capitolo 10 di *Prima che sia troppo tardi*. Nelle domande frequenti approfondiremo [quanto siano informativi i vari confronti storici](#l-ia-non-sara-diversa-da-tutti-i-precedenti-storici) e considereremo proposte per scenari che potrebbero rendere il problema più facile. Gli argomenti che *non* tratteremo qui, per evitare di ripetere quanto già detto nel libro, includono:
 
 * Cosa rende difficile un problema ingegneristico?  
 * Quali tipi di problemi difficili ha affrontato l'umanità nella sua storia e quali lezioni possiamo imparare da essi quando pensiamo al percorso verso la SIA?  
@@ -943,7 +943,7 @@ A un certo punto sconosciuto, se continuiamo su questa strada, correremo a rotta
 
 # Capitolo 11: Alchimia, non scienza {#capitolo-11-alchimia-non-scienza}
 
-Questa è la risorsa online per il Capitolo 11 di *If Anyone Builds It, Everyone Dies*, che discute come i moderni laboratori di IA stanno affrontando il problema dell'allineamento della superintelligenza artificiale. Fate riferimento al libro per le risposte a domande quali:
+Questa è la risorsa online per il Capitolo 11 di *Prima che sia troppo tardi*, che discute come i moderni laboratori di IA stanno affrontando il problema dell'allineamento della superintelligenza artificiale. Fate riferimento al libro per le risposte a domande quali:
 
 * Come dovremmo valutare l'attuale preparazione delle aziende di IA nel risolvere il problema dell'allineamento della superintelligenza artificiale?  
 * Dove si inserisce nel quadro la "ricerca sull'interpretabilità" — la ricerca per leggere e comprendere le menti dell'IA?  
@@ -965,7 +965,7 @@ Si veda il capitolo 10 e la [discussione approfondita correlata](#uno-sguardo-pi
 
 Una delle argomentazioni di chi invita a preoccuparsi meno della superintelligenza suona più o meno così: "L'IA probabilmente [progredirà in modo graduale](#e-se-l-ia-venisse-sviluppata-solo-lentamente-e-si-integrasse-gradualmente-nella-societa), offrendo opportunità di miglioramento tramite tentativi ed errori per tenere sotto controllo le IA passo dopo passo; l'allineamento non deve essere *perfetto* perché le cose vadano bene". Non pensiamo che questa visione offra molte speranze, per vari motivi:
 
-* Le nostre preoccupazioni non dipendono dal fatto che il progresso sia veloce o lento. Non siamo in grado di dire con certezza se l'IA raggiungerà delle fasi di stallo in varie tappe del suo percorso verso la superintelligenza. È una previsione difficile, non certo facile. La nostra ipotesi più probabile è che l'intelligenza delle macchine sia soggetta a [effetti soglia](#l-intelligenza-e-una-semplice-quantita-scalare), ma, in definitiva, si tratta solo di una congettura, e le nostre argomentazioni [non si fondano su di essa](#e-se-l-ia-venisse-sviluppata-solo-lentamente-e-si-integrasse-gradualmente-nella-societa). La storia di Sable, nella seconda parte di *If Anyone Builds It, Everyone Dies*, descrive intenzionalmente una catastrofe provocata da IA non molto più avanzate delle capacità umane, in parte per comunicare l'idea che un avversario IA non avrebbe bisogno di diventare rapidamente superintelligente per essere straordinariamente pericoloso.
+* Le nostre preoccupazioni non dipendono dal fatto che il progresso sia veloce o lento. Non siamo in grado di dire con certezza se l'IA raggiungerà delle fasi di stallo in varie tappe del suo percorso verso la superintelligenza. È una previsione difficile, non certo facile. La nostra ipotesi più probabile è che l'intelligenza delle macchine sia soggetta a [effetti soglia](#l-intelligenza-e-una-semplice-quantita-scalare), ma, in definitiva, si tratta solo di una congettura, e le nostre argomentazioni [non si fondano su di essa](#e-se-l-ia-venisse-sviluppata-solo-lentamente-e-si-integrasse-gradualmente-nella-societa). La storia di Sable, nella seconda parte di *Prima che sia troppo tardi*, descrive intenzionalmente una catastrofe provocata da IA non molto più avanzate delle capacità umane, in parte per comunicare l'idea che un avversario IA non avrebbe bisogno di diventare rapidamente superintelligente per essere straordinariamente pericoloso.
 
 * La nostra risposta di base alla domanda "Cosa succederebbe se fossimo fortunati e avessimo molto tempo per provare idee di allineamento su IA deboli prima che l'IA diventasse molto potente?" è la discussione nel capitolo 10 e la discussione approfondita associata "[Uno sguardo più da vicino al prima e al dopo](#uno-sguardo-piu-da-vicino-al-prima-e-al-dopo)". I ricercatori possono capire ogni sorta di dettaglio sulle IA deboli, ma ci sono inevitabilmente un sacco di differenze critiche tra le IA abbastanza deboli da poter essere studiate in sicurezza e le prime IA abbastanza potenti da costituire un punto di non ritorno. Anche in un campo maturo, affrontare tutte queste differenze in modo adeguato e con sufficiente anticipo sarebbe molto difficile. In un campo che è ancora in fase embrionale, lavorare con IA imperscrutabili (che non vengono costruite ma fatte crescere), la speranza è decisamente irrealistica.
 
@@ -1430,7 +1430,7 @@ Questo solleva una domanda ovvia: un'IA intelligente *permetterebbe* al proprio 
 
 In breve: no, non di default, come abbiamo discusso ne "[Il meccanismo profondo della direzione](#il-meccanismo-profondo-della-direzione)". Ma sarebbe possibile progettare un’IA più disposta a lasciarsi modificare dai suoi sviluppatori, e a permettere che correggano i loro errori, anche quando l’IA stessa [non li considererebbe errori](#ortogonalita-le-ia-possono-avere-quasi-qualsiasi-obiettivo)?
 
-Per rispondere a questa domanda, dobbiamo fare un salto indietro nella storia della ricerca sul problema dell'allineamento dell'IA. Nel farlo, parleremo di uno degli ostacoli più profondi dell'allineamento che non abbiamo avuto spazio di affrontare in *If Anyone Builds It, Everyone Dies*.
+Per rispondere a questa domanda, dobbiamo fare un salto indietro nella storia della ricerca sul problema dell'allineamento dell'IA. Nel farlo, parleremo di uno degli ostacoli più profondi dell'allineamento che non abbiamo avuto spazio di affrontare in *Prima che sia troppo tardi*.
 
 Per cominciare:
 
@@ -1506,7 +1506,7 @@ Abbiamo chiamato questo ampio problema di ricerca "correggibilità" nel [documen
 
 # Capitolo 12: «Non voglio essere allarmista» {#capitolo-12-non-voglio-essere-allarmista}
 
-Questa è la risorsa online per il capitolo 12 di *If Anyone Builds It, Everyone Dies*. Alcuni argomenti trattati nel libro, e non qui, includono:
+Questa è la risorsa online per il capitolo 12 di *Prima che sia troppo tardi*. Alcuni argomenti trattati nel libro, e non qui, includono:
 
 * In che modo scienziati e ingegneri parlano attualmente di questo problema?  
 * In che modo i decisori politici ne parlano (o non ne parlano)?  
@@ -1614,7 +1614,7 @@ Questo vale già oggi per i computer. Ad esempio, si potrebbe pensare che se qua
 
 Non stiamo chiedendo una dimostrazione matematica che le cose andranno bene. Non è possibile soddisfare uno standard del genere nella realtà e, anche se lo fosse, probabilmente non ne varrebbe la pena. Siamo favorevoli al fatto che la società si assuma rischi giustificati. L'argomentazione che stiamo sostenendo non è che ci sia una piccola quantità di rischio difficile da eliminare, ma che ci sia un pericolo estremo che incombe su di noi.
 
-Fare crescere una superintelligenza artificiale animata da spinte che si allineano solo marginale con le intenzioni del suo operatore è il tipo di impresa che va male *di default*. Non è che ci sia una piccola possibilità che le cose vadano male, ma dovremmo prestare attenzione a questo rischio per eccesso di cautela. Il libro non si intitola *Se qualcuno la costruisce, c'è una piccola possibilità che moriamo tutti, ma anche una piccola possibilità vale la pena di essere mitigata*. Se ci precipitiamo avanti con questo livello di conoscenza e capacità, prevedibilmente moriremo tutti, perché siamo *così lontani* dall'essere in grado di creare IA enormemente superumane che siano amichevoli.
+Fare crescere una superintelligenza artificiale animata da spinte che si allineano solo marginale con le intenzioni del suo operatore è il tipo di impresa che va male *di default*. Non è che ci sia una piccola possibilità che le cose vadano male, ma dovremmo prestare attenzione a questo rischio per eccesso di cautela. Il libro non si intitola *Prima che ci sia una piccola possibilità che sia troppo tardi, e tale possibilità merita di essere mitigata*. Se ci precipitiamo avanti con questo livello di conoscenza e capacità, prevedibilmente moriremo tutti, perché siamo *così lontani* dall'essere in grado di creare IA enormemente superumane che siano amichevoli.
 
 Se l'IA fosse analoga alle automobili, non diremmo: "Questa macchina ha cinture di sicurezza e airbag difettosi. Accostiamo per prudenza".
 
@@ -1780,7 +1780,7 @@ Man mano che le IA migliorano, potrebbe non esserci un unico campanello d'allarm
 
 Questo non vuol dire che non ci sia speranza. Ma sicuramente non dovremmo riporre tutte le nostre speranze nel "forse in futuro ci sarà un segnale di avvertimento".
 
-Ci sono molti modi in cui il mondo può rendersi conto della realtà e dei pericoli della superintelligenza. Infatti, abbiamo scritto *If Anyone Builds It, Everyone Dies* nella speranza di ottenere proprio questo effetto. Il mondo può reagire subito ad avvertimenti normali, senza ulteriori ritardi.
+Ci sono molti modi in cui il mondo può rendersi conto della realtà e dei pericoli della superintelligenza. Infatti, abbiamo scritto *Prima che sia troppo tardi* nella speranza di ottenere proprio questo effetto. Il mondo può reagire subito ad avvertimenti normali, senza ulteriori ritardi.
 
 Ma se i governi si rifiutano di agire finché le prove non sono *inequivocabili*, e si verifica qualche *grande evento scatenante mondiale*, e il mondo raggiunge un *consenso perfetto*...
 
@@ -1794,7 +1794,7 @@ Noi *mettiamo in guardia* le persone influenti nei governi dal fare un piano che
 
 Se siete nuovi a questo argomento e volete controllare personalmente i laboratori o le loro argomentazioni, vi invitiamo a leggere alcuni dei loro blog post pubblici e vedere se li trovate convincenti.[^214]
 
-Ma se state lavorando per trovare soluzioni ai problemi discussi in *If Anyone Builds It, Everyone Dies* e avete un piano che richiede che l'amministratore delegato di OpenAI Sam Altman dica "Sì", temiamo che stiate cercando di fare la cosa sbagliata fin dall'inizio.
+Ma se state lavorando per trovare soluzioni ai problemi discussi in *Prima che sia troppo tardi* e avete un piano che richiede che l'amministratore delegato di OpenAI Sam Altman dica "Sì", temiamo che stiate cercando di fare la cosa sbagliata fin dall'inizio.
 
 I piani giusti sono probabilmente quelli a cui i capi delle aziende di IA si opporranno con veemenza. Inoltre, Sam Altman non ha il potere di salvare il mondo: se domani provasse a chiudere OpenAI, OpenAI e Microsoft si opporrebbero e potrebbero benissimo sostituirlo con qualcuno che preferisce far continuare a scorrere il denaro.
 
@@ -1900,7 +1900,7 @@ I ricercatori di IA, invece, sono abituati a riunirsi intorno ai distributori d'
 
 Questi numeri sono in definitiva solo ipotesi dei ricercatori. Forse sono assurdi, forse no. Indipendentemente da ciò, è notevole quanto sia culturalmente *normale*, nel campo dell'IA, l'aspettativa che il proprio lavoro abbia una probabilità sostanziale di causare la morte di un numero enorme di persone.[^217]
 
-L'idea di applicare probabilità del genere alla sopravvivenza dell'intera specie umana e di andare comunque avanti sarebbe davvero difficile da concepire per la maggior parte degli ingegneri civili. La situazione è così estrema che abbiamo incontrato molte persone che dubitano che questi scienziati e dirigenti possano essere seri nelle loro valutazioni dei rischi. Eppure, le argomentazioni di *If Anyone Builds It, Everyone Dies* suggeriscono che i dirigenti delle aziende di IA stiano, semmai, sottovalutando il pericolo.[^218]
+L'idea di applicare probabilità del genere alla sopravvivenza dell'intera specie umana e di andare comunque avanti sarebbe davvero difficile da concepire per la maggior parte degli ingegneri civili. La situazione è così estrema che abbiamo incontrato molte persone che dubitano che questi scienziati e dirigenti possano essere seri nelle loro valutazioni dei rischi. Eppure, le argomentazioni di *Prima che sia troppo tardi* suggeriscono che i dirigenti delle aziende di IA stiano, semmai, sottovalutando il pericolo.[^218]
 
 I ricercatori di queste aziende sono abituati a livelli di rischio che sarebbero incredibilmente assurdi secondo gli standard di un ingegnere dei ponti. Altrimenti, è difficile capire come un amministratore delegato come Amodei possa sorridere mentre rassicura gli spettatori dicendo che ritiene che le probabilità che la ricerca sull'IA causi catastrofi al livello della civiltà siano "tra il dieci e il venticinque per cento".
 
@@ -2029,7 +2029,7 @@ Considerando quello che abbiamo detto nei capitoli precedenti, pensiamo che l'un
 
 Di seguito, affrontiamo le obiezioni alla nostra proposta e rispondiamo ad altre domande sul perché pensiamo che non ci siano altre buone opzioni. Approfondiamo anche la questione di cosa l'umanità potrebbe fare del tempo (alla fine limitato) che guadagneremmo fermando la ricerca e lo sviluppo dell'IA il più a lungo possibile.
 
-Questa è l'ultima delle pagine di domande frequenti e discussioni approfondite su *If Anyone Builds It, Everyone Dies*. Il capitolo finale, il capitolo 14, tratterà domande come:
+Questa è l'ultima delle pagine di domande frequenti e discussioni approfondite su *Prima che sia troppo tardi*. Il capitolo finale, il capitolo 14, tratterà domande come:
 
 * È troppo tardi? O l'umanità può davvero cambiare rotta?  
 * Cosa posso fare per aiutare?
@@ -2126,13 +2126,13 @@ Forse qualcosa di simile potrebbe succedere anche in questo caso, con i politici
 
 Potrebbe *davvero* succedere che, in futuro, l'umanità riceva segnali di avvertimento più numerosi e più forti sull'IA. E se così fosse, dovremmo essere preparati a rispondere.
 
-Magari ci sarà qualche disastro minore che metterà il pubblico contro l'IA. Magari non ci vorrà nemmeno un disastro; magari ci sarà qualche nuova invenzione algoritmica e le IA inizieranno a prendere iniziativa in un modo che spaventa le persone, o qualche effetto sociale indiretto dell'IA ribalterà le sorti. Magari *If Anyone Builds It, Everyone Dies* stesso innescherà una cascata di reazioni, mettendo il mondo su una traiettoria migliore.
+Magari ci sarà qualche disastro minore che metterà il pubblico contro l'IA. Magari non ci vorrà nemmeno un disastro; magari ci sarà qualche nuova invenzione algoritmica e le IA inizieranno a prendere iniziativa in un modo che spaventa le persone, o qualche effetto sociale indiretto dell'IA ribalterà le sorti. Magari *Prima che sia troppo tardi* stesso innescherà una cascata di reazioni, mettendo il mondo su una traiettoria migliore.
 
 Ma sconsigliamo la strategia del non fare nulla e sperare in una piccola catastrofe che svegli tutti. Un chiaro segnale di avvertimento potrebbe non arrivare mai, e potrebbe non avere l'effetto sperato.
 
 La specie umana, e le nazioni del mondo, non sono impotenti. Non *dobbiamo* aspettare. Possiamo agire ora, perché ile ragioni per fermare lo sviluppo dell'IA di frontiera sono solide.
 
-Abbiamo scritto *If Anyone Builds It, Everyone Dies* per lanciare un allarme e per incoraggiare il mondo ad agire immediatamente su questa questione. Ma nessun allarme può essere efficace se viene usato solo come un'altra scusa per rimandare il problema: "Beh, forse qualche altro allarme in futuro sarà il fattore scatenante per agire". "Beh, ora che le persone sono state avvertite, forse le cose andranno bene, senza che io debba intervenire personalmente per aiutare".
+Abbiamo scritto *Prima che sia troppo tardi* per lanciare un allarme e per incoraggiare il mondo ad agire immediatamente su questa questione. Ma nessun allarme può essere efficace se viene usato solo come un'altra scusa per rimandare il problema: "Beh, forse qualche altro allarme in futuro sarà il fattore scatenante per agire". "Beh, ora che le persone sono state avvertite, forse le cose andranno bene, senza che io debba intervenire personalmente per aiutare".
 
 Non è affatto detto che in futuro arriverà un allarme chiaro. Non è affatto detto che andrà tutto bene. Ma non è nemmeno vero che sia tutto senza speranza. L'umanità ha la possibilità di *semplicemente non costruire* una superintelligenza, se decide di agire in modo proattivo. Ciò che accadrà adesso dipende da noi.
 

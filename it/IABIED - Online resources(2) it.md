@@ -338,7 +338,7 @@ Allo stesso modo, l'obiettivo strumentale di mantenersi in vita è utile per mol
 
 In forma di slogan: "Non puoi andare a prendere il caffè se sei morto." Un robot che va a prendere il caffè non avrebbe bisogno di avere un istinto di autoconservazione, e non avrebbe bisogno di temere la morte, per cercare di evitare di essere schiacciato da un camion mentre va a prendere il caffè. Dovrebbe solo essere abbastanza intelligente da capire che, se muore, non potrà prendere il caffè.[^102]
 
-Un'argomentazione chiave esposta nel Capitolo 5 di *If Anyone Builds It, Everyone Dies* è che molti obiettivi finali diversi implicano obiettivi strumentali che sarebbero pericolosi per l'umanità. Quindi, anche senza sapere esattamente cosa vorrebbe una superintelligenza, abbiamo forti ragioni per aspettarci che sia molto pericolosa per gli esseri umani.
+Un'argomentazione chiave esposta nel Capitolo 5 di *Prima che sia troppo tardi* è che molti obiettivi finali diversi implicano obiettivi strumentali che sarebbero pericolosi per l'umanità. Quindi, anche senza sapere esattamente cosa vorrebbe una superintelligenza, abbiamo forti ragioni per aspettarci che sia molto pericolosa per gli esseri umani.
 
 Ma prima di arrivare a quel punto, concentreremo la nostra attenzione sugli obiettivi *finali* e sulla questione di quanto sia plausibile che esseri umani e IA possano finire per avere obiettivi finali molto simili. (In breve: non molto.)
 
@@ -926,7 +926,7 @@ Anche quando i laboratori concentrano quasi tutti i loro sforzi per far apparire
 
 # Capitolo 5: Le cose che piacciono a lei {#capitolo-5-le-cose-che-piacciono-a-lei}
 
-Questa è la risorsa online per il Capitolo 5 di *If Anyone Builds It, Everyone Dies*. Alcuni argomenti che *non* trattiamo in questa pagina, perché sono affrontati nel libro, includono:
+Questa è la risorsa online per il Capitolo 5 di *Prima che sia troppo tardi*. Alcuni argomenti che *non* trattiamo in questa pagina, perché sono affrontati nel libro, includono:
 
 * Quale motivazione avrebbe l'IA per spazzarci via?  
 * Le IA sufficientemente intelligenti non scopriranno che la cosa giusta da fare è aiutarci a prosperare tutti insieme?  
@@ -1505,7 +1505,7 @@ Chi avesse il compito di sfatare una per una le storie delle "otto balene viola"
 
 Questo è più o meno il ruolo in cui noi autori ci troviamo riguardo alla situazione dell'IA: gli esseri umani possono raccontare ogni tipo di storia in cui tutto va bene, ma alla fine tutte queste storie implicano immaginare che il futuro segua un unico percorso ristretto, quando in realtà ci sono molti altri modi in cui il futuro potrebbe andare. Ecco perché continuiamo a ripetere che [gli esseri umani non sono la soluzione più efficiente a quasi nessun problema](#gli-esseri-umani-non-sono-quasi-mai-la-soluzione-piu-efficiente) e che [le IA non si preoccuperanno di noi nemmeno un po'](#le-ia-non-si-preoccuperanno-almeno-un-po-degli-esseri-umani).
 
-*If Anyone Builds It, Everyone Dies* non si limita a snocciolare una serie di storie cupe per poi concludere che l'IA è pericolosa. Nel libro esponiamo un'argomentazione che, per certi versi, è piuttosto semplice: i ricercatori stanno cercando di costruire IA molto più intelligenti di qualsiasi essere umano. A un certo punto, probabilmente ci riusciranno. I metodi attuali danno agli esseri umani pochissima possibilità di scegliere verso quale tipo di futuro le IA si dirigeranno. Ci sono molte direzioni diverse che potrebbero prendere, e la maggior parte di esse non è positiva.
+*Prima che sia troppo tardi* non si limita a snocciolare una serie di storie cupe per poi concludere che l'IA è pericolosa. Nel libro esponiamo un'argomentazione che, per certi versi, è piuttosto semplice: i ricercatori stanno cercando di costruire IA molto più intelligenti di qualsiasi essere umano. A un certo punto, probabilmente ci riusciranno. I metodi attuali danno agli esseri umani pochissima possibilità di scegliere verso quale tipo di futuro le IA si dirigeranno. Ci sono molte direzioni diverse che potrebbero prendere, e la maggior parte di esse non è positiva.
 
 Il motivo per cui elenchiamo tutte le controargomentazioni non è quello di sopraffarvi con il pessimismo (se siete il tipo di persona che legge le risorse online dall'inizio alla fine). È che in realtà ci vengono poste continuamente tutte queste diverse domande, ed è utile avere un archivio di risposte da qualche parte. Non è necessario leggerle tutte. Le risposte comunque si ripetono.
 
@@ -1551,7 +1551,7 @@ Questo è il tipo di persona che desidera che l'umanità un giorno cresca e sia 
 
 Conosciamo quel tipo di persona. Noi, entrambi gli autori di questo testo, apparteniamo a quel tipo.
 
-Non è un argomento che sembra importante per l'argomentazione centrale di *If Anyone Builds It, Everyone Dies*. Ma vogliamo parlarne qui, perché capiamo il punto di vista dei nostri colleghi tecnofili che hanno imparato a diffidare molto della tecnofobia, delle ideologie contrarie al progresso e all'innovazione, e dello 'specismo' anti-IA.
+Non è un argomento che sembra importante per l'argomentazione centrale di *Prima che sia troppo tardi*. Ma vogliamo parlarne qui, perché capiamo il punto di vista dei nostri colleghi tecnofili che hanno imparato a diffidare molto della tecnofobia, delle ideologie contrarie al progresso e all'innovazione, e dello 'specismo' anti-IA.
 
 Capiamo questo punto di vista e vogliamo essere chiari sul fatto che non stiamo scrivendo un'invettiva tribale del tipo "l'IA è cattiva, gli esseri umani sono buoni". Pensiamo sinceramente che affrettarsi a costruire una superintelligenza porterà alla rovina *tutti* questi sogni pieni di speranza, *oltre* a massacrare innumerevoli persone che sono vive oggi e che meritano anch'esse la vita, la felicità e la libertà.
 
@@ -2243,7 +2243,7 @@ Pensiamo che *questo* andrà perso in futuro, se l'umanità non cambia rotta.
 
 # Capitolo 6: Siamo destinati a perdere {#capitolo-6-siamo-destinati-a-perdere}
 
-Questa è la risorsa online associata al Capitolo 6 di *If Anyone Builds It, Everyone Dies*. Gli argomenti che abbiamo saltato in questa pagina perché sono presenti nel libro includono (ma non si limitano a):
+Questa è la risorsa online associata al Capitolo 6 di *Prima che sia troppo tardi*. Gli argomenti che abbiamo saltato in questa pagina perché sono presenti nel libro includono (ma non si limitano a):
 
 * Come potrebbe l'IA battere l'umanità in uno scontro?  
 * In che modo l'IA può minacciarci se è bloccata dentro un computer?  

@@ -3,7 +3,7 @@ original_path: IABIED - Online resources(1).md
 ---
 # Introduzione: Previsioni difficili e previsioni facili {#introduzione-previsioni-difficili-e-previsioni-facili}
 
-Questo è il primo supplemento online al libro di Yudkowsky e Soares [*If Anyone Builds It, Everyone Dies*](https://www.amazon.com/gp/product/0316595640). La pagina dedicata a ciascun capitolo risponde a domande comuni e include discussioni approfondite che entrano nel merito del contesto e dei dettagli non essenziali per il libro.
+Questo è il primo supplemento online al libro di Yudkowsky e Soares [*Prima che sia troppo tardi*](https://www.amazon.com/gp/product/0316595640). La pagina dedicata a ciascun capitolo risponde a domande comuni e include discussioni approfondite che entrano nel merito del contesto e dei dettagli non essenziali per il libro.
 
 Queste risorse contengono molto materiale e non sono pensate per essere lette dall'inizio alla fine. Abbiamo scritto il libro perché fosse autosufficiente e coprisse l'intera tesi centrale. Ma se avete una domanda specifica, un'obiezione o una curiosità che il libro non ha potuto trattare in modo adeguato, è molto probabile che troverete ulteriori informazioni qui. Se manca qualcosa di importante, richiedetelo \[qui\](TODO).
 
@@ -335,7 +335,7 @@ Nel corso della storia umana sono accadute moltissime cose terribili, ma alcune 
 
 # Capitolo 1: Il potere speciale dell’umanità {#capitolo-1-il-potere-speciale-dell-umanita}
 
-Questo è il supplemento online al Capitolo 1 di [*If Anyone Builds It, Everyone Dies*](https://www.amazon.com/gp/product/0316595640). Di seguito, parleremo delle domande più comuni e approfondiremo gli argomenti trattati nel libro.
+Questo è il supplemento online al Capitolo 1 di [*Prima che sia troppo tardi*](https://www.amazon.com/gp/product/0316595640). Di seguito, parleremo delle domande più comuni e approfondiremo gli argomenti trattati nel libro.
 
 Alcuni argomenti non trattati di seguito, perché sono trattati nel Capitolo 1 del libro, includono:
 
@@ -403,7 +403,7 @@ Supponiamo che io sia più bravo di mia sorella a comporre musica classica, ma l
 
 La nostra risposta è: se io sono più bravo in una cosa e mia sorella è più brava in un'altra, allora può essere difficile fare confronti significativi. D'altra parte, se io sono più bravo in una cosa e mia sorella è più brava in duemila cose, allora inizia a sembrare un po' sciocco insistere sul fatto che siamo allo stesso livello, o insistere che non ci sia nulla da dire sul livello a cui ci troviamo.
 
-*If Anyone Builds It, Everyone Dies* è un libro sul probabile impatto pratico dei futuri progressi nell'IA. Per parlare in modo significativo di tale impatto, non abbiamo bisogno di essere in grado di confrontare ChatGPT, gli esseri umani e i moscerini della frutta e dire con precisione a quale "livello di intelligenza" si trovano questi tre sistemi molto diversi tra loro. Dobbiamo solo renderci conto che le IA stanno diventando sempre più brave in una gamma sempre più ampia di abilità e che alla fine supereranno gli esseri umani in abilità di enorme importanza pratica.
+*Prima che sia troppo tardi* è un libro sul probabile impatto pratico dei futuri progressi nell'IA. Per parlare in modo significativo di tale impatto, non abbiamo bisogno di essere in grado di confrontare ChatGPT, gli esseri umani e i moscerini della frutta e dire con precisione a quale "livello di intelligenza" si trovano questi tre sistemi molto diversi tra loro. Dobbiamo solo renderci conto che le IA stanno diventando sempre più brave in una gamma sempre più ampia di abilità e che alla fine supereranno gli esseri umani in abilità di enorme importanza pratica.
 
 ### L'intelligenza non è sopravvalutata? {#l-intelligenza-non-e-sopravvalutata}
 
@@ -687,7 +687,7 @@ Si veda anche, nelle risorse online a seguire:
 
 #### **Non necessariamente, e questo sembra un argomento a parte.** {#non-necessariamente-e-questo-sembra-un-argomento-a-parte}
 
-*If Anyone Builds It, Everyone Dies* non parla affatto della coscienza delle macchine, concentrandosi invece sull'*intelligenza* delle macchine. Come primo passo nel parlare di coscienza, dovremmo prima chiarire che tipo di "coscienza" abbiamo in mente.
+*Prima che sia troppo tardi* non parla affatto della coscienza delle macchine, concentrandosi invece sull'*intelligenza* delle macchine. Come primo passo nel parlare di coscienza, dovremmo prima chiarire che tipo di "coscienza" abbiamo in mente.
 
 Quando qualcuno chiede "Il mio cane è cosciente?", può intendere diverse cose, come:
 
@@ -717,7 +717,7 @@ La coscienza può essere una parte importante del modo in cui gli esseri umani r
 
 Per dirla in un altro modo: il sangue è molto importante per il funzionamento di un braccio umano, ma questo non vuol dire che i bracci robotici abbiano bisogno di sangue per funzionare. Un braccio robotico non ha difetti come quelli che avrebbe un braccio umano senza sangue; funziona solo in modo diverso, senza sangue. La nostra ipotesi migliore è che le superintelligenze artificiali funzioneranno in modo diverso, non cosciente, anche se questa ipotesi non è importante per la nostra argomentazione nel libro.
 
-L'attenzione in *If Anyone Builds It, Everyone Dies* è sull'intelligenza, dove "intelligenza" è definita in termini di capacità di un ragionatore di prevedere e dirigere il mondo, indipendentemente dal fatto che il cervello di quel ragionatore funzioni come un cervello umano. Se un'intelligenza artificiale sta inventando nuove tecnologie e infrastrutture e le sta diffondendo in tutto il pianeta in un modo che ci uccide come effetto collaterale, allora fermarsi a chiedersi "Ma è cosciente?" sembra un po' accademico.
+L'attenzione in *Prima che sia troppo tardi* è sull'intelligenza, dove "intelligenza" è definita in termini di capacità di un ragionatore di prevedere e dirigere il mondo, indipendentemente dal fatto che il cervello di quel ragionatore funzioni come un cervello umano. Se un'intelligenza artificiale sta inventando nuove tecnologie e infrastrutture e le sta diffondendo in tutto il pianeta in un modo che ci uccide come effetto collaterale, allora fermarsi a chiedersi "Ma è cosciente?" sembra un po' accademico.
 
 Approfondiremo il motivo per cui pensiamo che il fare previsioni e dirigere il mondo probabilmente non richiedano coscienza (e cosa questo significhi per il modo in cui dovremmo pensare al benessere e ai diritti dell'IA) dopo il Capitolo 5, una volta gettate le basi. Si veda "[Efficacia, coscienza e benessere dell'IA](#efficacia-coscienza-e-benessere-dell-ia)" per questa discussione.
 
@@ -761,7 +761,7 @@ Se volete una strategia di rinforzo che faccia sì che l'IA assegni un numero co
 
 I ricercatori di IA oggi addestrano effettivamente le IA a fare previsioni facendo loro produrre numeri che interpretiamo come probabilità, e rinforzandole in proporzione al logaritmo della probabilità che l'IA ha assegnato alla verità. Ma questo non è solo un risultato empirico sull'addestramento delle macchine; è anche un risultato teorico che era noto molto prima che ChatGPT fosse addestrato. Se aveste conosciuto questa teoria, avreste potuto prevedere correttamente in anticipo che un buon modo per addestrare le IA a svolgere il lavoro di previsione sarebbe stato quello di valutare le previsioni utilizzando i logaritmi.
 
-Non è necessario conoscere questa matematica per valutare le argomentazioni in *If Anyone Builds It, Everyone Dies.* Ma questi sono il tipo di principi che fanno da sfondo quando parliamo di "previsione" e "direzione".
+Non è necessario conoscere questa matematica per valutare le argomentazioni in *Prima che sia troppo tardi.* Ma questi sono il tipo di principi che fanno da sfondo quando parliamo di "previsione" e "direzione".
 
 esiste della [matematica](https://www.lesswrong.com/posts/afmj8TKAqH6F2QMfZ/a-technical-explanation-of-technical-explanation) su come misurare il lavoro di previsione. La matematica dice che, nella misura in cui le vostre previsioni su ciò che accadrà sono utili, possono essere espresse come probabilità, indipendentemente dal fatto che abbiate pensato consapevolmente a probabilità numeriche o meno. Da questo deriva una [regola di punteggio](https://en.wikipedia.org/wiki/Scoring_rule) univocamente definita che vi incentiva a dichiarare le vostre probabilità reali, e che è invariante rispetto alla scomposizione delle previsioni.
 
@@ -853,7 +853,7 @@ Un dispositivo intelligente è qualsiasi cosa che svolga il lavoro dell'intellig
 
 O almeno, questo è vero se pensiamo a come definiamo l'"intelligenza" nel libro (e a come gli informatici e i ricercatori di IA di solito pensano all'"intelligenza"). Se volete definire l'intelligenza in modo diverso in altri contesti, per noi va bene. Le parole sono solo parole.
 
-Ma per capire le affermazioni sostanziali che facciamo sul mondo in *If Anyone Builds It, Everyone Dies*, quando sentite parlare di "intelligenza artificiale", non pensate a "intelligenza libresca artificiale" o "coscienza artificiale" o "umanità artificiale". Pensate piuttosto a "previsione e direzione artificiali".
+Ma per capire le affermazioni sostanziali che facciamo sul mondo in *Prima che sia troppo tardi*, quando sentite parlare di "intelligenza artificiale", non pensate a "intelligenza libresca artificiale" o "coscienza artificiale" o "umanità artificiale". Pensate piuttosto a "previsione e direzione artificiali".
 
 ### La superficialità delle IA attuali {#la-superficialita-delle-ia-attuali}
 
@@ -1065,7 +1065,7 @@ Ma questo è più difficile da capire se non si sa molto su come funzionano le I
 
 # Capitolo 2: Cresciuta, non creata {#capitolo-2-cresciuta-non-creata}
 
-Questo è il supplemento online al capitolo 2 di *If Anyone Builds It, Everyone Dies*. Qui sotto parleremo di come funzionano le moderne IA e perché non sono "solo un'altra macchina" o "solo un altro strumento". Anche se le IA sono codici che girano sui computer, non sono come i tradizionali software fatti a mano e sfidano molte idee che di solito diamo per scontate quando lavoriamo con le invenzioni umane.
+Questo è il supplemento online al capitolo 2 di *Prima che sia troppo tardi*. Qui sotto parleremo di come funzionano le moderne IA e perché non sono "solo un'altra macchina" o "solo un altro strumento". Anche se le IA sono codici che girano sui computer, non sono come i tradizionali software fatti a mano e sfidano molte idee che di solito diamo per scontate quando lavoriamo con le invenzioni umane.
 
 Alcune domande che *non* tratteremo di seguito, perché sono già affrontate nel libro stesso, includono:
 
@@ -1524,7 +1524,7 @@ L'IA è un bersaglio mobile. I ricercatori in questo campo si accorgono degli os
 
 #### **\* Altri approcci potrebbero raggiungere presto la superintelligenza, anche se gli MLGD non ci riuscissero.** {#altri-approcci-potrebbero-raggiungere-presto-la-superintelligenza-anche-se-gli-mlgd-non-ci-riuscissero}
 
-[Il settore è bravo a superare gli ostacoli.](#il-settore-e-bravo-a-superare-gli-ostacoli) Non abbiamo scritto *If Anyone Builds It, Everyone Dies* per avvertire le persone riguardo agli MLGD in particolare. L'abbiamo scritto per avvertire le persone riguardo alla superintelligenza.
+[Il settore è bravo a superare gli ostacoli.](#il-settore-e-bravo-a-superare-gli-ostacoli) Non abbiamo scritto *Prima che sia troppo tardi* per avvertire le persone riguardo agli MLGD in particolare. L'abbiamo scritto per avvertire le persone riguardo alla superintelligenza.
 
 Il motivo per cui parliamo degli MLGD non è che siamo sicuri che gli MLGD siano il percorso più breve da qui alla superintelligenza. Parliamo degli MLGD perché rappresentano l'approccio all'IA che attualmente funziona, e perché studiarli è un ottimo modo per capire quanto poco chiunque sappia di queste nuove menti che l'umanità sta facendo crescere.
 
@@ -1637,7 +1637,7 @@ E forse avevano anche ragione\! Forse non avremo mai il potere di guardare un ce
 
 Il modello esatto delle braci non è né molto regolare né molto riproducibile. Ma a un livello più astratto, quella roba calda e tremolante di colore giallo-arancio-rosso *è* una regolarità che si ripete continuamente nel mondo, ed è una cosa che l'umanità è riuscita a comprendere.
 
-Le argomentazioni in *If Anyone Builds It, Everyone Dies* non dipendono molto dai dettagli tecnici che si conoscono oggi sull'intelligenza. "Le persone continuano a costruire computer sempre più intelligenti, senza però averne il controllo; e se creano qualcosa di molto intelligente e fuori controllo, finiremo per morire" non è un concetto così esoterico. Ma è utile sapere che esiste un ampio corpus di conoscenze in questo campo, anche se rimangono molti misteri e incognite.
+Le argomentazioni in *Prima che sia troppo tardi* non dipendono molto dai dettagli tecnici che si conoscono oggi sull'intelligenza. "Le persone continuano a costruire computer sempre più intelligenti, senza però averne il controllo; e se creano qualcosa di molto intelligente e fuori controllo, finiremo per morire" non è un concetto così esoterico. Ma è utile sapere che esiste un ampio corpus di conoscenze in questo campo, anche se rimangono molti misteri e incognite.
 
 Le argomentazioni principali del libro non dipendono dal fatto che l'intelligenza sia comprensibile in linea di principio, motivo per cui non abbiamo approfondito la letteratura esistente. Anche se nessun essere umano potesse mai comprendere i misteri di un'intelligenza artificiale superumana, la superintelligenza artificiale potrebbe comunque ucciderci.
 
@@ -1711,7 +1711,7 @@ Per comprendere l'accaduto, è importante considerare se si ritiene che i creato
 
 È grave in un certo modo se i creatori di Grok hanno creato MechaHitler di proposito; è grave in un modo diverso se i creatori hanno ottenuto MechaHitler *per caso*, cercando di spingere Grok in una qualche direzione (possibilmente non correlata) senza essere in grado di prevedere gli effetti che ciò avrebbe avuto sul comportamento di Grok.[^56]
 
-Speriamo che le informazioni fornite in *If Anyone Builds It, Everyone Dies* costituiscano un utile baluardo contro idee sbagliate comuni e disinformazione. Per i lettori interessati a maggiori dettagli, forniamo una spiegazione più completa di come funziona un modello linguistico di grandi dimensioni specifico [qui sotto](#descrizione-completa-di-un-modello-linguistico-di-grandi-dimensioni).
+Speriamo che le informazioni fornite in *Prima che sia troppo tardi* costituiscano un utile baluardo contro idee sbagliate comuni e disinformazione. Per i lettori interessati a maggiori dettagli, forniamo una spiegazione più completa di come funziona un modello linguistico di grandi dimensioni specifico [qui sotto](#descrizione-completa-di-un-modello-linguistico-di-grandi-dimensioni).
 
 Sarà abbastanza? Alcune persone sostengono che solo chi si trova all'avanguardia assoluta della ricerca attuale possa sapere se le IA (simili ai modelli linguistici di grandi dimensioni o meno) siano destinate a distruggere l'umanità.
 
@@ -1955,7 +1955,7 @@ Costruire IA che possono fare cose sufficientemente notevoli tenderà a far sì 
 
 Quando diciamo che un'IA "desidera" qualcosa, non intendiamo che avrà necessariamente desideri o sentimenti simili a quelli umani. Forse li avrà, o forse no. Quello che intendiamo, invece, è che l'IA si comporterà *come se* desiderasse delle cose. Dirigerà in modo affidabile il mondo verso certi tipi di risultati, prevedendo ostacoli, adattandosi a circostanze mutevoli e rimanendo concentrata, mirata e motivata.
 
-Nel Capitolo 3 di *If Anyone Builds It, Everyone Dies*, trattiamo argomenti quali:
+Nel Capitolo 3 di *Prima che sia troppo tardi*, trattiamo argomenti quali:
 
 * Come potrebbe una macchina acquisire la capacità di "desiderare" le cose, nel senso rilevante?  
 * Ci sono prove che le IA possano desiderare qualcosa?  
@@ -2425,7 +2425,7 @@ A un certo punto, la mente prodotta dalla discesa del gradiente smette di essere
 
 # Capitolo 4: Non otterremo quello per cui ci siamo impegnati {#capitolo-4-non-otterremo-quello-per-cui-ci-siamo-impegnati}
 
-Questa è la risorsa online per il Capitolo 4 di *If Anyone Builds It, Everyone Dies*. Alcune delle domande che trattiamo implicitamente in quel capitolo (e che quindi saltiamo qui sotto) includono:
+Questa è la risorsa online per il Capitolo 4 di *Prima che sia troppo tardi*. Alcune delle domande che trattiamo implicitamente in quel capitolo (e che quindi saltiamo qui sotto) includono:
 
 * Cosa vorranno le IA?  
 * Perché un'IA addestrata per essere utile dovrebbe finire per volere le cose "sbagliate"? Non sarebbe uno svantaggio che verrebbe eliminato durante l'addestramento?  
